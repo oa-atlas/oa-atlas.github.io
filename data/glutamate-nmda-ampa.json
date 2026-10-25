@@ -1,0 +1,1212 @@
+{
+"nodes": [
+{
+"label": "GRIN1",
+"class": "Macromolecule",
+"box": [
+301.1,
+249.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor ionotropic, NMDA 1"
+],
+[
+"Alternative names",
+"Glutamate [NMDA] receptor subunit zeta-1; N-methyl-D-aspartate receptor subunit NR1"
+],
+[
+"Function",
+"Component of N-methyl-D-aspartate (NMDA) receptors (NMDARs) that function as heterotetrameric, ligand-gated cation channels with high calcium permeability and voltage-dependent block by Mg(2+). NMDARs participate in synaptic plasticity for learning and memory formation by contributing to the long-term potentiation (LTP)."
+],
+[
+"Location",
+"Cell membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Synaptic cell membrane"
+],
+[
+"HGNC",
+"HGNC:4584"
+],
+[
+"HGNC symbol",
+"GRIN1"
+],
+[
+"Previous symbols",
+"NMDAR1"
+],
+[
+"Alias symbols",
+"GluN1, NR1"
+],
+[
+"Entrez",
+"2902"
+],
+[
+"Ensembl",
+"ENSG00000176884"
+],
+[
+"RefSeq",
+"NM_007327"
+],
+[
+"UniProt",
+"Q05586"
+]
+]
+},
+{
+"label": "GRIN2B",
+"class": "Macromolecule",
+"box": [
+301.1,
+317.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor ionotropic, NMDA 2B"
+],
+[
+"Alternative names",
+"Glutamate [NMDA] receptor subunit epsilon-2; N-methyl D-aspartate receptor subtype 2B; N-methyl-D-aspartate receptor subunit 3"
+],
+[
+"Function",
+"Component of N-methyl-D-aspartate (NMDA) receptors (NMDARs) that function as heterotetrameric, ligand-gated cation channels with high calcium permeability and voltage-dependent block by Mg(2+). Participates in synaptic plasticity for learning and memory formation by contributing to the long-term depression (LTD) of hippocampus membrane currents."
+],
+[
+"Location",
+"Cell membrane, Postsynaptic cell membrane, Cell projection, dendrite, Late endosome, Lysosome, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:4586"
+],
+[
+"HGNC symbol",
+"GRIN2B"
+],
+[
+"Previous symbols",
+"NMDAR2B"
+],
+[
+"Alias symbols",
+"GluN2B, NR2B"
+],
+[
+"Entrez",
+"2904"
+],
+[
+"Ensembl",
+"ENSG00000273079"
+],
+[
+"RefSeq",
+"NM_000834"
+],
+[
+"UniProt",
+"Q13224"
+]
+]
+},
+{
+"label": "Glutamate",
+"class": "SimpleChemical",
+"box": [
+327.1,
+183.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glutamate(1-)"
+],
+[
+"Synonyms",
+"2-ammoniopentanedioate; glutamate; glutamic acid monoanion; hydrogen glutamate"
+],
+[
+"Definition",
+"An α-amino-acid anion that is the conjugate base of glutamic acid, having anionic carboxy groups and a cationic amino group"
+],
+[
+"Formula",
+"C5H8NO4"
+],
+[
+"ChEBI",
+"CHEBI:14321"
+],
+[
+"InChI",
+"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1"
+],
+[
+"InChIKey",
+"WHUUTDBJXJRKMK-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "Glutamate",
+"class": "SimpleChemical",
+"box": [
+770.9,
+206.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glutamate(1-)"
+],
+[
+"Synonyms",
+"2-ammoniopentanedioate; glutamate; glutamic acid monoanion; hydrogen glutamate"
+],
+[
+"Definition",
+"An α-amino-acid anion that is the conjugate base of glutamic acid, having anionic carboxy groups and a cationic amino group"
+],
+[
+"Formula",
+"C5H8NO4"
+],
+[
+"ChEBI",
+"CHEBI:14321"
+],
+[
+"InChI",
+"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1"
+],
+[
+"InChIKey",
+"WHUUTDBJXJRKMK-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "GRIA1",
+"class": "Macromolecule",
+"box": [
+747.9,
+262.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 1"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
+],
+[
+"HGNC",
+"HGNC:4571"
+],
+[
+"HGNC symbol",
+"GRIA1"
+],
+[
+"Previous symbols",
+"GLUR1"
+],
+[
+"Alias symbols",
+"GluA1, GLURA"
+],
+[
+"Entrez",
+"2890"
+],
+[
+"Ensembl",
+"ENSG00000155511"
+],
+[
+"RefSeq",
+"NM_000827"
+],
+[
+"UniProt",
+"P42261"
+]
+]
+},
+{
+"label": "GRIA3",
+"class": "Macromolecule",
+"box": [
+747.9,
+330.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 3"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 3; GluR-C; GluR-K3; Glutamate receptor ionotropic, AMPA 3"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system and plays an important role in fast excitatory synaptic transmission by inducing long-term potentiation."
+],
+[
+"Location",
+"Cell membrane, Postsynaptic cell membrane, Postsynaptic density membrane"
+],
+[
+"HGNC",
+"HGNC:4573"
+],
+[
+"HGNC symbol",
+"GRIA3"
+],
+[
+"Previous symbols",
+"GLUR3"
+],
+[
+"Alias symbols",
+"GluA3, GLURC, MRX94, GluR-3, GluR-C, GluR-K3, iGluR3"
+],
+[
+"Entrez",
+"2892"
+],
+[
+"Ensembl",
+"ENSG00000125675"
+],
+[
+"RefSeq",
+"NM_000828"
+],
+[
+"UniProt",
+"P42263"
+]
+]
+},
+{
+"label": "GRIA1",
+"class": "Macromolecule",
+"box": [
+1132.9,
+296.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 1"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
+],
+[
+"HGNC",
+"HGNC:4571"
+],
+[
+"HGNC symbol",
+"GRIA1"
+],
+[
+"Previous symbols",
+"GLUR1"
+],
+[
+"Alias symbols",
+"GluA1, GLURA"
+],
+[
+"Entrez",
+"2890"
+],
+[
+"Ensembl",
+"ENSG00000155511"
+],
+[
+"RefSeq",
+"NM_000827"
+],
+[
+"UniProt",
+"P42261"
+]
+]
+},
+{
+"label": "Glutamate",
+"class": "SimpleChemical",
+"box": [
+1155.9,
+240.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glutamate(1-)"
+],
+[
+"Synonyms",
+"2-ammoniopentanedioate; glutamate; glutamic acid monoanion; hydrogen glutamate"
+],
+[
+"Definition",
+"An α-amino-acid anion that is the conjugate base of glutamic acid, having anionic carboxy groups and a cationic amino group"
+],
+[
+"Formula",
+"C5H8NO4"
+],
+[
+"ChEBI",
+"CHEBI:14321"
+],
+[
+"InChI",
+"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1"
+],
+[
+"InChIKey",
+"WHUUTDBJXJRKMK-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "GRIN1",
+"class": "Macromolecule",
+"box": [
+59.0,
+234.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor ionotropic, NMDA 1"
+],
+[
+"Alternative names",
+"Glutamate [NMDA] receptor subunit zeta-1; N-methyl-D-aspartate receptor subunit NR1"
+],
+[
+"Function",
+"Component of N-methyl-D-aspartate (NMDA) receptors (NMDARs) that function as heterotetrameric, ligand-gated cation channels with high calcium permeability and voltage-dependent block by Mg(2+). NMDARs participate in synaptic plasticity for learning and memory formation by contributing to the long-term potentiation (LTP)."
+],
+[
+"Location",
+"Cell membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Synaptic cell membrane"
+],
+[
+"HGNC",
+"HGNC:4584"
+],
+[
+"HGNC symbol",
+"GRIN1"
+],
+[
+"Previous symbols",
+"NMDAR1"
+],
+[
+"Alias symbols",
+"GluN1, NR1"
+],
+[
+"Entrez",
+"2902"
+],
+[
+"Ensembl",
+"ENSG00000176884"
+],
+[
+"RefSeq",
+"NM_007327"
+],
+[
+"UniProt",
+"Q05586"
+]
+]
+},
+{
+"label": "GRIN2B",
+"class": "Macromolecule",
+"box": [
+59.0,
+302.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor ionotropic, NMDA 2B"
+],
+[
+"Alternative names",
+"Glutamate [NMDA] receptor subunit epsilon-2; N-methyl D-aspartate receptor subtype 2B; N-methyl-D-aspartate receptor subunit 3"
+],
+[
+"Function",
+"Component of N-methyl-D-aspartate (NMDA) receptors (NMDARs) that function as heterotetrameric, ligand-gated cation channels with high calcium permeability and voltage-dependent block by Mg(2+). Participates in synaptic plasticity for learning and memory formation by contributing to the long-term depression (LTD) of hippocampus membrane currents."
+],
+[
+"Location",
+"Cell membrane, Postsynaptic cell membrane, Cell projection, dendrite, Late endosome, Lysosome, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:4586"
+],
+[
+"HGNC symbol",
+"GRIN2B"
+],
+[
+"Previous symbols",
+"NMDAR2B"
+],
+[
+"Alias symbols",
+"GluN2B, NR2B"
+],
+[
+"Entrez",
+"2904"
+],
+[
+"Ensembl",
+"ENSG00000273079"
+],
+[
+"RefSeq",
+"NM_000834"
+],
+[
+"UniProt",
+"Q13224"
+]
+]
+},
+{
+"label": "GRIA1",
+"class": "Macromolecule",
+"box": [
+512.8,
+234.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 1"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
+],
+[
+"HGNC",
+"HGNC:4571"
+],
+[
+"HGNC symbol",
+"GRIA1"
+],
+[
+"Previous symbols",
+"GLUR1"
+],
+[
+"Alias symbols",
+"GluA1, GLURA"
+],
+[
+"Entrez",
+"2890"
+],
+[
+"Ensembl",
+"ENSG00000155511"
+],
+[
+"RefSeq",
+"NM_000827"
+],
+[
+"UniProt",
+"P42261"
+]
+]
+},
+{
+"label": "GRIA3",
+"class": "Macromolecule",
+"box": [
+512.8,
+302.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 3"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 3; GluR-C; GluR-K3; Glutamate receptor ionotropic, AMPA 3"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system and plays an important role in fast excitatory synaptic transmission by inducing long-term potentiation."
+],
+[
+"Location",
+"Cell membrane, Postsynaptic cell membrane, Postsynaptic density membrane"
+],
+[
+"HGNC",
+"HGNC:4573"
+],
+[
+"HGNC symbol",
+"GRIA3"
+],
+[
+"Previous symbols",
+"GLUR3"
+],
+[
+"Alias symbols",
+"GluA3, GLURC, MRX94, GluR-3, GluR-C, GluR-K3, iGluR3"
+],
+[
+"Entrez",
+"2892"
+],
+[
+"Ensembl",
+"ENSG00000125675"
+],
+[
+"RefSeq",
+"NM_000828"
+],
+[
+"UniProt",
+"P42263"
+]
+]
+},
+{
+"label": "Glutamate",
+"class": "SimpleChemical",
+"box": [
+1587.0,
+206.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glutamate(1-)"
+],
+[
+"Synonyms",
+"2-ammoniopentanedioate; glutamate; glutamic acid monoanion; hydrogen glutamate"
+],
+[
+"Definition",
+"An α-amino-acid anion that is the conjugate base of glutamic acid, having anionic carboxy groups and a cationic amino group"
+],
+[
+"Formula",
+"C5H8NO4"
+],
+[
+"ChEBI",
+"CHEBI:14321"
+],
+[
+"InChI",
+"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1"
+],
+[
+"InChIKey",
+"WHUUTDBJXJRKMK-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "GRIA1",
+"class": "Macromolecule",
+"box": [
+1564.0,
+262.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 1"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
+],
+[
+"HGNC",
+"HGNC:4571"
+],
+[
+"HGNC symbol",
+"GRIA1"
+],
+[
+"Previous symbols",
+"GLUR1"
+],
+[
+"Alias symbols",
+"GluA1, GLURA"
+],
+[
+"Entrez",
+"2890"
+],
+[
+"Ensembl",
+"ENSG00000155511"
+],
+[
+"RefSeq",
+"NM_000827"
+],
+[
+"UniProt",
+"P42261"
+]
+]
+},
+{
+"label": "GRIA4",
+"class": "Macromolecule",
+"box": [
+1564.0,
+330.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 4"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 4; GluR-D; Glutamate receptor ionotropic, AMPA 4"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system and plays an important role in fast excitatory synaptic transmission."
+],
+[
+"Location",
+"Cell membrane, Postsynaptic cell membrane, Cell projection, dendrite"
+],
+[
+"HGNC",
+"HGNC:4574"
+],
+[
+"HGNC symbol",
+"GRIA4"
+],
+[
+"Previous symbols",
+"GLUR4"
+],
+[
+"Alias symbols",
+"GluA4, GLURD, GluR-4, GluR-D, GLUR4C"
+],
+[
+"Entrez",
+"2893"
+],
+[
+"Ensembl",
+"ENSG00000152578"
+],
+[
+"RefSeq",
+"NM_000829"
+],
+[
+"UniProt",
+"P48058"
+]
+]
+},
+{
+"label": "GRIA1",
+"class": "Macromolecule",
+"box": [
+1328.9,
+234.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 1"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
+],
+[
+"HGNC",
+"HGNC:4571"
+],
+[
+"HGNC symbol",
+"GRIA1"
+],
+[
+"Previous symbols",
+"GLUR1"
+],
+[
+"Alias symbols",
+"GluA1, GLURA"
+],
+[
+"Entrez",
+"2890"
+],
+[
+"Ensembl",
+"ENSG00000155511"
+],
+[
+"RefSeq",
+"NM_000827"
+],
+[
+"UniProt",
+"P42261"
+]
+]
+},
+{
+"label": "GRIA4",
+"class": "Macromolecule",
+"box": [
+1328.9,
+302.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 4"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 4; GluR-D; Glutamate receptor ionotropic, AMPA 4"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system and plays an important role in fast excitatory synaptic transmission."
+],
+[
+"Location",
+"Cell membrane, Postsynaptic cell membrane, Cell projection, dendrite"
+],
+[
+"HGNC",
+"HGNC:4574"
+],
+[
+"HGNC symbol",
+"GRIA4"
+],
+[
+"Previous symbols",
+"GLUR4"
+],
+[
+"Alias symbols",
+"GluA4, GLURD, GluR-4, GluR-D, GLUR4C"
+],
+[
+"Entrez",
+"2893"
+],
+[
+"Ensembl",
+"ENSG00000152578"
+],
+[
+"RefSeq",
+"NM_000829"
+],
+[
+"UniProt",
+"P48058"
+]
+]
+},
+{
+"label": "GRIA1",
+"class": "Macromolecule",
+"box": [
+931.9,
+281.5,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 1"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
+],
+[
+"HGNC",
+"HGNC:4571"
+],
+[
+"HGNC symbol",
+"GRIA1"
+],
+[
+"Previous symbols",
+"GLUR1"
+],
+[
+"Alias symbols",
+"GluA1, GLURA"
+],
+[
+"Entrez",
+"2890"
+],
+[
+"Ensembl",
+"ENSG00000155511"
+],
+[
+"RefSeq",
+"NM_000827"
+],
+[
+"UniProt",
+"P42261"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+1728.0,
+596.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+1808.0,
+596.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Glutamate",
+"class": "SimpleChemical",
+"box": [
+827.9,
+19.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glutamate(1-)"
+],
+[
+"Synonyms",
+"2-ammoniopentanedioate; glutamate; glutamic acid monoanion; hydrogen glutamate"
+],
+[
+"Definition",
+"An α-amino-acid anion that is the conjugate base of glutamic acid, having anionic carboxy groups and a cationic amino group"
+],
+[
+"Formula",
+"C5H8NO4"
+],
+[
+"ChEBI",
+"CHEBI:14321"
+],
+[
+"InChI",
+"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1"
+],
+[
+"InChIKey",
+"WHUUTDBJXJRKMK-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+1728.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+1808.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+}
+]
+}

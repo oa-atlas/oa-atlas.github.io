@@ -1,0 +1,1512 @@
+{
+"nodes": [
+{
+"label": "TNF",
+"class": "Macromolecule",
+"box": [
+652.0,
+247.8,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor"
+],
+[
+"Alternative names",
+"Cachectin; TNF-alpha; Tumor necrosis factor ligand superfamily member 2"
+],
+[
+"Function",
+"Cytokine that binds to TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. It is mainly secreted by macrophages and can induce cell death of certain tumor cell lines."
+],
+[
+"Location",
+"Cell membrane, Membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:11892"
+],
+[
+"HGNC symbol",
+"TNF"
+],
+[
+"Previous symbols",
+"TNFA"
+],
+[
+"Alias symbols",
+"TNFSF2, DIF, TNF-alpha"
+],
+[
+"Entrez",
+"7124"
+],
+[
+"Ensembl",
+"ENSG00000232810"
+],
+[
+"RefSeq",
+"NM_000594"
+],
+[
+"UniProt",
+"P01375"
+]
+]
+},
+{
+"label": "TNFRSF1A",
+"class": "Macromolecule",
+"box": [
+652.0,
+315.8,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor superfamily member 1A"
+],
+[
+"Alternative names",
+"Tumor necrosis factor receptor 1; Tumor necrosis factor receptor type I; p55; p60"
+],
+[
+"Function",
+"Receptor for TNFSF2/TNF and homotrimeric TNFSF1/lymphotoxin-alpha. The adapter molecule FADD recruits caspase-8 to the activated receptor."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:11916"
+],
+[
+"HGNC symbol",
+"TNFRSF1A"
+],
+[
+"Previous symbols",
+"TNFR1"
+],
+[
+"Alias symbols",
+"TNF-R, TNFAR, TNFR60, TNF-R-I, CD120a, TNF-R55"
+],
+[
+"Entrez",
+"7132"
+],
+[
+"Ensembl",
+"ENSG00000067182"
+],
+[
+"RefSeq",
+"NM_001065"
+],
+[
+"UniProt",
+"P19438"
+]
+]
+},
+{
+"label": "RIPK1",
+"class": "Macromolecule",
+"box": [
+795.0,
+480.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Receptor-interacting serine/threonine-protein kinase 1"
+],
+[
+"Alternative names",
+"Cell death protein RIP; Receptor-interacting protein 1"
+],
+[
+"Function",
+"Serine-threonine kinase which is a key regulator of TNF-mediated apoptosis, necroptosis and inflammatory pathways. Exhibits kinase activity-dependent functions that regulate cell death and kinase-independent scaffold functions regulating inflammatory signaling and cell survival."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10019"
+],
+[
+"HGNC symbol",
+"RIPK1"
+],
+[
+"Alias symbols",
+"RIP, RIP1, RIP-1"
+],
+[
+"Entrez",
+"8737"
+],
+[
+"Ensembl",
+"ENSG00000137275"
+],
+[
+"RefSeq",
+"NM_003804"
+],
+[
+"UniProt",
+"Q13546"
+]
+]
+},
+{
+"label": "TRAF2",
+"class": "Macromolecule",
+"box": [
+795.0,
+432.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"TNF receptor-associated factor 2"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein ligase TRAF2; RING-type E3 ubiquitin transferase TRAF2; Tumor necrosis factor type 2 receptor-associated protein 3"
+],
+[
+"Function",
+"E3 ubiquitin-protein ligase that regulates activation of NF-kappa-B and JNK and plays a central role in the regulation of cell survival and apoptosis. Catalyzes 'Lys-63'-linked ubiquitination of target proteins, such as BIRC3, IKBKE, MLST8, RIPK1 and TICAM1."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:12032"
+],
+[
+"HGNC symbol",
+"TRAF2"
+],
+[
+"Alias symbols",
+"TRAP3, RNF117"
+],
+[
+"Entrez",
+"7186"
+],
+[
+"Ensembl",
+"ENSG00000127191"
+],
+[
+"RefSeq",
+"NM_021138"
+],
+[
+"UniProt",
+"Q12933"
+]
+]
+},
+{
+"label": "TRADD",
+"class": "Macromolecule",
+"box": [
+795.0,
+384.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor type 1-associated DEATH domain protein"
+],
+[
+"Alternative names",
+"TNFRSF1A-associated via death domain"
+],
+[
+"Function",
+"Adapter molecule for TNFRSF1A/TNFR1 that specifically associates with the cytoplasmic domain of activated TNFRSF1A/TNFR1 mediating its interaction with FADD. Overexpression of TRADD leads to two major TNF-induced responses, apoptosis and activation of NF-kappa-B."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:12030"
+],
+[
+"HGNC symbol",
+"TRADD"
+],
+[
+"Alias symbols",
+"Hs.89862"
+],
+[
+"Entrez",
+"8717"
+],
+[
+"Ensembl",
+"ENSG00000102871"
+],
+[
+"RefSeq",
+"NM_001323552"
+],
+[
+"UniProt",
+"Q15628"
+]
+]
+},
+{
+"label": "CCL2",
+"class": "Macromolecule",
+"box": [
+239.0,
+263.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"C-C motif chemokine 2"
+],
+[
+"Alternative names",
+"HC11; Monocyte chemoattractant protein 1; Monocyte chemotactic and activating factor; Monocyte chemotactic protein 1; Monocyte secretory protein JE; Small-inducible cytokine A2"
+],
+[
+"Function",
+"Acts as a ligand for C-C chemokine receptor CCR2. Signals through binding and activation of CCR2 and induces a strong chemotactic response and mobilization of intracellular calcium ions."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:10618"
+],
+[
+"HGNC symbol",
+"CCL2"
+],
+[
+"Previous symbols",
+"SCYA2"
+],
+[
+"Alias symbols",
+"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
+],
+[
+"Entrez",
+"6347"
+],
+[
+"Ensembl",
+"ENSG00000108691"
+],
+[
+"RefSeq",
+"NM_002982"
+],
+[
+"UniProt",
+"P13500"
+]
+]
+},
+{
+"label": "CCR2",
+"class": "Macromolecule",
+"box": [
+239.0,
+311.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"C-C chemokine receptor type 2"
+],
+[
+"Alternative names",
+"Monocyte chemoattractant protein 1 receptor"
+],
+[
+"Function",
+"Key functional receptor for CCL2 but can also bind CCL7, and CCL12. Also transduces signaling mediated by CCL13."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1603"
+],
+[
+"HGNC symbol",
+"CCR2"
+],
+[
+"Previous symbols",
+"CMKBR2"
+],
+[
+"Alias symbols",
+"CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302"
+],
+[
+"Entrez",
+"729230"
+],
+[
+"Ensembl",
+"ENSG00000121807"
+],
+[
+"RefSeq",
+"NM_000647"
+],
+[
+"UniProt",
+"P41597"
+]
+]
+},
+{
+"label": "TNFRSF1A",
+"class": "Macromolecule",
+"box": [
+451.0,
+295.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor superfamily member 1A"
+],
+[
+"Alternative names",
+"Tumor necrosis factor receptor 1; Tumor necrosis factor receptor type I; p55; p60"
+],
+[
+"Function",
+"Receptor for TNFSF2/TNF and homotrimeric TNFSF1/lymphotoxin-alpha. The adapter molecule FADD recruits caspase-8 to the activated receptor."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:11916"
+],
+[
+"HGNC symbol",
+"TNFRSF1A"
+],
+[
+"Previous symbols",
+"TNFR1"
+],
+[
+"Alias symbols",
+"TNF-R, TNFAR, TNFR60, TNF-R-I, CD120a, TNF-R55"
+],
+[
+"Entrez",
+"7132"
+],
+[
+"Ensembl",
+"ENSG00000067182"
+],
+[
+"RefSeq",
+"NM_001065"
+],
+[
+"UniProt",
+"P19438"
+]
+]
+},
+{
+"label": "RIPK1",
+"class": "Macromolecule",
+"box": [
+895.0,
+188.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Receptor-interacting serine/threonine-protein kinase 1"
+],
+[
+"Alternative names",
+"Cell death protein RIP; Receptor-interacting protein 1"
+],
+[
+"Function",
+"Serine-threonine kinase which is a key regulator of TNF-mediated apoptosis, necroptosis and inflammatory pathways. Exhibits kinase activity-dependent functions that regulate cell death and kinase-independent scaffold functions regulating inflammatory signaling and cell survival."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10019"
+],
+[
+"HGNC symbol",
+"RIPK1"
+],
+[
+"Alias symbols",
+"RIP, RIP1, RIP-1"
+],
+[
+"Entrez",
+"8737"
+],
+[
+"Ensembl",
+"ENSG00000137275"
+],
+[
+"RefSeq",
+"NM_003804"
+],
+[
+"UniProt",
+"Q13546"
+]
+]
+},
+{
+"label": "TRAF2",
+"class": "Macromolecule",
+"box": [
+795.0,
+188.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"TNF receptor-associated factor 2"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein ligase TRAF2; RING-type E3 ubiquitin transferase TRAF2; Tumor necrosis factor type 2 receptor-associated protein 3"
+],
+[
+"Function",
+"E3 ubiquitin-protein ligase that regulates activation of NF-kappa-B and JNK and plays a central role in the regulation of cell survival and apoptosis. Catalyzes 'Lys-63'-linked ubiquitination of target proteins, such as BIRC3, IKBKE, MLST8, RIPK1 and TICAM1."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:12032"
+],
+[
+"HGNC symbol",
+"TRAF2"
+],
+[
+"Alias symbols",
+"TRAP3, RNF117"
+],
+[
+"Entrez",
+"7186"
+],
+[
+"Ensembl",
+"ENSG00000127191"
+],
+[
+"RefSeq",
+"NM_021138"
+],
+[
+"UniProt",
+"Q12933"
+]
+]
+},
+{
+"label": "TRADD",
+"class": "Macromolecule",
+"box": [
+995.0,
+188.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor type 1-associated DEATH domain protein"
+],
+[
+"Alternative names",
+"TNFRSF1A-associated via death domain"
+],
+[
+"Function",
+"Adapter molecule for TNFRSF1A/TNFR1 that specifically associates with the cytoplasmic domain of activated TNFRSF1A/TNFR1 mediating its interaction with FADD. Overexpression of TRADD leads to two major TNF-induced responses, apoptosis and activation of NF-kappa-B."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:12030"
+],
+[
+"HGNC symbol",
+"TRADD"
+],
+[
+"Alias symbols",
+"Hs.89862"
+],
+[
+"Entrez",
+"8717"
+],
+[
+"Ensembl",
+"ENSG00000102871"
+],
+[
+"RefSeq",
+"NM_001323552"
+],
+[
+"UniProt",
+"Q15628"
+]
+]
+},
+{
+"label": "MAP3K5",
+"class": "Macromolecule",
+"box": [
+705.0,
+615.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 5"
+],
+[
+"Alternative names",
+"Apoptosis signal-regulating kinase 1; MAPK/ERK kinase kinase 5"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:6857"
+],
+[
+"HGNC symbol",
+"MAP3K5"
+],
+[
+"Previous symbols",
+"MEKK5"
+],
+[
+"Alias symbols",
+"MAPKKK5, ASK1"
+],
+[
+"Entrez",
+"4217"
+],
+[
+"Ensembl",
+"ENSG00000197442"
+],
+[
+"RefSeq",
+"NM_005923"
+],
+[
+"UniProt",
+"Q99683"
+]
+]
+},
+{
+"label": "MAP3K5",
+"class": "Macromolecule",
+"box": [
+885.0,
+615.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 5"
+],
+[
+"Alternative names",
+"Apoptosis signal-regulating kinase 1; MAPK/ERK kinase kinase 5"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:6857"
+],
+[
+"HGNC symbol",
+"MAP3K5"
+],
+[
+"Previous symbols",
+"MEKK5"
+],
+[
+"Alias symbols",
+"MAPKKK5, ASK1"
+],
+[
+"Entrez",
+"4217"
+],
+[
+"Ensembl",
+"ENSG00000197442"
+],
+[
+"RefSeq",
+"NM_005923"
+],
+[
+"UniProt",
+"Q99683"
+]
+]
+},
+{
+"label": "MAP2K3",
+"class": "Macromolecule",
+"box": [
+795.0,
+714.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 3"
+],
+[
+"Alternative names",
+"MAPK/ERK kinase 3; Stress-activated protein kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity kinase. Is activated by cytokines and environmental stress in vivo."
+],
+[
+"HGNC",
+"HGNC:6843"
+],
+[
+"HGNC symbol",
+"MAP2K3"
+],
+[
+"Previous symbols",
+"PRKMK3"
+],
+[
+"Alias symbols",
+"MEK3, MKK3, MAPKK3, SAPKK2"
+],
+[
+"Entrez",
+"5606"
+],
+[
+"Ensembl",
+"ENSG00000034152"
+],
+[
+"RefSeq",
+"NM_145109"
+],
+[
+"UniProt",
+"P46734"
+]
+]
+},
+{
+"label": "MAP2K3",
+"class": "Macromolecule",
+"box": [
+975.0,
+714.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 3"
+],
+[
+"Alternative names",
+"MAPK/ERK kinase 3; Stress-activated protein kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity kinase. Is activated by cytokines and environmental stress in vivo."
+],
+[
+"HGNC",
+"HGNC:6843"
+],
+[
+"HGNC symbol",
+"MAP2K3"
+],
+[
+"Previous symbols",
+"PRKMK3"
+],
+[
+"Alias symbols",
+"MEK3, MKK3, MAPKK3, SAPKK2"
+],
+[
+"Entrez",
+"5606"
+],
+[
+"Ensembl",
+"ENSG00000034152"
+],
+[
+"RefSeq",
+"NM_145109"
+],
+[
+"UniProt",
+"P46734"
+]
+]
+},
+{
+"label": "P38 MAPK",
+"class": "Macromolecule",
+"box": [
+885.0,
+813.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"p38 MAP kinases"
+],
+[
+"Members",
+"MAPK14; MAPK11; MAPK12; MAPK13"
+]
+],
+"members": [
+{
+"symbol": "MAPK14",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"symbol": "MAPK11",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 11"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 beta; Stress-activated protein kinase 2b; p38-2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK11 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6873"
+],
+[
+"HGNC symbol",
+"MAPK11"
+],
+[
+"Previous symbols",
+"PRKM11"
+],
+[
+"Alias symbols",
+"p38-2, p38Beta, SAPK2"
+],
+[
+"Entrez",
+"5600"
+],
+[
+"Ensembl",
+"ENSG00000185386"
+],
+[
+"RefSeq",
+"NM_002751"
+],
+[
+"UniProt",
+"Q15759"
+]
+]
+},
+{
+"symbol": "MAPK12",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 12"
+],
+[
+"Alternative names",
+"Extracellular signal-regulated kinase 6; Mitogen-activated protein kinase p38 gamma; Stress-activated protein kinase 3"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK12 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:6874"
+],
+[
+"HGNC symbol",
+"MAPK12"
+],
+[
+"Previous symbols",
+"SAPK3"
+],
+[
+"Alias symbols",
+"ERK6, PRKM12, p38gamma, SAPK-3"
+],
+[
+"Entrez",
+"6300"
+],
+[
+"Ensembl",
+"ENSG00000188130"
+],
+[
+"RefSeq",
+"NM_002969"
+],
+[
+"UniProt",
+"P53778"
+]
+]
+},
+{
+"symbol": "MAPK13",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 13"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 delta; Stress-activated protein kinase 4"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK13 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"HGNC",
+"HGNC:6875"
+],
+[
+"HGNC symbol",
+"MAPK13"
+],
+[
+"Previous symbols",
+"PRKM13"
+],
+[
+"Alias symbols",
+"SAPK4, p38delta"
+],
+[
+"Entrez",
+"5603"
+],
+[
+"Ensembl",
+"ENSG00000156711"
+],
+[
+"RefSeq",
+"NM_002754"
+],
+[
+"UniProt",
+"O15264"
+]
+]
+}
+]
+},
+{
+"label": "P38 MAPK",
+"class": "Macromolecule",
+"box": [
+1065.0,
+813.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"p38 MAP kinases"
+],
+[
+"Members",
+"MAPK14; MAPK11; MAPK12; MAPK13"
+]
+],
+"members": [
+{
+"symbol": "MAPK14",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"symbol": "MAPK11",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 11"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 beta; Stress-activated protein kinase 2b; p38-2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK11 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6873"
+],
+[
+"HGNC symbol",
+"MAPK11"
+],
+[
+"Previous symbols",
+"PRKM11"
+],
+[
+"Alias symbols",
+"p38-2, p38Beta, SAPK2"
+],
+[
+"Entrez",
+"5600"
+],
+[
+"Ensembl",
+"ENSG00000185386"
+],
+[
+"RefSeq",
+"NM_002751"
+],
+[
+"UniProt",
+"Q15759"
+]
+]
+},
+{
+"symbol": "MAPK12",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 12"
+],
+[
+"Alternative names",
+"Extracellular signal-regulated kinase 6; Mitogen-activated protein kinase p38 gamma; Stress-activated protein kinase 3"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK12 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:6874"
+],
+[
+"HGNC symbol",
+"MAPK12"
+],
+[
+"Previous symbols",
+"SAPK3"
+],
+[
+"Alias symbols",
+"ERK6, PRKM12, p38gamma, SAPK-3"
+],
+[
+"Entrez",
+"6300"
+],
+[
+"Ensembl",
+"ENSG00000188130"
+],
+[
+"RefSeq",
+"NM_002969"
+],
+[
+"UniProt",
+"P53778"
+]
+]
+},
+{
+"symbol": "MAPK13",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 13"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 delta; Stress-activated protein kinase 4"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK13 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"HGNC",
+"HGNC:6875"
+],
+[
+"HGNC symbol",
+"MAPK13"
+],
+[
+"Previous symbols",
+"PRKM13"
+],
+[
+"Alias symbols",
+"SAPK4, p38delta"
+],
+[
+"Entrez",
+"5603"
+],
+[
+"Ensembl",
+"ENSG00000156711"
+],
+[
+"RefSeq",
+"NM_002754"
+],
+[
+"UniProt",
+"O15264"
+]
+]
+}
+]
+},
+{
+"label": "CCR2",
+"class": "Macromolecule",
+"box": [
+47.0,
+298.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"C-C chemokine receptor type 2"
+],
+[
+"Alternative names",
+"Monocyte chemoattractant protein 1 receptor"
+],
+[
+"Function",
+"Key functional receptor for CCL2 but can also bind CCL7, and CCL12. Also transduces signaling mediated by CCL13."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1603"
+],
+[
+"HGNC symbol",
+"CCR2"
+],
+[
+"Previous symbols",
+"CMKBR2"
+],
+[
+"Alias symbols",
+"CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302"
+],
+[
+"Entrez",
+"729230"
+],
+[
+"Ensembl",
+"ENSG00000121807"
+],
+[
+"RefSeq",
+"NM_000647"
+],
+[
+"UniProt",
+"P41597"
+]
+]
+},
+{
+"label": "TNF",
+"class": "Macromolecule",
+"box": [
+518.0,
+23.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor"
+],
+[
+"Alternative names",
+"Cachectin; TNF-alpha; Tumor necrosis factor ligand superfamily member 2"
+],
+[
+"Function",
+"Cytokine that binds to TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. It is mainly secreted by macrophages and can induce cell death of certain tumor cell lines."
+],
+[
+"Location",
+"Cell membrane, Membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:11892"
+],
+[
+"HGNC symbol",
+"TNF"
+],
+[
+"Previous symbols",
+"TNFA"
+],
+[
+"Alias symbols",
+"TNFSF2, DIF, TNF-alpha"
+],
+[
+"Entrez",
+"7124"
+],
+[
+"Ensembl",
+"ENSG00000232810"
+],
+[
+"RefSeq",
+"NM_000594"
+],
+[
+"UniProt",
+"P01375"
+]
+]
+},
+{
+"label": "CCL2",
+"class": "Macromolecule",
+"box": [
+108.0,
+36.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"C-C motif chemokine 2"
+],
+[
+"Alternative names",
+"HC11; Monocyte chemoattractant protein 1; Monocyte chemotactic and activating factor; Monocyte chemotactic protein 1; Monocyte secretory protein JE; Small-inducible cytokine A2"
+],
+[
+"Function",
+"Acts as a ligand for C-C chemokine receptor CCR2. Signals through binding and activation of CCR2 and induces a strong chemotactic response and mobilization of intracellular calcium ions."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:10618"
+],
+[
+"HGNC symbol",
+"CCL2"
+],
+[
+"Previous symbols",
+"SCYA2"
+],
+[
+"Alias symbols",
+"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
+],
+[
+"Entrez",
+"6347"
+],
+[
+"Ensembl",
+"ENSG00000108691"
+],
+[
+"RefSeq",
+"NM_002982"
+],
+[
+"UniProt",
+"P13500"
+]
+]
+}
+]
+}

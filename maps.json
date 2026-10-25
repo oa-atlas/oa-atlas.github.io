@@ -3,7 +3,7 @@
 "id": "ltb4-ltb4r-gq",
 "title": "LTB4 - LTB4R & LTB4R2 - Gqα",
 "topic": "LTB4 - LTB4R - Gqα",
-"group": "Blocks",
+"group": "Nociceptor",
 "kind": null,
 "tag": null,
 "tab": null,
@@ -23,14 +23,14 @@
 "url": "files/ltb4-ltb4r-gq.svg"
 }
 ],
-"data": null,
-"hasText": false
+"data": "data/ltb4-ltb4r-gq-text.json",
+"hasText": true
 },
 {
 "id": "pge2-ptger2-gs",
 "title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase",
 "topic": "PGE2 - PTGER2 - Gsα",
-"group": "Blocks",
+"group": "Nociceptor",
 "kind": null,
 "tag": null,
 "tab": null,
@@ -50,34 +50,709 @@
 "url": "files/pge2-ptger2-gs.svg"
 }
 ],
-"data": null,
-"hasText": false
+"data": "data/pge2-ptger2-gs-text.json",
+"hasText": true
 },
 {
-"id": "pge2-ptger2-gs-alt",
-"title": "PGE2 - PTGER2/4 - Gsα, Gs cycle, adenylate cyclase and cAMP (alternative)",
-"topic": "PGE2 - PTGER2 - Gsα",
-"group": "Blocks",
+"id": "pge2-ptger4-gs",
+"title": "PGE2 - PTGER4 - Gsα",
+"topic": "PGE2 - PTGER4 - Gsα",
+"group": "Nociceptor",
 "kind": null,
 "tag": null,
-"tab": "alternative",
-"image": "files/pge2-ptger2-gs-alt.svg",
+"tab": null,
+"image": "files/pge2-ptger4-gs.svg",
 "width": 1146.0,
-"height": 1186.0,
+"height": 1188.0,
 "scale": 1,
-"annotation": "data/pge2-ptger2-gs-alt.json",
+"annotation": "data/pge2-ptger4-gs.json",
 "imageError": null,
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pge2-ptger2-gs-alt.graphml"
+"url": "files/pge2-ptger4-gs.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pge2-ptger2-gs-alt.svg"
+"url": "files/pge2-ptger4-gs.svg"
 }
 ],
-"data": null,
-"hasText": false
+"data": "data/pge2-ptger4-gs-text.json",
+"hasText": true
+},
+{
+"id": "pgi2-ptgir-gs",
+"title": "PGI2 - PTGIR - Gsα",
+"topic": "PGI2 - PTGIR - Gsα",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/pgi2-ptgir-gs.svg",
+"width": 1346.0,
+"height": 848.0,
+"scale": 1,
+"annotation": "data/pgi2-ptgir-gs.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pgi2-ptgir-gs.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pgi2-ptgir-gs.svg"
+}
+],
+"data": "data/pgi2-ptgir-gs-text.json",
+"hasText": true
+},
+{
+"id": "bk-bdkrb2-gq",
+"title": "Bradykinin - BDKRB2 - Gqα",
+"topic": "Bradykinin - BDKRB2 - Gqα",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/bk-bdkrb2-gq.svg",
+"width": 1187.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/bk-bdkrb2-gq.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/bk-bdkrb2-gq.graphml"
+},
+{
+"label": "SVG",
+"url": "files/bk-bdkrb2-gq.svg"
+}
+],
+"data": "data/bk-bdkrb2-gq-text.json",
+"hasText": true
+},
+{
+"id": "pge2-ptger1-h1-gq",
+"title": "PGE2 - PTGER1 and histamine - HRH1 - Gqα",
+"topic": "PGE2 - PTGER1 and histamine - HRH1 - Gqα",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/pge2-ptger1-h1-gq.svg",
+"width": 2582.0,
+"height": 848.0,
+"scale": 1,
+"annotation": "data/pge2-ptger1-h1-gq.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pge2-ptger1-h1-gq.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pge2-ptger1-h1-gq.svg"
+}
+],
+"data": "data/pge2-ptger1-h1-gq-text.json",
+"hasText": true
+},
+{
+"id": "pge2-ptger3-gi",
+"title": "PGE2 - PTGER3 - Giα",
+"topic": "PGE2 - PTGER3 - Giα",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/pge2-ptger3-gi.svg",
+"width": 1146.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/pge2-ptger3-gi.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pge2-ptger3-gi.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pge2-ptger3-gi.svg"
+}
+],
+"data": "data/pge2-ptger3-gi-text.json",
+"hasText": true
+},
+{
+"id": "opioid-oprm1-gi-nociceptor",
+"title": "Opioids - OPRM1 - Giα (nociceptor)",
+"topic": "Opioids - OPRM1 - Giα (nociceptor)",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/opioid-oprm1-gi-nociceptor.svg",
+"width": 1741.0,
+"height": 1368.0,
+"scale": 1,
+"annotation": "data/opioid-oprm1-gi-nociceptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/opioid-oprm1-gi-nociceptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/opioid-oprm1-gi-nociceptor.svg"
+}
+],
+"data": "data/opioid-oprm1-gi-nociceptor-text.json",
+"hasText": true
+},
+{
+"id": "cannabinoid-cnr2-gi",
+"title": "Cannabinoids - CNR2 - Giα",
+"topic": "Cannabinoids - CNR2 - Giα",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/cannabinoid-cnr2-gi.svg",
+"width": 1202.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/cannabinoid-cnr2-gi.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/cannabinoid-cnr2-gi.graphml"
+},
+{
+"label": "SVG",
+"url": "files/cannabinoid-cnr2-gi.svg"
+}
+],
+"data": "data/cannabinoid-cnr2-gi-text.json",
+"hasText": true
+},
+{
+"id": "na-adra2a-gi-nociceptor",
+"title": "Noradrenaline - ADRA2A - Giα (nociceptor)",
+"topic": "Noradrenaline - ADRA2A - Giα (nociceptor)",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/na-adra2a-gi-nociceptor.svg",
+"width": 1249.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/na-adra2a-gi-nociceptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adra2a-gi-nociceptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adra2a-gi-nociceptor.svg"
+}
+],
+"data": "data/na-adra2a-gi-nociceptor-text.json",
+"hasText": true
+},
+{
+"id": "na-adrb2-gs-nociceptor",
+"title": "Noradrenaline - ADRB2 - Gsα (nociceptor)",
+"topic": "Noradrenaline - ADRB2 - Gsα (nociceptor)",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/na-adrb2-gs-nociceptor.svg",
+"width": 1249.0,
+"height": 1188.0,
+"scale": 1,
+"annotation": "data/na-adrb2-gs-nociceptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adrb2-gs-nociceptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adrb2-gs-nociceptor.svg"
+}
+],
+"data": "data/na-adrb2-gs-nociceptor-text.json",
+"hasText": true
+},
+{
+"id": "na-adrb2-gi-nociceptor",
+"title": "Noradrenaline - ADRB2 - Giα (nociceptor)",
+"topic": "Noradrenaline - ADRB2 - Giα (nociceptor)",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/na-adrb2-gi-nociceptor.svg",
+"width": 1249.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/na-adrb2-gi-nociceptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adrb2-gi-nociceptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adrb2-gi-nociceptor.svg"
+}
+],
+"data": "data/na-adrb2-gi-nociceptor-text.json",
+"hasText": true
+},
+{
+"id": "camp-pka-nociceptor",
+"title": "cAMP - PKA - TRPV1, NaV1.8, P2X3",
+"topic": "cAMP - PKA - TRPV1, NaV1.8, P2X3",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/camp-pka-nociceptor.svg",
+"width": 1258.0,
+"height": 954.0,
+"scale": 1,
+"annotation": "data/camp-pka-nociceptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/camp-pka-nociceptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/camp-pka-nociceptor.svg"
+}
+],
+"data": "data/camp-pka-nociceptor-text.json",
+"hasText": true
+},
+{
+"id": "plc-ip3-ca-nociceptor",
+"title": "PLC - IP3 - Ca2+ and NGF - NGFR - PLCG1",
+"topic": "PLC - IP3 - Ca2+ and NGF - NGFR - PLCG1",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/plc-ip3-ca-nociceptor.svg",
+"width": 1406.0,
+"height": 983.0,
+"scale": 1,
+"annotation": "data/plc-ip3-ca-nociceptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/plc-ip3-ca-nociceptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/plc-ip3-ca-nociceptor.svg"
+}
+],
+"data": "data/plc-ip3-ca-nociceptor-text.json",
+"hasText": true
+},
+{
+"id": "channels-ap-nociceptor",
+"title": "Ion channels - action potential",
+"topic": "Ion channels - action potential",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/channels-ap-nociceptor.svg",
+"width": 2022.0,
+"height": 527.0,
+"scale": 1,
+"annotation": "data/channels-ap-nociceptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/channels-ap-nociceptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/channels-ap-nociceptor.svg"
+}
+],
+"data": "data/channels-ap-nociceptor-text.json",
+"hasText": true
+},
+{
+"id": "tnf-ccl2-p38",
+"title": "TNF and CCL2 - p38 MAPK",
+"topic": "TNF and CCL2 - p38 MAPK",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/tnf-ccl2-p38.svg",
+"width": 1202.0,
+"height": 909.0,
+"scale": 1,
+"annotation": "data/tnf-ccl2-p38.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/tnf-ccl2-p38.graphml"
+},
+{
+"label": "SVG",
+"url": "files/tnf-ccl2-p38.svg"
+}
+],
+"data": "data/tnf-ccl2-p38-text.json",
+"hasText": true
+},
+{
+"id": "release-mast-cell",
+"title": "Transmitter release and mast cell activation",
+"topic": "Transmitter release and mast cell activation",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/release-mast-cell.svg",
+"width": 1502.0,
+"height": 694.0,
+"scale": 1,
+"annotation": "data/release-mast-cell.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/release-mast-cell.graphml"
+},
+{
+"label": "SVG",
+"url": "files/release-mast-cell.svg"
+}
+],
+"data": "data/release-mast-cell-text.json",
+"hasText": true
+},
+{
+"id": "tac1-tacr1-gq",
+"title": "Substance P - TACR1 - Gqα",
+"topic": "Substance P - TACR1 - Gqα",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/tac1-tacr1-gq.svg",
+"width": 1164.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/tac1-tacr1-gq.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/tac1-tacr1-gq.graphml"
+},
+{
+"label": "SVG",
+"url": "files/tac1-tacr1-gq.svg"
+}
+],
+"data": "data/tac1-tacr1-gq-text.json",
+"hasText": true
+},
+{
+"id": "cgrp-calcrl-gs",
+"title": "CGRP - CALCRL:RAMP1 - Gsα",
+"topic": "CGRP - CALCRL:RAMP1 - Gsα",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/cgrp-calcrl-gs.svg",
+"width": 1344.0,
+"height": 1200.0,
+"scale": 1,
+"annotation": "data/cgrp-calcrl-gs.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/cgrp-calcrl-gs.graphml"
+},
+{
+"label": "SVG",
+"url": "files/cgrp-calcrl-gs.svg"
+}
+],
+"data": "data/cgrp-calcrl-gs-text.json",
+"hasText": true
+},
+{
+"id": "cannabinoid-cnr1-gi",
+"title": "Cannabinoids - CNR1 - Giα",
+"topic": "Cannabinoids - CNR1 - Giα",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/cannabinoid-cnr1-gi.svg",
+"width": 1202.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/cannabinoid-cnr1-gi.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/cannabinoid-cnr1-gi.graphml"
+},
+{
+"label": "SVG",
+"url": "files/cannabinoid-cnr1-gi.svg"
+}
+],
+"data": "data/cannabinoid-cnr1-gi-text.json",
+"hasText": true
+},
+{
+"id": "opioid-oprm1-gi-spinal",
+"title": "Opioids - OPRM1 - Giα (spinal neuron)",
+"topic": "Opioids - OPRM1 - Giα (spinal neuron)",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/opioid-oprm1-gi-spinal.svg",
+"width": 1741.0,
+"height": 1368.0,
+"scale": 1,
+"annotation": "data/opioid-oprm1-gi-spinal.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/opioid-oprm1-gi-spinal.graphml"
+},
+{
+"label": "SVG",
+"url": "files/opioid-oprm1-gi-spinal.svg"
+}
+],
+"data": "data/opioid-oprm1-gi-spinal-text.json",
+"hasText": true
+},
+{
+"id": "na-adra2a-gi-spinal",
+"title": "Noradrenaline - ADRA2A - Giα (spinal neuron)",
+"topic": "Noradrenaline - ADRA2A - Giα (spinal neuron)",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/na-adra2a-gi-spinal.svg",
+"width": 1249.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/na-adra2a-gi-spinal.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adra2a-gi-spinal.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adra2a-gi-spinal.svg"
+}
+],
+"data": "data/na-adra2a-gi-spinal-text.json",
+"hasText": true
+},
+{
+"id": "na-adrb2-gs-spinal",
+"title": "Noradrenaline - ADRB2 - Gsα (spinal neuron)",
+"topic": "Noradrenaline - ADRB2 - Gsα (spinal neuron)",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/na-adrb2-gs-spinal.svg",
+"width": 1249.0,
+"height": 1188.0,
+"scale": 1,
+"annotation": "data/na-adrb2-gs-spinal.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adrb2-gs-spinal.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adrb2-gs-spinal.svg"
+}
+],
+"data": "data/na-adrb2-gs-spinal-text.json",
+"hasText": true
+},
+{
+"id": "na-adrb2-gi-spinal",
+"title": "Noradrenaline - ADRB2 - Giα (spinal neuron)",
+"topic": "Noradrenaline - ADRB2 - Giα (spinal neuron)",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/na-adrb2-gi-spinal.svg",
+"width": 1249.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/na-adrb2-gi-spinal.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adrb2-gi-spinal.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adrb2-gi-spinal.svg"
+}
+],
+"data": "data/na-adrb2-gi-spinal-text.json",
+"hasText": true
+},
+{
+"id": "glutamate-nmda-ampa",
+"title": "Glutamate - NMDA and AMPA receptors - action potential",
+"topic": "Glutamate - NMDA and AMPA receptors - action potential",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/glutamate-nmda-ampa.svg",
+"width": 1938.0,
+"height": 804.0,
+"scale": 1,
+"annotation": "data/glutamate-nmda-ampa.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/glutamate-nmda-ampa.graphml"
+},
+{
+"label": "SVG",
+"url": "files/glutamate-nmda-ampa.svg"
+}
+],
+"data": "data/glutamate-nmda-ampa-text.json",
+"hasText": true
+},
+{
+"id": "bdnf-ntrk2-plcg1",
+"title": "BDNF - NTRK2 - PLCG1 - IP3 - Ca2+",
+"topic": "BDNF - NTRK2 - PLCG1 - IP3 - Ca2+",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/bdnf-ntrk2-plcg1.svg",
+"width": 2118.0,
+"height": 975.0,
+"scale": 1,
+"annotation": "data/bdnf-ntrk2-plcg1.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/bdnf-ntrk2-plcg1.graphml"
+},
+{
+"label": "SVG",
+"url": "files/bdnf-ntrk2-plcg1.svg"
+}
+],
+"data": "data/bdnf-ntrk2-plcg1-text.json",
+"hasText": true
+},
+{
+"id": "camp-pka-spinal",
+"title": "cAMP - PKA - action potential - pain",
+"topic": "cAMP - PKA - action potential - pain",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/camp-pka-spinal.svg",
+"width": 1354.0,
+"height": 954.0,
+"scale": 1,
+"annotation": "data/camp-pka-spinal.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/camp-pka-spinal.graphml"
+},
+{
+"label": "SVG",
+"url": "files/camp-pka-spinal.svg"
+}
+],
+"data": "data/camp-pka-spinal-text.json",
+"hasText": true
+},
+{
+"id": "na-comt",
+"title": "Noradrenaline - COMT - normetanephrine",
+"topic": "Noradrenaline - COMT - normetanephrine",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/na-comt.svg",
+"width": 396.0,
+"height": 160.0,
+"scale": 1,
+"annotation": "data/na-comt.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-comt.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-comt.svg"
+}
+],
+"data": "data/na-comt-text.json",
+"hasText": true
 }
 ]

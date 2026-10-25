@@ -1,0 +1,1580 @@
+{
+"nodes": [
+{
+"label": "CA2+",
+"class": "SimpleChemical",
+"box": [
+1519.9,
+753.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "ITPR1",
+"class": "Macromolecule",
+"box": [
+1575.2,
+605.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1"
+],
+[
+"Alternative names",
+"IP3 receptor isoform 1; Inositol 1,4,5 trisphosphate receptor; Inositol 1,4,5-trisphosphate receptor type 1; Type 1 inositol 1,4,5-trisphosphate receptor"
+],
+[
+"Function",
+"Inositol 1,4,5-trisphosphate-gated calcium channel that, upon inositol 1,4,5-trisphosphate binding, mediates calcium release from the endoplasmic reticulum (ER). Undergoes conformational changes upon ligand binding, suggesting structural flexibility that allows the channel to switch from a closed state, capable of interacting with its ligands such as 1,4,5-trisphosphate and calcium, to an open state, capable of transferring calcium ions across the ER membrane."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Cytoplasmic vesicle, secretory vesicle membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:6180"
+],
+[
+"HGNC symbol",
+"ITPR1"
+],
+[
+"Previous symbols",
+"SCA15, SCA16, SCA29"
+],
+[
+"Alias symbols",
+"Insp3r1, IP3R1, ACV, PPP1R94"
+],
+[
+"Entrez",
+"3708"
+],
+[
+"Ensembl",
+"ENSG00000150995"
+],
+[
+"RefSeq",
+"NM_002222"
+],
+[
+"UniProt",
+"Q14643"
+]
+]
+},
+{
+"label": "I(1,4,5)P3",
+"class": "SimpleChemical",
+"box": [
+1598.2,
+549.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"1D-myo-inositol 1,4,5-trisphosphate"
+],
+[
+"Synonyms",
+"1,4,5-Insp3; 1D-myo-inositol 1,4,5-tris(dihydrogen phosphate); D-MYO-INOSITOL-1,4,5-TRIPHOSPHATE; D-myo-Inositol 1,4,5-trisphosphate; IP3; Inositol 1,4,5-trisphosphate; Ins(1,4,5)P3; InsP3"
+],
+[
+"Formula",
+"C6H15O15P3"
+],
+[
+"ChEBI",
+"CHEBI:16595"
+],
+[
+"KEGG",
+"C01245"
+],
+[
+"InChI",
+"InChI=1S/C6H15O15P3/c7-1-2(8)5(20-23(13,14)15)6(21-24(16,17)18)3(9)4(1)19-22(10,11)12/h1-9H,(H2,10,11,12)(H2,13,14,15)(H2,16,17,18)/t1-,2+,3+,4-,5-,6-/m1/s1"
+],
+[
+"InChIKey",
+"MMWCIQZXVOZEGG-XJTPDSDZSA-N"
+]
+]
+},
+{
+"label": "ITPR1",
+"class": "Macromolecule",
+"box": [
+1369.7,
+590.5,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1"
+],
+[
+"Alternative names",
+"IP3 receptor isoform 1; Inositol 1,4,5 trisphosphate receptor; Inositol 1,4,5-trisphosphate receptor type 1; Type 1 inositol 1,4,5-trisphosphate receptor"
+],
+[
+"Function",
+"Inositol 1,4,5-trisphosphate-gated calcium channel that, upon inositol 1,4,5-trisphosphate binding, mediates calcium release from the endoplasmic reticulum (ER). Undergoes conformational changes upon ligand binding, suggesting structural flexibility that allows the channel to switch from a closed state, capable of interacting with its ligands such as 1,4,5-trisphosphate and calcium, to an open state, capable of transferring calcium ions across the ER membrane."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Cytoplasmic vesicle, secretory vesicle membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:6180"
+],
+[
+"HGNC symbol",
+"ITPR1"
+],
+[
+"Previous symbols",
+"SCA15, SCA16, SCA29"
+],
+[
+"Alias symbols",
+"Insp3r1, IP3R1, ACV, PPP1R94"
+],
+[
+"Entrez",
+"3708"
+],
+[
+"Ensembl",
+"ENSG00000150995"
+],
+[
+"RefSeq",
+"NM_002222"
+],
+[
+"UniProt",
+"Q14643"
+]
+]
+},
+{
+"label": "PLCB",
+"class": "Macromolecule",
+"box": [
+1221.7,
+574.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"Phospholipases C beta"
+],
+[
+"Members",
+"PLCB1; PLCB2; PLCB3; PLCB4"
+]
+],
+"members": [
+{
+"symbol": "PLCB1",
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1"
+],
+[
+"Alternative names",
+"PLC-154; Phosphoinositide phospholipase C-beta-1; Phospholipase C-I; Phospholipase C-beta-1"
+],
+[
+"Function",
+"Catalyzes the hydrolysis of 1-phosphatidylinositol 4,5-bisphosphate into diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3) and mediates intracellular signaling downstream of G protein-coupled receptors. Regulates the function of the endothelial barrier"
+],
+[
+"Location",
+"Nucleus membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:15917"
+],
+[
+"HGNC symbol",
+"PLCB1"
+],
+[
+"Alias symbols",
+"KIAA0581, PLC-I, PLC154"
+],
+[
+"Entrez",
+"23236"
+],
+[
+"Ensembl",
+"ENSG00000182621"
+],
+[
+"RefSeq",
+"NM_015192"
+],
+[
+"UniProt",
+"Q9NQ66"
+]
+]
+},
+{
+"symbol": "PLCB2",
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2"
+],
+[
+"Alternative names",
+"Phosphoinositide phospholipase C-beta-2; Phospholipase C-beta-2"
+],
+[
+"Function",
+"The production of the second messenger molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3) is mediated by activated phosphatidylinositol-specific phospholipase C enzymes. In neutrophils, participates in a phospholipase C-activating N-formyl peptide-activated GPCR (G protein-coupled receptor) signaling pathway by promoting RASGRP4 activation by DAG, to promote neutrophil functional responses"
+],
+[
+"HGNC",
+"HGNC:9055"
+],
+[
+"HGNC symbol",
+"PLCB2"
+],
+[
+"Alias symbols",
+"FLJ38135"
+],
+[
+"Entrez",
+"5330"
+],
+[
+"Ensembl",
+"ENSG00000137841"
+],
+[
+"RefSeq",
+"NM_001284297"
+],
+[
+"UniProt",
+"Q00722"
+]
+]
+},
+{
+"symbol": "PLCB3",
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-3"
+],
+[
+"Alternative names",
+"Phosphoinositide phospholipase C-beta-3; Phospholipase C-beta-3"
+],
+[
+"Function",
+"Catalyzes the production of the second messenger molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3). Key transducer of G protein-coupled receptor signaling: activated by G(q)/G(11) G alpha proteins downstream of G protein-coupled receptors activation."
+],
+[
+"Location",
+"Cytoplasm, Membrane, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9056"
+],
+[
+"HGNC symbol",
+"PLCB3"
+],
+[
+"Entrez",
+"5331"
+],
+[
+"Ensembl",
+"ENSG00000149782"
+],
+[
+"RefSeq",
+"NM_000932"
+],
+[
+"UniProt",
+"Q01970"
+]
+]
+},
+{
+"symbol": "PLCB4",
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-4"
+],
+[
+"Alternative names",
+"Phosphoinositide phospholipase C-beta-4; Phospholipase C-beta-4"
+],
+[
+"Function",
+"Activated phosphatidylinositol-specific phospholipase C enzymes catalyze the production of the second messenger molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3) involved in G protein-coupled receptor signaling pathways. PLCB4 is a direct effector of the endothelin receptor signaling pathway that plays an essential role in lower jaw and middle ear structures development"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9059"
+],
+[
+"HGNC symbol",
+"PLCB4"
+],
+[
+"Entrez",
+"5332"
+],
+[
+"Ensembl",
+"ENSG00000101333"
+],
+[
+"RefSeq",
+"NM_000933"
+],
+[
+"UniProt",
+"Q15147"
+]
+]
+}
+]
+},
+{
+"label": "Gqα",
+"class": "Macromolecule",
+"box": [
+1221.7,
+517.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits alpha q"
+],
+[
+"Members",
+"GNAQ; GNA11; GNA14; GNA15"
+]
+],
+"members": [
+{
+"symbol": "GNAQ",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(q) subunit alpha"
+],
+[
+"Alternative names",
+"Guanine nucleotide-binding protein alpha-q"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus, Nucleus, Nucleus membrane"
+],
+[
+"HGNC",
+"HGNC:4390"
+],
+[
+"HGNC symbol",
+"GNAQ"
+],
+[
+"Alias symbols",
+"G-ALPHA-q, GAQ"
+],
+[
+"Entrez",
+"2776"
+],
+[
+"Ensembl",
+"ENSG00000156052"
+],
+[
+"RefSeq",
+"NM_002072"
+],
+[
+"UniProt",
+"P50148"
+]
+]
+},
+{
+"symbol": "GNA11",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein subunit alpha-11"
+],
+[
+"Alternative names",
+"Guanine nucleotide-binding protein G(y) subunit alpha"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4379"
+],
+[
+"HGNC symbol",
+"GNA11"
+],
+[
+"Previous symbols",
+"HHC2"
+],
+[
+"Alias symbols",
+"FBH, FBH2, FHH2"
+],
+[
+"Entrez",
+"2767"
+],
+[
+"Ensembl",
+"ENSG00000088256"
+],
+[
+"RefSeq",
+"NM_002067"
+],
+[
+"UniProt",
+"P29992"
+]
+]
+},
+{
+"symbol": "GNA14",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein subunit alpha-14"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as modulators or transducers in various transmembrane signaling systems"
+],
+[
+"HGNC",
+"HGNC:4382"
+],
+[
+"HGNC symbol",
+"GNA14"
+],
+[
+"Entrez",
+"9630"
+],
+[
+"Ensembl",
+"ENSG00000156049"
+],
+[
+"RefSeq",
+"NM_004297"
+],
+[
+"UniProt",
+"O95837"
+]
+]
+},
+{
+"symbol": "GNA15",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein subunit alpha-15"
+],
+[
+"Alternative names",
+"Epididymis tissue protein Li 17E; Guanine nucleotide-binding protein subunit alpha-16"
+],
+[
+"Function",
+"Member of the G protein alpha subunit family that plays a crucial role in intracellular signaling. Functions as a molecular switch, transducing signals from G protein-coupled receptors (GPCRs) to downstream effectors."
+],
+[
+"HGNC",
+"HGNC:4383"
+],
+[
+"HGNC symbol",
+"GNA15"
+],
+[
+"Alias symbols",
+"GNA16"
+],
+[
+"Entrez",
+"2769"
+],
+[
+"Ensembl",
+"ENSG00000060558"
+],
+[
+"RefSeq",
+"NM_002068"
+],
+[
+"UniProt",
+"P30679"
+]
+]
+}
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+992.4,
+199.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+},
+{
+"label": "NTRK2",
+"class": "Macromolecule",
+"box": [
+995.4,
+268.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"BDNF/NT-3 growth factors receptor"
+],
+[
+"Alternative names",
+"GP145-TrkB; Neurotrophic tyrosine kinase receptor type 2; TrkB tyrosine kinase; Tropomyosin-related kinase B"
+],
+[
+"Function",
+"Receptor tyrosine kinase involved in the development and the maturation of the central and the peripheral nervous systems through regulation of neuron survival, proliferation, migration, differentiation, and synapse formation and plasticity. Receptor for BDNF/brain-derived neurotrophic factor and NTF4/neurotrophin-4."
+],
+[
+"Location",
+"Cell membrane, Endosome membrane, Early endosome membrane, Cell projection, axon, Cell projection, dendrite, Cytoplasm, perinuclear region, Postsynaptic density"
+],
+[
+"HGNC",
+"HGNC:8032"
+],
+[
+"HGNC symbol",
+"NTRK2"
+],
+[
+"Alias symbols",
+"TRKB"
+],
+[
+"Entrez",
+"4915"
+],
+[
+"Ensembl",
+"ENSG00000148053"
+],
+[
+"RefSeq",
+"NM_001007097"
+],
+[
+"UniProt",
+"Q16620"
+]
+]
+},
+{
+"label": "PLCG1",
+"class": "Macromolecule",
+"box": [
+995.4,
+325.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1"
+],
+[
+"Alternative names",
+"PLC-148; Phosphoinositide phospholipase C-gamma-1; Phospholipase C-II; Phospholipase C-gamma-1"
+],
+[
+"Function",
+"Mediates the production of the second messenger molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3). Plays an important role in the regulation of intracellular signaling cascades."
+],
+[
+"Location",
+"Cell projection, lamellipodium, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:9065"
+],
+[
+"HGNC symbol",
+"PLCG1"
+],
+[
+"Previous symbols",
+"PLC1"
+],
+[
+"Alias symbols",
+"PLC148, PLC-II, PLCgamma1, NCKAP3"
+],
+[
+"Entrez",
+"5335"
+],
+[
+"Ensembl",
+"ENSG00000124181"
+],
+[
+"RefSeq",
+"NM_182811"
+],
+[
+"UniProt",
+"P19174"
+]
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+732.0,
+212.5,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+},
+{
+"label": "NTRK2",
+"class": "Macromolecule",
+"box": [
+735.0,
+272.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"BDNF/NT-3 growth factors receptor"
+],
+[
+"Alternative names",
+"GP145-TrkB; Neurotrophic tyrosine kinase receptor type 2; TrkB tyrosine kinase; Tropomyosin-related kinase B"
+],
+[
+"Function",
+"Receptor tyrosine kinase involved in the development and the maturation of the central and the peripheral nervous systems through regulation of neuron survival, proliferation, migration, differentiation, and synapse formation and plasticity. Receptor for BDNF/brain-derived neurotrophic factor and NTF4/neurotrophin-4."
+],
+[
+"Location",
+"Cell membrane, Endosome membrane, Early endosome membrane, Cell projection, axon, Cell projection, dendrite, Cytoplasm, perinuclear region, Postsynaptic density"
+],
+[
+"HGNC",
+"HGNC:8032"
+],
+[
+"HGNC symbol",
+"NTRK2"
+],
+[
+"Alias symbols",
+"TRKB"
+],
+[
+"Entrez",
+"4915"
+],
+[
+"Ensembl",
+"ENSG00000148053"
+],
+[
+"RefSeq",
+"NM_001007097"
+],
+[
+"UniProt",
+"Q16620"
+]
+]
+},
+{
+"label": "PLCG1",
+"class": "Macromolecule",
+"box": [
+735.0,
+320.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1"
+],
+[
+"Alternative names",
+"PLC-148; Phosphoinositide phospholipase C-gamma-1; Phospholipase C-II; Phospholipase C-gamma-1"
+],
+[
+"Function",
+"Mediates the production of the second messenger molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3). Plays an important role in the regulation of intracellular signaling cascades."
+],
+[
+"Location",
+"Cell projection, lamellipodium, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:9065"
+],
+[
+"HGNC symbol",
+"PLCG1"
+],
+[
+"Previous symbols",
+"PLC1"
+],
+[
+"Alias symbols",
+"PLC148, PLC-II, PLCgamma1, NCKAP3"
+],
+[
+"Entrez",
+"5335"
+],
+[
+"Ensembl",
+"ENSG00000124181"
+],
+[
+"RefSeq",
+"NM_182811"
+],
+[
+"UniProt",
+"P19174"
+]
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+483.4,
+236.5,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+},
+{
+"label": "NTRK2",
+"class": "Macromolecule",
+"box": [
+486.4,
+296.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"BDNF/NT-3 growth factors receptor"
+],
+[
+"Alternative names",
+"GP145-TrkB; Neurotrophic tyrosine kinase receptor type 2; TrkB tyrosine kinase; Tropomyosin-related kinase B"
+],
+[
+"Function",
+"Receptor tyrosine kinase involved in the development and the maturation of the central and the peripheral nervous systems through regulation of neuron survival, proliferation, migration, differentiation, and synapse formation and plasticity. Receptor for BDNF/brain-derived neurotrophic factor and NTF4/neurotrophin-4."
+],
+[
+"Location",
+"Cell membrane, Endosome membrane, Early endosome membrane, Cell projection, axon, Cell projection, dendrite, Cytoplasm, perinuclear region, Postsynaptic density"
+],
+[
+"HGNC",
+"HGNC:8032"
+],
+[
+"HGNC symbol",
+"NTRK2"
+],
+[
+"Alias symbols",
+"TRKB"
+],
+[
+"Entrez",
+"4915"
+],
+[
+"Ensembl",
+"ENSG00000148053"
+],
+[
+"RefSeq",
+"NM_001007097"
+],
+[
+"UniProt",
+"Q16620"
+]
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+246.4,
+232.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+},
+{
+"label": "NTRK2",
+"class": "Macromolecule",
+"box": [
+249.4,
+292.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"BDNF/NT-3 growth factors receptor"
+],
+[
+"Alternative names",
+"GP145-TrkB; Neurotrophic tyrosine kinase receptor type 2; TrkB tyrosine kinase; Tropomyosin-related kinase B"
+],
+[
+"Function",
+"Receptor tyrosine kinase involved in the development and the maturation of the central and the peripheral nervous systems through regulation of neuron survival, proliferation, migration, differentiation, and synapse formation and plasticity. Receptor for BDNF/brain-derived neurotrophic factor and NTF4/neurotrophin-4."
+],
+[
+"Location",
+"Cell membrane, Endosome membrane, Early endosome membrane, Cell projection, axon, Cell projection, dendrite, Cytoplasm, perinuclear region, Postsynaptic density"
+],
+[
+"HGNC",
+"HGNC:8032"
+],
+[
+"HGNC symbol",
+"NTRK2"
+],
+[
+"Alias symbols",
+"TRKB"
+],
+[
+"Entrez",
+"4915"
+],
+[
+"Ensembl",
+"ENSG00000148053"
+],
+[
+"RefSeq",
+"NM_001007097"
+],
+[
+"UniProt",
+"Q16620"
+]
+]
+},
+{
+"label": "DAG",
+"class": "SimpleChemical",
+"box": [
+1270.7,
+347.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"diglyceride"
+],
+[
+"Synonyms",
+"Diacylglycerol; a diacylglycerol; di-O-acylglycerols; diacylglycerols; diglycerides"
+],
+[
+"Definition",
+"A glyceride that is glycerol in which any two of the hydroxy groups have been acylated. In the structure shown, two of the R groups (positions not specified) are acyl groups while the remaining R group can be either H or an alkyl group."
+],
+[
+"ChEBI",
+"CHEBI:18035"
+],
+[
+"KEGG",
+"C00165"
+]
+]
+},
+{
+"label": "PI(4,5)P2",
+"class": "SimpleChemical",
+"box": [
+1139.9,
+411.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"phosphatidylinositol bisphosphate"
+],
+[
+"Synonyms",
+"phosphatidylinositol bisphosphates"
+],
+[
+"ChEBI",
+"CHEBI:37328"
+]
+]
+},
+{
+"label": "I(1,4,5)P3",
+"class": "SimpleChemical",
+"box": [
+1465.7,
+411.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"1D-myo-inositol 1,4,5-trisphosphate"
+],
+[
+"Synonyms",
+"1,4,5-Insp3; 1D-myo-inositol 1,4,5-tris(dihydrogen phosphate); D-MYO-INOSITOL-1,4,5-TRIPHOSPHATE; D-myo-Inositol 1,4,5-trisphosphate; IP3; Inositol 1,4,5-trisphosphate; Ins(1,4,5)P3; InsP3"
+],
+[
+"Formula",
+"C6H15O15P3"
+],
+[
+"ChEBI",
+"CHEBI:16595"
+],
+[
+"KEGG",
+"C01245"
+],
+[
+"InChI",
+"InChI=1S/C6H15O15P3/c7-1-2(8)5(20-23(13,14)15)6(21-24(16,17)18)3(9)4(1)19-22(10,11)12/h1-9H,(H2,10,11,12)(H2,13,14,15)(H2,16,17,18)/t1-,2+,3+,4-,5-,6-/m1/s1"
+],
+[
+"InChIKey",
+"MMWCIQZXVOZEGG-XJTPDSDZSA-N"
+]
+]
+},
+{
+"label": "H2O",
+"class": "SimpleChemical",
+"box": [
+1212.7,
+347.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"water"
+],
+[
+"Synonyms",
+"BOUND WATER; H(2)O; H2O; HOH; Wasser; [OH2]; acqua; agua; aqua; dihydridooxygen; dihydrogen oxide; eau; hydrogen hydroxide; oxidane"
+],
+[
+"Definition",
+"An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms"
+],
+[
+"Formula",
+"H2O"
+],
+[
+"ChEBI",
+"CHEBI:15377"
+],
+[
+"KEGG",
+"C00001"
+],
+[
+"HMDB",
+"HMDB0002111"
+],
+[
+"InChI",
+"InChI=1S/H2O/h1H2"
+],
+[
+"InChIKey",
+"XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "CA2+",
+"class": "SimpleChemical",
+"box": [
+1767.2,
+753.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "PLCG1",
+"class": "Macromolecule",
+"box": [
+1221.7,
+272.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1"
+],
+[
+"Alternative names",
+"PLC-148; Phosphoinositide phospholipase C-gamma-1; Phospholipase C-II; Phospholipase C-gamma-1"
+],
+[
+"Function",
+"Mediates the production of the second messenger molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3). Plays an important role in the regulation of intracellular signaling cascades."
+],
+[
+"Location",
+"Cell projection, lamellipodium, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:9065"
+],
+[
+"HGNC symbol",
+"PLCG1"
+],
+[
+"Previous symbols",
+"PLC1"
+],
+[
+"Alias symbols",
+"PLC148, PLC-II, PLCgamma1, NCKAP3"
+],
+[
+"Entrez",
+"5335"
+],
+[
+"Ensembl",
+"ENSG00000124181"
+],
+[
+"RefSeq",
+"NM_182811"
+],
+[
+"UniProt",
+"P19174"
+]
+]
+},
+{
+"label": "NTRK2",
+"class": "Macromolecule",
+"box": [
+47.0,
+272.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"BDNF/NT-3 growth factors receptor"
+],
+[
+"Alternative names",
+"GP145-TrkB; Neurotrophic tyrosine kinase receptor type 2; TrkB tyrosine kinase; Tropomyosin-related kinase B"
+],
+[
+"Function",
+"Receptor tyrosine kinase involved in the development and the maturation of the central and the peripheral nervous systems through regulation of neuron survival, proliferation, migration, differentiation, and synapse formation and plasticity. Receptor for BDNF/brain-derived neurotrophic factor and NTF4/neurotrophin-4."
+],
+[
+"Location",
+"Cell membrane, Endosome membrane, Early endosome membrane, Cell projection, axon, Cell projection, dendrite, Cytoplasm, perinuclear region, Postsynaptic density"
+],
+[
+"HGNC",
+"HGNC:8032"
+],
+[
+"HGNC symbol",
+"NTRK2"
+],
+[
+"Alias symbols",
+"TRKB"
+],
+[
+"Entrez",
+"4915"
+],
+[
+"Ensembl",
+"ENSG00000148053"
+],
+[
+"RefSeq",
+"NM_001007097"
+],
+[
+"UniProt",
+"Q16620"
+]
+]
+},
+{
+"label": "PLCG1",
+"class": "Macromolecule",
+"box": [
+582.0,
+437.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1"
+],
+[
+"Alternative names",
+"PLC-148; Phosphoinositide phospholipase C-gamma-1; Phospholipase C-II; Phospholipase C-gamma-1"
+],
+[
+"Function",
+"Mediates the production of the second messenger molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3). Plays an important role in the regulation of intracellular signaling cascades."
+],
+[
+"Location",
+"Cell projection, lamellipodium, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:9065"
+],
+[
+"HGNC symbol",
+"PLCG1"
+],
+[
+"Previous symbols",
+"PLC1"
+],
+[
+"Alias symbols",
+"PLC148, PLC-II, PLCgamma1, NCKAP3"
+],
+[
+"Entrez",
+"5335"
+],
+[
+"Ensembl",
+"ENSG00000124181"
+],
+[
+"RefSeq",
+"NM_182811"
+],
+[
+"UniProt",
+"P19174"
+]
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+105.0,
+23.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+}
+]
+}

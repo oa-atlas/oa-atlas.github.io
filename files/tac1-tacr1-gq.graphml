@@ -1,0 +1,1310 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3">
+  <key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
+  <key attr.name="UniProt" attr.type="string" for="node" id="d2"/>
+  <key attr.name="HGNC" attr.type="string" for="node" id="d3"/>
+  <key for="node" id="ng" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="res" yfiles.type="resources"/>
+  <key for="edge" id="eg" yfiles.type="edgegraphics"/>
+  <key attr.name="Family" attr.type="string" for="node" id="d100"/>
+  <key attr.name="Members" attr.type="string" for="node" id="d101"/>
+  <key attr.name="Member annotation" attr.type="string" for="node" id="d102"/>
+  <graph edgedefault="directed" id="G"><node id="ca1" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="1052.0" width="1116.0" x="40.0" y="153.5"/>
+              <y:Fill color="#99999908" transparent="false"/>
+              <y:BorderStyle color="#999999" type="line" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tr" textColor="#000000" verticalTextPosition="top" visible="true" width="237.5" x="1194.5" xml:space="preserve" y="795.5" hasText="true">SPINAL NOCICEPTIVE NEURON</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="14" topF="14.0"/>
+              <y:BorderInsets bottom="18" bottomF="17.5" left="17" leftF="17.0" right="17" rightF="17.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="820.0" width="1436.0" x="112.0" y="1116.5"/>
+              <y:Fill color="#99999908" transparent="false"/>
+              <y:BorderStyle color="#999999" type="line" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.77734375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="br" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.7275390625" x="1382.2724609375" xml:space="preserve" y="800.22265625">CYTOSOL</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="2" bottomF="1.72265625" left="17" leftF="17.0" right="17" rightF="17.0" top="20" topF="19.5"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="ca1:"><node id="csa48" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="243.0" width="240.0" x="456.0" y="188.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.421875" x="84.2890625" y="94.75">TACR1:Gq</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6410.727182539682" y="-6878.706228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.421875" x="4.2890625" xml:space="preserve" y="8.0" hasText="true">TACR1:Gq</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="csa48:"><node id="sa528_c" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="468.0" y="254.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.0" x="19.5" y="94.75">Gqα:GDP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6516.727182539682" y="-6903.956228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.0" x="7.5" xml:space="preserve" y="8.0" hasText="true">Gqα:GDP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="sa528_c:"><node id="sa528"><data key="d100">G protein subunits alpha q</data><data key="d101">GNAQ; GNA11; GNA14; GNA15</data><data key="d102">[{"symbol": "GNAQ", "props": [["HGNC", "HGNC:4390"], ["HGNC symbol", "GNAQ"], ["UniProt", "P50148"]]}, {"symbol": "GNA11", "props": [["HGNC", "HGNC:4379"], ["HGNC symbol", "GNA11"], ["UniProt", "P29992"]]}, {"symbol": "GNA14", "props": [["HGNC", "HGNC:4382"], ["HGNC symbol", "GNA14"], ["UniProt", "O95837"]]}, {"symbol": "GNA15", "props": [["HGNC", "HGNC:4383"], ["HGNC symbol", "GNA15"], ["UniProt", "P30679"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="480.0" y="270.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa528_GDP"><data key="d0">CHEBI:17552</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="500.0" y="318.0"/>
+          <y:Fill color="#F0EDDE" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GDP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node></graph></node><node id="csa48_bg" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="580.0" y="254.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.28125" x="21.859375" y="94.75">Gqβ:Gqγ</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6354.727182539682" y="-6863.956228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.28125" x="9.859375" xml:space="preserve" y="8.0" hasText="true">Gqβ:Gqγ</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="csa48_bg:"><node id="sa529"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="592.0" y="270.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqβ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa530"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="592.0" y="318.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqγ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node></graph></node><node id="sa540"><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="480.0" y="204.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">TAC1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa541"><data key="d3">HGNC:11526</data><data key="d1">TACR1</data><data key="d2">P25103</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="592.0" y="204.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">TACR1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node></graph></node><node id="csa80" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="343.5" width="128.0" x="313.0" y="550.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="101.984375" x="13.0078125" y="57.75">Gq heterotrimer</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6429.727182539682" y="-6826.456228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="101.984375" x="-10.9921875" xml:space="preserve" y="8.0" hasText="true">Gq heterotrimer</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="csa80:"><node id="csa80_bg" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="325.0" y="716.5"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.28125" x="21.859375" y="94.75">Gqβ:Gqγ</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6609.727182539682" y="-6401.456228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.28125" x="9.859375" xml:space="preserve" y="8.0" hasText="true">Gqβ:Gqγ</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="csa80_bg:"><node id="sa770"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="337.0" y="732.5"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqβ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa772"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="337.0" y="780.5"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqγ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node></graph></node><node id="sa771_c" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="325.0" y="566.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.0" x="19.5" y="94.75">Gqα:GDP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6469.727182539682" y="-6931.956228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.0" x="7.5" xml:space="preserve" y="8.0" hasText="true">Gqα:GDP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="sa771_c:"><node id="sa771"><data key="d100">G protein subunits alpha q</data><data key="d101">GNAQ; GNA11; GNA14; GNA15</data><data key="d102">[{"symbol": "GNAQ", "props": [["HGNC", "HGNC:4390"], ["HGNC symbol", "GNAQ"], ["UniProt", "P50148"]]}, {"symbol": "GNA11", "props": [["HGNC", "HGNC:4379"], ["HGNC symbol", "GNA11"], ["UniProt", "P29992"]]}, {"symbol": "GNA14", "props": [["HGNC", "HGNC:4382"], ["HGNC symbol", "GNA14"], ["UniProt", "O95837"]]}, {"symbol": "GNA15", "props": [["HGNC", "HGNC:4383"], ["HGNC symbol", "GNA15"], ["UniProt", "P30679"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="337.0" y="582.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa771_GDP"><data key="d0">CHEBI:17552</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="357.0" y="630.0"/>
+          <y:Fill color="#F0EDDE" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GDP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node></graph></node></graph></node><node id="csa49" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="243.0" width="240.0" x="854.0" y="188.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.421875" x="84.2890625" y="94.75">TACR1:Gq</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6332.727182539682" y="-6878.706228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.421875" x="4.2890625" xml:space="preserve" y="8.0" hasText="true">TACR1:Gq</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="csa49:"><node id="csa49_bg" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="978.0" y="254.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.28125" x="21.859375" y="94.75">Gqβ:Gqγ</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-5956.727182539682" y="-6863.956228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.28125" x="9.859375" xml:space="preserve" y="8.0" hasText="true">Gqβ:Gqγ</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="csa49_bg:"><node id="sa533"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="990.0" y="270.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqβ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa534"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="990.0" y="318.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqγ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node></graph></node><node id="sa535_c" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="866.0" y="254.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.4375" x="20.28125" y="94.75">Gqα:GTP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6438.727182539682" y="-6903.956228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.4375" x="8.28125" xml:space="preserve" y="8.0" hasText="true">Gqα:GTP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="sa535_c:"><node id="sa535"><data key="d100">G protein subunits alpha q</data><data key="d101">GNAQ; GNA11; GNA14; GNA15</data><data key="d102">[{"symbol": "GNAQ", "props": [["HGNC", "HGNC:4390"], ["HGNC symbol", "GNAQ"], ["UniProt", "P50148"]]}, {"symbol": "GNA11", "props": [["HGNC", "HGNC:4379"], ["HGNC symbol", "GNA11"], ["UniProt", "P29992"]]}, {"symbol": "GNA14", "props": [["HGNC", "HGNC:4382"], ["HGNC symbol", "GNA14"], ["UniProt", "O95837"]]}, {"symbol": "GNA15", "props": [["HGNC", "HGNC:4383"], ["HGNC symbol", "GNA15"], ["UniProt", "P30679"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="878.0" y="270.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa535_GTP"><data key="d0">CHEBI:15996</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="898.0" y="318.0"/>
+          <y:Fill color="#F0EDDE" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node></graph></node><node id="sa542"><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="878.0" y="204.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">TAC1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa543"><data key="d3">HGNC:11526</data><data key="d1">TACR1</data><data key="d2">P25103</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="990.0" y="204.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">TACR1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node></graph></node><node id="csa75" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="243.0" width="128.0" x="910.0" y="930.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.234375" x="28.3828125" y="64.75">PLCB:Gqα</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6692.727182539682" y="-6656.706228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.234375" x="4.3828125" xml:space="preserve" y="8.0" hasText="true">PLCB:Gqα</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="csa75:"><node id="sa744"><data key="d100">Phospholipases C beta</data><data key="d101">PLCB1; PLCB2; PLCB3; PLCB4</data><data key="d102">[{"symbol": "PLCB1", "props": [["HGNC", "HGNC:15917"], ["HGNC symbol", "PLCB1"], ["UniProt", "Q9NQ66"]]}, {"symbol": "PLCB2", "props": [["HGNC", "HGNC:9055"], ["HGNC symbol", "PLCB2"], ["UniProt", "Q00722"]]}, {"symbol": "PLCB3", "props": [["HGNC", "HGNC:9056"], ["HGNC symbol", "PLCB3"], ["UniProt", "Q01970"]]}, {"symbol": "PLCB4", "props": [["HGNC", "HGNC:9059"], ["HGNC symbol", "PLCB4"], ["UniProt", "Q15147"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="934.0" y="1096.5"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">PLCB<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa745_c" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="922.0" y="946.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.4375" x="20.28125" y="94.75">Gqα:GTP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6692.727182539682" y="-6706.956228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.4375" x="8.28125" xml:space="preserve" y="8.0" hasText="true">Gqα:GTP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="sa745_c:"><node id="sa745"><data key="d100">G protein subunits alpha q</data><data key="d101">GNAQ; GNA11; GNA14; GNA15</data><data key="d102">[{"symbol": "GNAQ", "props": [["HGNC", "HGNC:4390"], ["HGNC symbol", "GNAQ"], ["UniProt", "P50148"]]}, {"symbol": "GNA11", "props": [["HGNC", "HGNC:4379"], ["HGNC symbol", "GNA11"], ["UniProt", "P29992"]]}, {"symbol": "GNA14", "props": [["HGNC", "HGNC:4382"], ["HGNC symbol", "GNA14"], ["UniProt", "O95837"]]}, {"symbol": "GNA15", "props": [["HGNC", "HGNC:4383"], ["HGNC symbol", "GNA15"], ["UniProt", "P30679"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="934.0" y="962.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa745_GTP"><data key="d0">CHEBI:15996</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="954.0" y="1010.0"/>
+          <y:Fill color="#F0EDDE" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node></graph></node></graph></node><node id="csa46" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="252.0" y="239.25"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.5" x="8.25" y="59.75">TAC1:TACR1</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6402.727182539682" y="-6878.706228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.5" x="-3.75" xml:space="preserve" y="8.0" hasText="true">TAC1:TACR1</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="csa46:"><node id="sa538"><data key="d3">HGNC:11526</data><data key="d1">TACR1</data><data key="d2">P25103</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="264.0" y="303.25"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">TACR1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa539"><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="264.0" y="255.25"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">TAC1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node></graph></node><node id="csa79" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="505.0" y="471.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.28125" x="21.859375" y="31.75">Gqβ:Gqγ</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6469.727182539682" y="-6886.956228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.28125" x="9.859375" xml:space="preserve" y="8.0" hasText="true">Gqβ:Gqγ</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="csa79:"><node id="sa768"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="517.0" y="535.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqγ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa769"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="517.0" y="487.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqβ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node></graph></node><node id="sa517"><data key="d3">HGNC:11526</data><data key="d1">TACR1</data><data key="d2">P25103</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="72.0" y="289.5"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">TACR1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa521"><data key="d0">CHEBI:15996</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="726.0" y="353.5"/>
+          <y:Fill color="#F0EDDE" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="sa522"><data key="d0">CHEBI:17552</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="784.0" y="353.5"/>
+          <y:Fill color="#F0EDDE" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GDP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="sa733"><data key="d100">Phospholipases C beta</data><data key="d101">PLCB1; PLCB2; PLCB3; PLCB4</data><data key="d102">[{"symbol": "PLCB1", "props": [["HGNC", "HGNC:15917"], ["HGNC symbol", "PLCB1"], ["UniProt", "Q9NQ66"]]}, {"symbol": "PLCB2", "props": [["HGNC", "HGNC:9055"], ["HGNC symbol", "PLCB2"], ["UniProt", "Q00722"]]}, {"symbol": "PLCB3", "props": [["HGNC", "HGNC:9056"], ["HGNC symbol", "PLCB3"], ["UniProt", "Q01970"]]}, {"symbol": "PLCB4", "props": [["HGNC", "HGNC:9059"], ["HGNC symbol", "PLCB4"], ["UniProt", "Q15147"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="1044.0" y="831.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">PLCB<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa752"><data key="d3">HGNC:11526</data><data key="d1">TACR1</data><data key="d2">P25103</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="1044.0" y="577.25"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">TACR1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa753"><data key="d0">CHEBI:24838</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="786.0" y="641.75"/>
+          <y:Fill color="#F0EDDE" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="19.0" x="10.5" xml:space="preserve" y="9.75" hasText="true">Pi<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="sa754_c" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="922.0" y="651.5"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.4375" x="20.28125" y="94.75">Gqα:GTP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6332.727182539682" y="-6876.456228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.4375" x="8.28125" xml:space="preserve" y="8.0" hasText="true">Gqα:GTP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="sa754_c:"><node id="sa754"><data key="d100">G protein subunits alpha q</data><data key="d101">GNAQ; GNA11; GNA14; GNA15</data><data key="d102">[{"symbol": "GNAQ", "props": [["HGNC", "HGNC:4390"], ["HGNC symbol", "GNAQ"], ["UniProt", "P50148"]]}, {"symbol": "GNA11", "props": [["HGNC", "HGNC:4379"], ["HGNC symbol", "GNA11"], ["UniProt", "P29992"]]}, {"symbol": "GNA14", "props": [["HGNC", "HGNC:4382"], ["HGNC symbol", "GNA14"], ["UniProt", "O95837"]]}, {"symbol": "GNA15", "props": [["HGNC", "HGNC:4383"], ["HGNC symbol", "GNA15"], ["UniProt", "P30679"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="934.0" y="667.5"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa754_GTP"><data key="d0">CHEBI:15996</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="954.0" y="715.5"/>
+          <y:Fill color="#F0EDDE" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node></graph></node><node id="sa755_c" yfiles.foldertype="group"><data key="ng">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="140.5" width="104.0" x="615.0" y="651.5"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.0" x="19.5" y="94.75">Gqα:GDP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
+              <y:Geometry height="100.5" width="80.0" x="-6439.727182539682" y="-6876.456228406963"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.0" x="7.5" xml:space="preserve" y="8.0" hasText="true">Gqα:GDP</y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
+              </y:StyleProperties>
+              <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
+              <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
+              <y:BorderInsets bottom="2" bottomF="2.3671875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="sa755_c:"><node id="sa755"><data key="d100">G protein subunits alpha q</data><data key="d101">GNAQ; GNA11; GNA14; GNA15</data><data key="d102">[{"symbol": "GNAQ", "props": [["HGNC", "HGNC:4390"], ["HGNC symbol", "GNAQ"], ["UniProt", "P50148"]]}, {"symbol": "GNA11", "props": [["HGNC", "HGNC:4379"], ["HGNC symbol", "GNA11"], ["UniProt", "P29992"]]}, {"symbol": "GNA14", "props": [["HGNC", "HGNC:4382"], ["HGNC symbol", "GNA14"], ["UniProt", "O95837"]]}, {"symbol": "GNA15", "props": [["HGNC", "HGNC:4383"], ["HGNC symbol", "GNA15"], ["UniProt", "P30679"]]}]</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="627.0" y="667.5"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gqα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="sa755_GDP"><data key="d0">CHEBI:17552</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40.0" width="40.0" x="647.0" y="715.5"/>
+          <y:Fill color="#F0EDDE" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GDP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node></graph></node><node id="sa756"><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="795.0" y="800.0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">RGS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="re186"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="397.0" y="300.5"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="re187"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="766.0" y="300.5"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="re189"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="193.0" y="300.5"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="re238"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="965.0" y="871.0"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="re240"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="826.0" y="712.75"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="re241"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="519.0" y="712.75"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="re243"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="965.0" y="503.25"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node></graph></node><node id="sa516"><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="133.0" y="40.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">TAC1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><edge id="re186_csa46" source="csa46" target="re186">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re186_csa48" source="re186" target="csa48">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re186_csa80" source="csa80" target="re186">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="377.0" y="309.5"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re187_csa48" source="csa48" target="re187">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re187_csa49" source="re187" target="csa49">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re187_sa521" source="sa521" target="re187">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="746.0" y="309.5"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re187_sa522" source="re187" target="sa522">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="804.0" y="309.5"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re189_sa517" source="sa517" target="re189">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re189_csa46" source="re189" target="csa46">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re189_sa516" source="sa516" target="re189">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="173.0" y="309.5"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re238_sa733" source="sa733" target="re238">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="974.0" y="851.0"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re238_csa75" source="re238" target="csa75">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re238_sa754" source="sa754_c" target="re238">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re240_sa754" source="sa754_c" target="re240">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re240_sa755" source="re240" target="sa755_c">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re240_sa753" source="re240" target="sa753">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="806.0" y="721.75"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re240_sa756_catalysis" source="sa756" target="re240">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="white_circle"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re241_sa755" source="sa755_c" target="re241">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re241_csa80" source="re241" target="csa80">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re241_csa79" source="csa79" target="re241">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="557.0" y="721.75"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re243_csa49" source="csa49" target="re243">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re243_sa754" source="re243" target="sa754_c">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re243_csa79" source="re243" target="csa79">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="974.0" y="541.25"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re243_sa752" source="re243" target="sa752">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="974.0" y="597.25"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="re243_sa1124" source="re243" target="sa1124">
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="974.0" y="541.25"/><y:Point x="1134.0" y="541.25"/></y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <node id="sa1124"><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40.0" width="80.0" x="1094.0" y="40.0"/>
+              <y:Fill color="#C5D8E5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">TAC1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node></graph>
+  <data key="res">
+    <y:Resources><y:Resource id="1">
+        <yed:NodeRealizerIcon>
+          <y:GenericNode configuration="com.yworks.sbgn.UnitOfInformation">
+            <y:Geometry height="16.0" width="25.0" x="0.0" y="0.0"/>
+            <y:Fill color="#FFFFFF" transparent="false"/>
+            <y:BorderStyle color="#000000" type="line" width="1.0"/>
+            <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.785714285714286" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="20.357142857142858" x="2.321428571428571" xml:space="preserve" y="0.10714285714285676" hasText="true">N:4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          </y:GenericNode>
+        </yed:NodeRealizerIcon>
+      </y:Resource>
+      <y:Resource id="2">
+        <yed:NodeRealizerIcon>
+          <y:GenericNode configuration="com.yworks.sbgn.StateVariable">
+            <y:Geometry height="18.0" width="29.0" x="0.0" y="0.0"/>
+            <y:Fill color="#FFFFFF" transparent="false"/>
+            <y:BorderStyle color="#000000" type="line" width="1.0"/>
+            <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.785714285714286" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="20.357142857142858" x="4.321428571428571" xml:space="preserve" y="1.1071428571428568" hasText="true">GDP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          </y:GenericNode>
+        </yed:NodeRealizerIcon>
+      </y:Resource>
+      <y:Resource id="3">
+        <yed:NodeRealizerIcon>
+          <y:GenericNode configuration="com.yworks.sbgn.UnitOfInformation">
+            <y:Geometry height="16.0" width="25.0" x="0.0" y="0.0"/>
+            <y:Fill color="#FFFFFF" transparent="false"/>
+            <y:BorderStyle color="#000000" type="line" width="1.0"/>
+            <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.785714285714286" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="20.357142857142858" x="2.321428571428571" xml:space="preserve" y="0.10714285714285676" hasText="true">N:2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          </y:GenericNode>
+        </yed:NodeRealizerIcon>
+      </y:Resource>
+      <y:Resource id="4">
+        <yed:NodeRealizerIcon>
+          <y:GenericNode configuration="com.yworks.sbgn.StateVariable">
+            <y:Geometry height="18.0" width="29.0" x="0.0" y="0.0"/>
+            <y:Fill color="#FFFFFF" transparent="false"/>
+            <y:BorderStyle color="#000000" type="line" width="1.0"/>
+            <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.785714285714286" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="20.357142857142858" x="4.321428571428571" xml:space="preserve" y="1.1071428571428568" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          </y:GenericNode>
+        </yed:NodeRealizerIcon>
+      </y:Resource>
+      <y:Resource id="5">
+        <yed:NodeRealizerIcon>
+          <y:GenericNode configuration="com.yworks.sbgn.StateVariable">
+            <y:Geometry height="18.0" width="18.0" x="0.0" y="0.0"/>
+            <y:Fill color="#FFFFFF" transparent="false"/>
+            <y:BorderStyle color="#000000" type="line" width="1.0"/>
+            <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.785714285714286" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="6.785714285714286" x="5.607142857142858" xml:space="preserve" y="1.1071428571428568" hasText="true">P<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          </y:GenericNode>
+        </yed:NodeRealizerIcon>
+      </y:Resource>
+      <y:Resource id="6">
+        <yed:NodeRealizerIcon>
+          <y:GenericNode configuration="com.yworks.sbgn.UnitOfInformation">
+            <y:Geometry height="16.0" width="25.0" x="0.0" y="0.0"/>
+            <y:Fill color="#FFFFFF" transparent="false"/>
+            <y:BorderStyle color="#000000" type="line" width="1.0"/>
+            <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.785714285714286" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="20.357142857142858" x="2.321428571428571" xml:space="preserve" y="0.10714285714285676" hasText="true">N:3<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          </y:GenericNode>
+        </yed:NodeRealizerIcon>
+      </y:Resource>
+      <y:Resource id="7">
+        <yed:NodeRealizerIcon>
+          <y:GenericNode configuration="com.yworks.sbgn.StateVariable">
+            <y:Geometry height="18.0" width="45.0" x="0.0" y="0.0"/>
+            <y:Fill color="#FFFFFF" transparent="false"/>
+            <y:BorderStyle color="#000000" type="line" width="1.0"/>
+            <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.785714285714286" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="40.714285714285715" x="2.1428571428571423" xml:space="preserve" y="1.1071428571428568" hasText="true">active<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          </y:GenericNode>
+        </yed:NodeRealizerIcon>
+      </y:Resource>
+      </y:Resources>
+  </data>
+</graphml>

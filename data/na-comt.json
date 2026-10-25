@@ -1,0 +1,128 @@
+{
+"nodes": [
+{
+"label": "Noradrenaline",
+"class": "SimpleChemical",
+"box": [
+56.8,
+105.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"noradrenaline"
+],
+[
+"Synonyms",
+"4-(2-amino-1-hydroxyethyl)benzene-1,2-diol; noradrenalina; norepinephrine"
+],
+[
+"Definition",
+"A catecholamine in which C-1 of the aminoethyl side-chain is hydroxy-substituted."
+],
+[
+"Formula",
+"C8H11NO3"
+],
+[
+"ChEBI",
+"CHEBI:33569"
+],
+[
+"InChI",
+"InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2"
+],
+[
+"InChIKey",
+"SFLSHLFXELFNJZ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "COMT",
+"class": "Macromolecule",
+"box": [
+148.5,
+15.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Catechol O-methyltransferase"
+],
+[
+"Function",
+"Catalyzes the O-methylation, and thereby the inactivation, of catecholamine neurotransmitters and catechol hormones. Also shortens the biological half-lives of certain neuroactive drugs, like L-DOPA, alpha-methyl DOPA and isoproterenol"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2228"
+],
+[
+"HGNC symbol",
+"COMT"
+],
+[
+"Entrez",
+"1312"
+],
+[
+"Ensembl",
+"ENSG00000093010"
+],
+[
+"RefSeq",
+"NM_000754"
+],
+[
+"UniProt",
+"P21964"
+]
+]
+},
+{
+"label": "Normetanephrine",
+"class": "SimpleChemical",
+"box": [
+289.8,
+105.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Normetanephrine"
+],
+[
+"Formula",
+"C9H13NO3"
+],
+[
+"ChEBI",
+"CHEBI:89951"
+],
+[
+"HMDB",
+"HMDB0000819"
+],
+[
+"InChI",
+"InChI=1S/C9H13NO3/c1-13-9-4-6(8(12)5-10)2-3-7(9)11/h2-4,8,11-12H,5,10H2,1H3"
+],
+[
+"InChIKey",
+"YNYAYWLBAHXHLL-UHFFFAOYSA-N"
+]
+]
+}
+]
+}

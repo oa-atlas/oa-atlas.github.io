@@ -1,0 +1,1060 @@
+{
+"nodes": [
+{
+"label": "CGRP",
+"class": "Macromolecule",
+"box": [
+337.0,
+449.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"Calcitonin gene-related peptides"
+],
+[
+"Members",
+"CALCA; CALCB"
+]
+],
+"members": [
+{
+"symbol": "CALCA",
+"props": [
+[
+"Full name",
+"Calcitonin"
+],
+[
+"Function",
+"Calcitonin is a peptide hormone that causes a rapid but short-lived drop in the level of calcium and phosphate in blood by promoting the incorporation of those ions in the bones. Calcitonin function is mediated by the calcitonin receptor/CALCR and the CALCR-RAMP2 (AMYR2) receptor complex"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1437"
+],
+[
+"HGNC symbol",
+"CALCA"
+],
+[
+"Previous symbols",
+"CALC1"
+],
+[
+"Alias symbols",
+"CGRP, CGRP-alpha"
+],
+[
+"Entrez",
+"796"
+],
+[
+"Ensembl",
+"ENSG00000110680"
+],
+[
+"RefSeq",
+"NM_001741"
+],
+[
+"UniProt",
+"P01258"
+]
+]
+},
+{
+"symbol": "CALCB",
+"props": [
+[
+"Full name",
+"Calcitonin gene-related peptide 2"
+],
+[
+"Alternative names",
+"Beta-type CGRP; Calcitonin gene-related peptide II"
+],
+[
+"Function",
+"CALCB/CGRP2 is a peptide hormone that induces vasodilation mediated by the CALCRL-RAMP1 receptor complex. Dilates a variety of vessels including the coronary, cerebral and systemic vasculature."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1438"
+],
+[
+"HGNC symbol",
+"CALCB"
+],
+[
+"Previous symbols",
+"CALC2"
+],
+[
+"Alias symbols",
+"FLJ30166, CGRP-II"
+],
+[
+"Entrez",
+"797"
+],
+[
+"Ensembl",
+"ENSG00000175868"
+],
+[
+"RefSeq",
+"NM_000728"
+],
+[
+"UniProt",
+"P10092"
+]
+]
+}
+]
+},
+{
+"label": "Glutamate",
+"class": "SimpleChemical",
+"box": [
+377.0,
+55.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glutamate(1-)"
+],
+[
+"Synonyms",
+"2-ammoniopentanedioate; glutamate; glutamic acid monoanion; hydrogen glutamate"
+],
+[
+"Definition",
+"An α-amino-acid anion that is the conjugate base of glutamic acid, having anionic carboxy groups and a cationic amino group"
+],
+[
+"Formula",
+"C5H8NO4"
+],
+[
+"ChEBI",
+"CHEBI:14321"
+],
+[
+"InChI",
+"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1"
+],
+[
+"InChIKey",
+"WHUUTDBJXJRKMK-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "TAC1",
+"class": "Macromolecule",
+"box": [
+337.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protachykinin-1"
+],
+[
+"Alternative names",
+"PPT"
+],
+[
+"Function",
+"Tachykinins are active peptides which excite neurons, evoke behavioral responses, are potent vasodilators and secretagogues, and contract (directly or indirectly) many smooth muscles"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:11517"
+],
+[
+"HGNC symbol",
+"TAC1"
+],
+[
+"Previous symbols",
+"TAC2, NKNA"
+],
+[
+"Alias symbols",
+"NPK"
+],
+[
+"Entrez",
+"6863"
+],
+[
+"Ensembl",
+"ENSG00000006128"
+],
+[
+"RefSeq",
+"NM_003182"
+],
+[
+"UniProt",
+"P20366"
+]
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+337.0,
+579.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+},
+{
+"label": "CALCRL",
+"class": "Macromolecule",
+"box": [
+878.0,
+519.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcitonin gene-related peptide type 1 receptor"
+],
+[
+"Alternative names",
+"Calcitonin receptor-like receptor"
+],
+[
+"Function",
+"G protein-coupled receptor which specificity is determined by its interaction with receptor-activity-modifying proteins (RAMPs). Together with RAMP1, form the receptor complex for calcitonin-gene-related peptides CALCA/CGRP1 and CALCB/CGRP2."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:16709"
+],
+[
+"HGNC symbol",
+"CALCRL"
+],
+[
+"Alias symbols",
+"CGRPR, CRLR"
+],
+[
+"Entrez",
+"10203"
+],
+[
+"Ensembl",
+"ENSG00000064989"
+],
+[
+"RefSeq",
+"NM_005795"
+],
+[
+"UniProt",
+"Q16602"
+]
+]
+},
+{
+"label": "RAMP1",
+"class": "Macromolecule",
+"box": [
+878.0,
+567.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Receptor activity-modifying protein 1"
+],
+[
+"Alternative names",
+"Calcitonin-receptor-like receptor activity-modifying protein 1"
+],
+[
+"Function",
+"Accessory protein that interacts with and modulates the function of G protein-coupled receptors including calcitonin gene-related peptide type 1 receptor (CALCRL) and calcitonin receptor (CALCR). Required for the transport of CALCRL to the plasma membrane."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9843"
+],
+[
+"HGNC symbol",
+"RAMP1"
+],
+[
+"Entrez",
+"10267"
+],
+[
+"Ensembl",
+"ENSG00000132329"
+],
+[
+"RefSeq",
+"NM_005855"
+],
+[
+"UniProt",
+"O60894"
+]
+]
+},
+{
+"label": "MRGPRX2",
+"class": "Macromolecule",
+"box": [
+878.0,
+121.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mas-related G protein-coupled receptor member X2"
+],
+[
+"Function",
+"Mast cell-specific G protein-coupled receptor for basic secretagogues, which regulates mast cell degranulation and itch-related hypersensitivity reactions. A secretagogue is an agent that promotes the secretion of hormones, neurohormones, chemical neurotransmitters or other compounds synthesized and secreted by cells."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:17983"
+],
+[
+"HGNC symbol",
+"MRGPRX2"
+],
+[
+"Alias symbols",
+"MRGX2"
+],
+[
+"Entrez",
+"117194"
+],
+[
+"Ensembl",
+"ENSG00000183695"
+],
+[
+"RefSeq",
+"NM_054030"
+],
+[
+"UniProt",
+"Q96LB1"
+]
+]
+},
+{
+"label": "TAC1",
+"class": "Macromolecule",
+"box": [
+1009.0,
+150.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protachykinin-1"
+],
+[
+"Alternative names",
+"PPT"
+],
+[
+"Function",
+"Tachykinins are active peptides which excite neurons, evoke behavioral responses, are potent vasodilators and secretagogues, and contract (directly or indirectly) many smooth muscles"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:11517"
+],
+[
+"HGNC symbol",
+"TAC1"
+],
+[
+"Previous symbols",
+"TAC2, NKNA"
+],
+[
+"Alias symbols",
+"NPK"
+],
+[
+"Entrez",
+"6863"
+],
+[
+"Ensembl",
+"ENSG00000006128"
+],
+[
+"RefSeq",
+"NM_003182"
+],
+[
+"UniProt",
+"P20366"
+]
+]
+},
+{
+"label": "MRGPRX2",
+"class": "Macromolecule",
+"box": [
+1009.0,
+198.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mas-related G protein-coupled receptor member X2"
+],
+[
+"Function",
+"Mast cell-specific G protein-coupled receptor for basic secretagogues, which regulates mast cell degranulation and itch-related hypersensitivity reactions. A secretagogue is an agent that promotes the secretion of hormones, neurohormones, chemical neurotransmitters or other compounds synthesized and secreted by cells."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:17983"
+],
+[
+"HGNC symbol",
+"MRGPRX2"
+],
+[
+"Alias symbols",
+"MRGX2"
+],
+[
+"Entrez",
+"117194"
+],
+[
+"Ensembl",
+"ENSG00000183695"
+],
+[
+"RefSeq",
+"NM_054030"
+],
+[
+"UniProt",
+"Q96LB1"
+]
+]
+},
+{
+"label": "CGRP",
+"class": "Macromolecule",
+"box": [
+1024.7,
+364.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"Calcitonin gene-related peptides"
+],
+[
+"Members",
+"CALCA; CALCB"
+]
+],
+"members": [
+{
+"symbol": "CALCA",
+"props": [
+[
+"Full name",
+"Calcitonin"
+],
+[
+"Function",
+"Calcitonin is a peptide hormone that causes a rapid but short-lived drop in the level of calcium and phosphate in blood by promoting the incorporation of those ions in the bones. Calcitonin function is mediated by the calcitonin receptor/CALCR and the CALCR-RAMP2 (AMYR2) receptor complex"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1437"
+],
+[
+"HGNC symbol",
+"CALCA"
+],
+[
+"Previous symbols",
+"CALC1"
+],
+[
+"Alias symbols",
+"CGRP, CGRP-alpha"
+],
+[
+"Entrez",
+"796"
+],
+[
+"Ensembl",
+"ENSG00000110680"
+],
+[
+"RefSeq",
+"NM_001741"
+],
+[
+"UniProt",
+"P01258"
+]
+]
+},
+{
+"symbol": "CALCB",
+"props": [
+[
+"Full name",
+"Calcitonin gene-related peptide 2"
+],
+[
+"Alternative names",
+"Beta-type CGRP; Calcitonin gene-related peptide II"
+],
+[
+"Function",
+"CALCB/CGRP2 is a peptide hormone that induces vasodilation mediated by the CALCRL-RAMP1 receptor complex. Dilates a variety of vessels including the coronary, cerebral and systemic vasculature."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1438"
+],
+[
+"HGNC symbol",
+"CALCB"
+],
+[
+"Previous symbols",
+"CALC2"
+],
+[
+"Alias symbols",
+"FLJ30166, CGRP-II"
+],
+[
+"Entrez",
+"797"
+],
+[
+"Ensembl",
+"ENSG00000175868"
+],
+[
+"RefSeq",
+"NM_000728"
+],
+[
+"UniProt",
+"P10092"
+]
+]
+}
+]
+},
+{
+"label": "CALCRL",
+"class": "Macromolecule",
+"box": [
+1024.7,
+430.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcitonin gene-related peptide type 1 receptor"
+],
+[
+"Alternative names",
+"Calcitonin receptor-like receptor"
+],
+[
+"Function",
+"G protein-coupled receptor which specificity is determined by its interaction with receptor-activity-modifying proteins (RAMPs). Together with RAMP1, form the receptor complex for calcitonin-gene-related peptides CALCA/CGRP1 and CALCB/CGRP2."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:16709"
+],
+[
+"HGNC symbol",
+"CALCRL"
+],
+[
+"Alias symbols",
+"CGRPR, CRLR"
+],
+[
+"Entrez",
+"10203"
+],
+[
+"Ensembl",
+"ENSG00000064989"
+],
+[
+"RefSeq",
+"NM_005795"
+],
+[
+"UniProt",
+"Q16602"
+]
+]
+},
+{
+"label": "RAMP1",
+"class": "Macromolecule",
+"box": [
+1024.7,
+478.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Receptor activity-modifying protein 1"
+],
+[
+"Alternative names",
+"Calcitonin-receptor-like receptor activity-modifying protein 1"
+],
+[
+"Function",
+"Accessory protein that interacts with and modulates the function of G protein-coupled receptors including calcitonin gene-related peptide type 1 receptor (CALCRL) and calcitonin receptor (CALCR). Required for the transport of CALCRL to the plasma membrane."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9843"
+],
+[
+"HGNC symbol",
+"RAMP1"
+],
+[
+"Entrez",
+"10267"
+],
+[
+"Ensembl",
+"ENSG00000132329"
+],
+[
+"RefSeq",
+"NM_005855"
+],
+[
+"UniProt",
+"O60894"
+]
+]
+},
+{
+"label": "CGRP",
+"class": "Macromolecule",
+"box": [
+647.0,
+449.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"Calcitonin gene-related peptides"
+],
+[
+"Members",
+"CALCA; CALCB"
+]
+],
+"members": [
+{
+"symbol": "CALCA",
+"props": [
+[
+"Full name",
+"Calcitonin"
+],
+[
+"Function",
+"Calcitonin is a peptide hormone that causes a rapid but short-lived drop in the level of calcium and phosphate in blood by promoting the incorporation of those ions in the bones. Calcitonin function is mediated by the calcitonin receptor/CALCR and the CALCR-RAMP2 (AMYR2) receptor complex"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1437"
+],
+[
+"HGNC symbol",
+"CALCA"
+],
+[
+"Previous symbols",
+"CALC1"
+],
+[
+"Alias symbols",
+"CGRP, CGRP-alpha"
+],
+[
+"Entrez",
+"796"
+],
+[
+"Ensembl",
+"ENSG00000110680"
+],
+[
+"RefSeq",
+"NM_001741"
+],
+[
+"UniProt",
+"P01258"
+]
+]
+},
+{
+"symbol": "CALCB",
+"props": [
+[
+"Full name",
+"Calcitonin gene-related peptide 2"
+],
+[
+"Alternative names",
+"Beta-type CGRP; Calcitonin gene-related peptide II"
+],
+[
+"Function",
+"CALCB/CGRP2 is a peptide hormone that induces vasodilation mediated by the CALCRL-RAMP1 receptor complex. Dilates a variety of vessels including the coronary, cerebral and systemic vasculature."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1438"
+],
+[
+"HGNC symbol",
+"CALCB"
+],
+[
+"Previous symbols",
+"CALC2"
+],
+[
+"Alias symbols",
+"FLJ30166, CGRP-II"
+],
+[
+"Entrez",
+"797"
+],
+[
+"Ensembl",
+"ENSG00000175868"
+],
+[
+"RefSeq",
+"NM_000728"
+],
+[
+"UniProt",
+"P10092"
+]
+]
+}
+]
+},
+{
+"label": "Glutamate",
+"class": "SimpleChemical",
+"box": [
+667.0,
+55.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glutamate(1-)"
+],
+[
+"Synonyms",
+"2-ammoniopentanedioate; glutamate; glutamic acid monoanion; hydrogen glutamate"
+],
+[
+"Definition",
+"An α-amino-acid anion that is the conjugate base of glutamic acid, having anionic carboxy groups and a cationic amino group"
+],
+[
+"Formula",
+"C5H8NO4"
+],
+[
+"ChEBI",
+"CHEBI:14321"
+],
+[
+"InChI",
+"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1"
+],
+[
+"InChIKey",
+"WHUUTDBJXJRKMK-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "TAC1",
+"class": "Macromolecule",
+"box": [
+647.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protachykinin-1"
+],
+[
+"Alternative names",
+"PPT"
+],
+[
+"Function",
+"Tachykinins are active peptides which excite neurons, evoke behavioral responses, are potent vasodilators and secretagogues, and contract (directly or indirectly) many smooth muscles"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:11517"
+],
+[
+"HGNC symbol",
+"TAC1"
+],
+[
+"Previous symbols",
+"TAC2, NKNA"
+],
+[
+"Alias symbols",
+"NPK"
+],
+[
+"Entrez",
+"6863"
+],
+[
+"Ensembl",
+"ENSG00000006128"
+],
+[
+"RefSeq",
+"NM_003182"
+],
+[
+"UniProt",
+"P20366"
+]
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+644.0,
+576.5,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+}
+]
+}

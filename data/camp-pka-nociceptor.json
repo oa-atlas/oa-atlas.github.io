@@ -1,0 +1,3609 @@
+{
+"nodes": [
+{
+"label": "PKA reg",
+"class": "Macromolecule",
+"box": [
+375.0,
+574.8,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"PKA regulatory subunits"
+],
+[
+"Members",
+"PRKAR1A; PRKAR1B; PRKAR2A; PRKAR2B"
+]
+],
+"members": [
+{
+"symbol": "PRKAR1A",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type I-alpha regulatory subunit"
+],
+[
+"Alternative names",
+"Tissue-specific extinguisher 1"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9388"
+],
+[
+"HGNC symbol",
+"PRKAR1A"
+],
+[
+"Previous symbols",
+"PRKAR1, TSE1, PKR1, Prkar1alpha"
+],
+[
+"Alias symbols",
+"CNC1"
+],
+[
+"Entrez",
+"5573"
+],
+[
+"Ensembl",
+"ENSG00000108946"
+],
+[
+"RefSeq",
+"NM_001276289"
+],
+[
+"UniProt",
+"P10644"
+]
+]
+},
+{
+"symbol": "PRKAR1B",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type I-beta regulatory subunit"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9390"
+],
+[
+"HGNC symbol",
+"PRKAR1B"
+],
+[
+"Entrez",
+"5575"
+],
+[
+"Ensembl",
+"ENSG00000188191"
+],
+[
+"RefSeq",
+"NM_001164758"
+],
+[
+"UniProt",
+"P31321"
+]
+]
+},
+{
+"symbol": "PRKAR2A",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type II-alpha regulatory subunit"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells. Type II regulatory chains mediate membrane association by binding to anchoring proteins, including the MAP2 kinase"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9391"
+],
+[
+"HGNC symbol",
+"PRKAR2A"
+],
+[
+"Previous symbols",
+"PRKAR2"
+],
+[
+"Entrez",
+"5576"
+],
+[
+"Ensembl",
+"ENSG00000114302"
+],
+[
+"RefSeq",
+"NM_001321982"
+],
+[
+"UniProt",
+"P13861"
+]
+]
+},
+{
+"symbol": "PRKAR2B",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type II-beta regulatory subunit"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells. Type II regulatory chains mediate membrane association by binding to anchoring proteins, including the MAP2 kinase"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9392"
+],
+[
+"HGNC symbol",
+"PRKAR2B"
+],
+[
+"Previous symbols",
+"PRKAR2"
+],
+[
+"Entrez",
+"5577"
+],
+[
+"Ensembl",
+"ENSG00000005249"
+],
+[
+"RefSeq",
+"NM_002736"
+],
+[
+"UniProt",
+"P31323"
+]
+]
+}
+]
+},
+{
+"label": "PKA cat",
+"class": "Macromolecule",
+"box": [
+475.0,
+574.8,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"PKA catalytic subunits"
+],
+[
+"Members",
+"PRKACA; PRKACB"
+]
+],
+"members": [
+{
+"symbol": "PRKACA",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase catalytic subunit alpha"
+],
+[
+"Function",
+"Phosphorylates a large number of substrates in the cytoplasm and the nucleus. Phosphorylates CDC25B, ABL1, NFKB1, CLDN3, histone H1.4 (H1-4), PSMC5/RPT6, PJA2, RYR2, RORA, SLC6A6, SOX9, UHRF1 and VASP."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane, Nucleus, Mitochondrion, Cell projection, cilium, flagellum, Cytoplasmic vesicle, secretory vesicle, acrosome"
+],
+[
+"HGNC",
+"HGNC:9380"
+],
+[
+"HGNC symbol",
+"PRKACA"
+],
+[
+"Alias symbols",
+"PKACa"
+],
+[
+"Entrez",
+"5566"
+],
+[
+"Ensembl",
+"ENSG00000072062"
+],
+[
+"RefSeq",
+"NM_002730"
+],
+[
+"UniProt",
+"P17612"
+]
+]
+},
+{
+"symbol": "PRKACB",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase catalytic subunit beta"
+],
+[
+"Function",
+"Mediates cAMP-dependent signaling triggered by receptor binding to GPCRs. PKA activation regulates diverse cellular processes such as cell proliferation, the cell cycle, differentiation and regulation of microtubule dynamics, chromatin condensation and decondensation, nuclear envelope disassembly and reassembly, as well as regulation of intracellular transport mechanisms and ion flux."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9381"
+],
+[
+"HGNC symbol",
+"PRKACB"
+],
+[
+"Alias symbols",
+"PKACb"
+],
+[
+"Entrez",
+"5567"
+],
+[
+"Ensembl",
+"ENSG00000142875"
+],
+[
+"RefSeq",
+"NM_182948"
+],
+[
+"UniProt",
+"P22694"
+]
+]
+}
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+398.0,
+634.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+446.0,
+634.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+498.0,
+634.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+546.0,
+634.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+596.5,
+827.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+644.5,
+827.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "PKA reg",
+"class": "Macromolecule",
+"box": [
+573.5,
+767.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"PKA regulatory subunits"
+],
+[
+"Members",
+"PRKAR1A; PRKAR1B; PRKAR2A; PRKAR2B"
+]
+],
+"members": [
+{
+"symbol": "PRKAR1A",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type I-alpha regulatory subunit"
+],
+[
+"Alternative names",
+"Tissue-specific extinguisher 1"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9388"
+],
+[
+"HGNC symbol",
+"PRKAR1A"
+],
+[
+"Previous symbols",
+"PRKAR1, TSE1, PKR1, Prkar1alpha"
+],
+[
+"Alias symbols",
+"CNC1"
+],
+[
+"Entrez",
+"5573"
+],
+[
+"Ensembl",
+"ENSG00000108946"
+],
+[
+"RefSeq",
+"NM_001276289"
+],
+[
+"UniProt",
+"P10644"
+]
+]
+},
+{
+"symbol": "PRKAR1B",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type I-beta regulatory subunit"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9390"
+],
+[
+"HGNC symbol",
+"PRKAR1B"
+],
+[
+"Entrez",
+"5575"
+],
+[
+"Ensembl",
+"ENSG00000188191"
+],
+[
+"RefSeq",
+"NM_001164758"
+],
+[
+"UniProt",
+"P31321"
+]
+]
+},
+{
+"symbol": "PRKAR2A",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type II-alpha regulatory subunit"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells. Type II regulatory chains mediate membrane association by binding to anchoring proteins, including the MAP2 kinase"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9391"
+],
+[
+"HGNC symbol",
+"PRKAR2A"
+],
+[
+"Previous symbols",
+"PRKAR2"
+],
+[
+"Entrez",
+"5576"
+],
+[
+"Ensembl",
+"ENSG00000114302"
+],
+[
+"RefSeq",
+"NM_001321982"
+],
+[
+"UniProt",
+"P13861"
+]
+]
+},
+{
+"symbol": "PRKAR2B",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type II-beta regulatory subunit"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells. Type II regulatory chains mediate membrane association by binding to anchoring proteins, including the MAP2 kinase"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9392"
+],
+[
+"HGNC symbol",
+"PRKAR2B"
+],
+[
+"Previous symbols",
+"PRKAR2"
+],
+[
+"Entrez",
+"5577"
+],
+[
+"Ensembl",
+"ENSG00000005249"
+],
+[
+"RefSeq",
+"NM_002736"
+],
+[
+"UniProt",
+"P31323"
+]
+]
+}
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+692.5,
+827.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+740.5,
+827.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "PKA reg",
+"class": "Macromolecule",
+"box": [
+59.0,
+598.8,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"PKA regulatory subunits"
+],
+[
+"Members",
+"PRKAR1A; PRKAR1B; PRKAR2A; PRKAR2B"
+]
+],
+"members": [
+{
+"symbol": "PRKAR1A",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type I-alpha regulatory subunit"
+],
+[
+"Alternative names",
+"Tissue-specific extinguisher 1"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9388"
+],
+[
+"HGNC symbol",
+"PRKAR1A"
+],
+[
+"Previous symbols",
+"PRKAR1, TSE1, PKR1, Prkar1alpha"
+],
+[
+"Alias symbols",
+"CNC1"
+],
+[
+"Entrez",
+"5573"
+],
+[
+"Ensembl",
+"ENSG00000108946"
+],
+[
+"RefSeq",
+"NM_001276289"
+],
+[
+"UniProt",
+"P10644"
+]
+]
+},
+{
+"symbol": "PRKAR1B",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type I-beta regulatory subunit"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9390"
+],
+[
+"HGNC symbol",
+"PRKAR1B"
+],
+[
+"Entrez",
+"5575"
+],
+[
+"Ensembl",
+"ENSG00000188191"
+],
+[
+"RefSeq",
+"NM_001164758"
+],
+[
+"UniProt",
+"P31321"
+]
+]
+},
+{
+"symbol": "PRKAR2A",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type II-alpha regulatory subunit"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells. Type II regulatory chains mediate membrane association by binding to anchoring proteins, including the MAP2 kinase"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9391"
+],
+[
+"HGNC symbol",
+"PRKAR2A"
+],
+[
+"Previous symbols",
+"PRKAR2"
+],
+[
+"Entrez",
+"5576"
+],
+[
+"Ensembl",
+"ENSG00000114302"
+],
+[
+"RefSeq",
+"NM_001321982"
+],
+[
+"UniProt",
+"P13861"
+]
+]
+},
+{
+"symbol": "PRKAR2B",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type II-beta regulatory subunit"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells. Type II regulatory chains mediate membrane association by binding to anchoring proteins, including the MAP2 kinase"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9392"
+],
+[
+"HGNC symbol",
+"PRKAR2B"
+],
+[
+"Previous symbols",
+"PRKAR2"
+],
+[
+"Entrez",
+"5577"
+],
+[
+"Ensembl",
+"ENSG00000005249"
+],
+[
+"RefSeq",
+"NM_002736"
+],
+[
+"UniProt",
+"P31323"
+]
+]
+}
+]
+},
+{
+"label": "PKA cat",
+"class": "Macromolecule",
+"box": [
+159.0,
+598.8,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"PKA catalytic subunits"
+],
+[
+"Members",
+"PRKACA; PRKACB"
+]
+],
+"members": [
+{
+"symbol": "PRKACA",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase catalytic subunit alpha"
+],
+[
+"Function",
+"Phosphorylates a large number of substrates in the cytoplasm and the nucleus. Phosphorylates CDC25B, ABL1, NFKB1, CLDN3, histone H1.4 (H1-4), PSMC5/RPT6, PJA2, RYR2, RORA, SLC6A6, SOX9, UHRF1 and VASP."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane, Nucleus, Mitochondrion, Cell projection, cilium, flagellum, Cytoplasmic vesicle, secretory vesicle, acrosome"
+],
+[
+"HGNC",
+"HGNC:9380"
+],
+[
+"HGNC symbol",
+"PRKACA"
+],
+[
+"Alias symbols",
+"PKACa"
+],
+[
+"Entrez",
+"5566"
+],
+[
+"Ensembl",
+"ENSG00000072062"
+],
+[
+"RefSeq",
+"NM_002730"
+],
+[
+"UniProt",
+"P17612"
+]
+]
+},
+{
+"symbol": "PRKACB",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase catalytic subunit beta"
+],
+[
+"Function",
+"Mediates cAMP-dependent signaling triggered by receptor binding to GPCRs. PKA activation regulates diverse cellular processes such as cell proliferation, the cell cycle, differentiation and regulation of microtubule dynamics, chromatin condensation and decondensation, nuclear envelope disassembly and reassembly, as well as regulation of intracellular transport mechanisms and ion flux."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9381"
+],
+[
+"HGNC symbol",
+"PRKACB"
+],
+[
+"Alias symbols",
+"PKACb"
+],
+[
+"Entrez",
+"5567"
+],
+[
+"Ensembl",
+"ENSG00000142875"
+],
+[
+"RefSeq",
+"NM_182948"
+],
+[
+"UniProt",
+"P22694"
+]
+]
+}
+]
+},
+{
+"label": "ADCY",
+"class": "Macromolecule",
+"box": [
+179.0,
+123.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"Adenylate cyclases"
+],
+[
+"Members",
+"ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9"
+]
+],
+"members": [
+{
+"symbol": "ADCY1",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 1"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 1; Adenylate cyclase type I; Adenylyl cyclase 1; Ca(2+)/calmodulin-activated adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Mediates responses to increased cellular Ca(2+)/calmodulin levels."
+],
+[
+"Location",
+"Membrane, Cell membrane, Cytoplasm, Membrane raft"
+],
+[
+"HGNC",
+"HGNC:232"
+],
+[
+"HGNC symbol",
+"ADCY1"
+],
+[
+"Previous symbols",
+"DFNB44"
+],
+[
+"Alias symbols",
+"AC1"
+],
+[
+"Entrez",
+"107"
+],
+[
+"Ensembl",
+"ENSG00000164742"
+],
+[
+"RefSeq",
+"NM_021116"
+],
+[
+"UniProt",
+"Q08828"
+]
+]
+},
+{
+"symbol": "ADCY2",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 2"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 2; Adenylate cyclase type II; Adenylyl cyclase 2"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Down-stream signaling cascades mediate changes in gene expression patterns and lead to increased IL6 production."
+],
+[
+"Location",
+"Membrane, Cell membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:233"
+],
+[
+"HGNC symbol",
+"ADCY2"
+],
+[
+"Alias symbols",
+"HBAC2, KIAA1060, AC2"
+],
+[
+"Entrez",
+"108"
+],
+[
+"Ensembl",
+"ENSG00000078295"
+],
+[
+"RefSeq",
+"NM_020546"
+],
+[
+"UniProt",
+"Q08462"
+]
+]
+},
+{
+"symbol": "ADCY3",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 3"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 3; Adenylate cyclase type III; Adenylate cyclase, olfactive type; Adenylyl cyclase 3"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Participates in signaling cascades triggered by odorant receptors via its function in cAMP biosynthesis: specifically activated by G alpha protein GNAL/G(olf) in olfactory epithelium."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium membrane, Cell projection, cilium, Cytoplasm, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:234"
+],
+[
+"HGNC symbol",
+"ADCY3"
+],
+[
+"Alias symbols",
+"AC3"
+],
+[
+"Entrez",
+"109"
+],
+[
+"Ensembl",
+"ENSG00000138031"
+],
+[
+"RefSeq",
+"NM_001320613"
+],
+[
+"UniProt",
+"O60266"
+]
+]
+},
+{
+"symbol": "ADCY4",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 4"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 4; Adenylate cyclase type IV; Adenylyl cyclase 4"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling"
+],
+[
+"Location",
+"Cell membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:235"
+],
+[
+"HGNC symbol",
+"ADCY4"
+],
+[
+"Alias symbols",
+"AC4"
+],
+[
+"Entrez",
+"196883"
+],
+[
+"Ensembl",
+"ENSG00000129467"
+],
+[
+"RefSeq",
+"NM_001198568"
+],
+[
+"UniProt",
+"Q8NFM4"
+]
+]
+},
+{
+"symbol": "ADCY5",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 5"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 5; Adenylate cyclase type V; Adenylyl cyclase 5"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Mediates signaling downstream of ADRB1."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium"
+],
+[
+"HGNC",
+"HGNC:236"
+],
+[
+"HGNC symbol",
+"ADCY5"
+],
+[
+"Alias symbols",
+"AC5"
+],
+[
+"Entrez",
+"111"
+],
+[
+"Ensembl",
+"ENSG00000173175"
+],
+[
+"RefSeq",
+"NM_183357"
+],
+[
+"UniProt",
+"O95622"
+]
+]
+},
+{
+"symbol": "ADCY6",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 6"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 6; Adenylate cyclase type VI; Adenylyl cyclase 6; Ca(2+)-inhibitable adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP downstream of G protein-coupled receptors. Functions in signaling cascades downstream of beta-adrenergic receptors in the heart and in vascular smooth muscle cells."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium, Cell projection, stereocilium"
+],
+[
+"HGNC",
+"HGNC:237"
+],
+[
+"HGNC symbol",
+"ADCY6"
+],
+[
+"Alias symbols",
+"AC6"
+],
+[
+"Entrez",
+"112"
+],
+[
+"Ensembl",
+"ENSG00000174233"
+],
+[
+"RefSeq",
+"NM_020983"
+],
+[
+"UniProt",
+"O43306"
+]
+]
+},
+{
+"symbol": "ADCY7",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 7"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 7; Adenylate cyclase type VII; Adenylyl cyclase 7; Cyclic di-AMP synthase ADCY7"
+],
+[
+"Function",
+"Adenylate cyclase that mediates formation of both cyclic AMP (cAMP) and cyclic di-AMP (c-di-AMP). Acts as a key mediator of G protein-coupled receptor signaling by catalyzing the formation of cAMP downstream of G protein-coupled receptors."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:238"
+],
+[
+"HGNC symbol",
+"ADCY7"
+],
+[
+"Alias symbols",
+"KIAA0037, AC7"
+],
+[
+"Entrez",
+"113"
+],
+[
+"Ensembl",
+"ENSG00000121281"
+],
+[
+"RefSeq",
+"NM_001114"
+],
+[
+"UniProt",
+"P51828"
+]
+]
+},
+{
+"symbol": "ADCY8",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 8"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 8; Adenylate cyclase type VIII; Adenylyl cyclase 8; Ca(2+)/calmodulin-activated adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of cAMP in response to calcium entry leadings to cAMP signaling activation that affect processes suche as synaptic plasticity and insulin secretion. Plays a role in many brain functions, such as learning, memory, drug addiction, and anxiety modulation through regulation of synaptic plasticity by modulating long-term memory and long-term potentiation (LTP) through CREB transcription factor activity modulation."
+],
+[
+"Location",
+"Cell membrane, Basolateral cell membrane, Apical cell membrane, Synapse, Cell projection, dendrite, Cell projection, axon, Presynaptic cell membrane, Postsynaptic density, Membrane raft, Membrane, coated pit, Cytoplasmic vesicle, clathrin-coated vesicle membrane, Membrane, caveola"
+],
+[
+"HGNC",
+"HGNC:239"
+],
+[
+"HGNC symbol",
+"ADCY8"
+],
+[
+"Previous symbols",
+"ADCY3"
+],
+[
+"Alias symbols",
+"HBAC1, AC8"
+],
+[
+"Entrez",
+"114"
+],
+[
+"Ensembl",
+"ENSG00000155897"
+],
+[
+"RefSeq",
+"NM_001115"
+],
+[
+"UniProt",
+"P40145"
+]
+]
+},
+{
+"symbol": "ADCY9",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 9"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 9; Adenylate cyclase type IX; Adenylyl cyclase 9"
+],
+[
+"Function",
+"Adenylyl cyclase that catalyzes the formation of the signaling molecule cAMP in response to activation of G protein-coupled receptors. Contributes to signaling cascades activated by CRH (corticotropin-releasing factor), corticosteroids and beta-adrenergic receptors"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:240"
+],
+[
+"HGNC symbol",
+"ADCY9"
+],
+[
+"Alias symbols",
+"AC9"
+],
+[
+"Entrez",
+"115"
+],
+[
+"Ensembl",
+"ENSG00000162104"
+],
+[
+"RefSeq",
+"NM_001116"
+],
+[
+"UniProt",
+"O60503"
+]
+]
+}
+]
+},
+{
+"label": "Gsα",
+"class": "Macromolecule",
+"box": [
+179.0,
+66.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(s) subunit alpha isoforms short"
+],
+[
+"Alternative names",
+"Adenylate cyclase-stimulating G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers in numerous signaling pathways controlled by G protein-coupled receptors (GPCRs). The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4392"
+],
+[
+"HGNC symbol",
+"GNAS"
+],
+[
+"Previous symbols",
+"GNAS1"
+],
+[
+"Alias symbols",
+"NESP55, NESP, GNASXL, GPSA, SCG6, SgVI"
+],
+[
+"Entrez",
+"2778"
+],
+[
+"Ensembl",
+"ENSG00000087460"
+],
+[
+"RefSeq",
+"NM_000516"
+],
+[
+"UniProt",
+"P63092"
+]
+]
+},
+{
+"label": "ADCY",
+"class": "Macromolecule",
+"box": [
+179.0,
+442.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"Adenylate cyclases"
+],
+[
+"Members",
+"ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9"
+]
+],
+"members": [
+{
+"symbol": "ADCY1",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 1"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 1; Adenylate cyclase type I; Adenylyl cyclase 1; Ca(2+)/calmodulin-activated adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Mediates responses to increased cellular Ca(2+)/calmodulin levels."
+],
+[
+"Location",
+"Membrane, Cell membrane, Cytoplasm, Membrane raft"
+],
+[
+"HGNC",
+"HGNC:232"
+],
+[
+"HGNC symbol",
+"ADCY1"
+],
+[
+"Previous symbols",
+"DFNB44"
+],
+[
+"Alias symbols",
+"AC1"
+],
+[
+"Entrez",
+"107"
+],
+[
+"Ensembl",
+"ENSG00000164742"
+],
+[
+"RefSeq",
+"NM_021116"
+],
+[
+"UniProt",
+"Q08828"
+]
+]
+},
+{
+"symbol": "ADCY2",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 2"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 2; Adenylate cyclase type II; Adenylyl cyclase 2"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Down-stream signaling cascades mediate changes in gene expression patterns and lead to increased IL6 production."
+],
+[
+"Location",
+"Membrane, Cell membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:233"
+],
+[
+"HGNC symbol",
+"ADCY2"
+],
+[
+"Alias symbols",
+"HBAC2, KIAA1060, AC2"
+],
+[
+"Entrez",
+"108"
+],
+[
+"Ensembl",
+"ENSG00000078295"
+],
+[
+"RefSeq",
+"NM_020546"
+],
+[
+"UniProt",
+"Q08462"
+]
+]
+},
+{
+"symbol": "ADCY3",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 3"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 3; Adenylate cyclase type III; Adenylate cyclase, olfactive type; Adenylyl cyclase 3"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Participates in signaling cascades triggered by odorant receptors via its function in cAMP biosynthesis: specifically activated by G alpha protein GNAL/G(olf) in olfactory epithelium."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium membrane, Cell projection, cilium, Cytoplasm, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:234"
+],
+[
+"HGNC symbol",
+"ADCY3"
+],
+[
+"Alias symbols",
+"AC3"
+],
+[
+"Entrez",
+"109"
+],
+[
+"Ensembl",
+"ENSG00000138031"
+],
+[
+"RefSeq",
+"NM_001320613"
+],
+[
+"UniProt",
+"O60266"
+]
+]
+},
+{
+"symbol": "ADCY4",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 4"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 4; Adenylate cyclase type IV; Adenylyl cyclase 4"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling"
+],
+[
+"Location",
+"Cell membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:235"
+],
+[
+"HGNC symbol",
+"ADCY4"
+],
+[
+"Alias symbols",
+"AC4"
+],
+[
+"Entrez",
+"196883"
+],
+[
+"Ensembl",
+"ENSG00000129467"
+],
+[
+"RefSeq",
+"NM_001198568"
+],
+[
+"UniProt",
+"Q8NFM4"
+]
+]
+},
+{
+"symbol": "ADCY5",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 5"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 5; Adenylate cyclase type V; Adenylyl cyclase 5"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Mediates signaling downstream of ADRB1."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium"
+],
+[
+"HGNC",
+"HGNC:236"
+],
+[
+"HGNC symbol",
+"ADCY5"
+],
+[
+"Alias symbols",
+"AC5"
+],
+[
+"Entrez",
+"111"
+],
+[
+"Ensembl",
+"ENSG00000173175"
+],
+[
+"RefSeq",
+"NM_183357"
+],
+[
+"UniProt",
+"O95622"
+]
+]
+},
+{
+"symbol": "ADCY6",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 6"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 6; Adenylate cyclase type VI; Adenylyl cyclase 6; Ca(2+)-inhibitable adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP downstream of G protein-coupled receptors. Functions in signaling cascades downstream of beta-adrenergic receptors in the heart and in vascular smooth muscle cells."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium, Cell projection, stereocilium"
+],
+[
+"HGNC",
+"HGNC:237"
+],
+[
+"HGNC symbol",
+"ADCY6"
+],
+[
+"Alias symbols",
+"AC6"
+],
+[
+"Entrez",
+"112"
+],
+[
+"Ensembl",
+"ENSG00000174233"
+],
+[
+"RefSeq",
+"NM_020983"
+],
+[
+"UniProt",
+"O43306"
+]
+]
+},
+{
+"symbol": "ADCY7",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 7"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 7; Adenylate cyclase type VII; Adenylyl cyclase 7; Cyclic di-AMP synthase ADCY7"
+],
+[
+"Function",
+"Adenylate cyclase that mediates formation of both cyclic AMP (cAMP) and cyclic di-AMP (c-di-AMP). Acts as a key mediator of G protein-coupled receptor signaling by catalyzing the formation of cAMP downstream of G protein-coupled receptors."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:238"
+],
+[
+"HGNC symbol",
+"ADCY7"
+],
+[
+"Alias symbols",
+"KIAA0037, AC7"
+],
+[
+"Entrez",
+"113"
+],
+[
+"Ensembl",
+"ENSG00000121281"
+],
+[
+"RefSeq",
+"NM_001114"
+],
+[
+"UniProt",
+"P51828"
+]
+]
+},
+{
+"symbol": "ADCY8",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 8"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 8; Adenylate cyclase type VIII; Adenylyl cyclase 8; Ca(2+)/calmodulin-activated adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of cAMP in response to calcium entry leadings to cAMP signaling activation that affect processes suche as synaptic plasticity and insulin secretion. Plays a role in many brain functions, such as learning, memory, drug addiction, and anxiety modulation through regulation of synaptic plasticity by modulating long-term memory and long-term potentiation (LTP) through CREB transcription factor activity modulation."
+],
+[
+"Location",
+"Cell membrane, Basolateral cell membrane, Apical cell membrane, Synapse, Cell projection, dendrite, Cell projection, axon, Presynaptic cell membrane, Postsynaptic density, Membrane raft, Membrane, coated pit, Cytoplasmic vesicle, clathrin-coated vesicle membrane, Membrane, caveola"
+],
+[
+"HGNC",
+"HGNC:239"
+],
+[
+"HGNC symbol",
+"ADCY8"
+],
+[
+"Previous symbols",
+"ADCY3"
+],
+[
+"Alias symbols",
+"HBAC1, AC8"
+],
+[
+"Entrez",
+"114"
+],
+[
+"Ensembl",
+"ENSG00000155897"
+],
+[
+"RefSeq",
+"NM_001115"
+],
+[
+"UniProt",
+"P40145"
+]
+]
+},
+{
+"symbol": "ADCY9",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 9"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 9; Adenylate cyclase type IX; Adenylyl cyclase 9"
+],
+[
+"Function",
+"Adenylyl cyclase that catalyzes the formation of the signaling molecule cAMP in response to activation of G protein-coupled receptors. Contributes to signaling cascades activated by CRH (corticotropin-releasing factor), corticosteroids and beta-adrenergic receptors"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:240"
+],
+[
+"HGNC symbol",
+"ADCY9"
+],
+[
+"Alias symbols",
+"AC9"
+],
+[
+"Entrez",
+"115"
+],
+[
+"Ensembl",
+"ENSG00000162104"
+],
+[
+"RefSeq",
+"NM_001116"
+],
+[
+"UniProt",
+"O60503"
+]
+]
+}
+]
+},
+{
+"label": "Giα",
+"class": "Macromolecule",
+"box": [
+179.0,
+385.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits alpha i/o"
+],
+[
+"Members",
+"GNAI1; GNAI2; GNAI3; GNAO1"
+]
+],
+"members": [
+{
+"symbol": "GNAI1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-1"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane, Nucleus, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:4384"
+],
+[
+"HGNC symbol",
+"GNAI1"
+],
+[
+"Entrez",
+"2770"
+],
+[
+"Ensembl",
+"ENSG00000127955"
+],
+[
+"RefSeq",
+"NM_002069"
+],
+[
+"UniProt",
+"P63096"
+]
+]
+},
+{
+"symbol": "GNAI2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-2"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:4385"
+],
+[
+"HGNC symbol",
+"GNAI2"
+],
+[
+"Previous symbols",
+"GNAI2B"
+],
+[
+"Alias symbols",
+"GIP"
+],
+[
+"Entrez",
+"2771"
+],
+[
+"Ensembl",
+"ENSG00000114353"
+],
+[
+"RefSeq",
+"NM_002070"
+],
+[
+"UniProt",
+"P04899"
+]
+]
+},
+{
+"symbol": "GNAI3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-3"
+],
+[
+"Alternative names",
+"G(i) alpha-3"
+],
+[
+"Function",
+"Heterotrimeric guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome"
+],
+[
+"HGNC",
+"HGNC:4387"
+],
+[
+"HGNC symbol",
+"GNAI3"
+],
+[
+"Alias symbols",
+"87U6"
+],
+[
+"Entrez",
+"2773"
+],
+[
+"Ensembl",
+"ENSG00000065135"
+],
+[
+"RefSeq",
+"NM_006496"
+],
+[
+"UniProt",
+"P08754"
+]
+]
+},
+{
+"symbol": "GNAO1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(o) subunit alpha"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades, such as regulation of postsynaptic neurotransmitter release. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4389"
+],
+[
+"HGNC symbol",
+"GNAO1"
+],
+[
+"Alias symbols",
+"G-ALPHA-o"
+],
+[
+"Entrez",
+"2775"
+],
+[
+"Ensembl",
+"ENSG00000087258"
+],
+[
+"RefSeq",
+"NM_020988"
+],
+[
+"UniProt",
+"P09471"
+]
+]
+}
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+264.0,
+250.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+134.0,
+250.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "PPi",
+"class": "SimpleChemical",
+"box": [
+228.0,
+314.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"diphosphate ion"
+],
+[
+"Synonyms",
+"PPi; diphosphate ions"
+],
+[
+"ChEBI",
+"CHEBI:35782"
+]
+]
+},
+{
+"label": "PKA cat",
+"class": "Macromolecule",
+"box": [
+701.0,
+612.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"PKA catalytic subunits"
+],
+[
+"Members",
+"PRKACA; PRKACB"
+]
+],
+"members": [
+{
+"symbol": "PRKACA",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase catalytic subunit alpha"
+],
+[
+"Function",
+"Phosphorylates a large number of substrates in the cytoplasm and the nucleus. Phosphorylates CDC25B, ABL1, NFKB1, CLDN3, histone H1.4 (H1-4), PSMC5/RPT6, PJA2, RYR2, RORA, SLC6A6, SOX9, UHRF1 and VASP."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane, Nucleus, Mitochondrion, Cell projection, cilium, flagellum, Cytoplasmic vesicle, secretory vesicle, acrosome"
+],
+[
+"HGNC",
+"HGNC:9380"
+],
+[
+"HGNC symbol",
+"PRKACA"
+],
+[
+"Alias symbols",
+"PKACa"
+],
+[
+"Entrez",
+"5566"
+],
+[
+"Ensembl",
+"ENSG00000072062"
+],
+[
+"RefSeq",
+"NM_002730"
+],
+[
+"UniProt",
+"P17612"
+]
+]
+},
+{
+"symbol": "PRKACB",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase catalytic subunit beta"
+],
+[
+"Function",
+"Mediates cAMP-dependent signaling triggered by receptor binding to GPCRs. PKA activation regulates diverse cellular processes such as cell proliferation, the cell cycle, differentiation and regulation of microtubule dynamics, chromatin condensation and decondensation, nuclear envelope disassembly and reassembly, as well as regulation of intracellular transport mechanisms and ion flux."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9381"
+],
+[
+"HGNC symbol",
+"PRKACB"
+],
+[
+"Alias symbols",
+"PKACb"
+],
+[
+"Entrez",
+"5567"
+],
+[
+"Ensembl",
+"ENSG00000142875"
+],
+[
+"RefSeq",
+"NM_182948"
+],
+[
+"UniProt",
+"P22694"
+]
+]
+}
+]
+},
+{
+"label": "TRPV1",
+"class": "Macromolecule",
+"box": [
+1102.0,
+485.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 1"
+],
+[
+"Alternative names",
+"Capsaicin receptor; Osm-9-like TRP channel 1; Vanilloid receptor 1"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell projection, dendritic spine membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12716"
+],
+[
+"HGNC symbol",
+"TRPV1"
+],
+[
+"Previous symbols",
+"VR1"
+],
+[
+"Entrez",
+"7442"
+],
+[
+"Ensembl",
+"ENSG00000196689"
+],
+[
+"RefSeq",
+"NM_018727"
+],
+[
+"UniProt",
+"Q8NER1"
+]
+]
+},
+{
+"label": "TRPV1",
+"class": "Macromolecule",
+"box": [
+922.0,
+485.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 1"
+],
+[
+"Alternative names",
+"Capsaicin receptor; Osm-9-like TRP channel 1; Vanilloid receptor 1"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell projection, dendritic spine membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12716"
+],
+[
+"HGNC symbol",
+"TRPV1"
+],
+[
+"Previous symbols",
+"VR1"
+],
+[
+"Entrez",
+"7442"
+],
+[
+"Ensembl",
+"ENSG00000196689"
+],
+[
+"RefSeq",
+"NM_018727"
+],
+[
+"UniProt",
+"Q8NER1"
+]
+]
+},
+{
+"label": "P2RX3",
+"class": "Macromolecule",
+"box": [
+1108.0,
+742.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+},
+{
+"label": "P2RX3",
+"class": "Macromolecule",
+"box": [
+916.0,
+742.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+},
+{
+"label": "PKC",
+"class": "Macromolecule",
+"box": [
+1015.0,
+835.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"Protein kinases C (conventional and novel)"
+],
+[
+"Members",
+"PRKCA; PRKCB; PRKCG; PRKCD; PRKCE; PRKCH; PRKCQ"
+]
+],
+"members": [
+{
+"symbol": "PRKCA",
+"props": [
+[
+"Full name",
+"Protein kinase C alpha type"
+],
+[
+"Function",
+"Calcium-activated, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that is involved in positive and negative regulation of cell proliferation, apoptosis, differentiation, migration and adhesion, tumorigenesis, cardiac hypertrophy, angiogenesis, platelet function and inflammation, by directly phosphorylating targets such as RAF1, BCL2, CSPG4, TNNT2/CTNT, or activating signaling cascade involving MAPK1/3 (ERK1/2) and RAP1GAP. Involved in cell proliferation and cell growth arrest by positive and negative regulation of the cell cycle."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Mitochondrion membrane, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9393"
+],
+[
+"HGNC symbol",
+"PRKCA"
+],
+[
+"Previous symbols",
+"PKCA"
+],
+[
+"Alias symbols",
+"PKCα"
+],
+[
+"Entrez",
+"5578"
+],
+[
+"Ensembl",
+"ENSG00000154229"
+],
+[
+"RefSeq",
+"NM_002737"
+],
+[
+"UniProt",
+"P17252"
+]
+]
+},
+{
+"symbol": "PRKCB",
+"props": [
+[
+"Full name",
+"Protein kinase C beta type"
+],
+[
+"Function",
+"Calcium-activated, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase involved in various cellular processes such as regulation of the B-cell receptor (BCR) signalosome, oxidative stress-induced apoptosis, androgen receptor-dependent transcription regulation, insulin signaling and endothelial cells proliferation. Plays a key role in B-cell activation by regulating BCR-induced NF-kappa-B activation."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:9395"
+],
+[
+"HGNC symbol",
+"PRKCB"
+],
+[
+"Previous symbols",
+"PRKCB2, PKCB, PRKCB1"
+],
+[
+"Alias symbols",
+"PKCβ"
+],
+[
+"Entrez",
+"5579"
+],
+[
+"Ensembl",
+"ENSG00000166501"
+],
+[
+"RefSeq",
+"NM_212535"
+],
+[
+"UniProt",
+"P05771"
+]
+]
+},
+{
+"symbol": "PRKCG",
+"props": [
+[
+"Full name",
+"Protein kinase C gamma type"
+],
+[
+"Function",
+"Calcium-activated, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that plays diverse roles in neuronal cells and eye tissues, such as regulation of the neuronal receptors GRIA4/GLUR4 and GRIN1/NMDAR1, modulation of receptors and neuronal functions related to sensitivity to opiates, pain and alcohol, mediation of synaptic function and cell survival after ischemia, and inhibition of gap junction activity after oxidative stress. Binds and phosphorylates GRIA4/GLUR4 glutamate receptor and regulates its function by increasing plasma membrane-associated GRIA4 expression."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, perinuclear region, Cell membrane, Synapse, synaptosome, Cell projection, dendrite"
+],
+[
+"HGNC",
+"HGNC:9402"
+],
+[
+"HGNC symbol",
+"PRKCG"
+],
+[
+"Previous symbols",
+"PKCG, SCA14"
+],
+[
+"Alias symbols",
+"PKCC, MGC57564, PKCγ"
+],
+[
+"Entrez",
+"5582"
+],
+[
+"Ensembl",
+"ENSG00000126583"
+],
+[
+"RefSeq",
+"NM_002739"
+],
+[
+"UniProt",
+"P05129"
+]
+]
+},
+{
+"symbol": "PRKCD",
+"props": [
+[
+"Full name",
+"Protein kinase C delta type"
+],
+[
+"Alternative names",
+"Tyrosine-protein kinase PRKCD; nPKC-delta"
+],
+[
+"Function",
+"Calcium-independent, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that plays contrasting roles in cell death and cell survival by functioning as a pro-apoptotic protein during DNA damage-induced apoptosis, but acting as an anti-apoptotic protein during cytokine receptor-initiated cell death, is involved in tumor suppression as well as survival of several cancers, is required for oxygen radical production by NADPH oxidase and acts as positive or negative regulator in platelet functional responses. Negatively regulates B cell proliferation and also has an important function in self-antigen induced B cell tolerance induction."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, perinuclear region, Nucleus, Cell membrane, Mitochondrion, Endomembrane system"
+],
+[
+"HGNC",
+"HGNC:9399"
+],
+[
+"HGNC symbol",
+"PRKCD"
+],
+[
+"Alias symbols",
+"PKCδ"
+],
+[
+"Entrez",
+"5580"
+],
+[
+"Ensembl",
+"ENSG00000163932"
+],
+[
+"RefSeq",
+"NM_001316327"
+],
+[
+"UniProt",
+"Q05655"
+]
+]
+},
+{
+"symbol": "PRKCE",
+"props": [
+[
+"Full name",
+"Protein kinase C epsilon type"
+],
+[
+"Alternative names",
+"nPKC-epsilon"
+],
+[
+"Function",
+"Calcium-independent, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that plays essential roles in the regulation of multiple cellular processes linked to cytoskeletal proteins, such as cell adhesion, motility, migration and cell cycle, functions in neuron growth and ion channel regulation, and is involved in immune response, cancer cell invasion and regulation of apoptosis. Mediates cell adhesion to the extracellular matrix via integrin-dependent signaling, by mediating angiotensin-2-induced activation of integrin beta-1 (ITGB1) in cardiac fibroblasts."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, cytoskeleton, Cell membrane, Cytoplasm, perinuclear region, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9401"
+],
+[
+"HGNC symbol",
+"PRKCE"
+],
+[
+"Alias symbols",
+"PKCε"
+],
+[
+"Entrez",
+"5581"
+],
+[
+"Ensembl",
+"ENSG00000171132"
+],
+[
+"RefSeq",
+"NM_005400"
+],
+[
+"UniProt",
+"Q02156"
+]
+]
+},
+{
+"symbol": "PRKCH",
+"props": [
+[
+"Full name",
+"PRKCH upstream open reading frame 2"
+],
+[
+"Alternative names",
+"Protein uPEP2"
+],
+[
+"Function",
+"Product of an upstream open reading frame (ORF) of PRKCH which regulates translation of the downstream protein kinase C eta (PKC-eta) ORF. Functions as a repressive element that maintains low basal levels of PKC-eta in growing cells but enhances its expression during stress conditions induced by amino acid starvation in a EIF2AK4/GCN2-dependent manner."
+],
+[
+"HGNC",
+"HGNC:9403"
+],
+[
+"HGNC symbol",
+"PRKCH"
+],
+[
+"Previous symbols",
+"PRKCL"
+],
+[
+"Alias symbols",
+"PKCη, PKC-L, PKCL"
+],
+[
+"Entrez",
+"5583"
+],
+[
+"Ensembl",
+"ENSG00000027075"
+],
+[
+"RefSeq",
+"NM_006255"
+],
+[
+"UniProt",
+"C0HM02"
+]
+]
+},
+{
+"symbol": "PRKCQ",
+"props": [
+[
+"Full name",
+"Protein kinase C theta type"
+],
+[
+"Alternative names",
+"nPKC-theta"
+],
+[
+"Function",
+"Calcium-independent, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that mediates non-redundant functions in T-cell receptor (TCR) signaling, including T-cells activation, proliferation, differentiation and survival, by mediating activation of multiple transcription factors such as NF-kappa-B, JUN, NFATC1 and NFATC2. In TCR-CD3/CD28-co-stimulated T-cells, is required for the activation of NF-kappa-B and JUN, which in turn are essential for IL2 production, and participates in the calcium-dependent NFATC1 and NFATC2 transactivation."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9410"
+],
+[
+"HGNC symbol",
+"PRKCQ"
+],
+[
+"Alias symbols",
+"PKCθ"
+],
+[
+"Entrez",
+"5588"
+],
+[
+"Ensembl",
+"ENSG00000065675"
+],
+[
+"RefSeq",
+"NM_006257"
+],
+[
+"UniProt",
+"Q04759"
+]
+]
+}
+]
+},
+{
+"label": "P38 MAPK",
+"class": "Macromolecule",
+"box": [
+1012.0,
+395.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"p38 MAP kinases"
+],
+[
+"Members",
+"MAPK14; MAPK11; MAPK12; MAPK13"
+]
+],
+"members": [
+{
+"symbol": "MAPK14",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"symbol": "MAPK11",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 11"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 beta; Stress-activated protein kinase 2b; p38-2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK11 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6873"
+],
+[
+"HGNC symbol",
+"MAPK11"
+],
+[
+"Previous symbols",
+"PRKM11"
+],
+[
+"Alias symbols",
+"p38-2, p38Beta, SAPK2"
+],
+[
+"Entrez",
+"5600"
+],
+[
+"Ensembl",
+"ENSG00000185386"
+],
+[
+"RefSeq",
+"NM_002751"
+],
+[
+"UniProt",
+"Q15759"
+]
+]
+},
+{
+"symbol": "MAPK12",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 12"
+],
+[
+"Alternative names",
+"Extracellular signal-regulated kinase 6; Mitogen-activated protein kinase p38 gamma; Stress-activated protein kinase 3"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK12 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:6874"
+],
+[
+"HGNC symbol",
+"MAPK12"
+],
+[
+"Previous symbols",
+"SAPK3"
+],
+[
+"Alias symbols",
+"ERK6, PRKM12, p38gamma, SAPK-3"
+],
+[
+"Entrez",
+"6300"
+],
+[
+"Ensembl",
+"ENSG00000188130"
+],
+[
+"RefSeq",
+"NM_002969"
+],
+[
+"UniProt",
+"P53778"
+]
+]
+},
+{
+"symbol": "MAPK13",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 13"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 delta; Stress-activated protein kinase 4"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK13 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"HGNC",
+"HGNC:6875"
+],
+[
+"HGNC symbol",
+"MAPK13"
+],
+[
+"Previous symbols",
+"PRKM13"
+],
+[
+"Alias symbols",
+"SAPK4, p38delta"
+],
+[
+"Entrez",
+"5603"
+],
+[
+"Ensembl",
+"ENSG00000156711"
+],
+[
+"RefSeq",
+"NM_002754"
+],
+[
+"UniProt",
+"O15264"
+]
+]
+}
+]
+},
+{
+"label": "SCN10A",
+"class": "Macromolecule",
+"box": [
+922.0,
+615.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sodium channel protein type 10 subunit alpha"
+],
+[
+"Alternative names",
+"Peripheral nerve sodium channel 3; Sodium channel protein type X subunit alpha; Voltage-gated sodium channel subunit alpha Nav1.8"
+],
+[
+"Function",
+"Tetrodotoxin-resistant channel that mediates the voltage-dependent sodium ion permeability of excitable membranes. Assuming opened or closed conformations in response to the voltage difference across the membrane, the protein forms a sodium-selective channel through which sodium ions may pass in accordance with their electrochemical gradient."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10582"
+],
+[
+"HGNC symbol",
+"SCN10A"
+],
+[
+"Alias symbols",
+"Nav1.8, hPN3, SNS, PN3"
+],
+[
+"Entrez",
+"6336"
+],
+[
+"Ensembl",
+"ENSG00000185313"
+],
+[
+"RefSeq",
+"NM_006514"
+],
+[
+"UniProt",
+"Q9Y5Y9"
+]
+]
+},
+{
+"label": "SCN10A",
+"class": "Macromolecule",
+"box": [
+1106.5,
+615.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sodium channel protein type 10 subunit alpha"
+],
+[
+"Alternative names",
+"Peripheral nerve sodium channel 3; Sodium channel protein type X subunit alpha; Voltage-gated sodium channel subunit alpha Nav1.8"
+],
+[
+"Function",
+"Tetrodotoxin-resistant channel that mediates the voltage-dependent sodium ion permeability of excitable membranes. Assuming opened or closed conformations in response to the voltage difference across the membrane, the protein forms a sodium-selective channel through which sodium ions may pass in accordance with their electrochemical gradient."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10582"
+],
+[
+"HGNC symbol",
+"SCN10A"
+],
+[
+"Alias symbols",
+"Nav1.8, hPN3, SNS, PN3"
+],
+[
+"Entrez",
+"6336"
+],
+[
+"Ensembl",
+"ENSG00000185313"
+],
+[
+"RefSeq",
+"NM_006514"
+],
+[
+"UniProt",
+"Q9Y5Y9"
+]
+]
+}
+]
+}

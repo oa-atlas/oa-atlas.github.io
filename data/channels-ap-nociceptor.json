@@ -1,0 +1,1644 @@
+{
+"nodes": [
+{
+"label": "P2RX3",
+"class": "Macromolecule",
+"box": [
+703.5,
+239.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+726.5,
+183.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "P2RX2/3",
+"class": "Macromolecule",
+"box": [
+1665.5,
+239.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"P2X2/3 receptor subunits"
+],
+[
+"Members",
+"P2RX2; P2RX3"
+]
+],
+"members": [
+{
+"symbol": "P2RX2",
+"props": [
+[
+"Full name",
+"P2X purinoceptor 2"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"ATP-gated nonselective transmembrane cation channel permeable to potassium, sodium and calcium. Activation by extracellular ATP induces a variety of cellular responses, such as excitatory postsynaptic responses in sensory neurons, neuromuscular junctions (NMJ) formation, hearing, perception of taste and peristalsis."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:15459"
+],
+[
+"HGNC symbol",
+"P2RX2"
+],
+[
+"Previous symbols",
+"DFNA41"
+],
+[
+"Alias symbols",
+"P2X2"
+],
+[
+"Entrez",
+"22953"
+],
+[
+"Ensembl",
+"ENSG00000187848"
+],
+[
+"RefSeq",
+"NM_001282164"
+],
+[
+"UniProt",
+"Q9UBL9"
+]
+]
+},
+{
+"symbol": "P2RX3",
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+}
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+1688.5,
+183.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+88.0,
+301.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+268.0,
+301.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "TRPV1",
+"class": "Macromolecule",
+"box": [
+158.0,
+227.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 1"
+],
+[
+"Alternative names",
+"Capsaicin receptor; Osm-9-like TRP channel 1; Vanilloid receptor 1"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell projection, dendritic spine membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12716"
+],
+[
+"HGNC symbol",
+"TRPV1"
+],
+[
+"Previous symbols",
+"VR1"
+],
+[
+"Entrez",
+"7442"
+],
+[
+"Ensembl",
+"ENSG00000196689"
+],
+[
+"RefSeq",
+"NM_018727"
+],
+[
+"UniProt",
+"Q8NER1"
+]
+]
+},
+{
+"label": "P2RX3",
+"class": "Macromolecule",
+"box": [
+502.5,
+224.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+837.5,
+301.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+1210.5,
+301.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "K+",
+"class": "SimpleChemical",
+"box": [
+1583.5,
+301.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"potassium(1+)"
+],
+[
+"Synonyms",
+"K(+); K+; POTASSIUM ION; potassium cation; potassium(1+) ion; potassium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from potassium."
+],
+[
+"Formula",
+"K"
+],
+[
+"ChEBI",
+"CHEBI:29103"
+],
+[
+"KEGG",
+"C00238"
+],
+[
+"InChI",
+"InChI=1S/K/q+1"
+],
+[
+"InChIKey",
+"NPYPAHLBTDXSSS-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "P2RX2/3",
+"class": "Macromolecule",
+"box": [
+1872.5,
+224.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"P2X2/3 receptor subunits"
+],
+[
+"Members",
+"P2RX2; P2RX3"
+]
+],
+"members": [
+{
+"symbol": "P2RX2",
+"props": [
+[
+"Full name",
+"P2X purinoceptor 2"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"ATP-gated nonselective transmembrane cation channel permeable to potassium, sodium and calcium. Activation by extracellular ATP induces a variety of cellular responses, such as excitatory postsynaptic responses in sensory neurons, neuromuscular junctions (NMJ) formation, hearing, perception of taste and peristalsis."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:15459"
+],
+[
+"HGNC symbol",
+"P2RX2"
+],
+[
+"Previous symbols",
+"DFNA41"
+],
+[
+"Alias symbols",
+"P2X2"
+],
+[
+"Entrez",
+"22953"
+],
+[
+"Ensembl",
+"ENSG00000187848"
+],
+[
+"RefSeq",
+"NM_001282164"
+],
+[
+"UniProt",
+"Q9UBL9"
+]
+]
+},
+{
+"symbol": "P2RX3",
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+}
+]
+},
+{
+"label": "SCN10A",
+"class": "Macromolecule",
+"box": [
+342.5,
+227.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sodium channel protein type 10 subunit alpha"
+],
+[
+"Alternative names",
+"Peripheral nerve sodium channel 3; Sodium channel protein type X subunit alpha; Voltage-gated sodium channel subunit alpha Nav1.8"
+],
+[
+"Function",
+"Tetrodotoxin-resistant channel that mediates the voltage-dependent sodium ion permeability of excitable membranes. Assuming opened or closed conformations in response to the voltage difference across the membrane, the protein forms a sodium-selective channel through which sodium ions may pass in accordance with their electrochemical gradient."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10582"
+],
+[
+"HGNC symbol",
+"SCN10A"
+],
+[
+"Alias symbols",
+"Nav1.8, hPN3, SNS, PN3"
+],
+[
+"Entrez",
+"6336"
+],
+[
+"Ensembl",
+"ENSG00000185313"
+],
+[
+"RefSeq",
+"NM_006514"
+],
+[
+"UniProt",
+"Q9Y5Y9"
+]
+]
+},
+{
+"label": "P2RX3",
+"class": "Macromolecule",
+"box": [
+1076.5,
+239.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+1099.5,
+183.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "P2RX3",
+"class": "Macromolecule",
+"box": [
+1449.5,
+239.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+1472.5,
+183.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "P2RX2/3",
+"class": "Macromolecule",
+"box": [
+919.5,
+239.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"P2X2/3 receptor subunits"
+],
+[
+"Members",
+"P2RX2; P2RX3"
+]
+],
+"members": [
+{
+"symbol": "P2RX2",
+"props": [
+[
+"Full name",
+"P2X purinoceptor 2"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"ATP-gated nonselective transmembrane cation channel permeable to potassium, sodium and calcium. Activation by extracellular ATP induces a variety of cellular responses, such as excitatory postsynaptic responses in sensory neurons, neuromuscular junctions (NMJ) formation, hearing, perception of taste and peristalsis."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:15459"
+],
+[
+"HGNC symbol",
+"P2RX2"
+],
+[
+"Previous symbols",
+"DFNA41"
+],
+[
+"Alias symbols",
+"P2X2"
+],
+[
+"Entrez",
+"22953"
+],
+[
+"Ensembl",
+"ENSG00000187848"
+],
+[
+"RefSeq",
+"NM_001282164"
+],
+[
+"UniProt",
+"Q9UBL9"
+]
+]
+},
+{
+"symbol": "P2RX3",
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+}
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+942.5,
+183.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "P2RX2/3",
+"class": "Macromolecule",
+"box": [
+1292.5,
+239.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"P2X2/3 receptor subunits"
+],
+[
+"Members",
+"P2RX2; P2RX3"
+]
+],
+"members": [
+{
+"symbol": "P2RX2",
+"props": [
+[
+"Full name",
+"P2X purinoceptor 2"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"ATP-gated nonselective transmembrane cation channel permeable to potassium, sodium and calcium. Activation by extracellular ATP induces a variety of cellular responses, such as excitatory postsynaptic responses in sensory neurons, neuromuscular junctions (NMJ) formation, hearing, perception of taste and peristalsis."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:15459"
+],
+[
+"HGNC symbol",
+"P2RX2"
+],
+[
+"Previous symbols",
+"DFNA41"
+],
+[
+"Alias symbols",
+"P2X2"
+],
+[
+"Entrez",
+"22953"
+],
+[
+"Ensembl",
+"ENSG00000187848"
+],
+[
+"RefSeq",
+"NM_001282164"
+],
+[
+"UniProt",
+"Q9UBL9"
+]
+]
+},
+{
+"symbol": "P2RX3",
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+}
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+1315.5,
+183.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+268.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+88.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+837.5,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+592.5,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+1210.5,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "K+",
+"class": "SimpleChemical",
+"box": [
+1583.5,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"potassium(1+)"
+],
+[
+"Synonyms",
+"K(+); K+; POTASSIUM ION; potassium cation; potassium(1+) ion; potassium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from potassium."
+],
+[
+"Formula",
+"K"
+],
+[
+"ChEBI",
+"CHEBI:29103"
+],
+[
+"KEGG",
+"C00238"
+],
+[
+"InChI",
+"InChI=1S/K/q+1"
+],
+[
+"InChIKey",
+"NPYPAHLBTDXSSS-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+1828.5,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+}
+]
+}

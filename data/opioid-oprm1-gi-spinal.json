@@ -1,0 +1,6030 @@
+{
+"nodes": [
+{
+"label": "ADCY",
+"class": "Macromolecule",
+"box": [
+1450.5,
+1243.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"Adenylate cyclases"
+],
+[
+"Members",
+"ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9"
+]
+],
+"members": [
+{
+"symbol": "ADCY1",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 1"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 1; Adenylate cyclase type I; Adenylyl cyclase 1; Ca(2+)/calmodulin-activated adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Mediates responses to increased cellular Ca(2+)/calmodulin levels."
+],
+[
+"Location",
+"Membrane, Cell membrane, Cytoplasm, Membrane raft"
+],
+[
+"HGNC",
+"HGNC:232"
+],
+[
+"HGNC symbol",
+"ADCY1"
+],
+[
+"Previous symbols",
+"DFNB44"
+],
+[
+"Alias symbols",
+"AC1"
+],
+[
+"Entrez",
+"107"
+],
+[
+"Ensembl",
+"ENSG00000164742"
+],
+[
+"RefSeq",
+"NM_021116"
+],
+[
+"UniProt",
+"Q08828"
+]
+]
+},
+{
+"symbol": "ADCY2",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 2"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 2; Adenylate cyclase type II; Adenylyl cyclase 2"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Down-stream signaling cascades mediate changes in gene expression patterns and lead to increased IL6 production."
+],
+[
+"Location",
+"Membrane, Cell membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:233"
+],
+[
+"HGNC symbol",
+"ADCY2"
+],
+[
+"Alias symbols",
+"HBAC2, KIAA1060, AC2"
+],
+[
+"Entrez",
+"108"
+],
+[
+"Ensembl",
+"ENSG00000078295"
+],
+[
+"RefSeq",
+"NM_020546"
+],
+[
+"UniProt",
+"Q08462"
+]
+]
+},
+{
+"symbol": "ADCY3",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 3"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 3; Adenylate cyclase type III; Adenylate cyclase, olfactive type; Adenylyl cyclase 3"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Participates in signaling cascades triggered by odorant receptors via its function in cAMP biosynthesis: specifically activated by G alpha protein GNAL/G(olf) in olfactory epithelium."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium membrane, Cell projection, cilium, Cytoplasm, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:234"
+],
+[
+"HGNC symbol",
+"ADCY3"
+],
+[
+"Alias symbols",
+"AC3"
+],
+[
+"Entrez",
+"109"
+],
+[
+"Ensembl",
+"ENSG00000138031"
+],
+[
+"RefSeq",
+"NM_001320613"
+],
+[
+"UniProt",
+"O60266"
+]
+]
+},
+{
+"symbol": "ADCY4",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 4"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 4; Adenylate cyclase type IV; Adenylyl cyclase 4"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling"
+],
+[
+"Location",
+"Cell membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:235"
+],
+[
+"HGNC symbol",
+"ADCY4"
+],
+[
+"Alias symbols",
+"AC4"
+],
+[
+"Entrez",
+"196883"
+],
+[
+"Ensembl",
+"ENSG00000129467"
+],
+[
+"RefSeq",
+"NM_001198568"
+],
+[
+"UniProt",
+"Q8NFM4"
+]
+]
+},
+{
+"symbol": "ADCY5",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 5"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 5; Adenylate cyclase type V; Adenylyl cyclase 5"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Mediates signaling downstream of ADRB1."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium"
+],
+[
+"HGNC",
+"HGNC:236"
+],
+[
+"HGNC symbol",
+"ADCY5"
+],
+[
+"Alias symbols",
+"AC5"
+],
+[
+"Entrez",
+"111"
+],
+[
+"Ensembl",
+"ENSG00000173175"
+],
+[
+"RefSeq",
+"NM_183357"
+],
+[
+"UniProt",
+"O95622"
+]
+]
+},
+{
+"symbol": "ADCY6",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 6"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 6; Adenylate cyclase type VI; Adenylyl cyclase 6; Ca(2+)-inhibitable adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP downstream of G protein-coupled receptors. Functions in signaling cascades downstream of beta-adrenergic receptors in the heart and in vascular smooth muscle cells."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium, Cell projection, stereocilium"
+],
+[
+"HGNC",
+"HGNC:237"
+],
+[
+"HGNC symbol",
+"ADCY6"
+],
+[
+"Alias symbols",
+"AC6"
+],
+[
+"Entrez",
+"112"
+],
+[
+"Ensembl",
+"ENSG00000174233"
+],
+[
+"RefSeq",
+"NM_020983"
+],
+[
+"UniProt",
+"O43306"
+]
+]
+},
+{
+"symbol": "ADCY7",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 7"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 7; Adenylate cyclase type VII; Adenylyl cyclase 7; Cyclic di-AMP synthase ADCY7"
+],
+[
+"Function",
+"Adenylate cyclase that mediates formation of both cyclic AMP (cAMP) and cyclic di-AMP (c-di-AMP). Acts as a key mediator of G protein-coupled receptor signaling by catalyzing the formation of cAMP downstream of G protein-coupled receptors."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:238"
+],
+[
+"HGNC symbol",
+"ADCY7"
+],
+[
+"Alias symbols",
+"KIAA0037, AC7"
+],
+[
+"Entrez",
+"113"
+],
+[
+"Ensembl",
+"ENSG00000121281"
+],
+[
+"RefSeq",
+"NM_001114"
+],
+[
+"UniProt",
+"P51828"
+]
+]
+},
+{
+"symbol": "ADCY8",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 8"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 8; Adenylate cyclase type VIII; Adenylyl cyclase 8; Ca(2+)/calmodulin-activated adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of cAMP in response to calcium entry leadings to cAMP signaling activation that affect processes suche as synaptic plasticity and insulin secretion. Plays a role in many brain functions, such as learning, memory, drug addiction, and anxiety modulation through regulation of synaptic plasticity by modulating long-term memory and long-term potentiation (LTP) through CREB transcription factor activity modulation."
+],
+[
+"Location",
+"Cell membrane, Basolateral cell membrane, Apical cell membrane, Synapse, Cell projection, dendrite, Cell projection, axon, Presynaptic cell membrane, Postsynaptic density, Membrane raft, Membrane, coated pit, Cytoplasmic vesicle, clathrin-coated vesicle membrane, Membrane, caveola"
+],
+[
+"HGNC",
+"HGNC:239"
+],
+[
+"HGNC symbol",
+"ADCY8"
+],
+[
+"Previous symbols",
+"ADCY3"
+],
+[
+"Alias symbols",
+"HBAC1, AC8"
+],
+[
+"Entrez",
+"114"
+],
+[
+"Ensembl",
+"ENSG00000155897"
+],
+[
+"RefSeq",
+"NM_001115"
+],
+[
+"UniProt",
+"P40145"
+]
+]
+},
+{
+"symbol": "ADCY9",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 9"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 9; Adenylate cyclase type IX; Adenylyl cyclase 9"
+],
+[
+"Function",
+"Adenylyl cyclase that catalyzes the formation of the signaling molecule cAMP in response to activation of G protein-coupled receptors. Contributes to signaling cascades activated by CRH (corticotropin-releasing factor), corticosteroids and beta-adrenergic receptors"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:240"
+],
+[
+"HGNC symbol",
+"ADCY9"
+],
+[
+"Alias symbols",
+"AC9"
+],
+[
+"Entrez",
+"115"
+],
+[
+"Ensembl",
+"ENSG00000162104"
+],
+[
+"RefSeq",
+"NM_001116"
+],
+[
+"UniProt",
+"O60503"
+]
+]
+}
+]
+},
+{
+"label": "Giα",
+"class": "Macromolecule",
+"box": [
+1450.5,
+1109.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits alpha i/o"
+],
+[
+"Members",
+"GNAI1; GNAI2; GNAI3; GNAO1"
+]
+],
+"members": [
+{
+"symbol": "GNAI1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-1"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane, Nucleus, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:4384"
+],
+[
+"HGNC symbol",
+"GNAI1"
+],
+[
+"Entrez",
+"2770"
+],
+[
+"Ensembl",
+"ENSG00000127955"
+],
+[
+"RefSeq",
+"NM_002069"
+],
+[
+"UniProt",
+"P63096"
+]
+]
+},
+{
+"symbol": "GNAI2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-2"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:4385"
+],
+[
+"HGNC symbol",
+"GNAI2"
+],
+[
+"Previous symbols",
+"GNAI2B"
+],
+[
+"Alias symbols",
+"GIP"
+],
+[
+"Entrez",
+"2771"
+],
+[
+"Ensembl",
+"ENSG00000114353"
+],
+[
+"RefSeq",
+"NM_002070"
+],
+[
+"UniProt",
+"P04899"
+]
+]
+},
+{
+"symbol": "GNAI3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-3"
+],
+[
+"Alternative names",
+"G(i) alpha-3"
+],
+[
+"Function",
+"Heterotrimeric guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome"
+],
+[
+"HGNC",
+"HGNC:4387"
+],
+[
+"HGNC symbol",
+"GNAI3"
+],
+[
+"Alias symbols",
+"87U6"
+],
+[
+"Entrez",
+"2773"
+],
+[
+"Ensembl",
+"ENSG00000065135"
+],
+[
+"RefSeq",
+"NM_006496"
+],
+[
+"UniProt",
+"P08754"
+]
+]
+},
+{
+"symbol": "GNAO1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(o) subunit alpha"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades, such as regulation of postsynaptic neurotransmitter release. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4389"
+],
+[
+"HGNC symbol",
+"GNAO1"
+],
+[
+"Alias symbols",
+"G-ALPHA-o"
+],
+[
+"Entrez",
+"2775"
+],
+[
+"Ensembl",
+"ENSG00000087258"
+],
+[
+"RefSeq",
+"NM_020988"
+],
+[
+"UniProt",
+"P09471"
+]
+]
+}
+]
+},
+{
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+1470.5,
+1157.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP"
+],
+[
+"Synonyms",
+"5'-GTP; GUANOSINE-5'-TRIPHOSPHATE; Guanosine 5'-triphosphate; H4gtp; guanosine 5'-(tetrahydrogen triphosphate); guanosine 5'-triphosphoric acid; guanosine triphosphate"
+],
+[
+"Formula",
+"C10H16N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:15996"
+],
+[
+"KEGG",
+"C00044"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "Giα",
+"class": "Macromolecule",
+"box": [
+828.0,
+729.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits alpha i/o"
+],
+[
+"Members",
+"GNAI1; GNAI2; GNAI3; GNAO1"
+]
+],
+"members": [
+{
+"symbol": "GNAI1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-1"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane, Nucleus, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:4384"
+],
+[
+"HGNC symbol",
+"GNAI1"
+],
+[
+"Entrez",
+"2770"
+],
+[
+"Ensembl",
+"ENSG00000127955"
+],
+[
+"RefSeq",
+"NM_002069"
+],
+[
+"UniProt",
+"P63096"
+]
+]
+},
+{
+"symbol": "GNAI2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-2"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:4385"
+],
+[
+"HGNC symbol",
+"GNAI2"
+],
+[
+"Previous symbols",
+"GNAI2B"
+],
+[
+"Alias symbols",
+"GIP"
+],
+[
+"Entrez",
+"2771"
+],
+[
+"Ensembl",
+"ENSG00000114353"
+],
+[
+"RefSeq",
+"NM_002070"
+],
+[
+"UniProt",
+"P04899"
+]
+]
+},
+{
+"symbol": "GNAI3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-3"
+],
+[
+"Alternative names",
+"G(i) alpha-3"
+],
+[
+"Function",
+"Heterotrimeric guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome"
+],
+[
+"HGNC",
+"HGNC:4387"
+],
+[
+"HGNC symbol",
+"GNAI3"
+],
+[
+"Alias symbols",
+"87U6"
+],
+[
+"Entrez",
+"2773"
+],
+[
+"Ensembl",
+"ENSG00000065135"
+],
+[
+"RefSeq",
+"NM_006496"
+],
+[
+"UniProt",
+"P08754"
+]
+]
+},
+{
+"symbol": "GNAO1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(o) subunit alpha"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades, such as regulation of postsynaptic neurotransmitter release. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4389"
+],
+[
+"HGNC symbol",
+"GNAO1"
+],
+[
+"Alias symbols",
+"G-ALPHA-o"
+],
+[
+"Entrez",
+"2775"
+],
+[
+"Ensembl",
+"ENSG00000087258"
+],
+[
+"RefSeq",
+"NM_020988"
+],
+[
+"UniProt",
+"P09471"
+]
+]
+}
+]
+},
+{
+"label": "GDP",
+"class": "SimpleChemical",
+"box": [
+848.0,
+777.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GDP"
+],
+[
+"Synonyms",
+"Guanosine 5'-diphosphate; Guanosine diphosphate; guanosine 5'-(trihydrogen diphosphate)"
+],
+[
+"Definition",
+"A  purine ribonucleoside 5'-diphosphate resulting from the formal condensation of the hydroxy group at the 5' position of guanosine with pyrophosphoric acid."
+],
+[
+"Formula",
+"C10H15N5O11P2"
+],
+[
+"ChEBI",
+"CHEBI:17552"
+],
+[
+"KEGG",
+"C00035"
+],
+[
+"HMDB",
+"HMDB0001201"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O11P2/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(25-9)1-24-28(22,23)26-27(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"QGWNDRXFNXRZMB-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "Giβ",
+"class": "Macromolecule",
+"box": [
+828.0,
+879.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits beta"
+],
+[
+"Members",
+"GNB1; GNB2; GNB3; GNB4"
+]
+],
+"members": [
+{
+"symbol": "GNB1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1"
+],
+[
+"Alternative names",
+"Transducin beta chain 1"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"HGNC",
+"HGNC:4396"
+],
+[
+"HGNC symbol",
+"GNB1"
+],
+[
+"Entrez",
+"2782"
+],
+[
+"Ensembl",
+"ENSG00000078369"
+],
+[
+"RefSeq",
+"NM_002074"
+],
+[
+"UniProt",
+"P62873"
+]
+]
+},
+{
+"symbol": "GNB2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2"
+],
+[
+"Alternative names",
+"G protein subunit beta-2; Transducin beta chain 2"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cytoplasm, perinuclear region, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4398"
+],
+[
+"HGNC symbol",
+"GNB2"
+],
+[
+"Entrez",
+"2783"
+],
+[
+"Ensembl",
+"ENSG00000172354"
+],
+[
+"RefSeq",
+"NM_005273"
+],
+[
+"UniProt",
+"P62879"
+]
+]
+},
+{
+"symbol": "GNB3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3"
+],
+[
+"Alternative names",
+"Transducin beta chain 3"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"HGNC",
+"HGNC:4400"
+],
+[
+"HGNC symbol",
+"GNB3"
+],
+[
+"Entrez",
+"2784"
+],
+[
+"Ensembl",
+"ENSG00000111664"
+],
+[
+"RefSeq",
+"NM_002075"
+],
+[
+"UniProt",
+"P16520"
+]
+]
+},
+{
+"symbol": "GNB4",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein subunit beta-4"
+],
+[
+"Alternative names",
+"Transducin beta chain 4"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"HGNC",
+"HGNC:20731"
+],
+[
+"HGNC symbol",
+"GNB4"
+],
+[
+"Entrez",
+"59345"
+],
+[
+"Ensembl",
+"ENSG00000114450"
+],
+[
+"RefSeq",
+"NM_021629"
+],
+[
+"UniProt",
+"Q9HAV0"
+]
+]
+}
+]
+},
+{
+"label": "Giγ",
+"class": "Macromolecule",
+"box": [
+828.0,
+927.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits gamma"
+],
+[
+"Members",
+"GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13"
+]
+],
+"members": [
+{
+"symbol": "GNG2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2"
+],
+[
+"Alternative names",
+"G gamma-I"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4404"
+],
+[
+"HGNC symbol",
+"GNG2"
+],
+[
+"Entrez",
+"54331"
+],
+[
+"Ensembl",
+"ENSG00000186469"
+],
+[
+"RefSeq",
+"NM_001243773"
+],
+[
+"UniProt",
+"P59768"
+]
+]
+},
+{
+"symbol": "GNG3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-3"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4405"
+],
+[
+"HGNC symbol",
+"GNG3"
+],
+[
+"Entrez",
+"2785"
+],
+[
+"Ensembl",
+"ENSG00000162188"
+],
+[
+"RefSeq",
+"NM_012202"
+],
+[
+"UniProt",
+"P63215"
+]
+]
+},
+{
+"symbol": "GNG4",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-4"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4407"
+],
+[
+"HGNC symbol",
+"GNG4"
+],
+[
+"Entrez",
+"2786"
+],
+[
+"Ensembl",
+"ENSG00000168243"
+],
+[
+"RefSeq",
+"NM_004485"
+],
+[
+"UniProt",
+"P50150"
+]
+]
+},
+{
+"symbol": "GNG5",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-5"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4408"
+],
+[
+"HGNC symbol",
+"GNG5"
+],
+[
+"Entrez",
+"2787"
+],
+[
+"Ensembl",
+"ENSG00000174021"
+],
+[
+"RefSeq",
+"NM_005274"
+],
+[
+"UniProt",
+"P63218"
+]
+]
+},
+{
+"symbol": "GNG7",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-7"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4410"
+],
+[
+"HGNC symbol",
+"GNG7"
+],
+[
+"Alias symbols",
+"FLJ00058"
+],
+[
+"Entrez",
+"2788"
+],
+[
+"Ensembl",
+"ENSG00000176533"
+],
+[
+"RefSeq",
+"NM_052847"
+],
+[
+"UniProt",
+"O60262"
+]
+]
+},
+{
+"symbol": "GNG8",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-8"
+],
+[
+"Alternative names",
+"Gamma-9"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19664"
+],
+[
+"HGNC symbol",
+"GNG8"
+],
+[
+"Entrez",
+"94235"
+],
+[
+"Ensembl",
+"ENSG00000167414"
+],
+[
+"RefSeq",
+"NM_033258"
+],
+[
+"UniProt",
+"Q9UK08"
+]
+]
+},
+{
+"symbol": "GNG10",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4402"
+],
+[
+"HGNC symbol",
+"GNG10"
+],
+[
+"Entrez",
+"2790"
+],
+[
+"Ensembl",
+"ENSG00000242616"
+],
+[
+"RefSeq",
+"NM_001017998"
+],
+[
+"UniProt",
+"P50151"
+]
+]
+},
+{
+"symbol": "GNG11",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-11"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4403"
+],
+[
+"HGNC symbol",
+"GNG11"
+],
+[
+"Alias symbols",
+"GNGT11"
+],
+[
+"Entrez",
+"2791"
+],
+[
+"Ensembl",
+"ENSG00000127920"
+],
+[
+"RefSeq",
+"NM_004126"
+],
+[
+"UniProt",
+"P61952"
+]
+]
+},
+{
+"symbol": "GNG12",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19663"
+],
+[
+"HGNC symbol",
+"GNG12"
+],
+[
+"Entrez",
+"55970"
+],
+[
+"Ensembl",
+"ENSG00000172380"
+],
+[
+"RefSeq",
+"NM_018841"
+],
+[
+"UniProt",
+"Q9UBI6"
+]
+]
+},
+{
+"symbol": "GNG13",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:14131"
+],
+[
+"HGNC symbol",
+"GNG13"
+],
+[
+"Alias symbols",
+"h2-35, G(gamma)13"
+],
+[
+"Entrez",
+"51764"
+],
+[
+"Ensembl",
+"ENSG00000127588"
+],
+[
+"RefSeq",
+"NM_016541"
+],
+[
+"UniProt",
+"Q9P2W3"
+]
+]
+}
+]
+},
+{
+"label": "Giγ",
+"class": "Macromolecule",
+"box": [
+1014.4,
+682.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits gamma"
+],
+[
+"Members",
+"GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13"
+]
+],
+"members": [
+{
+"symbol": "GNG2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2"
+],
+[
+"Alternative names",
+"G gamma-I"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4404"
+],
+[
+"HGNC symbol",
+"GNG2"
+],
+[
+"Entrez",
+"54331"
+],
+[
+"Ensembl",
+"ENSG00000186469"
+],
+[
+"RefSeq",
+"NM_001243773"
+],
+[
+"UniProt",
+"P59768"
+]
+]
+},
+{
+"symbol": "GNG3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-3"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4405"
+],
+[
+"HGNC symbol",
+"GNG3"
+],
+[
+"Entrez",
+"2785"
+],
+[
+"Ensembl",
+"ENSG00000162188"
+],
+[
+"RefSeq",
+"NM_012202"
+],
+[
+"UniProt",
+"P63215"
+]
+]
+},
+{
+"symbol": "GNG4",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-4"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4407"
+],
+[
+"HGNC symbol",
+"GNG4"
+],
+[
+"Entrez",
+"2786"
+],
+[
+"Ensembl",
+"ENSG00000168243"
+],
+[
+"RefSeq",
+"NM_004485"
+],
+[
+"UniProt",
+"P50150"
+]
+]
+},
+{
+"symbol": "GNG5",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-5"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4408"
+],
+[
+"HGNC symbol",
+"GNG5"
+],
+[
+"Entrez",
+"2787"
+],
+[
+"Ensembl",
+"ENSG00000174021"
+],
+[
+"RefSeq",
+"NM_005274"
+],
+[
+"UniProt",
+"P63218"
+]
+]
+},
+{
+"symbol": "GNG7",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-7"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4410"
+],
+[
+"HGNC symbol",
+"GNG7"
+],
+[
+"Alias symbols",
+"FLJ00058"
+],
+[
+"Entrez",
+"2788"
+],
+[
+"Ensembl",
+"ENSG00000176533"
+],
+[
+"RefSeq",
+"NM_052847"
+],
+[
+"UniProt",
+"O60262"
+]
+]
+},
+{
+"symbol": "GNG8",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-8"
+],
+[
+"Alternative names",
+"Gamma-9"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19664"
+],
+[
+"HGNC symbol",
+"GNG8"
+],
+[
+"Entrez",
+"94235"
+],
+[
+"Ensembl",
+"ENSG00000167414"
+],
+[
+"RefSeq",
+"NM_033258"
+],
+[
+"UniProt",
+"Q9UK08"
+]
+]
+},
+{
+"symbol": "GNG10",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4402"
+],
+[
+"HGNC symbol",
+"GNG10"
+],
+[
+"Entrez",
+"2790"
+],
+[
+"Ensembl",
+"ENSG00000242616"
+],
+[
+"RefSeq",
+"NM_001017998"
+],
+[
+"UniProt",
+"P50151"
+]
+]
+},
+{
+"symbol": "GNG11",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-11"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4403"
+],
+[
+"HGNC symbol",
+"GNG11"
+],
+[
+"Alias symbols",
+"GNGT11"
+],
+[
+"Entrez",
+"2791"
+],
+[
+"Ensembl",
+"ENSG00000127920"
+],
+[
+"RefSeq",
+"NM_004126"
+],
+[
+"UniProt",
+"P61952"
+]
+]
+},
+{
+"symbol": "GNG12",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19663"
+],
+[
+"HGNC symbol",
+"GNG12"
+],
+[
+"Entrez",
+"55970"
+],
+[
+"Ensembl",
+"ENSG00000172380"
+],
+[
+"RefSeq",
+"NM_018841"
+],
+[
+"UniProt",
+"Q9UBI6"
+]
+]
+},
+{
+"symbol": "GNG13",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:14131"
+],
+[
+"HGNC symbol",
+"GNG13"
+],
+[
+"Alias symbols",
+"h2-35, G(gamma)13"
+],
+[
+"Entrez",
+"51764"
+],
+[
+"Ensembl",
+"ENSG00000127588"
+],
+[
+"RefSeq",
+"NM_016541"
+],
+[
+"UniProt",
+"Q9P2W3"
+]
+]
+}
+]
+},
+{
+"label": "Giβ",
+"class": "Macromolecule",
+"box": [
+1014.4,
+634.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits beta"
+],
+[
+"Members",
+"GNB1; GNB2; GNB3; GNB4"
+]
+],
+"members": [
+{
+"symbol": "GNB1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1"
+],
+[
+"Alternative names",
+"Transducin beta chain 1"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"HGNC",
+"HGNC:4396"
+],
+[
+"HGNC symbol",
+"GNB1"
+],
+[
+"Entrez",
+"2782"
+],
+[
+"Ensembl",
+"ENSG00000078369"
+],
+[
+"RefSeq",
+"NM_002074"
+],
+[
+"UniProt",
+"P62873"
+]
+]
+},
+{
+"symbol": "GNB2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2"
+],
+[
+"Alternative names",
+"G protein subunit beta-2; Transducin beta chain 2"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cytoplasm, perinuclear region, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4398"
+],
+[
+"HGNC symbol",
+"GNB2"
+],
+[
+"Entrez",
+"2783"
+],
+[
+"Ensembl",
+"ENSG00000172354"
+],
+[
+"RefSeq",
+"NM_005273"
+],
+[
+"UniProt",
+"P62879"
+]
+]
+},
+{
+"symbol": "GNB3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3"
+],
+[
+"Alternative names",
+"Transducin beta chain 3"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"HGNC",
+"HGNC:4400"
+],
+[
+"HGNC symbol",
+"GNB3"
+],
+[
+"Entrez",
+"2784"
+],
+[
+"Ensembl",
+"ENSG00000111664"
+],
+[
+"RefSeq",
+"NM_002075"
+],
+[
+"UniProt",
+"P16520"
+]
+]
+},
+{
+"symbol": "GNB4",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein subunit beta-4"
+],
+[
+"Alternative names",
+"Transducin beta chain 4"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"HGNC",
+"HGNC:20731"
+],
+[
+"HGNC symbol",
+"GNB4"
+],
+[
+"Entrez",
+"59345"
+],
+[
+"Ensembl",
+"ENSG00000114450"
+],
+[
+"RefSeq",
+"NM_021629"
+],
+[
+"UniProt",
+"Q9HAV0"
+]
+]
+}
+]
+},
+{
+"label": "OPRM1",
+"class": "Macromolecule",
+"box": [
+728.5,
+450.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mu-type opioid receptor"
+],
+[
+"Alternative names",
+"Mu opiate receptor; Mu opioid receptor"
+],
+[
+"Function",
+"Receptor for endogenous opioids such as beta-endorphin and endomorphin. Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone."
+],
+[
+"Location",
+"Cell membrane, Cell projection, axon, Perikaryon, Cell projection, dendrite, Endosome, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:8156"
+],
+[
+"HGNC symbol",
+"OPRM1"
+],
+[
+"Alias symbols",
+"MOR1, MOP"
+],
+[
+"Entrez",
+"4988"
+],
+[
+"Ensembl",
+"ENSG00000112038"
+],
+[
+"RefSeq",
+"NM_000914"
+],
+[
+"UniProt",
+"P35372"
+]
+]
+},
+{
+"label": "Opioid agonist",
+"class": "SimpleChemical",
+"box": [
+748.5,
+402.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"opioid agent"
+],
+[
+"Synonyms",
+"opioid agents"
+],
+[
+"Definition",
+"Any agent that acts on an opioid receptor or affects the life cycle of an opioid  transmitter."
+],
+[
+"ChEBI",
+"CHEBI:60598"
+]
+]
+},
+{
+"label": "Giα",
+"class": "Macromolecule",
+"box": [
+985.5,
+417.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits alpha i/o"
+],
+[
+"Members",
+"GNAI1; GNAI2; GNAI3; GNAO1"
+]
+],
+"members": [
+{
+"symbol": "GNAI1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-1"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane, Nucleus, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:4384"
+],
+[
+"HGNC symbol",
+"GNAI1"
+],
+[
+"Entrez",
+"2770"
+],
+[
+"Ensembl",
+"ENSG00000127955"
+],
+[
+"RefSeq",
+"NM_002069"
+],
+[
+"UniProt",
+"P63096"
+]
+]
+},
+{
+"symbol": "GNAI2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-2"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:4385"
+],
+[
+"HGNC symbol",
+"GNAI2"
+],
+[
+"Previous symbols",
+"GNAI2B"
+],
+[
+"Alias symbols",
+"GIP"
+],
+[
+"Entrez",
+"2771"
+],
+[
+"Ensembl",
+"ENSG00000114353"
+],
+[
+"RefSeq",
+"NM_002070"
+],
+[
+"UniProt",
+"P04899"
+]
+]
+},
+{
+"symbol": "GNAI3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-3"
+],
+[
+"Alternative names",
+"G(i) alpha-3"
+],
+[
+"Function",
+"Heterotrimeric guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome"
+],
+[
+"HGNC",
+"HGNC:4387"
+],
+[
+"HGNC symbol",
+"GNAI3"
+],
+[
+"Alias symbols",
+"87U6"
+],
+[
+"Entrez",
+"2773"
+],
+[
+"Ensembl",
+"ENSG00000065135"
+],
+[
+"RefSeq",
+"NM_006496"
+],
+[
+"UniProt",
+"P08754"
+]
+]
+},
+{
+"symbol": "GNAO1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(o) subunit alpha"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades, such as regulation of postsynaptic neurotransmitter release. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4389"
+],
+[
+"HGNC symbol",
+"GNAO1"
+],
+[
+"Alias symbols",
+"G-ALPHA-o"
+],
+[
+"Entrez",
+"2775"
+],
+[
+"Ensembl",
+"ENSG00000087258"
+],
+[
+"RefSeq",
+"NM_020988"
+],
+[
+"UniProt",
+"P09471"
+]
+]
+}
+]
+},
+{
+"label": "GDP",
+"class": "SimpleChemical",
+"box": [
+1005.5,
+465.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GDP"
+],
+[
+"Synonyms",
+"Guanosine 5'-diphosphate; Guanosine diphosphate; guanosine 5'-(trihydrogen diphosphate)"
+],
+[
+"Definition",
+"A  purine ribonucleoside 5'-diphosphate resulting from the formal condensation of the hydroxy group at the 5' position of guanosine with pyrophosphoric acid."
+],
+[
+"Formula",
+"C10H15N5O11P2"
+],
+[
+"ChEBI",
+"CHEBI:17552"
+],
+[
+"KEGG",
+"C00035"
+],
+[
+"HMDB",
+"HMDB0001201"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O11P2/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(25-9)1-24-28(22,23)26-27(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"QGWNDRXFNXRZMB-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "Giβ",
+"class": "Macromolecule",
+"box": [
+1100.0,
+417.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits beta"
+],
+[
+"Members",
+"GNB1; GNB2; GNB3; GNB4"
+]
+],
+"members": [
+{
+"symbol": "GNB1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1"
+],
+[
+"Alternative names",
+"Transducin beta chain 1"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"HGNC",
+"HGNC:4396"
+],
+[
+"HGNC symbol",
+"GNB1"
+],
+[
+"Entrez",
+"2782"
+],
+[
+"Ensembl",
+"ENSG00000078369"
+],
+[
+"RefSeq",
+"NM_002074"
+],
+[
+"UniProt",
+"P62873"
+]
+]
+},
+{
+"symbol": "GNB2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2"
+],
+[
+"Alternative names",
+"G protein subunit beta-2; Transducin beta chain 2"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cytoplasm, perinuclear region, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4398"
+],
+[
+"HGNC symbol",
+"GNB2"
+],
+[
+"Entrez",
+"2783"
+],
+[
+"Ensembl",
+"ENSG00000172354"
+],
+[
+"RefSeq",
+"NM_005273"
+],
+[
+"UniProt",
+"P62879"
+]
+]
+},
+{
+"symbol": "GNB3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3"
+],
+[
+"Alternative names",
+"Transducin beta chain 3"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"HGNC",
+"HGNC:4400"
+],
+[
+"HGNC symbol",
+"GNB3"
+],
+[
+"Entrez",
+"2784"
+],
+[
+"Ensembl",
+"ENSG00000111664"
+],
+[
+"RefSeq",
+"NM_002075"
+],
+[
+"UniProt",
+"P16520"
+]
+]
+},
+{
+"symbol": "GNB4",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein subunit beta-4"
+],
+[
+"Alternative names",
+"Transducin beta chain 4"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"HGNC",
+"HGNC:20731"
+],
+[
+"HGNC symbol",
+"GNB4"
+],
+[
+"Entrez",
+"59345"
+],
+[
+"Ensembl",
+"ENSG00000114450"
+],
+[
+"RefSeq",
+"NM_021629"
+],
+[
+"UniProt",
+"Q9HAV0"
+]
+]
+}
+]
+},
+{
+"label": "Giγ",
+"class": "Macromolecule",
+"box": [
+1100.0,
+465.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits gamma"
+],
+[
+"Members",
+"GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13"
+]
+],
+"members": [
+{
+"symbol": "GNG2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2"
+],
+[
+"Alternative names",
+"G gamma-I"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4404"
+],
+[
+"HGNC symbol",
+"GNG2"
+],
+[
+"Entrez",
+"54331"
+],
+[
+"Ensembl",
+"ENSG00000186469"
+],
+[
+"RefSeq",
+"NM_001243773"
+],
+[
+"UniProt",
+"P59768"
+]
+]
+},
+{
+"symbol": "GNG3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-3"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4405"
+],
+[
+"HGNC symbol",
+"GNG3"
+],
+[
+"Entrez",
+"2785"
+],
+[
+"Ensembl",
+"ENSG00000162188"
+],
+[
+"RefSeq",
+"NM_012202"
+],
+[
+"UniProt",
+"P63215"
+]
+]
+},
+{
+"symbol": "GNG4",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-4"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4407"
+],
+[
+"HGNC symbol",
+"GNG4"
+],
+[
+"Entrez",
+"2786"
+],
+[
+"Ensembl",
+"ENSG00000168243"
+],
+[
+"RefSeq",
+"NM_004485"
+],
+[
+"UniProt",
+"P50150"
+]
+]
+},
+{
+"symbol": "GNG5",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-5"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4408"
+],
+[
+"HGNC symbol",
+"GNG5"
+],
+[
+"Entrez",
+"2787"
+],
+[
+"Ensembl",
+"ENSG00000174021"
+],
+[
+"RefSeq",
+"NM_005274"
+],
+[
+"UniProt",
+"P63218"
+]
+]
+},
+{
+"symbol": "GNG7",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-7"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4410"
+],
+[
+"HGNC symbol",
+"GNG7"
+],
+[
+"Alias symbols",
+"FLJ00058"
+],
+[
+"Entrez",
+"2788"
+],
+[
+"Ensembl",
+"ENSG00000176533"
+],
+[
+"RefSeq",
+"NM_052847"
+],
+[
+"UniProt",
+"O60262"
+]
+]
+},
+{
+"symbol": "GNG8",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-8"
+],
+[
+"Alternative names",
+"Gamma-9"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19664"
+],
+[
+"HGNC symbol",
+"GNG8"
+],
+[
+"Entrez",
+"94235"
+],
+[
+"Ensembl",
+"ENSG00000167414"
+],
+[
+"RefSeq",
+"NM_033258"
+],
+[
+"UniProt",
+"Q9UK08"
+]
+]
+},
+{
+"symbol": "GNG10",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4402"
+],
+[
+"HGNC symbol",
+"GNG10"
+],
+[
+"Entrez",
+"2790"
+],
+[
+"Ensembl",
+"ENSG00000242616"
+],
+[
+"RefSeq",
+"NM_001017998"
+],
+[
+"UniProt",
+"P50151"
+]
+]
+},
+{
+"symbol": "GNG11",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-11"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4403"
+],
+[
+"HGNC symbol",
+"GNG11"
+],
+[
+"Alias symbols",
+"GNGT11"
+],
+[
+"Entrez",
+"2791"
+],
+[
+"Ensembl",
+"ENSG00000127920"
+],
+[
+"RefSeq",
+"NM_004126"
+],
+[
+"UniProt",
+"P61952"
+]
+]
+},
+{
+"symbol": "GNG12",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19663"
+],
+[
+"HGNC symbol",
+"GNG12"
+],
+[
+"Entrez",
+"55970"
+],
+[
+"Ensembl",
+"ENSG00000172380"
+],
+[
+"RefSeq",
+"NM_018841"
+],
+[
+"UniProt",
+"Q9UBI6"
+]
+]
+},
+{
+"symbol": "GNG13",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:14131"
+],
+[
+"HGNC symbol",
+"GNG13"
+],
+[
+"Alias symbols",
+"h2-35, G(gamma)13"
+],
+[
+"Entrez",
+"51764"
+],
+[
+"Ensembl",
+"ENSG00000127588"
+],
+[
+"RefSeq",
+"NM_016541"
+],
+[
+"UniProt",
+"Q9P2W3"
+]
+]
+}
+]
+},
+{
+"label": "OPRM1",
+"class": "Macromolecule",
+"box": [
+1100.0,
+351.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mu-type opioid receptor"
+],
+[
+"Alternative names",
+"Mu opiate receptor; Mu opioid receptor"
+],
+[
+"Function",
+"Receptor for endogenous opioids such as beta-endorphin and endomorphin. Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone."
+],
+[
+"Location",
+"Cell membrane, Cell projection, axon, Perikaryon, Cell projection, dendrite, Endosome, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:8156"
+],
+[
+"HGNC symbol",
+"OPRM1"
+],
+[
+"Alias symbols",
+"MOR1, MOP"
+],
+[
+"Entrez",
+"4988"
+],
+[
+"Ensembl",
+"ENSG00000112038"
+],
+[
+"RefSeq",
+"NM_000914"
+],
+[
+"UniProt",
+"P35372"
+]
+]
+},
+{
+"label": "Opioid agonist",
+"class": "SimpleChemical",
+"box": [
+1005.5,
+351.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"opioid agent"
+],
+[
+"Synonyms",
+"opioid agents"
+],
+[
+"Definition",
+"Any agent that acts on an opioid receptor or affects the life cycle of an opioid  transmitter."
+],
+[
+"ChEBI",
+"CHEBI:60598"
+]
+]
+},
+{
+"label": "Giγ",
+"class": "Macromolecule",
+"box": [
+1515.0,
+465.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits gamma"
+],
+[
+"Members",
+"GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13"
+]
+],
+"members": [
+{
+"symbol": "GNG2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2"
+],
+[
+"Alternative names",
+"G gamma-I"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4404"
+],
+[
+"HGNC symbol",
+"GNG2"
+],
+[
+"Entrez",
+"54331"
+],
+[
+"Ensembl",
+"ENSG00000186469"
+],
+[
+"RefSeq",
+"NM_001243773"
+],
+[
+"UniProt",
+"P59768"
+]
+]
+},
+{
+"symbol": "GNG3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-3"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4405"
+],
+[
+"HGNC symbol",
+"GNG3"
+],
+[
+"Entrez",
+"2785"
+],
+[
+"Ensembl",
+"ENSG00000162188"
+],
+[
+"RefSeq",
+"NM_012202"
+],
+[
+"UniProt",
+"P63215"
+]
+]
+},
+{
+"symbol": "GNG4",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-4"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4407"
+],
+[
+"HGNC symbol",
+"GNG4"
+],
+[
+"Entrez",
+"2786"
+],
+[
+"Ensembl",
+"ENSG00000168243"
+],
+[
+"RefSeq",
+"NM_004485"
+],
+[
+"UniProt",
+"P50150"
+]
+]
+},
+{
+"symbol": "GNG5",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-5"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4408"
+],
+[
+"HGNC symbol",
+"GNG5"
+],
+[
+"Entrez",
+"2787"
+],
+[
+"Ensembl",
+"ENSG00000174021"
+],
+[
+"RefSeq",
+"NM_005274"
+],
+[
+"UniProt",
+"P63218"
+]
+]
+},
+{
+"symbol": "GNG7",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-7"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4410"
+],
+[
+"HGNC symbol",
+"GNG7"
+],
+[
+"Alias symbols",
+"FLJ00058"
+],
+[
+"Entrez",
+"2788"
+],
+[
+"Ensembl",
+"ENSG00000176533"
+],
+[
+"RefSeq",
+"NM_052847"
+],
+[
+"UniProt",
+"O60262"
+]
+]
+},
+{
+"symbol": "GNG8",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-8"
+],
+[
+"Alternative names",
+"Gamma-9"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19664"
+],
+[
+"HGNC symbol",
+"GNG8"
+],
+[
+"Entrez",
+"94235"
+],
+[
+"Ensembl",
+"ENSG00000167414"
+],
+[
+"RefSeq",
+"NM_033258"
+],
+[
+"UniProt",
+"Q9UK08"
+]
+]
+},
+{
+"symbol": "GNG10",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4402"
+],
+[
+"HGNC symbol",
+"GNG10"
+],
+[
+"Entrez",
+"2790"
+],
+[
+"Ensembl",
+"ENSG00000242616"
+],
+[
+"RefSeq",
+"NM_001017998"
+],
+[
+"UniProt",
+"P50151"
+]
+]
+},
+{
+"symbol": "GNG11",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-11"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4403"
+],
+[
+"HGNC symbol",
+"GNG11"
+],
+[
+"Alias symbols",
+"GNGT11"
+],
+[
+"Entrez",
+"2791"
+],
+[
+"Ensembl",
+"ENSG00000127920"
+],
+[
+"RefSeq",
+"NM_004126"
+],
+[
+"UniProt",
+"P61952"
+]
+]
+},
+{
+"symbol": "GNG12",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19663"
+],
+[
+"HGNC symbol",
+"GNG12"
+],
+[
+"Entrez",
+"55970"
+],
+[
+"Ensembl",
+"ENSG00000172380"
+],
+[
+"RefSeq",
+"NM_018841"
+],
+[
+"UniProt",
+"Q9UBI6"
+]
+]
+},
+{
+"symbol": "GNG13",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:14131"
+],
+[
+"HGNC symbol",
+"GNG13"
+],
+[
+"Alias symbols",
+"h2-35, G(gamma)13"
+],
+[
+"Entrez",
+"51764"
+],
+[
+"Ensembl",
+"ENSG00000127588"
+],
+[
+"RefSeq",
+"NM_016541"
+],
+[
+"UniProt",
+"Q9P2W3"
+]
+]
+}
+]
+},
+{
+"label": "Giβ",
+"class": "Macromolecule",
+"box": [
+1515.0,
+417.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits beta"
+],
+[
+"Members",
+"GNB1; GNB2; GNB3; GNB4"
+]
+],
+"members": [
+{
+"symbol": "GNB1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1"
+],
+[
+"Alternative names",
+"Transducin beta chain 1"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"HGNC",
+"HGNC:4396"
+],
+[
+"HGNC symbol",
+"GNB1"
+],
+[
+"Entrez",
+"2782"
+],
+[
+"Ensembl",
+"ENSG00000078369"
+],
+[
+"RefSeq",
+"NM_002074"
+],
+[
+"UniProt",
+"P62873"
+]
+]
+},
+{
+"symbol": "GNB2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2"
+],
+[
+"Alternative names",
+"G protein subunit beta-2; Transducin beta chain 2"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cytoplasm, perinuclear region, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4398"
+],
+[
+"HGNC symbol",
+"GNB2"
+],
+[
+"Entrez",
+"2783"
+],
+[
+"Ensembl",
+"ENSG00000172354"
+],
+[
+"RefSeq",
+"NM_005273"
+],
+[
+"UniProt",
+"P62879"
+]
+]
+},
+{
+"symbol": "GNB3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3"
+],
+[
+"Alternative names",
+"Transducin beta chain 3"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"HGNC",
+"HGNC:4400"
+],
+[
+"HGNC symbol",
+"GNB3"
+],
+[
+"Entrez",
+"2784"
+],
+[
+"Ensembl",
+"ENSG00000111664"
+],
+[
+"RefSeq",
+"NM_002075"
+],
+[
+"UniProt",
+"P16520"
+]
+]
+},
+{
+"symbol": "GNB4",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein subunit beta-4"
+],
+[
+"Alternative names",
+"Transducin beta chain 4"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"HGNC",
+"HGNC:20731"
+],
+[
+"HGNC symbol",
+"GNB4"
+],
+[
+"Entrez",
+"59345"
+],
+[
+"Ensembl",
+"ENSG00000114450"
+],
+[
+"RefSeq",
+"NM_021629"
+],
+[
+"UniProt",
+"Q9HAV0"
+]
+]
+}
+]
+},
+{
+"label": "Giα",
+"class": "Macromolecule",
+"box": [
+1400.5,
+417.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits alpha i/o"
+],
+[
+"Members",
+"GNAI1; GNAI2; GNAI3; GNAO1"
+]
+],
+"members": [
+{
+"symbol": "GNAI1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-1"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane, Nucleus, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:4384"
+],
+[
+"HGNC symbol",
+"GNAI1"
+],
+[
+"Entrez",
+"2770"
+],
+[
+"Ensembl",
+"ENSG00000127955"
+],
+[
+"RefSeq",
+"NM_002069"
+],
+[
+"UniProt",
+"P63096"
+]
+]
+},
+{
+"symbol": "GNAI2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-2"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:4385"
+],
+[
+"HGNC symbol",
+"GNAI2"
+],
+[
+"Previous symbols",
+"GNAI2B"
+],
+[
+"Alias symbols",
+"GIP"
+],
+[
+"Entrez",
+"2771"
+],
+[
+"Ensembl",
+"ENSG00000114353"
+],
+[
+"RefSeq",
+"NM_002070"
+],
+[
+"UniProt",
+"P04899"
+]
+]
+},
+{
+"symbol": "GNAI3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-3"
+],
+[
+"Alternative names",
+"G(i) alpha-3"
+],
+[
+"Function",
+"Heterotrimeric guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome"
+],
+[
+"HGNC",
+"HGNC:4387"
+],
+[
+"HGNC symbol",
+"GNAI3"
+],
+[
+"Alias symbols",
+"87U6"
+],
+[
+"Entrez",
+"2773"
+],
+[
+"Ensembl",
+"ENSG00000065135"
+],
+[
+"RefSeq",
+"NM_006496"
+],
+[
+"UniProt",
+"P08754"
+]
+]
+},
+{
+"symbol": "GNAO1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(o) subunit alpha"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades, such as regulation of postsynaptic neurotransmitter release. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4389"
+],
+[
+"HGNC symbol",
+"GNAO1"
+],
+[
+"Alias symbols",
+"G-ALPHA-o"
+],
+[
+"Entrez",
+"2775"
+],
+[
+"Ensembl",
+"ENSG00000087258"
+],
+[
+"RefSeq",
+"NM_020988"
+],
+[
+"UniProt",
+"P09471"
+]
+]
+}
+]
+},
+{
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+1420.5,
+465.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP"
+],
+[
+"Synonyms",
+"5'-GTP; GUANOSINE-5'-TRIPHOSPHATE; Guanosine 5'-triphosphate; H4gtp; guanosine 5'-(tetrahydrogen triphosphate); guanosine 5'-triphosphoric acid; guanosine triphosphate"
+],
+[
+"Formula",
+"C10H16N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:15996"
+],
+[
+"KEGG",
+"C00044"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "OPRM1",
+"class": "Macromolecule",
+"box": [
+1515.0,
+351.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mu-type opioid receptor"
+],
+[
+"Alternative names",
+"Mu opiate receptor; Mu opioid receptor"
+],
+[
+"Function",
+"Receptor for endogenous opioids such as beta-endorphin and endomorphin. Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone."
+],
+[
+"Location",
+"Cell membrane, Cell projection, axon, Perikaryon, Cell projection, dendrite, Endosome, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:8156"
+],
+[
+"HGNC symbol",
+"OPRM1"
+],
+[
+"Alias symbols",
+"MOR1, MOP"
+],
+[
+"Entrez",
+"4988"
+],
+[
+"Ensembl",
+"ENSG00000112038"
+],
+[
+"RefSeq",
+"NM_000914"
+],
+[
+"UniProt",
+"P35372"
+]
+]
+},
+{
+"label": "Opioid agonist",
+"class": "SimpleChemical",
+"box": [
+1420.5,
+351.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"opioid agent"
+],
+[
+"Synonyms",
+"opioid agents"
+],
+[
+"Definition",
+"Any agent that acts on an opioid receptor or affects the life cycle of an opioid  transmitter."
+],
+[
+"ChEBI",
+"CHEBI:60598"
+]
+]
+},
+{
+"label": "ADCY",
+"class": "Macromolecule",
+"box": [
+1560.5,
+978.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"Adenylate cyclases"
+],
+[
+"Members",
+"ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9"
+]
+],
+"members": [
+{
+"symbol": "ADCY1",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 1"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 1; Adenylate cyclase type I; Adenylyl cyclase 1; Ca(2+)/calmodulin-activated adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Mediates responses to increased cellular Ca(2+)/calmodulin levels."
+],
+[
+"Location",
+"Membrane, Cell membrane, Cytoplasm, Membrane raft"
+],
+[
+"HGNC",
+"HGNC:232"
+],
+[
+"HGNC symbol",
+"ADCY1"
+],
+[
+"Previous symbols",
+"DFNB44"
+],
+[
+"Alias symbols",
+"AC1"
+],
+[
+"Entrez",
+"107"
+],
+[
+"Ensembl",
+"ENSG00000164742"
+],
+[
+"RefSeq",
+"NM_021116"
+],
+[
+"UniProt",
+"Q08828"
+]
+]
+},
+{
+"symbol": "ADCY2",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 2"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 2; Adenylate cyclase type II; Adenylyl cyclase 2"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Down-stream signaling cascades mediate changes in gene expression patterns and lead to increased IL6 production."
+],
+[
+"Location",
+"Membrane, Cell membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:233"
+],
+[
+"HGNC symbol",
+"ADCY2"
+],
+[
+"Alias symbols",
+"HBAC2, KIAA1060, AC2"
+],
+[
+"Entrez",
+"108"
+],
+[
+"Ensembl",
+"ENSG00000078295"
+],
+[
+"RefSeq",
+"NM_020546"
+],
+[
+"UniProt",
+"Q08462"
+]
+]
+},
+{
+"symbol": "ADCY3",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 3"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 3; Adenylate cyclase type III; Adenylate cyclase, olfactive type; Adenylyl cyclase 3"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Participates in signaling cascades triggered by odorant receptors via its function in cAMP biosynthesis: specifically activated by G alpha protein GNAL/G(olf) in olfactory epithelium."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium membrane, Cell projection, cilium, Cytoplasm, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:234"
+],
+[
+"HGNC symbol",
+"ADCY3"
+],
+[
+"Alias symbols",
+"AC3"
+],
+[
+"Entrez",
+"109"
+],
+[
+"Ensembl",
+"ENSG00000138031"
+],
+[
+"RefSeq",
+"NM_001320613"
+],
+[
+"UniProt",
+"O60266"
+]
+]
+},
+{
+"symbol": "ADCY4",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 4"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 4; Adenylate cyclase type IV; Adenylyl cyclase 4"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling"
+],
+[
+"Location",
+"Cell membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:235"
+],
+[
+"HGNC symbol",
+"ADCY4"
+],
+[
+"Alias symbols",
+"AC4"
+],
+[
+"Entrez",
+"196883"
+],
+[
+"Ensembl",
+"ENSG00000129467"
+],
+[
+"RefSeq",
+"NM_001198568"
+],
+[
+"UniProt",
+"Q8NFM4"
+]
+]
+},
+{
+"symbol": "ADCY5",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 5"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 5; Adenylate cyclase type V; Adenylyl cyclase 5"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP in response to G protein signaling. Mediates signaling downstream of ADRB1."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium"
+],
+[
+"HGNC",
+"HGNC:236"
+],
+[
+"HGNC symbol",
+"ADCY5"
+],
+[
+"Alias symbols",
+"AC5"
+],
+[
+"Entrez",
+"111"
+],
+[
+"Ensembl",
+"ENSG00000173175"
+],
+[
+"RefSeq",
+"NM_183357"
+],
+[
+"UniProt",
+"O95622"
+]
+]
+},
+{
+"symbol": "ADCY6",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 6"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 6; Adenylate cyclase type VI; Adenylyl cyclase 6; Ca(2+)-inhibitable adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of the signaling molecule cAMP downstream of G protein-coupled receptors. Functions in signaling cascades downstream of beta-adrenergic receptors in the heart and in vascular smooth muscle cells."
+],
+[
+"Location",
+"Cell membrane, Cell projection, cilium, Cell projection, stereocilium"
+],
+[
+"HGNC",
+"HGNC:237"
+],
+[
+"HGNC symbol",
+"ADCY6"
+],
+[
+"Alias symbols",
+"AC6"
+],
+[
+"Entrez",
+"112"
+],
+[
+"Ensembl",
+"ENSG00000174233"
+],
+[
+"RefSeq",
+"NM_020983"
+],
+[
+"UniProt",
+"O43306"
+]
+]
+},
+{
+"symbol": "ADCY7",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 7"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 7; Adenylate cyclase type VII; Adenylyl cyclase 7; Cyclic di-AMP synthase ADCY7"
+],
+[
+"Function",
+"Adenylate cyclase that mediates formation of both cyclic AMP (cAMP) and cyclic di-AMP (c-di-AMP). Acts as a key mediator of G protein-coupled receptor signaling by catalyzing the formation of cAMP downstream of G protein-coupled receptors."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:238"
+],
+[
+"HGNC symbol",
+"ADCY7"
+],
+[
+"Alias symbols",
+"KIAA0037, AC7"
+],
+[
+"Entrez",
+"113"
+],
+[
+"Ensembl",
+"ENSG00000121281"
+],
+[
+"RefSeq",
+"NM_001114"
+],
+[
+"UniProt",
+"P51828"
+]
+]
+},
+{
+"symbol": "ADCY8",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 8"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 8; Adenylate cyclase type VIII; Adenylyl cyclase 8; Ca(2+)/calmodulin-activated adenylyl cyclase"
+],
+[
+"Function",
+"Catalyzes the formation of cAMP in response to calcium entry leadings to cAMP signaling activation that affect processes suche as synaptic plasticity and insulin secretion. Plays a role in many brain functions, such as learning, memory, drug addiction, and anxiety modulation through regulation of synaptic plasticity by modulating long-term memory and long-term potentiation (LTP) through CREB transcription factor activity modulation."
+],
+[
+"Location",
+"Cell membrane, Basolateral cell membrane, Apical cell membrane, Synapse, Cell projection, dendrite, Cell projection, axon, Presynaptic cell membrane, Postsynaptic density, Membrane raft, Membrane, coated pit, Cytoplasmic vesicle, clathrin-coated vesicle membrane, Membrane, caveola"
+],
+[
+"HGNC",
+"HGNC:239"
+],
+[
+"HGNC symbol",
+"ADCY8"
+],
+[
+"Previous symbols",
+"ADCY3"
+],
+[
+"Alias symbols",
+"HBAC1, AC8"
+],
+[
+"Entrez",
+"114"
+],
+[
+"Ensembl",
+"ENSG00000155897"
+],
+[
+"RefSeq",
+"NM_001115"
+],
+[
+"UniProt",
+"P40145"
+]
+]
+},
+{
+"symbol": "ADCY9",
+"props": [
+[
+"Full name",
+"Adenylate cyclase type 9"
+],
+[
+"Alternative names",
+"ATP pyrophosphate-lyase 9; Adenylate cyclase type IX; Adenylyl cyclase 9"
+],
+[
+"Function",
+"Adenylyl cyclase that catalyzes the formation of the signaling molecule cAMP in response to activation of G protein-coupled receptors. Contributes to signaling cascades activated by CRH (corticotropin-releasing factor), corticosteroids and beta-adrenergic receptors"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:240"
+],
+[
+"HGNC symbol",
+"ADCY9"
+],
+[
+"Alias symbols",
+"AC9"
+],
+[
+"Entrez",
+"115"
+],
+[
+"Ensembl",
+"ENSG00000162104"
+],
+[
+"RefSeq",
+"NM_001116"
+],
+[
+"UniProt",
+"O60503"
+]
+]
+}
+]
+},
+{
+"label": "Giα",
+"class": "Macromolecule",
+"box": [
+1450.5,
+814.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits alpha i/o"
+],
+[
+"Members",
+"GNAI1; GNAI2; GNAI3; GNAO1"
+]
+],
+"members": [
+{
+"symbol": "GNAI1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-1"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane, Nucleus, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:4384"
+],
+[
+"HGNC symbol",
+"GNAI1"
+],
+[
+"Entrez",
+"2770"
+],
+[
+"Ensembl",
+"ENSG00000127955"
+],
+[
+"RefSeq",
+"NM_002069"
+],
+[
+"UniProt",
+"P63096"
+]
+]
+},
+{
+"symbol": "GNAI2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-2"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:4385"
+],
+[
+"HGNC symbol",
+"GNAI2"
+],
+[
+"Previous symbols",
+"GNAI2B"
+],
+[
+"Alias symbols",
+"GIP"
+],
+[
+"Entrez",
+"2771"
+],
+[
+"Ensembl",
+"ENSG00000114353"
+],
+[
+"RefSeq",
+"NM_002070"
+],
+[
+"UniProt",
+"P04899"
+]
+]
+},
+{
+"symbol": "GNAI3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-3"
+],
+[
+"Alternative names",
+"G(i) alpha-3"
+],
+[
+"Function",
+"Heterotrimeric guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome"
+],
+[
+"HGNC",
+"HGNC:4387"
+],
+[
+"HGNC symbol",
+"GNAI3"
+],
+[
+"Alias symbols",
+"87U6"
+],
+[
+"Entrez",
+"2773"
+],
+[
+"Ensembl",
+"ENSG00000065135"
+],
+[
+"RefSeq",
+"NM_006496"
+],
+[
+"UniProt",
+"P08754"
+]
+]
+},
+{
+"symbol": "GNAO1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(o) subunit alpha"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades, such as regulation of postsynaptic neurotransmitter release. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4389"
+],
+[
+"HGNC symbol",
+"GNAO1"
+],
+[
+"Alias symbols",
+"G-ALPHA-o"
+],
+[
+"Entrez",
+"2775"
+],
+[
+"Ensembl",
+"ENSG00000087258"
+],
+[
+"RefSeq",
+"NM_020988"
+],
+[
+"UniProt",
+"P09471"
+]
+]
+}
+]
+},
+{
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+1470.5,
+862.5,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP"
+],
+[
+"Synonyms",
+"5'-GTP; GUANOSINE-5'-TRIPHOSPHATE; Guanosine 5'-triphosphate; H4gtp; guanosine 5'-(tetrahydrogen triphosphate); guanosine 5'-triphosphoric acid; guanosine triphosphate"
+],
+[
+"Formula",
+"C10H16N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:15996"
+],
+[
+"KEGG",
+"C00044"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "Giα",
+"class": "Macromolecule",
+"box": [
+1130.8,
+814.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"G protein subunits alpha i/o"
+],
+[
+"Members",
+"GNAI1; GNAI2; GNAI3; GNAO1"
+]
+],
+"members": [
+{
+"symbol": "GNAI1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-1"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane, Nucleus, Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:4384"
+],
+[
+"HGNC symbol",
+"GNAI1"
+],
+[
+"Entrez",
+"2770"
+],
+[
+"Ensembl",
+"ENSG00000127955"
+],
+[
+"RefSeq",
+"NM_002069"
+],
+[
+"UniProt",
+"P63096"
+]
+]
+},
+{
+"symbol": "GNAI2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-2"
+],
+[
+"Alternative names",
+"Adenylate cyclase-inhibiting G alpha protein"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cell membrane, Membrane"
+],
+[
+"HGNC",
+"HGNC:4385"
+],
+[
+"HGNC symbol",
+"GNAI2"
+],
+[
+"Previous symbols",
+"GNAI2B"
+],
+[
+"Alias symbols",
+"GIP"
+],
+[
+"Entrez",
+"2771"
+],
+[
+"Ensembl",
+"ENSG00000114353"
+],
+[
+"RefSeq",
+"NM_002070"
+],
+[
+"UniProt",
+"P04899"
+]
+]
+},
+{
+"symbol": "GNAI3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(i) subunit alpha-3"
+],
+[
+"Alternative names",
+"G(i) alpha-3"
+],
+[
+"Function",
+"Heterotrimeric guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome"
+],
+[
+"HGNC",
+"HGNC:4387"
+],
+[
+"HGNC symbol",
+"GNAI3"
+],
+[
+"Alias symbols",
+"87U6"
+],
+[
+"Entrez",
+"2773"
+],
+[
+"Ensembl",
+"ENSG00000065135"
+],
+[
+"RefSeq",
+"NM_006496"
+],
+[
+"UniProt",
+"P08754"
+]
+]
+},
+{
+"symbol": "GNAO1",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(o) subunit alpha"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) function as transducers downstream of G protein-coupled receptors (GPCRs) in numerous signaling cascades, such as regulation of postsynaptic neurotransmitter release. The alpha chain contains the guanine nucleotide binding site and alternates between an active, GTP-bound state and an inactive, GDP-bound state."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4389"
+],
+[
+"HGNC symbol",
+"GNAO1"
+],
+[
+"Alias symbols",
+"G-ALPHA-o"
+],
+[
+"Entrez",
+"2775"
+],
+[
+"Ensembl",
+"ENSG00000087258"
+],
+[
+"RefSeq",
+"NM_020988"
+],
+[
+"UniProt",
+"P09471"
+]
+]
+}
+]
+},
+{
+"label": "GDP",
+"class": "SimpleChemical",
+"box": [
+1150.8,
+862.5,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GDP"
+],
+[
+"Synonyms",
+"Guanosine 5'-diphosphate; Guanosine diphosphate; guanosine 5'-(trihydrogen diphosphate)"
+],
+[
+"Definition",
+"A  purine ribonucleoside 5'-diphosphate resulting from the formal condensation of the hydroxy group at the 5' position of guanosine with pyrophosphoric acid."
+],
+[
+"Formula",
+"C10H15N5O11P2"
+],
+[
+"ChEBI",
+"CHEBI:17552"
+],
+[
+"KEGG",
+"C00035"
+],
+[
+"HMDB",
+"HMDB0001201"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O11P2/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(25-9)1-24-28(22,23)26-27(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"QGWNDRXFNXRZMB-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "Pi",
+"class": "SimpleChemical",
+"box": [
+1296.1,
+788.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"inorganic phosphate"
+],
+[
+"Synonyms",
+"inorganic phosphates"
+],
+[
+"Definition",
+"Any  phosphate that contains no carbon atom."
+],
+[
+"ChEBI",
+"CHEBI:24838"
+]
+]
+},
+{
+"label": "OPRM1",
+"class": "Macromolecule",
+"box": [
+1560.5,
+724.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mu-type opioid receptor"
+],
+[
+"Alternative names",
+"Mu opiate receptor; Mu opioid receptor"
+],
+[
+"Function",
+"Receptor for endogenous opioids such as beta-endorphin and endomorphin. Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone."
+],
+[
+"Location",
+"Cell membrane, Cell projection, axon, Perikaryon, Cell projection, dendrite, Endosome, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:8156"
+],
+[
+"HGNC symbol",
+"OPRM1"
+],
+[
+"Alias symbols",
+"MOR1, MOP"
+],
+[
+"Entrez",
+"4988"
+],
+[
+"Ensembl",
+"ENSG00000112038"
+],
+[
+"RefSeq",
+"NM_000914"
+],
+[
+"UniProt",
+"P35372"
+]
+]
+},
+{
+"label": "GDP",
+"class": "SimpleChemical",
+"box": [
+1292.0,
+500.5,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GDP"
+],
+[
+"Synonyms",
+"Guanosine 5'-diphosphate; Guanosine diphosphate; guanosine 5'-(trihydrogen diphosphate)"
+],
+[
+"Definition",
+"A  purine ribonucleoside 5'-diphosphate resulting from the formal condensation of the hydroxy group at the 5' position of guanosine with pyrophosphoric acid."
+],
+[
+"Formula",
+"C10H15N5O11P2"
+],
+[
+"ChEBI",
+"CHEBI:17552"
+],
+[
+"KEGG",
+"C00035"
+],
+[
+"HMDB",
+"HMDB0001201"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O11P2/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(25-9)1-24-28(22,23)26-27(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"QGWNDRXFNXRZMB-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+1234.0,
+500.5,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP"
+],
+[
+"Synonyms",
+"5'-GTP; GUANOSINE-5'-TRIPHOSPHATE; Guanosine 5'-triphosphate; H4gtp; guanosine 5'-(tetrahydrogen triphosphate); guanosine 5'-triphosphoric acid; guanosine triphosphate"
+],
+[
+"Formula",
+"C10H16N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:15996"
+],
+[
+"KEGG",
+"C00044"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-N"
+]
+]
+},
+{
+"label": "OPRM1",
+"class": "Macromolecule",
+"box": [
+510.0,
+436.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mu-type opioid receptor"
+],
+[
+"Alternative names",
+"Mu opiate receptor; Mu opioid receptor"
+],
+[
+"Function",
+"Receptor for endogenous opioids such as beta-endorphin and endomorphin. Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone."
+],
+[
+"Location",
+"Cell membrane, Cell projection, axon, Perikaryon, Cell projection, dendrite, Endosome, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:8156"
+],
+[
+"HGNC symbol",
+"OPRM1"
+],
+[
+"Alias symbols",
+"MOR1, MOP"
+],
+[
+"Entrez",
+"4988"
+],
+[
+"Ensembl",
+"ENSG00000112038"
+],
+[
+"RefSeq",
+"NM_000914"
+],
+[
+"UniProt",
+"P35372"
+]
+]
+},
+{
+"label": "Tramadol",
+"class": "SimpleChemical",
+"box": [
+33.0,
+17.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"tramadol"
+],
+[
+"Synonyms",
+"(+-)-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol; CG-315E; E-265; U-26225A; rac-(1R,2R)-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol; tramadolum"
+],
+[
+"Definition",
+"A racemate consisting of equal amounts of (R,R)- and (S,S)-tramadol. A centrally acting synthetic opioid analgesic, used (as the hydrochloride salt) to treat moderately severe pain. The (R,R)-enantiomer exhibits ten-fold higher analgesic potency than the (S,S)-enantiomer. Originally developed by Grünenthal GmbH and launched in 1977, it was subsequently isolated from the root bark of the South African tree Nauclea latifolia."
+],
+[
+"Formula",
+"C16H25NO2"
+],
+[
+"ChEBI",
+"CHEBI:9648"
+],
+[
+"KEGG",
+"C07153"
+],
+[
+"HMDB",
+"HMDB0014339"
+]
+]
+},
+{
+"label": "Codein",
+"class": "SimpleChemical",
+"box": [
+172.5,
+17.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"codeine"
+],
+[
+"Synonyms",
+"(-)-Codeine; (1S,13R,14S,17R)-10-methoxy-4-methyl-12-oxa-4-azapentacyclo[9.6.1.0(1,13).0(5,17).0(7,18)]octadeca-7(18),8,10,15-tetraen-14-ol; (5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol; 3-methoxy-17-methyl-7,8-didehydro-4,5alpha-epoxymorphinan-6alpha-ol; 7,8-didehydro-4,5alpha-epoxy-3-methoxy-17-methylmorphinan-6alpha-ol; Codein; Codicept; Coducept; O(3)-methylmorphine; codeina; codeine anhydrous; l-codeine; methylmorphine; morphine 3-methyl ether; morphine monomethyl ether; morphine-3-methyl ether"
+],
+[
+"Definition",
+"A  morphinane alkaloid found in the opium poppy, Papaver somniferum var. album; has analgesic, anti-tussive and anti-diarrhoeal properties."
+],
+[
+"Formula",
+"C18H21NO3"
+],
+[
+"ChEBI",
+"CHEBI:16714"
+],
+[
+"KEGG",
+"C06174"
+],
+[
+"InChI",
+"InChI=1S/C18H21NO3/c1-19-8-7-18-11-4-5-13(20)17(18)22-16-14(21-2)6-3-10(15(16)18)9-12(11)19/h3-6,11-13,17,20H,7-9H2,1-2H3/t11-,12+,13-,17-,18-/m0/s1"
+],
+[
+"InChIKey",
+"OROGSEYTTFOCAN-DNJOTXNNSA-N"
+]
+]
+},
+{
+"label": "Morphine",
+"class": "SimpleChemical",
+"box": [
+312.0,
+17.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"morphine"
+],
+[
+"Synonyms",
+"(-)-morphine; (5R,6S,9R,13S,14R)-4,5-epoxy-N-methyl-7-morphinen-3,6-diol; (5alpha,6alpha)-17-methyl-7,8-didehydro-4,5-epoxymorphinan-3,6-diol; (5alpha,6alpha)-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol; (7R,7AS,12BS)-3-METHYL-2,3,4,4A,7,7A-HEXAHYDRO-1H-4,12-METHANO[1]BENZOFURO[3,2-E]ISOQUINOLINE-7,9-DIOL; 17-methyl-7,8-didehydro-4,5alpha-epoxymorphinan-3,6alpha-diol; Morphia; Morphin; morfina; morphinum; morphium"
+],
+[
+"Definition",
+"A morphinane alkaloid that is a highly potent opiate analgesic psychoactive drug. Morphine acts directly on the central nervous system (CNS) to relieve pain but has a high potential for addiction, with tolerance and both physical and psychological dependence developing rapidly. Morphine is the most abundant opiate found in Papaver somniferum (the opium poppy)."
+],
+[
+"Formula",
+"C17H19NO3"
+],
+[
+"ChEBI",
+"CHEBI:17303"
+],
+[
+"KEGG",
+"C01516"
+],
+[
+"InChI",
+"InChI=1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2-5,10-11,13,16,19-20H,6-8H2,1H3/t10-,11+,13-,16-,17-/m0/s1"
+],
+[
+"InChIKey",
+"BQJCRHHNABKAKU-KBQPJGBKSA-N"
+]
+]
+},
+{
+"label": "Oxycodone",
+"class": "SimpleChemical",
+"box": [
+451.5,
+17.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"oxycodone"
+],
+[
+"Synonyms",
+"(-)-14-Hydroxydihydrocodeinone; 14-hydroxy-3-methoxy-17-methyl-4,5alpha-epoxymorphinan-6-one; 4,5-Epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one; 4,5alpha-Epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one; Dihydro-14-hydroxycodeinone; Dihydrohydroxycodeinone; Dihydroxycodeinone; oxicodona; oxycodonum"
+],
+[
+"Definition",
+"A semisynthetic opioid of formula C18H21NO4 that is derived from thebaine.  It is a moderately potent opioid analgesic, generally used for relief of moderate to severe pain."
+],
+[
+"Formula",
+"C18H21NO4"
+],
+[
+"ChEBI",
+"CHEBI:7852"
+],
+[
+"KEGG",
+"C08018"
+],
+[
+"InChI",
+"InChI=1S/C18H21NO4/c1-19-8-7-17-14-10-3-4-12(22-2)15(14)23-16(17)11(20)5-6-18(17,21)13(19)9-10/h3-4,13,16,21H,5-9H2,1-2H3/t13-,16+,17+,18-/m1/s1"
+],
+[
+"InChIKey",
+"BRUQQQPBMZOVGD-XFKAJCMBSA-N"
+]
+]
+},
+{
+"label": "Fentanyl",
+"class": "SimpleChemical",
+"box": [
+591.0,
+17.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"fentanyl"
+],
+[
+"Synonyms",
+"1-phenethyl-4-(N-phenylpropionamido)piperidine; 1-phenethyl-4-N-propionylanilinopiperidine; Duragesic; N-(1-phenethyl-4-piperidinyl)-N-phenylpropionamide; N-(1-phenethyl-4-piperidyl)propionanilide; N-(1-phenethyl-piperidin-4-yl)-N-phenyl-propionamide; N-(1-phenethylpiperidin-4-yl)-N-phenylpropionamide; N-phenethyl-4-(N-propionylanilino)piperidine; N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)propanamide; N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide; fentanilo; fentanylum; phentanyl"
+],
+[
+"Definition",
+"A monocarboxylic acid amide resulting from the formal condensation of the aryl amino group of N-phenyl-1-(2-phenylethyl)piperidin-4-amine with propanoic acid."
+],
+[
+"Formula",
+"C22H28N2O"
+],
+[
+"ChEBI",
+"CHEBI:119915"
+],
+[
+"InChI",
+"InChI=1S/C22H28N2O/c1-2-22(25)24(20-11-7-4-8-12-20)21-14-17-23(18-15-21)16-13-19-9-5-3-6-10-19/h3-12,21H,2,13-18H2,1H3"
+],
+[
+"InChIKey",
+"PJMPHNIQZUBGLI-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Opioid agonist",
+"class": "SimpleChemical",
+"box": [
+591.0,
+187.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"opioid agent"
+],
+[
+"Synonyms",
+"opioid agents"
+],
+[
+"Definition",
+"Any agent that acts on an opioid receptor or affects the life cycle of an opioid  transmitter."
+],
+[
+"ChEBI",
+"CHEBI:60598"
+]
+]
+},
+{
+"label": "Buprenorphine",
+"class": "SimpleChemical",
+"box": [
+730.5,
+17.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"buprenorphine"
+],
+[
+"Synonyms",
+"(-)-buprenorphine; (5alpha,6beta,14beta,18R)-17-(cyclopropylmethyl)-18-[(2S)-2-hydroxy-3,3-dimethylbutan-2-yl]-6-methoxy-18,19-dihydro-4,5-epoxy-6,14-ethenomorphinan-3-ol; 17-cyclopropylmethyl-4,5alpha-epoxy-7alpha-((S)-1-hydroxy-1,2,2-trimethylpropyl)-6-methoxy-6,14-endo-ethanomorphinan-3-ol; 2-(N-cyclopropylmethyl-4,5alpha-epoxy-3-hydroxy-6-methoxy-6,14-endo-ethanomorphinan-6alpha-yl)-3,3-dimethyl-2-butanol; 2-[3-cyclopropylmethyl-11-hydroxy-15-methoxy-(14R)-13-oxa-3-azahexacyclo[13.2.2.12,8.01,6.06,14.07,12]icosa-7,9,11-trien-16-yl]-3,3-dimethyl-2-butanol; 21-cyclopropyl-7alpha-[(S)-1-hydroxy-1,2,2-trimethylpropyl]-6,14-endo-ethano-6,7,8,14-tetrahydrooripavine; buprenorfina; buprenorphinum"
+],
+[
+"Definition",
+"A morphinane alkaloid that is 7,8-dihydromorphine 6-O-methyl ether in which positions 6 and 14 are joined by a -CH2CH2- bridge, one of the hydrogens of the N-methyl group is substituted by cyclopropyl, and a hydrogen at position 7 is substituted by a 2-hydroxy-3,3-dimethylbutan-2-yl group. It is highly effective for the treatment of opioid use disorder and is also increasingly being used in the treatment of chronic pain."
+],
+[
+"Formula",
+"C29H41NO4"
+],
+[
+"ChEBI",
+"CHEBI:3216"
+],
+[
+"KEGG",
+"C08007"
+],
+[
+"HMDB",
+"HMDB0015057"
+],
+[
+"InChI",
+"InChI=1S/C29H41NO4/c1-25(2,3)26(4,32)20-15-27-10-11-29(20,33-5)24-28(27)12-13-30(16-17-6-7-17)21(27)14-18-8-9-19(31)23(34-24)22(18)28/h8-9,17,20-21,24,31-32H,6-7,10-16H2,1-5H3/t20-,21-,24-,26+,27-,28+,29-/m1/s1"
+],
+[
+"InChIKey",
+"RMRJXGBAOAMLHD-IHFGGWKQSA-N"
+]
+]
+},
+{
+"label": "Hydromorphone",
+"class": "SimpleChemical",
+"box": [
+870.0,
+17.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"hydromorphone"
+],
+[
+"Synonyms",
+"(-)-(5R)-4,5-Epoxy-3-hydroxy-9alpha-methylmorphinan-6-one; 3-hydroxy-17-methyl-4,5alpha-epoxymorphinan-6-one; 4,5-Epoxy-3-hydroxy-17-methylmorphinan-6-one; 4,5alpha-Epoxy-3-hydroxy-17-methyl-6-morphinanone; 6-Deoxy-7,8-dihydro-6-oxomorphine; 7,8-Dihydromorphinone; Dihydromorfinon; Dihydromorphinone; Dimorphone; Hydromorfona; Idromorfone; hidromorfona; hydromorphonum"
+],
+[
+"Definition",
+"A  morphinane alkaloid that is a hydrogenated ketone derivative of morphine. A semi-synthetic drug, it is a centrally acting pain medication of the opioid class."
+],
+[
+"Formula",
+"C17H19NO3"
+],
+[
+"ChEBI",
+"CHEBI:5790"
+],
+[
+"KEGG",
+"C07042"
+],
+[
+"InChI",
+"InChI=1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2,4,10-11,16,19H,3,5-8H2,1H3/t10-,11+,16-,17-/m0/s1"
+],
+[
+"InChIKey",
+"WVLOADHCBXTIJK-YNHQPCIGSA-N"
+]
+]
+},
+{
+"label": "Pethidine",
+"class": "SimpleChemical",
+"box": [
+1009.5,
+17.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"pethidine"
+],
+[
+"Synonyms",
+"1-methyl-4-phenyl-4-piperidinecarboxylic acid ethyl ester; 1-methyl-4-phenylisonipecotic acid ethyl ester; 1-methyl-4-phenylpiperidine-4-carboxylic acid ethyl ester; Demerol; IDS-NP-001; Meperidol; N-methyl-4-phenyl-4-carbethoxypiperidine; Nemerol; Pethanol; ethyl 1-methyl-4-phenylisonipecotate; ethyl 1-methyl-4-phenylpiperidine-4-carboxylate; isonipecaine; meperidina; meperidine; methyl phenylpiperidine carbonic acid ethyl ester; pethidin; pethidineter; pethidinum; petidina; petydyna; phetidine"
+],
+[
+"Definition",
+"A piperidinecarboxylate ester that is piperidine which is substituted by a methyl group at position 1 and by phenyl and ethoxycarbonyl groups at position 4. It is an analgesic which is used for the treatment of moderate to severe pain, including postoperative pain and labour pain."
+],
+[
+"Formula",
+"C15H21NO2"
+],
+[
+"ChEBI",
+"CHEBI:6754"
+],
+[
+"KEGG",
+"C07128"
+],
+[
+"HMDB",
+"HMDB0014597"
+],
+[
+"InChI",
+"InChI=1S/C15H21NO2/c1-3-18-14(17)15(9-11-16(2)12-10-15)13-7-5-4-6-8-13/h4-8H,3,9-12H2,1-2H3"
+],
+[
+"InChIKey",
+"XADCESSVHJOZHK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Naloxone",
+"class": "SimpleChemical",
+"box": [
+710.0,
+187.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"naloxone"
+],
+[
+"Synonyms",
+"(-)-naloxone; 1-N-Allyl-14-hydroxynordihydromorphinone; 17-allyl-3,14-dihydroxy-4,5alpha-epoxymorphinan-6-one; 3,14-dihydroxy-17-(prop-2-en-1-yl)-4,5alpha-epoxymorphinan-6-one; naloxona; naloxonum"
+],
+[
+"Definition",
+"A synthetic morphinane alkaloid that is morphinone in which the enone double bond has been reduced to a single bond, the hydrogen at position 14 has been replaced by a hydroxy group, and the methyl group attached to the nitrogen has been replaced by an allyl group. A specific opioid antagonist, it is used (commonly as its hydrochloride salt) to reverse the effects of opioids, both following their use of opioids during surgery and in cases of known or suspected opioid overdose."
+],
+[
+"Formula",
+"C19H21NO4"
+],
+[
+"ChEBI",
+"CHEBI:7459"
+],
+[
+"KEGG",
+"C07252"
+],
+[
+"HMDB",
+"HMDB0015314"
+],
+[
+"InChI",
+"InChI=1S/C19H21NO4/c1-2-8-20-9-7-18-15-11-3-4-12(21)16(15)24-17(18)13(22)5-6-19(18,23)14(20)10-11/h2-4,14,17,21,23H,1,5-10H2/t14-,17+,18+,19-/m1/s1"
+],
+[
+"InChIKey",
+"UZHSEJADLWPNLE-GRGSLBFTSA-N"
+]
+]
+},
+{
+"label": "Tapentadol",
+"class": "SimpleChemical",
+"box": [
+1147.0,
+15.0,
+44.0,
+44.0
+],
+"props": [
+[
+"Full name",
+"tapentadol"
+],
+[
+"Formula",
+"C14H23NO"
+],
+[
+"ChEBI",
+"CHEBI:135935"
+],
+[
+"InChI",
+"InChI=1S/C14H23NO/c1-5-14(11(2)10-15(3)4)12-7-6-8-13(16)9-12/h6-9,11,14,16H,5,10H2,1-4H3/t11-,14+/m0/s1"
+],
+[
+"InChIKey",
+"KWTWDQCKEHXFFR-SMDDNHRTSA-N"
+]
+]
+},
+{
+"label": "Opioid agonist",
+"class": "SimpleChemical",
+"box": [
+1639.0,
+187.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"opioid agent"
+],
+[
+"Synonyms",
+"opioid agents"
+],
+[
+"Definition",
+"Any agent that acts on an opioid receptor or affects the life cycle of an opioid  transmitter."
+],
+[
+"ChEBI",
+"CHEBI:60598"
+]
+]
+}
+]
+}
