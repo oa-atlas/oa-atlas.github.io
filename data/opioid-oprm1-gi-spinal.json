@@ -5,7 +5,7 @@
 "class": "Macromolecule",
 "box": [
 1105.5,
-1235.5,
+1400.5,
 80.0,
 40.0
 ],
@@ -476,7 +476,7 @@
 "class": "Macromolecule",
 "box": [
 1105.5,
-1101.0,
+1266.0,
 80.0,
 40.0
 ],
@@ -690,7 +690,7 @@
 "class": "SimpleChemical",
 "box": [
 1125.5,
-1149.0,
+1314.0,
 40.0,
 40.0
 ],
@@ -730,7 +730,7 @@
 "class": "Macromolecule",
 "box": [
 483.0,
-721.0,
+886.0,
 80.0,
 40.0
 ],
@@ -944,7 +944,7 @@
 "class": "SimpleChemical",
 "box": [
 503.0,
-769.0,
+934.0,
 40.0,
 40.0
 ],
@@ -992,7 +992,7 @@
 "class": "Macromolecule",
 "box": [
 483.0,
-871.5,
+1036.5,
 80.0,
 40.0
 ],
@@ -1182,7 +1182,7 @@
 "class": "Macromolecule",
 "box": [
 483.0,
-919.5,
+1084.5,
 80.0,
 40.0
 ],
@@ -1634,7 +1634,7 @@
 "class": "Macromolecule",
 "box": [
 669.4,
-674.0,
+839.0,
 80.0,
 40.0
 ],
@@ -2086,7 +2086,7 @@
 "class": "Macromolecule",
 "box": [
 669.4,
-626.0,
+791.0,
 80.0,
 40.0
 ],
@@ -2276,7 +2276,7 @@
 "class": "Macromolecule",
 "box": [
 383.5,
-442.2,
+607.2,
 80.0,
 40.0
 ],
@@ -2332,26 +2332,26 @@
 "class": "SimpleChemical",
 "box": [
 403.5,
-394.2,
+559.2,
 40.0,
 40.0
 ],
 "props": [
 [
 "Full name",
-"opioid agent"
+"mu-opioid receptor agonist"
 ],
 [
 "Synonyms",
-"opioid agents"
+"mu opioid agonist; mu-opioid agonists; mu-opioid receptor agonists"
 ],
 [
 "Definition",
-"Any agent that acts on an opioid receptor or affects the life cycle of an opioid  transmitter."
+"A compound that exhibits agonist activity at the μ-opioid receptor."
 ],
 [
 "ChEBI",
-"CHEBI:60598"
+"CHEBI:55322"
 ]
 ]
 },
@@ -2360,7 +2360,7 @@
 "class": "Macromolecule",
 "box": [
 165.0,
-653.5,
+818.5,
 80.0,
 40.0
 ],
@@ -2416,7 +2416,7 @@
 "class": "SimpleChemical",
 "box": [
 185.0,
-605.5,
+770.5,
 40.0,
 40.0
 ],
@@ -2444,7 +2444,7 @@
 "class": "Macromolecule",
 "box": [
 640.5,
-409.0,
+574.0,
 80.0,
 40.0
 ],
@@ -2658,7 +2658,7 @@
 "class": "SimpleChemical",
 "box": [
 660.5,
-457.0,
+622.0,
 40.0,
 40.0
 ],
@@ -2706,7 +2706,7 @@
 "class": "Macromolecule",
 "box": [
 755.0,
-409.0,
+574.0,
 80.0,
 40.0
 ],
@@ -2896,7 +2896,7 @@
 "class": "Macromolecule",
 "box": [
 755.0,
-457.0,
+622.0,
 80.0,
 40.0
 ],
@@ -3348,7 +3348,7 @@
 "class": "Macromolecule",
 "box": [
 755.0,
-343.0,
+508.0,
 80.0,
 40.0
 ],
@@ -3404,26 +3404,26 @@
 "class": "SimpleChemical",
 "box": [
 660.5,
-343.0,
+508.0,
 40.0,
 40.0
 ],
 "props": [
 [
 "Full name",
-"opioid agent"
+"mu-opioid receptor agonist"
 ],
 [
 "Synonyms",
-"opioid agents"
+"mu opioid agonist; mu-opioid agonists; mu-opioid receptor agonists"
 ],
 [
 "Definition",
-"Any agent that acts on an opioid receptor or affects the life cycle of an opioid  transmitter."
+"A compound that exhibits agonist activity at the μ-opioid receptor."
 ],
 [
 "ChEBI",
-"CHEBI:60598"
+"CHEBI:55322"
 ]
 ]
 },
@@ -3432,7 +3432,7 @@
 "class": "Macromolecule",
 "box": [
 1170.0,
-457.0,
+622.0,
 80.0,
 40.0
 ],
@@ -3884,7 +3884,7 @@
 "class": "Macromolecule",
 "box": [
 1170.0,
-409.0,
+574.0,
 80.0,
 40.0
 ],
@@ -4074,7 +4074,7 @@
 "class": "Macromolecule",
 "box": [
 1055.5,
-409.0,
+574.0,
 80.0,
 40.0
 ],
@@ -4288,7 +4288,7 @@
 "class": "SimpleChemical",
 "box": [
 1075.5,
-457.0,
+622.0,
 40.0,
 40.0
 ],
@@ -4328,7 +4328,7 @@
 "class": "Macromolecule",
 "box": [
 1170.0,
-343.0,
+508.0,
 80.0,
 40.0
 ],
@@ -4384,26 +4384,26 @@
 "class": "SimpleChemical",
 "box": [
 1075.5,
-343.0,
+508.0,
 40.0,
 40.0
 ],
 "props": [
 [
 "Full name",
-"opioid agent"
+"mu-opioid receptor agonist"
 ],
 [
 "Synonyms",
-"opioid agents"
+"mu opioid agonist; mu-opioid agonists; mu-opioid receptor agonists"
 ],
 [
 "Definition",
-"Any agent that acts on an opioid receptor or affects the life cycle of an opioid  transmitter."
+"A compound that exhibits agonist activity at the μ-opioid receptor."
 ],
 [
 "ChEBI",
-"CHEBI:60598"
+"CHEBI:55322"
 ]
 ]
 },
@@ -4412,7 +4412,7 @@
 "class": "Macromolecule",
 "box": [
 1215.5,
-970.0,
+1135.0,
 80.0,
 40.0
 ],
@@ -4883,7 +4883,7 @@
 "class": "Macromolecule",
 "box": [
 1105.5,
-806.5,
+971.5,
 80.0,
 40.0
 ],
@@ -5097,7 +5097,7 @@
 "class": "SimpleChemical",
 "box": [
 1125.5,
-854.5,
+1019.5,
 40.0,
 40.0
 ],
@@ -5137,7 +5137,7 @@
 "class": "Macromolecule",
 "box": [
 785.8,
-806.5,
+971.5,
 80.0,
 40.0
 ],
@@ -5351,7 +5351,7 @@
 "class": "SimpleChemical",
 "box": [
 805.8,
-854.5,
+1019.5,
 40.0,
 40.0
 ],
@@ -5399,7 +5399,7 @@
 "class": "SimpleChemical",
 "box": [
 951.1,
-780.8,
+945.8,
 40.0,
 40.0
 ],
@@ -5427,7 +5427,7 @@
 "class": "Macromolecule",
 "box": [
 1215.5,
-716.2,
+881.2,
 80.0,
 40.0
 ],
@@ -5483,7 +5483,7 @@
 "class": "SimpleChemical",
 "box": [
 947.0,
-492.5,
+657.5,
 40.0,
 40.0
 ],
@@ -5531,7 +5531,7 @@
 "class": "SimpleChemical",
 "box": [
 889.0,
-492.5,
+657.5,
 40.0,
 40.0
 ],
@@ -5571,7 +5571,7 @@
 "class": "Macromolecule",
 "box": [
 165.0,
-428.5,
+593.5,
 80.0,
 40.0
 ],
@@ -5838,8 +5838,8 @@
 "label": "Enkephalin",
 "class": "SimpleChemical",
 "box": [
-903.0,
-17.5,
+976.0,
+57.5,
 40.0,
 40.0
 ],
@@ -5879,7 +5879,59 @@
 ]
 },
 {
+"label": "Endomorphin-2",
+"class": "SimpleChemical",
+"box": [
+1049.0,
+17.5,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Endomorphin-2"
+],
+[
+"ChEBI",
+"CHEBI:80157"
+],
+[
+"KEGG",
+"C15891"
+]
+]
+},
+{
 "label": "Opioid agonist",
+"class": "SimpleChemical",
+"box": [
+246.0,
+387.5,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"mu-opioid receptor agonist"
+],
+[
+"Synonyms",
+"mu opioid agonist; mu-opioid agonists; mu-opioid receptor agonists"
+],
+[
+"Definition",
+"A compound that exhibits agonist activity at the μ-opioid receptor."
+],
+[
+"ChEBI",
+"CHEBI:55322"
+]
+]
+},
+{
+"label": "Opioid analgesic",
 "class": "SimpleChemical",
 "box": [
 246.0,
@@ -5890,19 +5942,19 @@
 "props": [
 [
 "Full name",
-"opioid agent"
+"opioid analgesic"
 ],
 [
 "Synonyms",
-"opioid agents"
+"narcotic; narcotic analgesic; narcotic analgesics; narcotics; opioid analgesics"
 ],
 [
 "Definition",
-"Any agent that acts on an opioid receptor or affects the life cycle of an opioid  transmitter."
+"A narcotic or opioid substance, synthetic or semisynthetic agent producing profound analgesia, drowsiness, and changes in mood."
 ],
 [
 "ChEBI",
-"CHEBI:60598"
+"CHEBI:35482"
 ]
 ]
 },
@@ -5911,7 +5963,7 @@
 "class": "SimpleChemical",
 "box": [
 105.0,
-222.5,
+387.5,
 40.0,
 40.0
 ],
@@ -6079,7 +6131,7 @@
 "class": "SimpleChemical",
 "box": [
 105.0,
-57.5,
+222.5,
 40.0,
 40.0
 ],
@@ -6127,7 +6179,7 @@
 "class": "SimpleChemical",
 "box": [
 32.0,
-17.5,
+182.5,
 40.0,
 40.0
 ],
@@ -6207,26 +6259,26 @@
 "class": "SimpleChemical",
 "box": [
 1294.0,
-222.5,
+387.5,
 40.0,
 40.0
 ],
 "props": [
 [
 "Full name",
-"opioid agent"
+"mu-opioid receptor agonist"
 ],
 [
 "Synonyms",
-"opioid agents"
+"mu opioid agonist; mu-opioid agonists; mu-opioid receptor agonists"
 ],
 [
 "Definition",
-"Any agent that acts on an opioid receptor or affects the life cycle of an opioid  transmitter."
+"A compound that exhibits agonist activity at the μ-opioid receptor."
 ],
 [
 "ChEBI",
-"CHEBI:60598"
+"CHEBI:55322"
 ]
 ]
 }
