@@ -216,33 +216,6 @@
 "hasText": true
 },
 {
-"id": "opioid-oprm1-gi-nociceptor",
-"title": "Opioids - OPRM1 - Giα (nociceptor)",
-"topic": "Opioids - OPRM1 - Giα (nociceptor)",
-"group": "Nociceptor",
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/opioid-oprm1-gi-nociceptor.svg",
-"width": 1396.0,
-"height": 1410.0,
-"scale": 1,
-"annotation": "data/opioid-oprm1-gi-nociceptor.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/opioid-oprm1-gi-nociceptor.graphml"
-},
-{
-"label": "SVG",
-"url": "files/opioid-oprm1-gi-nociceptor.svg"
-}
-],
-"data": "data/opioid-oprm1-gi-nociceptor-text.json",
-"hasText": true
-},
-{
 "id": "cannabinoid-cnr2-gi",
 "title": "Cannabinoids - CNR2 - Giα",
 "topic": "Cannabinoids - CNR2 - Giα",
@@ -267,87 +240,6 @@
 }
 ],
 "data": "data/cannabinoid-cnr2-gi-text.json",
-"hasText": true
-},
-{
-"id": "na-adra2a-gi-nociceptor",
-"title": "Noradrenaline - ADRA2A - Giα (nociceptor)",
-"topic": "Noradrenaline - ADRA2A - Giα (nociceptor)",
-"group": "Nociceptor",
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/na-adra2a-gi-nociceptor.svg",
-"width": 1249.0,
-"height": 1196.0,
-"scale": 1,
-"annotation": "data/na-adra2a-gi-nociceptor.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/na-adra2a-gi-nociceptor.graphml"
-},
-{
-"label": "SVG",
-"url": "files/na-adra2a-gi-nociceptor.svg"
-}
-],
-"data": "data/na-adra2a-gi-nociceptor-text.json",
-"hasText": true
-},
-{
-"id": "na-adrb2-gs-nociceptor",
-"title": "Noradrenaline - ADRB2 - Gsα (nociceptor)",
-"topic": "Noradrenaline - ADRB2 - Gsα (nociceptor)",
-"group": "Nociceptor",
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/na-adrb2-gs-nociceptor.svg",
-"width": 1249.0,
-"height": 1188.0,
-"scale": 1,
-"annotation": "data/na-adrb2-gs-nociceptor.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/na-adrb2-gs-nociceptor.graphml"
-},
-{
-"label": "SVG",
-"url": "files/na-adrb2-gs-nociceptor.svg"
-}
-],
-"data": "data/na-adrb2-gs-nociceptor-text.json",
-"hasText": true
-},
-{
-"id": "na-adrb2-gi-nociceptor",
-"title": "Noradrenaline - ADRB2 - Giα (nociceptor)",
-"topic": "Noradrenaline - ADRB2 - Giα (nociceptor)",
-"group": "Nociceptor",
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/na-adrb2-gi-nociceptor.svg",
-"width": 1249.0,
-"height": 1196.0,
-"scale": 1,
-"annotation": "data/na-adrb2-gi-nociceptor.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/na-adrb2-gi-nociceptor.graphml"
-},
-{
-"label": "SVG",
-"url": "files/na-adrb2-gi-nociceptor.svg"
-}
-],
-"data": "data/na-adrb2-gi-nociceptor-text.json",
 "hasText": true
 },
 {
@@ -486,6 +378,114 @@
 "hasText": true
 },
 {
+"id": "opioid-oprm1-gi",
+"title": "Opioids - OPRM1 - Giα",
+"topic": "Opioids - OPRM1 - Giα",
+"group": "Nociceptor and spinal neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/opioid-oprm1-gi.svg",
+"width": 1396.0,
+"height": 1410.0,
+"scale": 1,
+"annotation": "data/opioid-oprm1-gi.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/opioid-oprm1-gi.graphml"
+},
+{
+"label": "SVG",
+"url": "files/opioid-oprm1-gi.svg"
+}
+],
+"data": "data/opioid-oprm1-gi-text.json",
+"hasText": true
+},
+{
+"id": "na-adra2a-gi",
+"title": "Noradrenaline - ADRA2A - Giα",
+"topic": "Noradrenaline - ADRA2A - Giα",
+"group": "Nociceptor and spinal neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/na-adra2a-gi.svg",
+"width": 1249.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/na-adra2a-gi.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adra2a-gi.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adra2a-gi.svg"
+}
+],
+"data": "data/na-adra2a-gi-text.json",
+"hasText": true
+},
+{
+"id": "na-adrb2-gs",
+"title": "Noradrenaline - ADRB2 - Gsα",
+"topic": "Noradrenaline - ADRB2 - Gsα",
+"group": "Nociceptor and spinal neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/na-adrb2-gs.svg",
+"width": 1249.0,
+"height": 1188.0,
+"scale": 1,
+"annotation": "data/na-adrb2-gs.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adrb2-gs.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adrb2-gs.svg"
+}
+],
+"data": "data/na-adrb2-gs-text.json",
+"hasText": true
+},
+{
+"id": "na-adrb2-gi",
+"title": "Noradrenaline - ADRB2 - Giα",
+"topic": "Noradrenaline - ADRB2 - Giα",
+"group": "Nociceptor and spinal neuron",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/na-adrb2-gi.svg",
+"width": 1249.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/na-adrb2-gi.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adrb2-gi.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adrb2-gi.svg"
+}
+],
+"data": "data/na-adrb2-gi-text.json",
+"hasText": true
+},
+{
 "id": "tac1-tacr1-gq",
 "title": "Substance P - TACR1 - Gqα",
 "topic": "Substance P - TACR1 - Gqα",
@@ -564,114 +564,6 @@
 }
 ],
 "data": "data/cannabinoid-cnr1-gi-text.json",
-"hasText": true
-},
-{
-"id": "opioid-oprm1-gi-spinal",
-"title": "Opioids - OPRM1 - Giα (spinal neuron)",
-"topic": "Opioids - OPRM1 - Giα (spinal neuron)",
-"group": "Spinal nociceptive neuron",
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/opioid-oprm1-gi-spinal.svg",
-"width": 1396.0,
-"height": 1410.0,
-"scale": 1,
-"annotation": "data/opioid-oprm1-gi-spinal.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/opioid-oprm1-gi-spinal.graphml"
-},
-{
-"label": "SVG",
-"url": "files/opioid-oprm1-gi-spinal.svg"
-}
-],
-"data": "data/opioid-oprm1-gi-spinal-text.json",
-"hasText": true
-},
-{
-"id": "na-adra2a-gi-spinal",
-"title": "Noradrenaline - ADRA2A - Giα (spinal neuron)",
-"topic": "Noradrenaline - ADRA2A - Giα (spinal neuron)",
-"group": "Spinal nociceptive neuron",
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/na-adra2a-gi-spinal.svg",
-"width": 1249.0,
-"height": 1196.0,
-"scale": 1,
-"annotation": "data/na-adra2a-gi-spinal.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/na-adra2a-gi-spinal.graphml"
-},
-{
-"label": "SVG",
-"url": "files/na-adra2a-gi-spinal.svg"
-}
-],
-"data": "data/na-adra2a-gi-spinal-text.json",
-"hasText": true
-},
-{
-"id": "na-adrb2-gs-spinal",
-"title": "Noradrenaline - ADRB2 - Gsα (spinal neuron)",
-"topic": "Noradrenaline - ADRB2 - Gsα (spinal neuron)",
-"group": "Spinal nociceptive neuron",
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/na-adrb2-gs-spinal.svg",
-"width": 1249.0,
-"height": 1188.0,
-"scale": 1,
-"annotation": "data/na-adrb2-gs-spinal.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/na-adrb2-gs-spinal.graphml"
-},
-{
-"label": "SVG",
-"url": "files/na-adrb2-gs-spinal.svg"
-}
-],
-"data": "data/na-adrb2-gs-spinal-text.json",
-"hasText": true
-},
-{
-"id": "na-adrb2-gi-spinal",
-"title": "Noradrenaline - ADRB2 - Giα (spinal neuron)",
-"topic": "Noradrenaline - ADRB2 - Giα (spinal neuron)",
-"group": "Spinal nociceptive neuron",
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/na-adrb2-gi-spinal.svg",
-"width": 1249.0,
-"height": 1196.0,
-"scale": 1,
-"annotation": "data/na-adrb2-gi-spinal.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/na-adrb2-gi-spinal.graphml"
-},
-{
-"label": "SVG",
-"url": "files/na-adrb2-gi-spinal.svg"
-}
-],
-"data": "data/na-adrb2-gi-spinal-text.json",
 "hasText": true
 },
 {
