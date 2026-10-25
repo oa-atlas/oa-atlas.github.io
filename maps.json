@@ -1,5 +1,32 @@
 [
 {
+"id": "eicosanoids-mast-cell",
+"title": "Eicosanoids (mast cell)",
+"topic": "Eicosanoids",
+"group": "Mast cell",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/eicosanoids-mast-cell.svg",
+"width": 3694.0,
+"height": 2218.0,
+"scale": 1,
+"annotation": "data/eicosanoids-mast-cell.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/eicosanoids-mast-cell.graphml"
+},
+{
+"label": "SVG",
+"url": "files/eicosanoids-mast-cell.svg"
+}
+],
+"data": "data/eicosanoids-mast-cell-text.json",
+"hasText": true
+},
+{
 "id": "ltb4-ltb4r-gq",
 "title": "LTB4 - LTB4R & LTB4R2 - Gqα",
 "topic": "LTB4 - LTB4R - Gqα",
