@@ -27,13 +27,40 @@
 "hasText": false
 },
 {
-"id": "pge2-ptger2-gs",
-"title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase",
+"id": "pge2-ptger2-gs-v2",
+"title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase (v2, compact)",
 "topic": "PGE2 - PTGER2 - Gsα",
 "group": "Blocks",
 "kind": null,
 "tag": null,
-"tab": null,
+"tab": "v2, compact",
+"image": "files/pge2-ptger2-gs-v2.svg",
+"width": 1330.0,
+"height": 1029.0,
+"scale": 1,
+"annotation": "data/pge2-ptger2-gs-v2.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pge2-ptger2-gs-v2.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pge2-ptger2-gs-v2.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "pge2-ptger2-gs",
+"title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase (v6, narrow)",
+"topic": "PGE2 - PTGER2 - Gsα",
+"group": "Blocks",
+"kind": null,
+"tag": null,
+"tab": "v6, narrow",
 "image": "files/pge2-ptger2-gs.svg",
 "width": 998.0,
 "height": 1387.0,
@@ -48,6 +75,33 @@
 {
 "label": "SVG",
 "url": "files/pge2-ptger2-gs.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "pge2-ptger2-gs-v7",
+"title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase (v7, plasma membrane and cytosol)",
+"topic": "PGE2 - PTGER2 - Gsα",
+"group": "Blocks",
+"kind": null,
+"tag": null,
+"tab": "v7, plasma membrane and cytosol",
+"image": "files/pge2-ptger2-gs-v7.svg",
+"width": 1706.0,
+"height": 1267.0,
+"scale": 1,
+"annotation": "data/pge2-ptger2-gs-v7.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pge2-ptger2-gs-v7.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pge2-ptger2-gs-v7.svg"
 }
 ],
 "data": null,
