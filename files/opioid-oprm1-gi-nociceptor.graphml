@@ -103,7 +103,7 @@
       <graph edgedefault="directed" id="sa569_c:"><node id="sa569"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="992.5" y="442.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -154,7 +154,7 @@
       <graph edgedefault="directed" id="csa53_bg:"><node id="sa570"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1107.0" y="442.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giβ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -165,7 +165,7 @@
         </node><node id="sa571"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1107.0" y="490.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giγ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -176,7 +176,7 @@
         </node></graph></node><node id="sa601"><data key="d3">HGNC:8156</data><data key="d1">OPRM1</data><data key="d2">P35372</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1107.0" y="376.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">OPRM1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -259,7 +259,7 @@
       <graph edgedefault="directed" id="csa54_bg:"><node id="sa574"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1522.0" y="490.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giγ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -270,7 +270,7 @@
         </node><node id="sa575"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1522.0" y="442.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giβ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -313,7 +313,7 @@
       <graph edgedefault="directed" id="sa576_c:"><node id="sa576"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1407.5" y="442.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -332,7 +332,7 @@
     </node></graph></node><node id="sa602"><data key="d3">HGNC:8156</data><data key="d1">OPRM1</data><data key="d2">P35372</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1522.0" y="376.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">OPRM1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -383,7 +383,7 @@
       <graph edgedefault="directed" id="csa51:"><node id="sa600"><data key="d3">HGNC:8156</data><data key="d1">OPRM1</data><data key="d2">P35372</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="735.5" y="475.25"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">OPRM1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -434,7 +434,7 @@
       <graph edgedefault="directed" id="csa74:"><node id="sa717"><data key="d100">Adenylate cyclases</data><data key="d101">ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9</data><data key="d102">[{"symbol": "ADCY1", "props": [["HGNC", "HGNC:232"], ["HGNC symbol", "ADCY1"], ["UniProt", "Q08828"]]}, {"symbol": "ADCY2", "props": [["HGNC", "HGNC:233"], ["HGNC symbol", "ADCY2"], ["UniProt", "Q08462"]]}, {"symbol": "ADCY3", "props": [["HGNC", "HGNC:234"], ["HGNC symbol", "ADCY3"], ["UniProt", "O60266"]]}, {"symbol": "ADCY4", "props": [["HGNC", "HGNC:235"], ["HGNC symbol", "ADCY4"], ["UniProt", "Q8NFM4"]]}, {"symbol": "ADCY5", "props": [["HGNC", "HGNC:236"], ["HGNC symbol", "ADCY5"], ["UniProt", "O95622"]]}, {"symbol": "ADCY6", "props": [["HGNC", "HGNC:237"], ["HGNC symbol", "ADCY6"], ["UniProt", "O43306"]]}, {"symbol": "ADCY7", "props": [["HGNC", "HGNC:238"], ["HGNC symbol", "ADCY7"], ["UniProt", "P51828"]]}, {"symbol": "ADCY8", "props": [["HGNC", "HGNC:239"], ["HGNC symbol", "ADCY8"], ["UniProt", "P40145"]]}, {"symbol": "ADCY9", "props": [["HGNC", "HGNC:240"], ["HGNC symbol", "ADCY9"], ["UniProt", "O60503"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1457.5" y="1268.5"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">ADCY<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -477,7 +477,7 @@
       <graph edgedefault="directed" id="sa722_c:"><node id="sa722"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1457.5" y="1134.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -528,7 +528,7 @@
       <graph edgedefault="directed" id="csa88:"><node id="sa848"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1021.375" y="707.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giγ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -539,7 +539,7 @@
         </node><node id="sa849"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1021.375" y="659.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giβ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -614,7 +614,7 @@
       <graph edgedefault="directed" id="sa842_c:"><node id="sa842"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="835.0" y="754.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -665,7 +665,7 @@
       <graph edgedefault="directed" id="csa89_bg:"><node id="sa843"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="835.0" y="904.5"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giβ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -676,7 +676,7 @@
         </node><node id="sa844"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="835.0" y="952.5"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giγ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -687,7 +687,7 @@
         </node></graph></node></graph></node><node id="sa559"><data key="d3">HGNC:8156</data><data key="d1">OPRM1</data><data key="d2">P35372</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="517.0" y="461.5"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">OPRM1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -714,7 +714,7 @@
     </node><node id="sa833"><data key="d100">Adenylate cyclases</data><data key="d101">ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9</data><data key="d102">[{"symbol": "ADCY1", "props": [["HGNC", "HGNC:232"], ["HGNC symbol", "ADCY1"], ["UniProt", "Q08828"]]}, {"symbol": "ADCY2", "props": [["HGNC", "HGNC:233"], ["HGNC symbol", "ADCY2"], ["UniProt", "Q08462"]]}, {"symbol": "ADCY3", "props": [["HGNC", "HGNC:234"], ["HGNC symbol", "ADCY3"], ["UniProt", "O60266"]]}, {"symbol": "ADCY4", "props": [["HGNC", "HGNC:235"], ["HGNC symbol", "ADCY4"], ["UniProt", "Q8NFM4"]]}, {"symbol": "ADCY5", "props": [["HGNC", "HGNC:236"], ["HGNC symbol", "ADCY5"], ["UniProt", "O95622"]]}, {"symbol": "ADCY6", "props": [["HGNC", "HGNC:237"], ["HGNC symbol", "ADCY6"], ["UniProt", "O43306"]]}, {"symbol": "ADCY7", "props": [["HGNC", "HGNC:238"], ["HGNC symbol", "ADCY7"], ["UniProt", "P51828"]]}, {"symbol": "ADCY8", "props": [["HGNC", "HGNC:239"], ["HGNC symbol", "ADCY8"], ["UniProt", "P40145"]]}, {"symbol": "ADCY9", "props": [["HGNC", "HGNC:240"], ["HGNC symbol", "ADCY9"], ["UniProt", "O60503"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1567.5" y="1003.0"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">ADCY<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -757,7 +757,7 @@
       <graph edgedefault="directed" id="sa834_c:"><node id="sa834"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1457.5" y="839.5"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -827,7 +827,7 @@
       <graph edgedefault="directed" id="sa837_c:"><node id="sa837"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1137.75" y="839.5"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -846,7 +846,7 @@
     </node></graph></node><node id="sa850"><data key="d3">HGNC:8156</data><data key="d1">OPRM1</data><data key="d2">P35372</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1567.5" y="749.25"/>
-              <y:Fill color="#CCFFCC" transparent="false"/>
+              <y:Fill color="#DBEBDB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">OPRM1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
