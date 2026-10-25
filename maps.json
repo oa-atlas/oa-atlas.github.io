@@ -52,5 +52,32 @@
 ],
 "data": null,
 "hasText": false
+},
+{
+"id": "pge2-ptger2-gs-alt",
+"title": "PGE2 - PTGER2/4 - Gsα, Gs cycle, adenylate cyclase and cAMP (alternative)",
+"topic": "PGE2 - PTGER2 - Gsα",
+"group": "Blocks",
+"kind": null,
+"tag": null,
+"tab": "alternative",
+"image": "files/pge2-ptger2-gs-alt.svg",
+"width": 1146.0,
+"height": 1186.0,
+"scale": 1,
+"annotation": "data/pge2-ptger2-gs-alt.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pge2-ptger2-gs-alt.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pge2-ptger2-gs-alt.svg"
+}
+],
+"data": null,
+"hasText": false
 }
 ]
