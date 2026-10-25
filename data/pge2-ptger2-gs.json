@@ -4,8 +4,8 @@
 "label": "Gsβ",
 "class": "Macromolecule",
 "box": [
-761.0,
-443.5,
+954.0,
+245.0,
 80.0,
 40.0
 ],
@@ -194,8 +194,8 @@
 "label": "Gsγ",
 "class": "Macromolecule",
 "box": [
-761.0,
-491.5,
+954.0,
+293.0,
 80.0,
 40.0
 ],
@@ -646,8 +646,8 @@
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-761.0,
-293.0,
+842.0,
+245.0,
 80.0,
 40.0
 ],
@@ -706,8 +706,8 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-781.0,
-341.0,
+862.0,
+293.0,
 40.0,
 40.0
 ],
@@ -746,7 +746,7 @@
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [
-781.0,
+862.0,
 179.0,
 40.0,
 40.0
@@ -794,8 +794,8 @@
 "label": "PTGER2",
 "class": "Macromolecule",
 "box": [
-761.0,
-227.0,
+954.0,
+179.0,
 80.0,
 40.0
 ],
@@ -850,8 +850,8 @@
 "label": "Gsβ",
 "class": "Macromolecule",
 "box": [
-475.0,
-443.5,
+556.0,
+245.0,
 80.0,
 40.0
 ],
@@ -1040,8 +1040,8 @@
 "label": "Gsγ",
 "class": "Macromolecule",
 "box": [
-475.0,
-491.5,
+556.0,
+293.0,
 80.0,
 40.0
 ],
@@ -1492,8 +1492,8 @@
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-475.0,
-293.0,
+444.0,
+245.0,
 80.0,
 40.0
 ],
@@ -1552,8 +1552,8 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-495.0,
-341.0,
+464.0,
+293.0,
 40.0,
 40.0
 ],
@@ -1600,7 +1600,7 @@
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [
-495.0,
+464.0,
 179.0,
 40.0,
 40.0
@@ -1648,8 +1648,8 @@
 "label": "PTGER2",
 "class": "Macromolecule",
 "box": [
-475.0,
-227.0,
+556.0,
+179.0,
 80.0,
 40.0
 ],
@@ -1704,8 +1704,8 @@
 "label": "Gsβ",
 "class": "Macromolecule",
 "box": [
-312.0,
-906.0,
+301.0,
+707.5,
 80.0,
 40.0
 ],
@@ -1894,465 +1894,465 @@
 "label": "Gsγ",
 "class": "Macromolecule",
 "box": [
-312.0,
-954.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Family",
-"G protein subunits gamma"
-],
-[
-"Members",
-"GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13"
-]
-],
-"members": [
-{
-"symbol": "GNG2",
-"props": [
-[
-"Full name",
-"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2"
-],
-[
-"Alternative names",
-"G gamma-I"
-],
-[
-"Function",
-"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:4404"
-],
-[
-"HGNC symbol",
-"GNG2"
-],
-[
-"Entrez",
-"54331"
-],
-[
-"Ensembl",
-"ENSG00000186469"
-],
-[
-"RefSeq",
-"NM_001243773"
-],
-[
-"UniProt",
-"P59768"
-]
-]
-},
-{
-"symbol": "GNG3",
-"props": [
-[
-"Full name",
-"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-3"
-],
-[
-"Function",
-"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:4405"
-],
-[
-"HGNC symbol",
-"GNG3"
-],
-[
-"Entrez",
-"2785"
-],
-[
-"Ensembl",
-"ENSG00000162188"
-],
-[
-"RefSeq",
-"NM_012202"
-],
-[
-"UniProt",
-"P63215"
-]
-]
-},
-{
-"symbol": "GNG4",
-"props": [
-[
-"Full name",
-"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-4"
-],
-[
-"Function",
-"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:4407"
-],
-[
-"HGNC symbol",
-"GNG4"
-],
-[
-"Entrez",
-"2786"
-],
-[
-"Ensembl",
-"ENSG00000168243"
-],
-[
-"RefSeq",
-"NM_004485"
-],
-[
-"UniProt",
-"P50150"
-]
-]
-},
-{
-"symbol": "GNG5",
-"props": [
-[
-"Full name",
-"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-5"
-],
-[
-"Function",
-"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:4408"
-],
-[
-"HGNC symbol",
-"GNG5"
-],
-[
-"Entrez",
-"2787"
-],
-[
-"Ensembl",
-"ENSG00000174021"
-],
-[
-"RefSeq",
-"NM_005274"
-],
-[
-"UniProt",
-"P63218"
-]
-]
-},
-{
-"symbol": "GNG7",
-"props": [
-[
-"Full name",
-"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-7"
-],
-[
-"Function",
-"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:4410"
-],
-[
-"HGNC symbol",
-"GNG7"
-],
-[
-"Alias symbols",
-"FLJ00058"
-],
-[
-"Entrez",
-"2788"
-],
-[
-"Ensembl",
-"ENSG00000176533"
-],
-[
-"RefSeq",
-"NM_052847"
-],
-[
-"UniProt",
-"O60262"
-]
-]
-},
-{
-"symbol": "GNG8",
-"props": [
-[
-"Full name",
-"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-8"
-],
-[
-"Alternative names",
-"Gamma-9"
-],
-[
-"Function",
-"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:19664"
-],
-[
-"HGNC symbol",
-"GNG8"
-],
-[
-"Entrez",
-"94235"
-],
-[
-"Ensembl",
-"ENSG00000167414"
-],
-[
-"RefSeq",
-"NM_033258"
-],
-[
-"UniProt",
-"Q9UK08"
-]
-]
-},
-{
-"symbol": "GNG10",
-"props": [
-[
-"Full name",
-"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10"
-],
-[
-"Function",
-"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:4402"
-],
-[
-"HGNC symbol",
-"GNG10"
-],
-[
-"Entrez",
-"2790"
-],
-[
-"Ensembl",
-"ENSG00000242616"
-],
-[
-"RefSeq",
-"NM_001017998"
-],
-[
-"UniProt",
-"P50151"
-]
-]
-},
-{
-"symbol": "GNG11",
-"props": [
-[
-"Full name",
-"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-11"
-],
-[
-"Function",
-"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:4403"
-],
-[
-"HGNC symbol",
-"GNG11"
-],
-[
-"Alias symbols",
-"GNGT11"
-],
-[
-"Entrez",
-"2791"
-],
-[
-"Ensembl",
-"ENSG00000127920"
-],
-[
-"RefSeq",
-"NM_004126"
-],
-[
-"UniProt",
-"P61952"
-]
-]
-},
-{
-"symbol": "GNG12",
-"props": [
-[
-"Full name",
-"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12"
-],
-[
-"Function",
-"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:19663"
-],
-[
-"HGNC symbol",
-"GNG12"
-],
-[
-"Entrez",
-"55970"
-],
-[
-"Ensembl",
-"ENSG00000172380"
-],
-[
-"RefSeq",
-"NM_018841"
-],
-[
-"UniProt",
-"Q9UBI6"
-]
-]
-},
-{
-"symbol": "GNG13",
-"props": [
-[
-"Full name",
-"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13"
-],
-[
-"Function",
-"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:14131"
-],
-[
-"HGNC symbol",
-"GNG13"
-],
-[
-"Alias symbols",
-"h2-35, G(gamma)13"
-],
-[
-"Entrez",
-"51764"
-],
-[
-"Ensembl",
-"ENSG00000127588"
-],
-[
-"RefSeq",
-"NM_016541"
-],
-[
-"UniProt",
-"Q9P2W3"
-]
-]
-}
-]
-},
-{
-"label": "Gsα",
-"class": "Macromolecule",
-"box": [
-312.0,
+301.0,
 755.5,
 80.0,
 40.0
 ],
 "props": [
 [
+"Family",
+"G protein subunits gamma"
+],
+[
+"Members",
+"GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13"
+]
+],
+"members": [
+{
+"symbol": "GNG2",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2"
+],
+[
+"Alternative names",
+"G gamma-I"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4404"
+],
+[
+"HGNC symbol",
+"GNG2"
+],
+[
+"Entrez",
+"54331"
+],
+[
+"Ensembl",
+"ENSG00000186469"
+],
+[
+"RefSeq",
+"NM_001243773"
+],
+[
+"UniProt",
+"P59768"
+]
+]
+},
+{
+"symbol": "GNG3",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-3"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4405"
+],
+[
+"HGNC symbol",
+"GNG3"
+],
+[
+"Entrez",
+"2785"
+],
+[
+"Ensembl",
+"ENSG00000162188"
+],
+[
+"RefSeq",
+"NM_012202"
+],
+[
+"UniProt",
+"P63215"
+]
+]
+},
+{
+"symbol": "GNG4",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-4"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4407"
+],
+[
+"HGNC symbol",
+"GNG4"
+],
+[
+"Entrez",
+"2786"
+],
+[
+"Ensembl",
+"ENSG00000168243"
+],
+[
+"RefSeq",
+"NM_004485"
+],
+[
+"UniProt",
+"P50150"
+]
+]
+},
+{
+"symbol": "GNG5",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-5"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4408"
+],
+[
+"HGNC symbol",
+"GNG5"
+],
+[
+"Entrez",
+"2787"
+],
+[
+"Ensembl",
+"ENSG00000174021"
+],
+[
+"RefSeq",
+"NM_005274"
+],
+[
+"UniProt",
+"P63218"
+]
+]
+},
+{
+"symbol": "GNG7",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-7"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4410"
+],
+[
+"HGNC symbol",
+"GNG7"
+],
+[
+"Alias symbols",
+"FLJ00058"
+],
+[
+"Entrez",
+"2788"
+],
+[
+"Ensembl",
+"ENSG00000176533"
+],
+[
+"RefSeq",
+"NM_052847"
+],
+[
+"UniProt",
+"O60262"
+]
+]
+},
+{
+"symbol": "GNG8",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-8"
+],
+[
+"Alternative names",
+"Gamma-9"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19664"
+],
+[
+"HGNC symbol",
+"GNG8"
+],
+[
+"Entrez",
+"94235"
+],
+[
+"Ensembl",
+"ENSG00000167414"
+],
+[
+"RefSeq",
+"NM_033258"
+],
+[
+"UniProt",
+"Q9UK08"
+]
+]
+},
+{
+"symbol": "GNG10",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4402"
+],
+[
+"HGNC symbol",
+"GNG10"
+],
+[
+"Entrez",
+"2790"
+],
+[
+"Ensembl",
+"ENSG00000242616"
+],
+[
+"RefSeq",
+"NM_001017998"
+],
+[
+"UniProt",
+"P50151"
+]
+]
+},
+{
+"symbol": "GNG11",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-11"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4403"
+],
+[
+"HGNC symbol",
+"GNG11"
+],
+[
+"Alias symbols",
+"GNGT11"
+],
+[
+"Entrez",
+"2791"
+],
+[
+"Ensembl",
+"ENSG00000127920"
+],
+[
+"RefSeq",
+"NM_004126"
+],
+[
+"UniProt",
+"P61952"
+]
+]
+},
+{
+"symbol": "GNG12",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19663"
+],
+[
+"HGNC symbol",
+"GNG12"
+],
+[
+"Entrez",
+"55970"
+],
+[
+"Ensembl",
+"ENSG00000172380"
+],
+[
+"RefSeq",
+"NM_018841"
+],
+[
+"UniProt",
+"Q9UBI6"
+]
+]
+},
+{
+"symbol": "GNG13",
+"props": [
+[
+"Full name",
+"Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13"
+],
+[
+"Function",
+"Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:14131"
+],
+[
+"HGNC symbol",
+"GNG13"
+],
+[
+"Alias symbols",
+"h2-35, G(gamma)13"
+],
+[
+"Entrez",
+"51764"
+],
+[
+"Ensembl",
+"ENSG00000127588"
+],
+[
+"RefSeq",
+"NM_016541"
+],
+[
+"UniProt",
+"Q9P2W3"
+]
+]
+}
+]
+},
+{
+"label": "Gsα",
+"class": "Macromolecule",
+"box": [
+301.0,
+557.0,
+80.0,
+40.0
+],
+"props": [
+[
 "Full name",
 "Guanine nucleotide-binding protein G(s) subunit alpha isoforms short"
 ],
@@ -2406,8 +2406,8 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-332.0,
-803.5,
+321.0,
+605.0,
 40.0,
 40.0
 ],
@@ -2454,8 +2454,8 @@
 "label": "PTGER2",
 "class": "Macromolecule",
 "box": [
-239.0,
-377.5,
+228.0,
+278.2,
 80.0,
 40.0
 ],
@@ -2510,8 +2510,8 @@
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [
-259.0,
-329.5,
+248.0,
+230.2,
 40.0,
 40.0
 ],
@@ -2558,8 +2558,8 @@
 "label": "Gsβ",
 "class": "Macromolecule",
 "box": [
-455.0,
-660.5,
+481.0,
+462.0,
 80.0,
 40.0
 ],
@@ -2748,8 +2748,8 @@
 "label": "Gsγ",
 "class": "Macromolecule",
 "box": [
-455.0,
-708.5,
+481.0,
+510.0,
 80.0,
 40.0
 ],
@@ -3200,8 +3200,8 @@
 "label": "ADCY",
 "class": "Macromolecule",
 "box": [
-761.0,
-1261.0,
+898.0,
+1062.5,
 80.0,
 40.0
 ],
@@ -3671,8 +3671,8 @@
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-761.0,
-1126.5,
+898.0,
+928.0,
 80.0,
 40.0
 ],
@@ -3731,8 +3731,8 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-781.0,
-1174.5,
+918.0,
+976.0,
 40.0,
 40.0
 ],
@@ -3771,8 +3771,8 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-609.0,
-427.8,
+690.0,
+328.5,
 40.0,
 40.0
 ],
@@ -3811,8 +3811,8 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-667.0,
-427.8,
+748.0,
+328.5,
 40.0,
 40.0
 ],
@@ -3856,59 +3856,11 @@
 ]
 },
 {
-"label": "PGE2",
-"class": "SimpleChemical",
-"box": [
-871.0,
-694.8,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"prostaglandin E2"
-],
-[
-"Synonyms",
-"(15S)-prostaglandin E2; (5Z,11alpha,13E,15S)-11,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprost-13-enoate; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate; (5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (E,Z)-(1R,2R,3R)-7-(3-Hydroxy-2-((3S)-(3-hydroxy-1-octenyl))-5-oxocyclopentyl)-5-heptenoic acid; (Z)-7-((1R,2R,3R)-3-hydroxy-2-((S,E)-3-hydroxyoct-1-enyl)-5-oxocyclopentyl)hept-5-enoic acid; Cervidil; Cerviprime; Cerviprost; Dinoproston; Enzaprost E; Glandin-E2; Minprositin E2; Minprostin E2; PGE2; Prepidil; Propess; Prostarmon E; Prostenone; Prostin; Prostin E2; U 12062; U-12,062; U-12062; dinoprostona; dinoprostone; dinoprostonum"
-],
-[
-"Definition",
-"Prostaglandin F2α in which the hydroxy group at position 9 has been oxidised to the corresponding ketone. Prostaglandin E2 is the most common and most biologically potent of mammalian prostaglandins."
-],
-[
-"Formula",
-"C20H32O5"
-],
-[
-"ChEBI",
-"CHEBI:15551"
-],
-[
-"KEGG",
-"C00584"
-],
-[
-"HMDB",
-"HMDB0001220"
-],
-[
-"InChI",
-"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-17,19,21,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,19+/m0/s1"
-],
-[
-"InChIKey",
-"XEYBRNLFEZDVAW-ARSRFYASSA-N"
-]
-]
-},
-{
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-761.0,
-841.0,
+898.0,
+642.5,
 80.0,
 40.0
 ],
@@ -3967,8 +3919,8 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-781.0,
-889.0,
+918.0,
+690.5,
 40.0,
 40.0
 ],
@@ -4007,8 +3959,8 @@
 "label": "ADCY",
 "class": "Macromolecule",
 "box": [
-871.0,
-995.5,
+1008.0,
+797.0,
 80.0,
 40.0
 ],
@@ -4478,8 +4430,8 @@
 "label": "PTGER2",
 "class": "Macromolecule",
 "box": [
-871.0,
-750.8,
+1008.0,
+552.2,
 80.0,
 40.0
 ],
@@ -4534,8 +4486,8 @@
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-528.0,
-841.0,
+591.0,
+642.5,
 80.0,
 40.0
 ],
@@ -4594,8 +4546,8 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-548.0,
-889.0,
+611.0,
+690.5,
 40.0,
 40.0
 ],
@@ -4642,8 +4594,8 @@
 "label": "Pi",
 "class": "SimpleChemical",
 "box": [
-650.0,
-815.2,
+750.0,
+616.8,
 40.0,
 40.0
 ],
@@ -4670,8 +4622,8 @@
 "label": "PTGER2",
 "class": "Macromolecule",
 "box": [
-47.0,
-363.8,
+36.0,
+264.5,
 80.0,
 40.0
 ],
@@ -4726,7 +4678,55 @@
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [
-128.0,
+117.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin E2"
+],
+[
+"Synonyms",
+"(15S)-prostaglandin E2; (5Z,11alpha,13E,15S)-11,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprost-13-enoate; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate; (5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (E,Z)-(1R,2R,3R)-7-(3-Hydroxy-2-((3S)-(3-hydroxy-1-octenyl))-5-oxocyclopentyl)-5-heptenoic acid; (Z)-7-((1R,2R,3R)-3-hydroxy-2-((S,E)-3-hydroxyoct-1-enyl)-5-oxocyclopentyl)hept-5-enoic acid; Cervidil; Cerviprime; Cerviprost; Dinoproston; Enzaprost E; Glandin-E2; Minprositin E2; Minprostin E2; PGE2; Prepidil; Propess; Prostarmon E; Prostenone; Prostin; Prostin E2; U 12062; U-12,062; U-12062; dinoprostona; dinoprostone; dinoprostonum"
+],
+[
+"Definition",
+"Prostaglandin F2α in which the hydroxy group at position 9 has been oxidised to the corresponding ketone. Prostaglandin E2 is the most common and most biologically potent of mammalian prostaglandins."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15551"
+],
+[
+"KEGG",
+"C00584"
+],
+[
+"HMDB",
+"HMDB0001220"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-17,19,21,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,19+/m0/s1"
+],
+[
+"InChIKey",
+"XEYBRNLFEZDVAW-ARSRFYASSA-N"
+]
+]
+},
+{
+"label": "PGE2",
+"class": "SimpleChemical",
+"box": [
+1061.4,
 15.0,
 40.0,
 40.0
