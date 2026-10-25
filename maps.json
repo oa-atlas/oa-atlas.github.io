@@ -27,94 +27,13 @@
 "hasText": false
 },
 {
-"id": "pge2-ptger2-gs-v0",
-"title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase (v0, as in the map)",
-"topic": "PGE2 - PTGER2 - Gsα",
-"group": "Blocks",
-"kind": null,
-"tag": null,
-"tab": "v0, as in the map",
-"image": "files/pge2-ptger2-gs-v0.svg",
-"width": 1186.0,
-"height": 1182.0,
-"scale": 1,
-"annotation": "data/pge2-ptger2-gs-v0.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pge2-ptger2-gs-v0.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pge2-ptger2-gs-v0.svg"
-}
-],
-"data": null,
-"hasText": false
-},
-{
-"id": "pge2-ptger2-gs-v2",
-"title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase (v2, compact)",
-"topic": "PGE2 - PTGER2 - Gsα",
-"group": "Blocks",
-"kind": null,
-"tag": null,
-"tab": "v2, compact",
-"image": "files/pge2-ptger2-gs-v2.svg",
-"width": 1330.0,
-"height": 1029.0,
-"scale": 1,
-"annotation": "data/pge2-ptger2-gs-v2.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pge2-ptger2-gs-v2.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pge2-ptger2-gs-v2.svg"
-}
-],
-"data": null,
-"hasText": false
-},
-{
-"id": "pge2-ptger2-gs-v8",
-"title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase (v8, narrow)",
-"topic": "PGE2 - PTGER2 - Gsα",
-"group": "Blocks",
-"kind": null,
-"tag": null,
-"tab": "v8, narrow",
-"image": "files/pge2-ptger2-gs-v8.svg",
-"width": 1086.0,
-"height": 1387.0,
-"scale": 1,
-"annotation": "data/pge2-ptger2-gs-v8.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pge2-ptger2-gs-v8.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pge2-ptger2-gs-v8.svg"
-}
-],
-"data": null,
-"hasText": false
-},
-{
 "id": "pge2-ptger2-gs",
-"title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase (v12)",
+"title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase",
 "topic": "PGE2 - PTGER2 - Gsα",
 "group": "Blocks",
 "kind": null,
 "tag": null,
-"tab": "v12",
+"tab": null,
 "image": "files/pge2-ptger2-gs.svg",
 "width": 1127.0,
 "height": 1188.0,
@@ -129,33 +48,6 @@
 {
 "label": "SVG",
 "url": "files/pge2-ptger2-gs.svg"
-}
-],
-"data": null,
-"hasText": false
-},
-{
-"id": "pge2-ptger2-gs-v13",
-"title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase (v13, receptor released liganded)",
-"topic": "PGE2 - PTGER2 - Gsα",
-"group": "Blocks",
-"kind": null,
-"tag": null,
-"tab": "v13, receptor released liganded",
-"image": "files/pge2-ptger2-gs-v13.svg",
-"width": 1206.0,
-"height": 1259.0,
-"scale": 1,
-"annotation": "data/pge2-ptger2-gs-v13.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pge2-ptger2-gs-v13.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pge2-ptger2-gs-v13.svg"
 }
 ],
 "data": null,
