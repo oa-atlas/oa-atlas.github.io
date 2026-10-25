@@ -5,7 +5,7 @@
 "class": "Macromolecule",
 "box": [
 491.0,
-240.0,
+333.5,
 80.0,
 40.0
 ],
@@ -211,7 +211,7 @@
 "class": "Macromolecule",
 "box": [
 491.0,
-183.0,
+199.0,
 80.0,
 40.0
 ],
@@ -413,11 +413,51 @@
 ]
 },
 {
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+511.0,
+247.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP"
+],
+[
+"Synonyms",
+"5'-GTP; GUANOSINE-5'-TRIPHOSPHATE; Guanosine 5'-triphosphate; H4gtp; guanosine 5'-(tetrahydrogen triphosphate); guanosine 5'-triphosphoric acid; guanosine triphosphate"
+],
+[
+"Formula",
+"C10H16N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:15996"
+],
+[
+"KEGG",
+"C00044"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-N"
+]
+]
+},
+{
 "label": "NTRK1",
 "class": "Macromolecule",
 "box": [
 239.0,
-434.2,
+527.8,
 80.0,
 40.0
 ],
@@ -473,7 +513,7 @@
 "class": "Macromolecule",
 "box": [
 239.0,
-386.2,
+479.8,
 80.0,
 40.0
 ],
@@ -525,7 +565,7 @@
 "class": "Macromolecule",
 "box": [
 47.0,
-420.5,
+514.0,
 80.0,
 40.0
 ],
@@ -581,7 +621,7 @@
 "class": "SimpleChemical",
 "box": [
 409.2,
-420.5,
+514.0,
 40.0,
 40.0
 ],
@@ -605,7 +645,7 @@
 "class": "SimpleChemical",
 "box": [
 540.0,
-356.5,
+450.0,
 40.0,
 40.0
 ],
@@ -637,7 +677,7 @@
 "class": "SimpleChemical",
 "box": [
 482.0,
-356.5,
+450.0,
 40.0,
 40.0
 ],
@@ -685,7 +725,7 @@
 "class": "SimpleChemical",
 "box": [
 755.0,
-420.5,
+514.0,
 40.0,
 40.0
 ],
@@ -725,7 +765,7 @@
 "class": "SimpleChemical",
 "box": [
 1056.5,
-763.0,
+856.5,
 40.0,
 40.0
 ],
@@ -765,7 +805,7 @@
 "class": "Macromolecule",
 "box": [
 491.0,
-650.5,
+744.0,
 80.0,
 40.0
 ],
@@ -825,7 +865,7 @@
 "class": "Macromolecule",
 "box": [
 491.0,
-510.5,
+604.0,
 80.0,
 40.0
 ],
@@ -885,7 +925,7 @@
 "class": "SimpleChemical",
 "box": [
 809.2,
-763.0,
+856.5,
 40.0,
 40.0
 ],
@@ -925,7 +965,7 @@
 "class": "Macromolecule",
 "box": [
 864.5,
-614.5,
+708.0,
 86.0,
 46.0
 ],
@@ -985,7 +1025,7 @@
 "class": "SimpleChemical",
 "box": [
 887.5,
-558.5,
+652.0,
 40.0,
 40.0
 ],
@@ -1025,7 +1065,7 @@
 "class": "Macromolecule",
 "box": [
 659.0,
-599.8,
+693.2,
 86.0,
 46.0
 ],

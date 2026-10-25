@@ -5,7 +5,7 @@
 "class": "Macromolecule",
 "box": [
 179.0,
-442.2,
+626.2,
 80.0,
 40.0
 ],
@@ -476,7 +476,7 @@
 "class": "Macromolecule",
 "box": [
 179.0,
-385.2,
+491.8,
 80.0,
 40.0
 ],
@@ -686,50 +686,42 @@
 ]
 },
 {
-"label": "cAMP",
+"label": "GTP",
 "class": "SimpleChemical",
 "box": [
-596.5,
-827.2,
+199.0,
+539.8,
 40.0,
 40.0
 ],
 "props": [
 [
 "Full name",
-"3',5'-cyclic AMP"
+"GTP"
 ],
 [
 "Synonyms",
-"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
-],
-[
-"Definition",
-"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+"5'-GTP; GUANOSINE-5'-TRIPHOSPHATE; Guanosine 5'-triphosphate; H4gtp; guanosine 5'-(tetrahydrogen triphosphate); guanosine 5'-triphosphoric acid; guanosine triphosphate"
 ],
 [
 "Formula",
-"C10H12N5O6P"
+"C10H16N5O14P3"
 ],
 [
 "ChEBI",
-"CHEBI:17489"
+"CHEBI:15996"
 ],
 [
 "KEGG",
-"C00575"
-],
-[
-"HMDB",
-"HMDB0000058"
+"C00044"
 ],
 [
 "InChI",
-"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
 ],
 [
 "InChIKey",
-"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+"XKMLYUALXHKNFT-UUOKFMHZSA-N"
 ]
 ]
 },
@@ -737,8 +729,8 @@
 "label": "cAMP",
 "class": "SimpleChemical",
 "box": [
-644.5,
-827.2,
+635.0,
+1011.2,
 40.0,
 40.0
 ],
@@ -785,8 +777,8 @@
 "label": "PKA reg",
 "class": "Macromolecule",
 "box": [
-573.5,
-767.2,
+612.0,
+951.2,
 86.0,
 46.0
 ],
@@ -988,107 +980,11 @@
 ]
 },
 {
-"label": "cAMP",
-"class": "SimpleChemical",
-"box": [
-692.5,
-827.2,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"3',5'-cyclic AMP"
-],
-[
-"Synonyms",
-"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
-],
-[
-"Definition",
-"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
-],
-[
-"Formula",
-"C10H12N5O6P"
-],
-[
-"ChEBI",
-"CHEBI:17489"
-],
-[
-"KEGG",
-"C00575"
-],
-[
-"HMDB",
-"HMDB0000058"
-],
-[
-"InChI",
-"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
-],
-[
-"InChIKey",
-"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
-]
-]
-},
-{
-"label": "cAMP",
-"class": "SimpleChemical",
-"box": [
-740.5,
-827.2,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"3',5'-cyclic AMP"
-],
-[
-"Synonyms",
-"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
-],
-[
-"Definition",
-"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
-],
-[
-"Formula",
-"C10H12N5O6P"
-],
-[
-"ChEBI",
-"CHEBI:17489"
-],
-[
-"KEGG",
-"C00575"
-],
-[
-"HMDB",
-"HMDB0000058"
-],
-[
-"InChI",
-"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
-],
-[
-"InChIKey",
-"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
-]
-]
-},
-{
 "label": "PKA reg",
 "class": "Macromolecule",
 "box": [
 59.0,
-598.8,
+782.8,
 86.0,
 46.0
 ],
@@ -1294,7 +1190,7 @@
 "class": "Macromolecule",
 "box": [
 159.0,
-598.8,
+782.8,
 86.0,
 46.0
 ],
@@ -1406,7 +1302,7 @@
 "class": "Macromolecule",
 "box": [
 375.0,
-574.8,
+758.8,
 86.0,
 46.0
 ],
@@ -1612,7 +1508,7 @@
 "class": "Macromolecule",
 "box": [
 475.0,
-574.8,
+758.8,
 86.0,
 46.0
 ],
@@ -1724,151 +1620,7 @@
 "class": "SimpleChemical",
 "box": [
 398.0,
-634.8,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"3',5'-cyclic AMP"
-],
-[
-"Synonyms",
-"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
-],
-[
-"Definition",
-"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
-],
-[
-"Formula",
-"C10H12N5O6P"
-],
-[
-"ChEBI",
-"CHEBI:17489"
-],
-[
-"KEGG",
-"C00575"
-],
-[
-"HMDB",
-"HMDB0000058"
-],
-[
-"InChI",
-"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
-],
-[
-"InChIKey",
-"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
-]
-]
-},
-{
-"label": "cAMP",
-"class": "SimpleChemical",
-"box": [
-446.0,
-634.8,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"3',5'-cyclic AMP"
-],
-[
-"Synonyms",
-"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
-],
-[
-"Definition",
-"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
-],
-[
-"Formula",
-"C10H12N5O6P"
-],
-[
-"ChEBI",
-"CHEBI:17489"
-],
-[
-"KEGG",
-"C00575"
-],
-[
-"HMDB",
-"HMDB0000058"
-],
-[
-"InChI",
-"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
-],
-[
-"InChIKey",
-"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
-]
-]
-},
-{
-"label": "cAMP",
-"class": "SimpleChemical",
-"box": [
-498.0,
-634.8,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"3',5'-cyclic AMP"
-],
-[
-"Synonyms",
-"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
-],
-[
-"Definition",
-"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
-],
-[
-"Formula",
-"C10H12N5O6P"
-],
-[
-"ChEBI",
-"CHEBI:17489"
-],
-[
-"KEGG",
-"C00575"
-],
-[
-"HMDB",
-"HMDB0000058"
-],
-[
-"InChI",
-"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
-],
-[
-"InChIKey",
-"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
-]
-]
-},
-{
-"label": "cAMP",
-"class": "SimpleChemical",
-"box": [
-546.0,
-634.8,
+818.8,
 40.0,
 40.0
 ],
@@ -1916,7 +1668,7 @@
 "class": "Macromolecule",
 "box": [
 179.0,
-123.8,
+214.2,
 80.0,
 40.0
 ],
@@ -2387,7 +2139,7 @@
 "class": "Macromolecule",
 "box": [
 179.0,
-66.8,
+79.8,
 80.0,
 40.0
 ],
@@ -2443,11 +2195,51 @@
 ]
 },
 {
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+199.0,
+127.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP"
+],
+[
+"Synonyms",
+"5'-GTP; GUANOSINE-5'-TRIPHOSPHATE; Guanosine 5'-triphosphate; H4gtp; guanosine 5'-(tetrahydrogen triphosphate); guanosine 5'-triphosphoric acid; guanosine triphosphate"
+],
+[
+"Formula",
+"C10H16N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:15996"
+],
+[
+"KEGG",
+"C00044"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-N"
+]
+]
+},
+{
 "label": "PKA cat",
 "class": "Macromolecule",
 "box": [
-701.0,
-612.0,
+682.0,
+796.0,
 86.0,
 46.0
 ],
@@ -2559,7 +2351,7 @@
 "class": "SimpleChemical",
 "box": [
 264.0,
-250.2,
+340.8,
 40.0,
 40.0
 ],
@@ -2607,7 +2399,7 @@
 "class": "SimpleChemical",
 "box": [
 228.0,
-314.2,
+404.8,
 40.0,
 40.0
 ],
@@ -2631,7 +2423,7 @@
 "class": "SimpleChemical",
 "box": [
 134.0,
-250.2,
+340.8,
 40.0,
 40.0
 ],
