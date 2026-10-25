@@ -905,21 +905,10 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa975_b"><data key="d3">HGNC:8156</data><data key="d1">OPRM1</data><data key="d2">P35372</data><data key="ng">
-            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="650.5" y="360.25"/>
-              <y:Fill color="#DBEBDB" transparent="false"/>
-              <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">OPRM1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-              <y:StyleProperties>
-                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
-                </y:StyleProperties>
-            </y:GenericNode>
-          </data>
         </node><node id="re294"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="895.0" y="522.5"/>
-          <y:Fill transparent="false" hasColor="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -933,7 +922,7 @@
     </node><node id="re295"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="1281.0" y="522.5"/>
-          <y:Fill transparent="false" hasColor="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -947,7 +936,7 @@
     </node><node id="re296"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="638.0" y="522.5"/>
-          <y:Fill transparent="false" hasColor="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -961,7 +950,7 @@
     </node><node id="re_analgesic"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="766.5" y="411.25"/>
-          <y:Fill transparent="false" hasColor="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -975,7 +964,7 @@
     </node><node id="re_nlx"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="548.0" y="622.5"/>
-          <y:Fill transparent="false" hasColor="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -989,7 +978,7 @@
     </node><node id="re298"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="1343.125" y="934.75"/>
-          <y:Fill transparent="false" hasColor="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -1003,7 +992,7 @@
     </node><node id="re299"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="1023.375" y="934.75"/>
-          <y:Fill transparent="false" hasColor="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -1017,7 +1006,7 @@
     </node><node id="re300"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="1488.5" y="725.25"/>
-          <y:Fill transparent="false" hasColor="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -1031,7 +1020,7 @@
     </node><node id="re301"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="1488.5" y="1093.0"/>
-          <y:Fill transparent="false" hasColor="false"/>
+          <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -1127,7 +1116,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     </node><node id="sa1137"><data key="d0">CHEBI:3216</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="828.5" y="50.5"/>
-          <y:Fill color="#EBEFCD" transparent="false"/>
+          <y:Fill color="#FFE287" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.5" x="-41.75" xml:space="preserve" y="9.75" hasText="true">buprenorphine<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -1135,7 +1124,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     </node><node id="sa1138"><data key="d0">CHEBI:5790</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="974.5" y="50.5"/>
-          <y:Fill color="#EBEFCD" transparent="false"/>
+          <y:Fill color="#FFE287" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.5" x="-41.75" xml:space="preserve" y="9.75" hasText="true">hydromorphone<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -1143,7 +1132,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     </node><node id="sa1139"><data key="d0">CHEBI:6754</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1120.5" y="50.5"/>
-          <y:Fill color="#EBEFCD" transparent="false"/>
+          <y:Fill color="#FFE287" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="85.5" x="-22.75" xml:space="preserve" y="9.75" hasText="true">pethidine<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -1151,7 +1140,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     </node><node id="sa1140"><data key="d0">CHEBI:7459</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="457.0" y="90.5"/>
-          <y:Fill color="#EBEFCD" transparent="false"/>
+          <y:Fill color="#FFE287" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="76.0" x="-18.0" xml:space="preserve" y="9.75" hasText="true">naloxone<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -1159,7 +1148,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     </node><node id="sa_naltrexone"><data key="d0">CHEBI:7465</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="384.0" y="50.5"/>
-          <y:Fill color="#EBEFCD" transparent="false"/>
+          <y:Fill color="#FFE287" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="74.0" x="-17.0" xml:space="preserve" y="9.75" hasText="true">naltrexone<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -1219,7 +1208,9 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re294_csa110" source="csa110" target="re294">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="875.0" y="531.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="875.0" y="531.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1249,7 +1240,9 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re295_sa974" source="sa974" target="re295">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1261.0" y="531.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1261.0" y="531.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1259,7 +1252,9 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re295_sa973" source="re295" target="sa973">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1319.0" y="531.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1319.0" y="531.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -1276,10 +1271,13 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="re_analgesic_sa975_b" source="sa975_b" target="re_analgesic">
+    <edge id="re_analgesic_sa975" source="sa975" target="re_analgesic">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="775.5" y="380.25"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="557.0" y="386.7620478725059"/>
+            <y:Point x="775.5" y="386.7620478725059"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1289,7 +1287,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re_nlx_sa1140" source="sa_antag" target="re_nlx">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="477.0" y="586.5"/><y:Point x="557.0" y="586.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="477.0" y="586.5"/>
+            <y:Point x="557.0" y="586.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1339,7 +1340,9 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re296_sa1136" source="sa1136" target="re296">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="618.0" y="531.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="618.0" y="531.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1379,7 +1382,9 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re298_sa971" source="re298" target="sa971">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1323.125" y="943.75"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1323.125" y="943.75"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -1419,7 +1424,9 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re299_csa109" source="csa109" target="re299">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1061.375" y="943.75"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1061.375" y="943.75"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1449,7 +1456,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re300_sa1136_out" source="re300" target="sa1136_out">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1497.5" y="763.25"/><y:Point x="1666.0" y="763.25"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1497.5" y="763.25"/>
+            <y:Point x="1666.0" y="763.25"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -1459,7 +1469,9 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re300_sa972" source="re300" target="sa972">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1497.5" y="819.25"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1497.5" y="819.25"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -1469,7 +1481,9 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re300_csa109" source="re300" target="csa109">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1497.5" y="763.25"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1497.5" y="763.25"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -1499,7 +1513,9 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re301_sa966" source="sa966" target="re301">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1497.5" y="1073.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1497.5" y="1073.0"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1529,7 +1545,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re_antag_gate_sa_naltrexone" source="sa_naltrexone" target="re_antag_gate">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="404.0" y="165.5"/><y:Point x="477.0" y="165.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="404.0" y="165.5"/>
+            <y:Point x="477.0" y="165.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1539,7 +1558,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re339_gate_sa1132" source="sa1132" target="re_drug_gate">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="921.5" y="165.5"/><y:Point x="775.5" y="165.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="921.5" y="165.5"/>
+            <y:Point x="775.5" y="165.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1549,7 +1571,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re339_gate_sa1133" source="sa1133" target="re_drug_gate">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1067.5" y="165.5"/><y:Point x="775.5" y="165.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1067.5" y="165.5"/>
+            <y:Point x="775.5" y="165.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1559,7 +1584,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re339_gate_sa1134" source="sa1134" target="re_drug_gate">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1213.5" y="165.5"/><y:Point x="775.5" y="165.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1213.5" y="165.5"/>
+            <y:Point x="775.5" y="165.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1569,7 +1597,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re339_gate_sa1135" source="sa1135" target="re_drug_gate">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1359.5" y="165.5"/><y:Point x="775.5" y="165.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1359.5" y="165.5"/>
+            <y:Point x="775.5" y="165.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1589,7 +1620,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re339_gate_sa_endomorphin2" source="sa_endomorphin2" target="re339_gate">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="691.0" y="165.5"/><y:Point x="618.0" y="165.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="691.0" y="165.5"/>
+            <y:Point x="618.0" y="165.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1599,7 +1633,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re339_gate_sa1137" source="sa1137" target="re_drug_gate">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="848.5" y="165.5"/><y:Point x="775.5" y="165.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="848.5" y="165.5"/>
+            <y:Point x="775.5" y="165.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1609,7 +1646,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re339_gate_sa1138" source="sa1138" target="re_drug_gate">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="994.5" y="165.5"/><y:Point x="775.5" y="165.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="994.5" y="165.5"/>
+            <y:Point x="775.5" y="165.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1619,7 +1659,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re339_gate_sa1139" source="sa1139" target="re_drug_gate">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1140.5" y="165.5"/><y:Point x="775.5" y="165.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1140.5" y="165.5"/>
+            <y:Point x="775.5" y="165.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -1629,7 +1672,10 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re339_gate_sa1168" source="sa1168" target="re_drug_gate">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1286.5" y="165.5"/><y:Point x="775.5" y="165.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1286.5" y="165.5"/>
+            <y:Point x="775.5" y="165.5"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>

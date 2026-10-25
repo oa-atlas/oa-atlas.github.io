@@ -5623,62 +5623,6 @@
 ]
 },
 {
-"label": "OPRM1",
-"class": "Macromolecule",
-"box": [
-298.5,
-327.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Mu-type opioid receptor"
-],
-[
-"Alternative names",
-"Mu opiate receptor; Mu opioid receptor"
-],
-[
-"Function",
-"Receptor for endogenous opioids such as beta-endorphin and endomorphin. Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone."
-],
-[
-"Location",
-"Cell membrane, Cell projection, axon, Perikaryon, Cell projection, dendrite, Endosome, Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:8156"
-],
-[
-"HGNC symbol",
-"OPRM1"
-],
-[
-"Alias symbols",
-"MOR1, MOP"
-],
-[
-"Entrez",
-"4988"
-],
-[
-"Ensembl",
-"ENSG00000112038"
-],
-[
-"RefSeq",
-"NM_000914"
-],
-[
-"UniProt",
-"P35372"
-]
-]
-},
-{
 "label": "tramadol",
 "class": "SimpleChemical",
 "box": [
