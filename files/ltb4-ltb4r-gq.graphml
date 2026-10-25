@@ -14,11 +14,11 @@
               <y:Geometry height="952.0" width="888.0" x="40.0" y="152.75"/>
               <y:Fill color="#99999908" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="br" textColor="#000000" verticalTextPosition="bottom" visible="true" width="95.0" x="1042.0" xml:space="preserve" y="460.5" hasText="true">NOCICEPTOR</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tr" textColor="#000000" verticalTextPosition="top" visible="true" width="95.0" x="1042.0" xml:space="preserve" y="460.5" hasText="true">NOCICEPTOR</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="13" bottomF="12.8" left="15" leftF="15.0" right="15" rightF="15.0" top="0" topF="0.0"/>
-              <y:BorderInsets bottom="2" bottomF="2.4499999999999993" left="17" leftF="17.0" right="19" rightF="19.0" top="35" topF="35.25"/>
+              <y:BorderInsets bottom="23" bottomF="22.95" left="17" leftF="17.0" right="19" rightF="19.0" top="15" topF="14.75"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="501.0" width="1141.0" x="256.0" y="1284.25"/>
