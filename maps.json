@@ -27,6 +27,33 @@
 "hasText": true
 },
 {
+"id": "opn-mast-cell",
+"title": "Osteopontin - CD44, integrin αv - mast cell activation - histamine",
+"topic": "Osteopontin - CD44, integrin αv - histamine",
+"group": "Mast cell",
+"kind": null,
+"tag": "added",
+"tab": null,
+"image": "files/opn-mast-cell.svg",
+"width": 862.0,
+"height": 878.0,
+"scale": 1,
+"annotation": "data/opn-mast-cell.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/opn-mast-cell.graphml"
+},
+{
+"label": "SVG",
+"url": "files/opn-mast-cell.svg"
+}
+],
+"data": "data/opn-mast-cell-text.json",
+"hasText": true
+},
+{
 "id": "ltb4-ltb4r-gq",
 "title": "LTB4 - LTB4R & LTB4R2 - Gqα",
 "topic": "LTB4 - LTB4R - Gqα",
