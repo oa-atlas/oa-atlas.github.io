@@ -1,0 +1,856 @@
+{
+"nodes": [
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+187.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+507.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+727.0,
+15.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+},
+{
+"label": "P2RX4",
+"class": "Macromolecule",
+"box": [
+47.0,
+227.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 4"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"ATP-gated nonselective transmembrane cation channel permeable to potassium, sodium and calcium. CTP, but not GTP or UTP, functions as a weak affinity agonist for P2RX4."
+],
+[
+"Location",
+"Cell membrane, Lysosome membrane"
+],
+[
+"HGNC",
+"HGNC:8535"
+],
+[
+"HGNC symbol",
+"P2RX4"
+],
+[
+"Alias symbols",
+"P2X4"
+],
+[
+"Entrez",
+"5025"
+],
+[
+"Ensembl",
+"ENSG00000135124"
+],
+[
+"RefSeq",
+"NM_175567"
+],
+[
+"UniProt",
+"Q99571"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+327.0,
+192.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "P2RX4",
+"class": "Macromolecule",
+"box": [
+307.0,
+240.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 4"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"ATP-gated nonselective transmembrane cation channel permeable to potassium, sodium and calcium. CTP, but not GTP or UTP, functions as a weak affinity agonist for P2RX4."
+],
+[
+"Location",
+"Cell membrane, Lysosome membrane"
+],
+[
+"HGNC",
+"HGNC:8535"
+],
+[
+"HGNC symbol",
+"P2RX4"
+],
+[
+"Alias symbols",
+"P2X4"
+],
+[
+"Entrez",
+"5025"
+],
+[
+"Ensembl",
+"ENSG00000135124"
+],
+[
+"RefSeq",
+"NM_175567"
+],
+[
+"UniProt",
+"Q99571"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+507.0,
+355.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "P38 MAPK",
+"class": "Macromolecule",
+"box": [
+367.0,
+455.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"p38 MAP kinases"
+],
+[
+"Members",
+"MAPK14; MAPK11; MAPK12; MAPK13"
+]
+],
+"members": [
+{
+"symbol": "MAPK14",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"symbol": "MAPK11",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 11"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 beta; Stress-activated protein kinase 2b; p38-2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK11 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6873"
+],
+[
+"HGNC symbol",
+"MAPK11"
+],
+[
+"Previous symbols",
+"PRKM11"
+],
+[
+"Alias symbols",
+"p38-2, p38Beta, SAPK2"
+],
+[
+"Entrez",
+"5600"
+],
+[
+"Ensembl",
+"ENSG00000185386"
+],
+[
+"RefSeq",
+"NM_002751"
+],
+[
+"UniProt",
+"Q15759"
+]
+]
+},
+{
+"symbol": "MAPK12",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 12"
+],
+[
+"Alternative names",
+"Extracellular signal-regulated kinase 6; Mitogen-activated protein kinase p38 gamma; Stress-activated protein kinase 3"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK12 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:6874"
+],
+[
+"HGNC symbol",
+"MAPK12"
+],
+[
+"Previous symbols",
+"SAPK3"
+],
+[
+"Alias symbols",
+"ERK6, PRKM12, p38gamma, SAPK-3"
+],
+[
+"Entrez",
+"6300"
+],
+[
+"Ensembl",
+"ENSG00000188130"
+],
+[
+"RefSeq",
+"NM_002969"
+],
+[
+"UniProt",
+"P53778"
+]
+]
+},
+{
+"symbol": "MAPK13",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 13"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 delta; Stress-activated protein kinase 4"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK13 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"HGNC",
+"HGNC:6875"
+],
+[
+"HGNC symbol",
+"MAPK13"
+],
+[
+"Previous symbols",
+"PRKM13"
+],
+[
+"Alias symbols",
+"SAPK4, p38delta"
+],
+[
+"Entrez",
+"5603"
+],
+[
+"Ensembl",
+"ENSG00000156711"
+],
+[
+"RefSeq",
+"NM_002754"
+],
+[
+"UniProt",
+"O15264"
+]
+]
+}
+]
+},
+{
+"label": "P38 MAPK",
+"class": "Macromolecule",
+"box": [
+607.0,
+455.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"p38 MAP kinases"
+],
+[
+"Members",
+"MAPK14; MAPK11; MAPK12; MAPK13"
+]
+],
+"members": [
+{
+"symbol": "MAPK14",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"symbol": "MAPK11",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 11"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 beta; Stress-activated protein kinase 2b; p38-2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK11 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6873"
+],
+[
+"HGNC symbol",
+"MAPK11"
+],
+[
+"Previous symbols",
+"PRKM11"
+],
+[
+"Alias symbols",
+"p38-2, p38Beta, SAPK2"
+],
+[
+"Entrez",
+"5600"
+],
+[
+"Ensembl",
+"ENSG00000185386"
+],
+[
+"RefSeq",
+"NM_002751"
+],
+[
+"UniProt",
+"Q15759"
+]
+]
+},
+{
+"symbol": "MAPK12",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 12"
+],
+[
+"Alternative names",
+"Extracellular signal-regulated kinase 6; Mitogen-activated protein kinase p38 gamma; Stress-activated protein kinase 3"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK12 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:6874"
+],
+[
+"HGNC symbol",
+"MAPK12"
+],
+[
+"Previous symbols",
+"SAPK3"
+],
+[
+"Alias symbols",
+"ERK6, PRKM12, p38gamma, SAPK-3"
+],
+[
+"Entrez",
+"6300"
+],
+[
+"Ensembl",
+"ENSG00000188130"
+],
+[
+"RefSeq",
+"NM_002969"
+],
+[
+"UniProt",
+"P53778"
+]
+]
+},
+{
+"symbol": "MAPK13",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 13"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 delta; Stress-activated protein kinase 4"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK13 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"HGNC",
+"HGNC:6875"
+],
+[
+"HGNC symbol",
+"MAPK13"
+],
+[
+"Previous symbols",
+"PRKM13"
+],
+[
+"Alias symbols",
+"SAPK4, p38delta"
+],
+[
+"Entrez",
+"5603"
+],
+[
+"Ensembl",
+"ENSG00000156711"
+],
+[
+"RefSeq",
+"NM_002754"
+],
+[
+"UniProt",
+"O15264"
+]
+]
+}
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+727.0,
+355.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+}
+]
+}

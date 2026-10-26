@@ -1,0 +1,688 @@
+{
+"nodes": [
+{
+"label": "IL6",
+"class": "Macromolecule",
+"box": [
+107.0,
+15.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-6"
+],
+[
+"Alternative names",
+"B-cell stimulatory factor 2; CTL differentiation factor; Hybridoma growth factor; Interferon beta-2"
+],
+[
+"Function",
+"Cytokine with a wide variety of biological functions in immunity, tissue regeneration, and metabolism. Binds to IL6R, then the complex associates to the signaling subunit IL6ST/gp130 to trigger the intracellular IL6-signaling pathway (Probable)."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:6018"
+],
+[
+"HGNC symbol",
+"IL6"
+],
+[
+"Previous symbols",
+"IFNB2"
+],
+[
+"Alias symbols",
+"IL-6, BSF2, HGF, HSF"
+],
+[
+"Entrez",
+"3569"
+],
+[
+"Ensembl",
+"ENSG00000136244"
+],
+[
+"RefSeq",
+"NM_000600"
+],
+[
+"UniProt",
+"P05231"
+]
+]
+},
+{
+"label": "IL6R",
+"class": "Macromolecule",
+"box": [
+267.0,
+15.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-6 receptor subunit alpha"
+],
+[
+"Alternative names",
+"IL-6R 1; Membrane glycoprotein 80"
+],
+[
+"Function",
+"Part of the receptor for interleukin 6. Binds to IL6 with low affinity, but does not transduce a signal."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:6019"
+],
+[
+"HGNC symbol",
+"IL6R"
+],
+[
+"Alias symbols",
+"CD126, IL-6R, IL-1Ra, IL6RA, gp80"
+],
+[
+"Entrez",
+"3570"
+],
+[
+"Ensembl",
+"ENSG00000160712"
+],
+[
+"RefSeq",
+"NM_000565"
+],
+[
+"UniProt",
+"P08887"
+]
+]
+},
+{
+"label": "IL6",
+"class": "Macromolecule",
+"box": [
+187.0,
+210.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-6"
+],
+[
+"Alternative names",
+"B-cell stimulatory factor 2; CTL differentiation factor; Hybridoma growth factor; Interferon beta-2"
+],
+[
+"Function",
+"Cytokine with a wide variety of biological functions in immunity, tissue regeneration, and metabolism. Binds to IL6R, then the complex associates to the signaling subunit IL6ST/gp130 to trigger the intracellular IL6-signaling pathway (Probable)."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:6018"
+],
+[
+"HGNC symbol",
+"IL6"
+],
+[
+"Previous symbols",
+"IFNB2"
+],
+[
+"Alias symbols",
+"IL-6, BSF2, HGF, HSF"
+],
+[
+"Entrez",
+"3569"
+],
+[
+"Ensembl",
+"ENSG00000136244"
+],
+[
+"RefSeq",
+"NM_000600"
+],
+[
+"UniProt",
+"P05231"
+]
+]
+},
+{
+"label": "IL6R",
+"class": "Macromolecule",
+"box": [
+187.0,
+258.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-6 receptor subunit alpha"
+],
+[
+"Alternative names",
+"IL-6R 1; Membrane glycoprotein 80"
+],
+[
+"Function",
+"Part of the receptor for interleukin 6. Binds to IL6 with low affinity, but does not transduce a signal."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:6019"
+],
+[
+"HGNC symbol",
+"IL6R"
+],
+[
+"Alias symbols",
+"CD126, IL-6R, IL-1Ra, IL6RA, gp80"
+],
+[
+"Entrez",
+"3570"
+],
+[
+"Ensembl",
+"ENSG00000160712"
+],
+[
+"RefSeq",
+"NM_000565"
+],
+[
+"UniProt",
+"P08887"
+]
+]
+},
+{
+"label": "IL6ST",
+"class": "Macromolecule",
+"box": [
+47.0,
+435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-6 receptor subunit beta"
+],
+[
+"Alternative names",
+"CDw130; Interleukin-6 signal transducer; Membrane glycoprotein 130; Oncostatin-M receptor subunit alpha"
+],
+[
+"Function",
+"Functions as a shared signal-transducing subunit not only for IL6 but also for other cytokine receptor complexes, including IL6, LIF, OSM, CNTF, IL11, CTF1, BSF3, MT-RNR2/humanin, CLCF1 and the heterodimeric complex CRLF1-CLCF1. Engages site 2 of CNTF, CLCF1, LIF, and IL-6, and site 3 of IL27 and IL6."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:6021"
+],
+[
+"HGNC symbol",
+"IL6ST"
+],
+[
+"Alias symbols",
+"GP130, CD130, sGP130, IL-6RB"
+],
+[
+"Entrez",
+"3572"
+],
+[
+"Ensembl",
+"ENSG00000134352"
+],
+[
+"RefSeq",
+"NM_002184"
+],
+[
+"UniProt",
+"P40189"
+]
+]
+},
+{
+"label": "IL6",
+"class": "Macromolecule",
+"box": [
+187.0,
+546.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-6"
+],
+[
+"Alternative names",
+"B-cell stimulatory factor 2; CTL differentiation factor; Hybridoma growth factor; Interferon beta-2"
+],
+[
+"Function",
+"Cytokine with a wide variety of biological functions in immunity, tissue regeneration, and metabolism. Binds to IL6R, then the complex associates to the signaling subunit IL6ST/gp130 to trigger the intracellular IL6-signaling pathway (Probable)."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:6018"
+],
+[
+"HGNC symbol",
+"IL6"
+],
+[
+"Previous symbols",
+"IFNB2"
+],
+[
+"Alias symbols",
+"IL-6, BSF2, HGF, HSF"
+],
+[
+"Entrez",
+"3569"
+],
+[
+"Ensembl",
+"ENSG00000136244"
+],
+[
+"RefSeq",
+"NM_000600"
+],
+[
+"UniProt",
+"P05231"
+]
+]
+},
+{
+"label": "IL6R",
+"class": "Macromolecule",
+"box": [
+187.0,
+594.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-6 receptor subunit alpha"
+],
+[
+"Alternative names",
+"IL-6R 1; Membrane glycoprotein 80"
+],
+[
+"Function",
+"Part of the receptor for interleukin 6. Binds to IL6 with low affinity, but does not transduce a signal."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:6019"
+],
+[
+"HGNC symbol",
+"IL6R"
+],
+[
+"Alias symbols",
+"CD126, IL-6R, IL-1Ra, IL6RA, gp80"
+],
+[
+"Entrez",
+"3570"
+],
+[
+"Ensembl",
+"ENSG00000160712"
+],
+[
+"RefSeq",
+"NM_000565"
+],
+[
+"UniProt",
+"P08887"
+]
+]
+},
+{
+"label": "IL6ST",
+"class": "Macromolecule",
+"box": [
+187.0,
+642.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-6 receptor subunit beta"
+],
+[
+"Alternative names",
+"CDw130; Interleukin-6 signal transducer; Membrane glycoprotein 130; Oncostatin-M receptor subunit alpha"
+],
+[
+"Function",
+"Functions as a shared signal-transducing subunit not only for IL6 but also for other cytokine receptor complexes, including IL6, LIF, OSM, CNTF, IL11, CTF1, BSF3, MT-RNR2/humanin, CLCF1 and the heterodimeric complex CRLF1-CLCF1. Engages site 2 of CNTF, CLCF1, LIF, and IL-6, and site 3 of IL27 and IL6."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:6021"
+],
+[
+"HGNC symbol",
+"IL6ST"
+],
+[
+"Alias symbols",
+"GP130, CD130, sGP130, IL-6RB"
+],
+[
+"Entrez",
+"3572"
+],
+[
+"Ensembl",
+"ENSG00000134352"
+],
+[
+"RefSeq",
+"NM_002184"
+],
+[
+"UniProt",
+"P40189"
+]
+]
+},
+{
+"label": "PRKCD",
+"class": "Macromolecule",
+"box": [
+427.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protein kinase C delta type"
+],
+[
+"Alternative names",
+"Tyrosine-protein kinase PRKCD; nPKC-delta"
+],
+[
+"Function",
+"Calcium-independent, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that plays contrasting roles in cell death and cell survival by functioning as a pro-apoptotic protein during DNA damage-induced apoptosis, but acting as an anti-apoptotic protein during cytokine receptor-initiated cell death, is involved in tumor suppression as well as survival of several cancers, is required for oxygen radical production by NADPH oxidase and acts as positive or negative regulator in platelet functional responses. Negatively regulates B cell proliferation and also has an important function in self-antigen induced B cell tolerance induction."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, perinuclear region, Nucleus, Cell membrane, Mitochondrion, Endomembrane system"
+],
+[
+"HGNC",
+"HGNC:9399"
+],
+[
+"HGNC symbol",
+"PRKCD"
+],
+[
+"Alias symbols",
+"PKCδ"
+],
+[
+"Entrez",
+"5580"
+],
+[
+"Ensembl",
+"ENSG00000163932"
+],
+[
+"RefSeq",
+"NM_001316327"
+],
+[
+"UniProt",
+"Q05655"
+]
+]
+},
+{
+"label": "PRKCD",
+"class": "Macromolecule",
+"box": [
+427.0,
+695.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protein kinase C delta type"
+],
+[
+"Alternative names",
+"Tyrosine-protein kinase PRKCD; nPKC-delta"
+],
+[
+"Function",
+"Calcium-independent, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that plays contrasting roles in cell death and cell survival by functioning as a pro-apoptotic protein during DNA damage-induced apoptosis, but acting as an anti-apoptotic protein during cytokine receptor-initiated cell death, is involved in tumor suppression as well as survival of several cancers, is required for oxygen radical production by NADPH oxidase and acts as positive or negative regulator in platelet functional responses. Negatively regulates B cell proliferation and also has an important function in self-antigen induced B cell tolerance induction."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, perinuclear region, Nucleus, Cell membrane, Mitochondrion, Endomembrane system"
+],
+[
+"HGNC",
+"HGNC:9399"
+],
+[
+"HGNC symbol",
+"PRKCD"
+],
+[
+"Alias symbols",
+"PKCδ"
+],
+[
+"Entrez",
+"5580"
+],
+[
+"Ensembl",
+"ENSG00000163932"
+],
+[
+"RefSeq",
+"NM_001316327"
+],
+[
+"UniProt",
+"Q05655"
+]
+]
+},
+{
+"label": "TRPV1",
+"class": "Macromolecule",
+"box": [
+667.0,
+605.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 1"
+],
+[
+"Alternative names",
+"Capsaicin receptor; Osm-9-like TRP channel 1; Vanilloid receptor 1"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell projection, dendritic spine membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12716"
+],
+[
+"HGNC symbol",
+"TRPV1"
+],
+[
+"Previous symbols",
+"VR1"
+],
+[
+"Entrez",
+"7442"
+],
+[
+"Ensembl",
+"ENSG00000196689"
+],
+[
+"RefSeq",
+"NM_018727"
+],
+[
+"UniProt",
+"Q8NER1"
+]
+]
+},
+{
+"label": "TRPV1",
+"class": "Macromolecule",
+"box": [
+667.0,
+785.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 1"
+],
+[
+"Alternative names",
+"Capsaicin receptor; Osm-9-like TRP channel 1; Vanilloid receptor 1"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell projection, dendritic spine membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12716"
+],
+[
+"HGNC symbol",
+"TRPV1"
+],
+[
+"Previous symbols",
+"VR1"
+],
+[
+"Entrez",
+"7442"
+],
+[
+"Ensembl",
+"ENSG00000196689"
+],
+[
+"RefSeq",
+"NM_018727"
+],
+[
+"UniProt",
+"Q8NER1"
+]
+]
+}
+]
+}

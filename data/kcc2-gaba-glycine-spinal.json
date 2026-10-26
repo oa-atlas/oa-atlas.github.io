@@ -1,0 +1,1358 @@
+{
+"nodes": [
+{
+"label": "GABA",
+"class": "SimpleChemical",
+"box": [
+223.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"gamma-aminobutyric acid"
+],
+[
+"Synonyms",
+"4-Aminobutanoic acid; 4-Aminobutyric acid; 4Abu; GABA; GAMMA-AMINO-BUTANOIC ACID; gamma-Aminobuttersaeure; gamma-amino-n-butyric acid; gamma-aminobutanoic acid; omega-aminobutyric acid; piperidic acid; piperidinic acid"
+],
+[
+"Definition",
+"A γ-amino acid that is butanoic acid with the amino substituent located at C-4."
+],
+[
+"Formula",
+"C4H9NO2"
+],
+[
+"ChEBI",
+"CHEBI:16865"
+],
+[
+"KEGG",
+"C00334"
+],
+[
+"HMDB",
+"HMDB0000112"
+],
+[
+"InChI",
+"InChI=1S/C4H9NO2/c5-3-1-2-4(6)7/h1-3,5H2,(H,6,7)"
+],
+[
+"InChIKey",
+"BTCSSZJGUNDROE-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Cl-",
+"class": "SimpleChemical",
+"box": [
+359.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"chloride"
+],
+[
+"Synonyms",
+"CHLORIDE ION; Chloride(1-); Chlorine anion; Cl(-); Cl-"
+],
+[
+"Definition",
+"A halide anion formed when chlorine picks up an electron to form an an anion."
+],
+[
+"Formula",
+"Cl"
+],
+[
+"ChEBI",
+"CHEBI:17996"
+],
+[
+"KEGG",
+"C00698"
+],
+[
+"HMDB",
+"HMDB0000492"
+],
+[
+"InChI",
+"InChI=1S/ClH/h1H/p-1"
+],
+[
+"InChIKey",
+"VEXZGXHMUGYJMC-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "glycine",
+"class": "SimpleChemical",
+"box": [
+499.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glycine"
+],
+[
+"Synonyms",
+"Aminoacetic acid; Aminoessigsaeure; G; Gly; Glycin; Glycocoll; Glykokoll; Glyzin; H2N-CH2-COOH; Hgly; Leimzucker; aminoethanoic acid"
+],
+[
+"Definition",
+"The simplest (and the only achiral) proteinogenic amino acid, with a hydrogen atom as its side chain."
+],
+[
+"Formula",
+"C2H5NO2"
+],
+[
+"ChEBI",
+"CHEBI:15428"
+],
+[
+"KEGG",
+"C00037"
+],
+[
+"HMDB",
+"HMDB0000123"
+],
+[
+"InChI",
+"InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)"
+],
+[
+"InChIKey",
+"DHMQDGOQFOQNFH-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Cl-",
+"class": "SimpleChemical",
+"box": [
+851.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"chloride"
+],
+[
+"Synonyms",
+"CHLORIDE ION; Chloride(1-); Chlorine anion; Cl(-); Cl-"
+],
+[
+"Definition",
+"A halide anion formed when chlorine picks up an electron to form an an anion."
+],
+[
+"Formula",
+"Cl"
+],
+[
+"ChEBI",
+"CHEBI:17996"
+],
+[
+"KEGG",
+"C00698"
+],
+[
+"HMDB",
+"HMDB0000492"
+],
+[
+"InChI",
+"InChI=1S/ClH/h1H/p-1"
+],
+[
+"InChIKey",
+"VEXZGXHMUGYJMC-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "GABA-A receptor",
+"class": "Macromolecule",
+"box": [
+47.0,
+227.0,
+136.0,
+40.0
+],
+"props": [
+[
+"Family",
+"GABA-A receptor subunits"
+],
+[
+"Members",
+"GABRA1; GABRA2; GABRA3; GABRB3; GABRG2"
+]
+],
+"members": [
+{
+"symbol": "GABRA1",
+"props": [
+[
+"Full name",
+"Gamma-aminobutyric acid receptor subunit alpha-1"
+],
+[
+"Alternative names",
+"GABA(A) receptor subunit alpha-1"
+],
+[
+"Function",
+"Alpha subunit of the heteropentameric ligand-gated chloride channel gated by Gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain. GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s)."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell membrane, Cytoplasmic vesicle membrane"
+],
+[
+"HGNC",
+"HGNC:4075"
+],
+[
+"HGNC symbol",
+"GABRA1"
+],
+[
+"Alias symbols",
+"EJM5"
+],
+[
+"Entrez",
+"2554"
+],
+[
+"Ensembl",
+"ENSG00000022355"
+],
+[
+"RefSeq",
+"NM_000806.5"
+],
+[
+"UniProt",
+"P14867"
+]
+]
+},
+{
+"symbol": "GABRA2",
+"props": [
+[
+"Full name",
+"Gamma-aminobutyric acid receptor subunit alpha-2"
+],
+[
+"Alternative names",
+"GABA(A) receptor subunit alpha-2"
+],
+[
+"Function",
+"Alpha subunit of the heteropentameric ligand-gated chloride channel gated by gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain. GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interfaces."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell membrane, Cytoplasmic vesicle membrane, Cell projection, dendrite"
+],
+[
+"HGNC",
+"HGNC:4076"
+],
+[
+"HGNC symbol",
+"GABRA2"
+],
+[
+"Entrez",
+"2555"
+],
+[
+"Ensembl",
+"ENSG00000151834"
+],
+[
+"RefSeq",
+"NM_000807"
+],
+[
+"UniProt",
+"P47869"
+]
+]
+},
+{
+"symbol": "GABRA3",
+"props": [
+[
+"Full name",
+"Gamma-aminobutyric acid receptor subunit alpha-3"
+],
+[
+"Alternative names",
+"GABA(A) receptor subunit alpha-3"
+],
+[
+"Function",
+"Alpha subunit of the heteropentameric ligand-gated chloride channel gated by gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain. GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s)."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4077"
+],
+[
+"HGNC symbol",
+"GABRA3"
+],
+[
+"Entrez",
+"2556"
+],
+[
+"Ensembl",
+"ENSG00000011677"
+],
+[
+"RefSeq",
+"NM_000808"
+],
+[
+"UniProt",
+"P34903"
+]
+]
+},
+{
+"symbol": "GABRB3",
+"props": [
+[
+"Full name",
+"Gamma-aminobutyric acid receptor subunit beta-3"
+],
+[
+"Alternative names",
+"GABA(A) receptor subunit beta-3"
+],
+[
+"Function",
+"Beta subunit of the heteropentameric ligand-gated chloride channel gated by gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain. GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s)."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell membrane, Cytoplasmic vesicle membrane"
+],
+[
+"HGNC",
+"HGNC:4083"
+],
+[
+"HGNC symbol",
+"GABRB3"
+],
+[
+"Entrez",
+"2562"
+],
+[
+"Ensembl",
+"ENSG00000166206"
+],
+[
+"RefSeq",
+"NM_000814"
+],
+[
+"UniProt",
+"P28472"
+]
+]
+},
+{
+"symbol": "GABRG2",
+"props": [
+[
+"Full name",
+"Gamma-aminobutyric acid receptor subunit gamma-2"
+],
+[
+"Alternative names",
+"GABA(A) receptor subunit gamma-2"
+],
+[
+"Function",
+"Gamma subunit of the heteropentameric ligand-gated chloride channel gated by gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain. GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s)."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell membrane, Cell projection, dendrite, Cytoplasmic vesicle membrane"
+],
+[
+"HGNC",
+"HGNC:4087"
+],
+[
+"HGNC symbol",
+"GABRG2"
+],
+[
+"Entrez",
+"2566"
+],
+[
+"Ensembl",
+"ENSG00000113327"
+],
+[
+"RefSeq",
+"NM_000816"
+],
+[
+"UniProt",
+"P18507"
+]
+]
+}
+]
+},
+{
+"label": "GABA",
+"class": "SimpleChemical",
+"box": [
+223.0,
+340.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"gamma-aminobutyric acid"
+],
+[
+"Synonyms",
+"4-Aminobutanoic acid; 4-Aminobutyric acid; 4Abu; GABA; GAMMA-AMINO-BUTANOIC ACID; gamma-Aminobuttersaeure; gamma-amino-n-butyric acid; gamma-aminobutanoic acid; omega-aminobutyric acid; piperidic acid; piperidinic acid"
+],
+[
+"Definition",
+"A γ-amino acid that is butanoic acid with the amino substituent located at C-4."
+],
+[
+"Formula",
+"C4H9NO2"
+],
+[
+"ChEBI",
+"CHEBI:16865"
+],
+[
+"KEGG",
+"C00334"
+],
+[
+"HMDB",
+"HMDB0000112"
+],
+[
+"InChI",
+"InChI=1S/C4H9NO2/c5-3-1-2-4(6)7/h1-3,5H2,(H,6,7)"
+],
+[
+"InChIKey",
+"BTCSSZJGUNDROE-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "GABA-A receptor",
+"class": "Macromolecule",
+"box": [
+175.0,
+388.8,
+136.0,
+40.0
+],
+"props": [
+[
+"Family",
+"GABA-A receptor subunits"
+],
+[
+"Members",
+"GABRA1; GABRA2; GABRA3; GABRB3; GABRG2"
+]
+],
+"members": [
+{
+"symbol": "GABRA1",
+"props": [
+[
+"Full name",
+"Gamma-aminobutyric acid receptor subunit alpha-1"
+],
+[
+"Alternative names",
+"GABA(A) receptor subunit alpha-1"
+],
+[
+"Function",
+"Alpha subunit of the heteropentameric ligand-gated chloride channel gated by Gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain. GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s)."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell membrane, Cytoplasmic vesicle membrane"
+],
+[
+"HGNC",
+"HGNC:4075"
+],
+[
+"HGNC symbol",
+"GABRA1"
+],
+[
+"Alias symbols",
+"EJM5"
+],
+[
+"Entrez",
+"2554"
+],
+[
+"Ensembl",
+"ENSG00000022355"
+],
+[
+"RefSeq",
+"NM_000806.5"
+],
+[
+"UniProt",
+"P14867"
+]
+]
+},
+{
+"symbol": "GABRA2",
+"props": [
+[
+"Full name",
+"Gamma-aminobutyric acid receptor subunit alpha-2"
+],
+[
+"Alternative names",
+"GABA(A) receptor subunit alpha-2"
+],
+[
+"Function",
+"Alpha subunit of the heteropentameric ligand-gated chloride channel gated by gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain. GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interfaces."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell membrane, Cytoplasmic vesicle membrane, Cell projection, dendrite"
+],
+[
+"HGNC",
+"HGNC:4076"
+],
+[
+"HGNC symbol",
+"GABRA2"
+],
+[
+"Entrez",
+"2555"
+],
+[
+"Ensembl",
+"ENSG00000151834"
+],
+[
+"RefSeq",
+"NM_000807"
+],
+[
+"UniProt",
+"P47869"
+]
+]
+},
+{
+"symbol": "GABRA3",
+"props": [
+[
+"Full name",
+"Gamma-aminobutyric acid receptor subunit alpha-3"
+],
+[
+"Alternative names",
+"GABA(A) receptor subunit alpha-3"
+],
+[
+"Function",
+"Alpha subunit of the heteropentameric ligand-gated chloride channel gated by gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain. GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s)."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4077"
+],
+[
+"HGNC symbol",
+"GABRA3"
+],
+[
+"Entrez",
+"2556"
+],
+[
+"Ensembl",
+"ENSG00000011677"
+],
+[
+"RefSeq",
+"NM_000808"
+],
+[
+"UniProt",
+"P34903"
+]
+]
+},
+{
+"symbol": "GABRB3",
+"props": [
+[
+"Full name",
+"Gamma-aminobutyric acid receptor subunit beta-3"
+],
+[
+"Alternative names",
+"GABA(A) receptor subunit beta-3"
+],
+[
+"Function",
+"Beta subunit of the heteropentameric ligand-gated chloride channel gated by gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain. GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s)."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell membrane, Cytoplasmic vesicle membrane"
+],
+[
+"HGNC",
+"HGNC:4083"
+],
+[
+"HGNC symbol",
+"GABRB3"
+],
+[
+"Entrez",
+"2562"
+],
+[
+"Ensembl",
+"ENSG00000166206"
+],
+[
+"RefSeq",
+"NM_000814"
+],
+[
+"UniProt",
+"P28472"
+]
+]
+},
+{
+"symbol": "GABRG2",
+"props": [
+[
+"Full name",
+"Gamma-aminobutyric acid receptor subunit gamma-2"
+],
+[
+"Alternative names",
+"GABA(A) receptor subunit gamma-2"
+],
+[
+"Function",
+"Gamma subunit of the heteropentameric ligand-gated chloride channel gated by gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter in the brain. GABA-gated chloride channels, also named GABA(A) receptors (GABAAR), consist of five subunits arranged around a central pore and contain GABA active binding site(s) located at the alpha and beta subunit interface(s)."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell membrane, Cell projection, dendrite, Cytoplasmic vesicle membrane"
+],
+[
+"HGNC",
+"HGNC:4087"
+],
+[
+"HGNC symbol",
+"GABRG2"
+],
+[
+"Entrez",
+"2566"
+],
+[
+"Ensembl",
+"ENSG00000113327"
+],
+[
+"RefSeq",
+"NM_000816"
+],
+[
+"UniProt",
+"P18507"
+]
+]
+}
+]
+},
+{
+"label": "GLRA3",
+"class": "Macromolecule",
+"box": [
+599.0,
+227.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glycine receptor subunit alpha-3"
+],
+[
+"Function",
+"Glycine receptors are ligand-gated chloride channels. Channel opening is triggered by extracellular glycine."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Perikaryon, Cell projection, dendrite, Synapse, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4328"
+],
+[
+"HGNC symbol",
+"GLRA3"
+],
+[
+"Entrez",
+"8001"
+],
+[
+"Ensembl",
+"ENSG00000145451"
+],
+[
+"RefSeq",
+"NM_001042543"
+],
+[
+"UniProt",
+"O75311"
+]
+]
+},
+{
+"label": "glycine",
+"class": "SimpleChemical",
+"box": [
+499.0,
+340.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glycine"
+],
+[
+"Synonyms",
+"Aminoacetic acid; Aminoessigsaeure; G; Gly; Glycin; Glycocoll; Glykokoll; Glyzin; H2N-CH2-COOH; Hgly; Leimzucker; aminoethanoic acid"
+],
+[
+"Definition",
+"The simplest (and the only achiral) proteinogenic amino acid, with a hydrogen atom as its side chain."
+],
+[
+"Formula",
+"C2H5NO2"
+],
+[
+"ChEBI",
+"CHEBI:15428"
+],
+[
+"KEGG",
+"C00037"
+],
+[
+"HMDB",
+"HMDB0000123"
+],
+[
+"InChI",
+"InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)"
+],
+[
+"InChIKey",
+"DHMQDGOQFOQNFH-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "GLRA3",
+"class": "Macromolecule",
+"box": [
+479.0,
+388.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glycine receptor subunit alpha-3"
+],
+[
+"Function",
+"Glycine receptors are ligand-gated chloride channels. Channel opening is triggered by extracellular glycine."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Perikaryon, Cell projection, dendrite, Synapse, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4328"
+],
+[
+"HGNC symbol",
+"GLRA3"
+],
+[
+"Entrez",
+"8001"
+],
+[
+"Ensembl",
+"ENSG00000145451"
+],
+[
+"RefSeq",
+"NM_001042543"
+],
+[
+"UniProt",
+"O75311"
+]
+]
+},
+{
+"label": "Cl-",
+"class": "SimpleChemical",
+"box": [
+359.0,
+515.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"chloride"
+],
+[
+"Synonyms",
+"CHLORIDE ION; Chloride(1-); Chlorine anion; Cl(-); Cl-"
+],
+[
+"Definition",
+"A halide anion formed when chlorine picks up an electron to form an an anion."
+],
+[
+"Formula",
+"Cl"
+],
+[
+"ChEBI",
+"CHEBI:17996"
+],
+[
+"KEGG",
+"C00698"
+],
+[
+"HMDB",
+"HMDB0000492"
+],
+[
+"InChI",
+"InChI=1S/ClH/h1H/p-1"
+],
+[
+"InChIKey",
+"VEXZGXHMUGYJMC-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "glycine",
+"class": "SimpleChemical",
+"box": [
+499.0,
+616.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glycine"
+],
+[
+"Synonyms",
+"Aminoacetic acid; Aminoessigsaeure; G; Gly; Glycin; Glycocoll; Glykokoll; Glyzin; H2N-CH2-COOH; Hgly; Leimzucker; aminoethanoic acid"
+],
+[
+"Definition",
+"The simplest (and the only achiral) proteinogenic amino acid, with a hydrogen atom as its side chain."
+],
+[
+"Formula",
+"C2H5NO2"
+],
+[
+"ChEBI",
+"CHEBI:15428"
+],
+[
+"KEGG",
+"C00037"
+],
+[
+"HMDB",
+"HMDB0000123"
+],
+[
+"InChI",
+"InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)"
+],
+[
+"InChIKey",
+"DHMQDGOQFOQNFH-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "GLRA3",
+"class": "Macromolecule",
+"box": [
+479.0,
+664.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glycine receptor subunit alpha-3"
+],
+[
+"Function",
+"Glycine receptors are ligand-gated chloride channels. Channel opening is triggered by extracellular glycine."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Perikaryon, Cell projection, dendrite, Synapse, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4328"
+],
+[
+"HGNC symbol",
+"GLRA3"
+],
+[
+"Entrez",
+"8001"
+],
+[
+"Ensembl",
+"ENSG00000145451"
+],
+[
+"RefSeq",
+"NM_001042543"
+],
+[
+"UniProt",
+"O75311"
+]
+]
+},
+{
+"label": "PKA cat",
+"class": "Macromolecule",
+"box": [
+636.0,
+512.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Family",
+"PKA catalytic subunits"
+],
+[
+"Members",
+"PRKACA; PRKACB"
+]
+],
+"members": [
+{
+"symbol": "PRKACA",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase catalytic subunit alpha"
+],
+[
+"Function",
+"Phosphorylates a large number of substrates in the cytoplasm and the nucleus. Phosphorylates CDC25B, ABL1, NFKB1, CLDN3, histone H1.4 (H1-4), PSMC5/RPT6, PJA2, RYR2, RORA, SLC6A6, SOX9, UHRF1 and VASP."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane, Nucleus, Mitochondrion, Cell projection, cilium, flagellum, Cytoplasmic vesicle, secretory vesicle, acrosome"
+],
+[
+"HGNC",
+"HGNC:9380"
+],
+[
+"HGNC symbol",
+"PRKACA"
+],
+[
+"Alias symbols",
+"PKACa"
+],
+[
+"Entrez",
+"5566"
+],
+[
+"Ensembl",
+"ENSG00000072062"
+],
+[
+"RefSeq",
+"NM_002730"
+],
+[
+"UniProt",
+"P17612"
+]
+]
+},
+{
+"symbol": "PRKACB",
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase catalytic subunit beta"
+],
+[
+"Function",
+"Mediates cAMP-dependent signaling triggered by receptor binding to GPCRs. PKA activation regulates diverse cellular processes such as cell proliferation, the cell cycle, differentiation and regulation of microtubule dynamics, chromatin condensation and decondensation, nuclear envelope disassembly and reassembly, as well as regulation of intracellular transport mechanisms and ion flux."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9381"
+],
+[
+"HGNC symbol",
+"PRKACB"
+],
+[
+"Alias symbols",
+"PKACb"
+],
+[
+"Entrez",
+"5567"
+],
+[
+"Ensembl",
+"ENSG00000142875"
+],
+[
+"RefSeq",
+"NM_182948"
+],
+[
+"UniProt",
+"P22694"
+]
+]
+}
+]
+},
+{
+"label": "SLC12A5",
+"class": "Macromolecule",
+"box": [
+711.0,
+259.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Solute carrier family 12 member 5"
+],
+[
+"Alternative names",
+"Electroneutral potassium-chloride cotransporter 2; K-Cl cotransporter 2; Neuronal K-Cl cotransporter"
+],
+[
+"Function",
+"Mediates electroneutral potassium-chloride cotransport in mature neurons and is required for neuronal Cl(-) homeostasis. As major extruder of intracellular chloride, it establishes the low neuronal Cl(-) levels required for chloride influx after binding of GABA-A and glycine to their receptors, with subsequent hyperpolarization and neuronal inhibition."
+],
+[
+"Location",
+"Cell membrane, Cell projection, dendrite"
+],
+[
+"HGNC",
+"HGNC:13818"
+],
+[
+"HGNC symbol",
+"SLC12A5"
+],
+[
+"Alias symbols",
+"KIAA1176, KCC2, hKCC2"
+],
+[
+"Entrez",
+"57468"
+],
+[
+"Ensembl",
+"ENSG00000124140"
+],
+[
+"RefSeq",
+"NM_001134771"
+],
+[
+"UniProt",
+"Q9H2X9"
+]
+]
+},
+{
+"label": "Cl-",
+"class": "SimpleChemical",
+"box": [
+851.0,
+395.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"chloride"
+],
+[
+"Synonyms",
+"CHLORIDE ION; Chloride(1-); Chlorine anion; Cl(-); Cl-"
+],
+[
+"Definition",
+"A halide anion formed when chlorine picks up an electron to form an an anion."
+],
+[
+"Formula",
+"Cl"
+],
+[
+"ChEBI",
+"CHEBI:17996"
+],
+[
+"KEGG",
+"C00698"
+],
+[
+"HMDB",
+"HMDB0000492"
+],
+[
+"InChI",
+"InChI=1S/ClH/h1H/p-1"
+],
+[
+"InChIKey",
+"VEXZGXHMUGYJMC-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+995.0,
+223.2,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+},
+{
+"label": "NTRK2",
+"class": "Macromolecule",
+"box": [
+998.0,
+283.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"BDNF/NT-3 growth factors receptor"
+],
+[
+"Alternative names",
+"GP145-TrkB; Neurotrophic tyrosine kinase receptor type 2; TrkB tyrosine kinase; Tropomyosin-related kinase B"
+],
+[
+"Function",
+"Receptor tyrosine kinase involved in the development and the maturation of the central and the peripheral nervous systems through regulation of neuron survival, proliferation, migration, differentiation, and synapse formation and plasticity. Receptor for BDNF/brain-derived neurotrophic factor and NTF4/neurotrophin-4."
+],
+[
+"Location",
+"Cell membrane, Endosome membrane, Early endosome membrane, Cell projection, axon, Cell projection, dendrite, Cytoplasm, perinuclear region, Postsynaptic density"
+],
+[
+"HGNC",
+"HGNC:8032"
+],
+[
+"HGNC symbol",
+"NTRK2"
+],
+[
+"Alias symbols",
+"TRKB"
+],
+[
+"Entrez",
+"4915"
+],
+[
+"Ensembl",
+"ENSG00000148053"
+],
+[
+"RefSeq",
+"NM_001007097"
+],
+[
+"UniProt",
+"Q16620"
+]
+]
+}
+]
+}

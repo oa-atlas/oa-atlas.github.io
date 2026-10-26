@@ -1333,6 +1333,62 @@
 ]
 },
 {
+"label": "SCN9A",
+"class": "Macromolecule",
+"box": [
+342.5,
+297.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sodium channel protein type 9 subunit alpha"
+],
+[
+"Alternative names",
+"Neuroendocrine sodium channel; Peripheral sodium channel 1; Sodium channel protein type IX subunit alpha; Voltage-gated sodium channel subunit alpha Nav1.7"
+],
+[
+"Function",
+"Pore-forming subunit of Nav1.7, a voltage-gated sodium (Nav) channel that directly mediates the depolarizing phase of action potentials in excitable membranes. Navs, also called VGSCs (voltage-gated sodium channels) or VDSCs (voltage-dependent sodium channels), operate by switching between closed and open conformations depending on the voltage difference across the membrane."
+],
+[
+"Location",
+"Cell membrane, Cell projection, neuron projection, Cell projection, axon"
+],
+[
+"HGNC",
+"HGNC:10597"
+],
+[
+"HGNC symbol",
+"SCN9A"
+],
+[
+"Alias symbols",
+"Nav1.7, PN1, NE-NA, NENA, ETHA"
+],
+[
+"Entrez",
+"6335"
+],
+[
+"Ensembl",
+"ENSG00000169432"
+],
+[
+"RefSeq",
+"NM_002977"
+],
+[
+"UniProt",
+"Q15858"
+]
+]
+},
+{
 "label": "Na+",
 "class": "SimpleChemical",
 "box": [

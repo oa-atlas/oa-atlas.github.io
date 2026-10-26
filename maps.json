@@ -32,7 +32,7 @@
 "topic": "Osteopontin - CD44, integrin αv - histamine",
 "group": "Mast cell",
 "kind": null,
-"tag": "added",
+"tag": "new",
 "tab": null,
 "image": "files/opn-mast-cell.svg",
 "width": 1022.0,
@@ -356,11 +356,11 @@
 "topic": "Ion channels - action potential",
 "group": "Nociceptor",
 "kind": null,
-"tag": null,
+"tag": "changed",
 "tab": null,
 "image": "files/channels-ap-nociceptor.svg",
 "width": 2022.0,
-"height": 527.0,
+"height": 526.0,
 "scale": 1,
 "annotation": "data/channels-ap-nociceptor.json",
 "imageError": null,
@@ -379,15 +379,15 @@
 },
 {
 "id": "tnf-ccl2-p38",
-"title": "TNF and CCL2 - p38 MAPK",
-"topic": "TNF and CCL2 - p38 MAPK",
+"title": "TNF, IL-1β and CCL2 - p38 MAPK - NaV1.8",
+"topic": "TNF, IL-1β and CCL2 - p38 MAPK",
 "group": "Nociceptor",
 "kind": null,
-"tag": null,
+"tag": "changed",
 "tab": null,
 "image": "files/tnf-ccl2-p38.svg",
-"width": 1202.0,
-"height": 909.0,
+"width": 1322.0,
+"height": 1062.0,
 "scale": 1,
 "annotation": "data/tnf-ccl2-p38.json",
 "imageError": null,
@@ -402,6 +402,33 @@
 }
 ],
 "data": "data/tnf-ccl2-p38-text.json",
+"hasText": true
+},
+{
+"id": "il6-gp130-nociceptor",
+"title": "IL-6 - gp130 - PKCδ - TRPV1",
+"topic": "IL-6 - gp130 - PKCδ - TRPV1",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/il6-gp130-nociceptor.svg",
+"width": 802.0,
+"height": 890.0,
+"scale": 1,
+"annotation": "data/il6-gp130-nociceptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/il6-gp130-nociceptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/il6-gp130-nociceptor.svg"
+}
+],
+"data": "data/il6-gp130-nociceptor-text.json",
 "hasText": true
 },
 {
@@ -675,6 +702,33 @@
 "hasText": true
 },
 {
+"id": "kcc2-gaba-glycine-spinal",
+"title": "Loss of inhibition: KCC2, GABA and glycine",
+"topic": "Loss of inhibition: KCC2, GABA and glycine",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/kcc2-gaba-glycine-spinal.svg",
+"width": 1162.0,
+"height": 894.0,
+"scale": 1,
+"annotation": "data/kcc2-gaba-glycine-spinal.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/kcc2-gaba-glycine-spinal.graphml"
+},
+{
+"label": "SVG",
+"url": "files/kcc2-gaba-glycine-spinal.svg"
+}
+],
+"data": "data/kcc2-gaba-glycine-spinal-text.json",
+"hasText": true
+},
+{
 "id": "camp-pka-spinal",
 "title": "cAMP - PKA - action potential - pain",
 "topic": "cAMP - PKA - action potential - pain",
@@ -726,6 +780,33 @@
 }
 ],
 "data": "data/na-comt-text.json",
+"hasText": true
+},
+{
+"id": "microglia-p2x4-bdnf",
+"title": "Microglia: ATP - P2X4 - p38 - BDNF",
+"topic": "Microglia: ATP - P2X4 - p38 - BDNF",
+"group": "Spinal microglia",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/microglia-p2x4-bdnf.svg",
+"width": 854.0,
+"height": 562.0,
+"scale": 1,
+"annotation": "data/microglia-p2x4-bdnf.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/microglia-p2x4-bdnf.graphml"
+},
+{
+"label": "SVG",
+"url": "files/microglia-p2x4-bdnf.svg"
+}
+],
+"data": "data/microglia-p2x4-bdnf-text.json",
 "hasText": true
 }
 ]

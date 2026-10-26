@@ -1389,6 +1389,406 @@
 ]
 },
 {
+"label": "IL1R1",
+"class": "Macromolecule",
+"box": [
+235.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor type 1"
+],
+[
+"Alternative names",
+"CD121 antigen-like family member A; Interleukin-1 receptor alpha; Interleukin-1 receptor type I; p80"
+],
+[
+"Function",
+"Receptor for IL1A, IL1B and IL1RN. After binding to interleukin-1 associates with the coreceptor IL1RAP to form the high affinity interleukin-1 receptor complex which mediates interleukin-1-dependent activation of NF-kappa-B, MAPK and other pathways."
+],
+[
+"Location",
+"Membrane, Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:5993"
+],
+[
+"HGNC symbol",
+"IL1R1"
+],
+[
+"Previous symbols",
+"IL1R, IL1RA"
+],
+[
+"Alias symbols",
+"D2S1473, CD121A"
+],
+[
+"Entrez",
+"3554"
+],
+[
+"Ensembl",
+"ENSG00000115594"
+],
+[
+"RefSeq",
+"NM_000877"
+],
+[
+"UniProt",
+"P14778"
+]
+]
+},
+{
+"label": "IL1RAP",
+"class": "Macromolecule",
+"box": [
+475.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor accessory protein"
+],
+[
+"Alternative names",
+"Interleukin-1 receptor 3"
+],
+[
+"Function",
+"Coreceptor for IL1RL2 in the IL-36 signaling system. Coreceptor with IL1R1 in the IL-1 signaling system."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:5995"
+],
+[
+"HGNC symbol",
+"IL1RAP"
+],
+[
+"Alias symbols",
+"IL-1RAcP, IL1R3, C3orf13"
+],
+[
+"Entrez",
+"3556"
+],
+[
+"Ensembl",
+"ENSG00000196083"
+],
+[
+"RefSeq",
+"NM_001167929"
+],
+[
+"UniProt",
+"Q9NPH3"
+]
+]
+},
+{
+"label": "IL1B",
+"class": "Macromolecule",
+"box": [
+355.0,
+616.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 beta"
+],
+[
+"Alternative names",
+"Catabolin"
+],
+[
+"Function",
+"Potent pro-inflammatory cytokine. Initially discovered as the major endogenous pyrogen, induces prostaglandin synthesis, neutrophil influx and activation, T-cell activation and cytokine production, B-cell activation and antibody production, and fibroblast proliferation and collagen production."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Secreted, Lysosome, Secreted, extracellular exosome"
+],
+[
+"HGNC",
+"HGNC:5992"
+],
+[
+"HGNC symbol",
+"IL1B"
+],
+[
+"Alias symbols",
+"IL1F2, IL-1B, IL1-BETA"
+],
+[
+"Entrez",
+"3553"
+],
+[
+"Ensembl",
+"ENSG00000125538"
+],
+[
+"RefSeq",
+"NM_000576"
+],
+[
+"UniProt",
+"P01584"
+]
+]
+},
+{
+"label": "IL1R1",
+"class": "Macromolecule",
+"box": [
+355.0,
+664.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor type 1"
+],
+[
+"Alternative names",
+"CD121 antigen-like family member A; Interleukin-1 receptor alpha; Interleukin-1 receptor type I; p80"
+],
+[
+"Function",
+"Receptor for IL1A, IL1B and IL1RN. After binding to interleukin-1 associates with the coreceptor IL1RAP to form the high affinity interleukin-1 receptor complex which mediates interleukin-1-dependent activation of NF-kappa-B, MAPK and other pathways."
+],
+[
+"Location",
+"Membrane, Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:5993"
+],
+[
+"HGNC symbol",
+"IL1R1"
+],
+[
+"Previous symbols",
+"IL1R, IL1RA"
+],
+[
+"Alias symbols",
+"D2S1473, CD121A"
+],
+[
+"Entrez",
+"3554"
+],
+[
+"Ensembl",
+"ENSG00000115594"
+],
+[
+"RefSeq",
+"NM_000877"
+],
+[
+"UniProt",
+"P14778"
+]
+]
+},
+{
+"label": "IL1RAP",
+"class": "Macromolecule",
+"box": [
+355.0,
+712.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor accessory protein"
+],
+[
+"Alternative names",
+"Interleukin-1 receptor 3"
+],
+[
+"Function",
+"Coreceptor for IL1RL2 in the IL-36 signaling system. Coreceptor with IL1R1 in the IL-1 signaling system."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:5995"
+],
+[
+"HGNC symbol",
+"IL1RAP"
+],
+[
+"Alias symbols",
+"IL-1RAcP, IL1R3, C3orf13"
+],
+[
+"Entrez",
+"3556"
+],
+[
+"Ensembl",
+"ENSG00000196083"
+],
+[
+"RefSeq",
+"NM_001167929"
+],
+[
+"UniProt",
+"Q9NPH3"
+]
+]
+},
+{
+"label": "SCN10A",
+"class": "Macromolecule",
+"box": [
+945.0,
+955.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sodium channel protein type 10 subunit alpha"
+],
+[
+"Alternative names",
+"Peripheral nerve sodium channel 3; Sodium channel protein type X subunit alpha; Voltage-gated sodium channel subunit alpha Nav1.8"
+],
+[
+"Function",
+"Tetrodotoxin-resistant channel that mediates the voltage-dependent sodium ion permeability of excitable membranes. Assuming opened or closed conformations in response to the voltage difference across the membrane, the protein forms a sodium-selective channel through which sodium ions may pass in accordance with their electrochemical gradient."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10582"
+],
+[
+"HGNC symbol",
+"SCN10A"
+],
+[
+"Alias symbols",
+"Nav1.8, hPN3, SNS, PN3"
+],
+[
+"Entrez",
+"6336"
+],
+[
+"Ensembl",
+"ENSG00000185313"
+],
+[
+"RefSeq",
+"NM_006514"
+],
+[
+"UniProt",
+"Q9Y5Y9"
+]
+]
+},
+{
+"label": "SCN10A",
+"class": "Macromolecule",
+"box": [
+1185.0,
+955.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sodium channel protein type 10 subunit alpha"
+],
+[
+"Alternative names",
+"Peripheral nerve sodium channel 3; Sodium channel protein type X subunit alpha; Voltage-gated sodium channel subunit alpha Nav1.8"
+],
+[
+"Function",
+"Tetrodotoxin-resistant channel that mediates the voltage-dependent sodium ion permeability of excitable membranes. Assuming opened or closed conformations in response to the voltage difference across the membrane, the protein forms a sodium-selective channel through which sodium ions may pass in accordance with their electrochemical gradient."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10582"
+],
+[
+"HGNC symbol",
+"SCN10A"
+],
+[
+"Alias symbols",
+"Nav1.8, hPN3, SNS, PN3"
+],
+[
+"Entrez",
+"6336"
+],
+[
+"Ensembl",
+"ENSG00000185313"
+],
+[
+"RefSeq",
+"NM_006514"
+],
+[
+"UniProt",
+"Q9Y5Y9"
+]
+]
+},
+{
 "label": "TNF",
 "class": "Macromolecule",
 "box": [
@@ -1505,6 +1905,62 @@
 [
 "UniProt",
 "P13500"
+]
+]
+},
+{
+"label": "IL1B",
+"class": "Macromolecule",
+"box": [
+355.0,
+25.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 beta"
+],
+[
+"Alternative names",
+"Catabolin"
+],
+[
+"Function",
+"Potent pro-inflammatory cytokine. Initially discovered as the major endogenous pyrogen, induces prostaglandin synthesis, neutrophil influx and activation, T-cell activation and cytokine production, B-cell activation and antibody production, and fibroblast proliferation and collagen production."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Secreted, Lysosome, Secreted, extracellular exosome"
+],
+[
+"HGNC",
+"HGNC:5992"
+],
+[
+"HGNC symbol",
+"IL1B"
+],
+[
+"Alias symbols",
+"IL1F2, IL-1B, IL1-BETA"
+],
+[
+"Entrez",
+"3553"
+],
+[
+"Ensembl",
+"ENSG00000125538"
+],
+[
+"RefSeq",
+"NM_000576"
+],
+[
+"UniProt",
+"P01584"
 ]
 ]
 }
