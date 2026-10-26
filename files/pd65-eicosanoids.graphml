@@ -296,7 +296,7 @@
           </data>
         <data key="d1">AKR1A1</data><data key="d2">P14550</data><data key="d3">HGNC:380</data></node><node id="sa55"><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="976.0" y="1140.0"/>
+              <y:Geometry height="40.0" width="80.0" x="976.0" y="1130.9740593061538"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">ALOX15<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -500,7 +500,7 @@
           </data>
         <data key="d1">TBXAS1</data><data key="d2">P24557</data></node><node id="sa88"><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="1449.011088618822" y="948.0"/>
+              <y:Geometry height="40.0" width="80.0" x="1449.011088618822" y="947.0000568146015"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">ALOX15<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2545,7 +2545,7 @@
     <edge id="re3_sa132_catalysis" source="sa132" target="re3">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-10.090685721197506" ty="-8.5"/>
+          <y:Path sx="0.0" sy="1.5906857211974739" tx="-10.090685721197506" ty="-8.5"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
@@ -3025,7 +3025,7 @@
     <edge id="re29_sa48_catalysis" source="sa48" target="re29">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="9.013496295898722" ty="8.98648343479361"/>
+          <y:Path sx="-5.975415085279337" sy="0.0" tx="9.013496295898722" ty="8.98648343479361"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
@@ -3225,7 +3225,7 @@
     <edge id="re38_sa42_catalysis" source="sa42" target="re38">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-8.849959792215957" ty="-9.14757955287413"/>
+          <y:Path sx="0.0" sy="-9.147579552874163" tx="-8.849959792215957" ty="-9.14757955287413"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
@@ -4775,7 +4775,7 @@
     <edge id="re124_sa1170_inhibition" source="sa1170" target="re124">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-9.0" ty="-9.0"><y:Point x="2460.0" y="848.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="-9.0" ty="-9.0"><y:Point x="2480.0" y="848.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="t_shape"/>
           <y:BendStyle smoothed="true"/>
