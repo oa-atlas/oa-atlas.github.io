@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!--Created by yEd 3.25.1-->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
@@ -17,7 +17,7 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
     <node id="n0">
-      <data key="d3" xml:space="preserve">CHEBI:15551</data>
+      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15551]]></data>
       <data key="d4" xml:space="preserve"/>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -31,7 +31,7 @@
       </data>
     </node>
     <node id="n1">
-      <data key="d3" xml:space="preserve">CHEBI:15552</data>
+      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15552]]></data>
       <data key="d4" xml:space="preserve"/>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -45,7 +45,7 @@
       </data>
     </node>
     <node id="n2">
-      <data key="d3" xml:space="preserve">CHEBI:15647</data>
+      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15647]]></data>
       <data key="d4" xml:space="preserve"/>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -91,7 +91,7 @@
       </data>
       <graph edgedefault="directed" id="n3:">
         <node id="n3::n0">
-          <data key="d3" xml:space="preserve">CHEBI:34126</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34126]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -105,7 +105,7 @@
           </data>
         </node>
         <node id="n3::n1">
-          <data key="d3" xml:space="preserve">CHEBI:90990</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:90990]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -120,9 +120,9 @@
         </node>
         <node id="n3::n2">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX12</data>
-          <data key="d5" xml:space="preserve">P18054</data>
-          <data key="d6" xml:space="preserve">HGNC:429</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX12]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P18054]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:429]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1431.0" y="1120.2334008492412"/>
@@ -136,7 +136,7 @@
           </data>
         </node>
         <node id="n3::n3">
-          <data key="d3" xml:space="preserve">CHEBI:27820</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27820]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -150,7 +150,7 @@
           </data>
         </node>
         <node id="n3::n4">
-          <data key="d3" xml:space="preserve">CHEBI:15555</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15555]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -164,7 +164,7 @@
           </data>
         </node>
         <node id="n3::n5">
-          <data key="d3" xml:space="preserve">CHEBI:137746</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:137746]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -179,9 +179,9 @@
         </node>
         <node id="n3::n6">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGES</data>
-          <data key="d5" xml:space="preserve">O14684</data>
-          <data key="d6" xml:space="preserve">HGNC:9599</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGES]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[O14684]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9599]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3280.0" y="1152.8382386419794"/>
@@ -209,7 +209,7 @@
           </data>
         </node>
         <node id="n3::n8">
-          <data key="d3" xml:space="preserve">CHEBI:165281</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:165281]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -223,7 +223,7 @@
           </data>
         </node>
         <node id="n3::n9">
-          <data key="d3" xml:space="preserve">CHEBI:52449</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:52449]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -237,7 +237,7 @@
           </data>
         </node>
         <node id="n3::n10">
-          <data key="d3" xml:space="preserve">CHEBI:27647</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27647]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -251,7 +251,7 @@
           </data>
         </node>
         <node id="n3::n11">
-          <data key="d3" xml:space="preserve">CHEBI:63983</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63983]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -266,9 +266,9 @@
         </node>
         <node id="n3::n12">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PLA2G4A</data>
-          <data key="d5" xml:space="preserve">P47712</data>
-          <data key="d6" xml:space="preserve">HGNC:9035</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PLA2G4A]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P47712]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9035]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2444.0685763166966" y="451.6008780868526"/>
@@ -283,9 +283,9 @@
         </node>
         <node id="n3::n13">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX12</data>
-          <data key="d5" xml:space="preserve">P18054</data>
-          <data key="d6" xml:space="preserve">HGNC:429</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX12]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P18054]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:429]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="981.5" y="1055.3954584721018"/>
@@ -300,9 +300,9 @@
         </node>
         <node id="n3::n14">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX12</data>
-          <data key="d5" xml:space="preserve">P18054</data>
-          <data key="d6" xml:space="preserve">HGNC:429</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX12]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P18054]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:429]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="647.0" y="580.0"/>
@@ -317,9 +317,9 @@
         </node>
         <node id="n3::n15">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">GGT1</data>
-          <data key="d5" xml:space="preserve">P19440</data>
-          <data key="d6" xml:space="preserve">HGNC:4250</data>
+          <data key="d4" xml:space="preserve"><![CDATA[GGT1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P19440]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:4250]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="112.2192799090769" y="1396.6037013232624"/>
@@ -333,7 +333,7 @@
           </data>
         </node>
         <node id="n3::n16">
-          <data key="d3" xml:space="preserve">CHEBI:28666</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:28666]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -348,9 +348,9 @@
         </node>
         <node id="n3::n17">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGR1</data>
-          <data key="d5" xml:space="preserve">Q14914</data>
-          <data key="d6" xml:space="preserve">HGNC:18429</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGR1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q14914]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:18429]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="616.0" y="1536.629875722766"/>
@@ -365,9 +365,9 @@
         </node>
         <node id="n3::n18">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGS1</data>
-          <data key="d5" xml:space="preserve">P23219</data>
-          <data key="d6" xml:space="preserve">HGNC:9604</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGS1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P23219]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9604]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2688.0" y="785.9093142788025"/>
@@ -382,9 +382,9 @@
         </node>
         <node id="n3::n19">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PRXL2B</data>
-          <data key="d5" xml:space="preserve">Q8TBF2</data>
-          <data key="d6" xml:space="preserve">HGNC:28390</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PRXL2B]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q8TBF2]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:28390]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2960.0" y="1171.0897510706518"/>
@@ -399,9 +399,9 @@
         </node>
         <node id="n3::n20">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">MGST3</data>
-          <data key="d5" xml:space="preserve">O14880</data>
-          <data key="d6" xml:space="preserve">HGNC:7064</data>
+          <data key="d4" xml:space="preserve"><![CDATA[MGST3]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[O14880]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:7064]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1195.5" y="573.0"/>
@@ -416,9 +416,9 @@
         </node>
         <node id="n3::n21">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">GPX1</data>
-          <data key="d5" xml:space="preserve">P07203</data>
-          <data key="d6" xml:space="preserve">HGNC:4553</data>
+          <data key="d4" xml:space="preserve"><![CDATA[GPX1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P07203]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:4553]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="959.0" y="910.5"/>
@@ -449,7 +449,7 @@
           </data>
         </node>
         <node id="n3::n23">
-          <data key="d3" xml:space="preserve">CHEBI:72789</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:72789]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -464,9 +464,9 @@
         </node>
         <node id="n3::n24">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX15</data>
-          <data key="d5" xml:space="preserve">P16050</data>
-          <data key="d6" xml:space="preserve">HGNC:433</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1480.308948145308" y="340.0"/>
@@ -481,8 +481,8 @@
         </node>
         <node id="n3::n25">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">TBXAS1</data>
-          <data key="d5" xml:space="preserve">P24557</data>
+          <data key="d4" xml:space="preserve"><![CDATA[TBXAS1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P24557]]></data>
           <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -498,9 +498,9 @@
         </node>
         <node id="n3::n26">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">AKR1A1</data>
-          <data key="d5" xml:space="preserve">P14550</data>
-          <data key="d6" xml:space="preserve">HGNC:380</data>
+          <data key="d4" xml:space="preserve"><![CDATA[AKR1A1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P14550]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:380]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2728.0" y="1172.0"/>
@@ -515,9 +515,9 @@
         </node>
         <node id="n3::n27">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX15</data>
-          <data key="d5" xml:space="preserve">P16050</data>
-          <data key="d6" xml:space="preserve">HGNC:433</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="984.0" y="1240.197729236051"/>
@@ -531,7 +531,7 @@
           </data>
         </node>
         <node id="n3::n28">
-          <data key="d3" xml:space="preserve">CHEBI:27485</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27485]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -546,9 +546,9 @@
         </node>
         <node id="n3::n29">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">CBR1</data>
-          <data key="d5" xml:space="preserve">P16152</data>
-          <data key="d6" xml:space="preserve">HGNC:1548</data>
+          <data key="d4" xml:space="preserve"><![CDATA[CBR1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P16152]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:1548]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3016.0" y="1403.7823056352677"/>
@@ -563,9 +563,9 @@
         </node>
         <node id="n3::n30">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">LTA4H</data>
-          <data key="d5" xml:space="preserve">P09960</data>
-          <data key="d6" xml:space="preserve">HGNC:6710</data>
+          <data key="d4" xml:space="preserve"><![CDATA[LTA4H]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P09960]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:6710]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="672.0" y="1204.0"/>
@@ -580,9 +580,9 @@
         </node>
         <node id="n3::n31">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGIS</data>
-          <data key="d5" xml:space="preserve">Q16647</data>
-          <data key="d6" xml:space="preserve">HGNC:9603</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGIS]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q16647]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9603]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1136.0" y="772.0"/>
@@ -596,7 +596,7 @@
           </data>
         </node>
         <node id="n3::n32">
-          <data key="d3" xml:space="preserve">CHEBI:28209</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:28209]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -611,9 +611,9 @@
         </node>
         <node id="n3::n33">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ABCC1</data>
-          <data key="d5" xml:space="preserve">P33527</data>
-          <data key="d6" xml:space="preserve">HGNC:51</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ABCC1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P33527]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:51]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="256.0" y="1042.0337924664213"/>
@@ -628,9 +628,9 @@
         </node>
         <node id="n3::n34">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGES</data>
-          <data key="d5" xml:space="preserve">O14684</data>
-          <data key="d6" xml:space="preserve">HGNC:9599</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGES]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[O14684]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9599]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2997.0" y="888.2652745740486"/>
@@ -644,7 +644,7 @@
           </data>
         </node>
         <node id="n3::n35">
-          <data key="d3" xml:space="preserve">CHEBI:138291</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:138291]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -659,9 +659,9 @@
         </node>
         <node id="n3::n36">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">CYP4F2</data>
-          <data key="d5" xml:space="preserve">P78329</data>
-          <data key="d6" xml:space="preserve">HGNC:2645</data>
+          <data key="d4" xml:space="preserve"><![CDATA[CYP4F2]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P78329]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:2645]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="868.0" y="340.0"/>
@@ -676,9 +676,9 @@
         </node>
         <node id="n3::n37">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX5</data>
-          <data key="d5" xml:space="preserve">P09917</data>
-          <data key="d6" xml:space="preserve">HGNC:435</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="608.0" y="894.7668962332107"/>
@@ -692,7 +692,7 @@
           </data>
         </node>
         <node id="n3::n38">
-          <data key="d3" xml:space="preserve">CHEBI:36220</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36220]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -707,9 +707,9 @@
         </node>
         <node id="n3::n39">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">DPEP1</data>
-          <data key="d5" xml:space="preserve">P16444</data>
-          <data key="d6" xml:space="preserve">HGNC:3002</data>
+          <data key="d4" xml:space="preserve"><![CDATA[DPEP1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P16444]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:3002]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="44.0" y="1575.372294615727"/>
@@ -724,9 +724,9 @@
         </node>
         <node id="n3::n40">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX12</data>
-          <data key="d5" xml:space="preserve">P18054</data>
-          <data key="d6" xml:space="preserve">HGNC:429</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX12]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P18054]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:429]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1392.308948145308" y="340.0"/>
@@ -740,7 +740,7 @@
           </data>
         </node>
         <node id="n3::n41">
-          <data key="d3" xml:space="preserve">CHEBI:34784</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34784]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -754,7 +754,7 @@
           </data>
         </node>
         <node id="n3::n42">
-          <data key="d3" xml:space="preserve">CHEBI:27814</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27814]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -768,7 +768,7 @@
           </data>
         </node>
         <node id="n3::n43">
-          <data key="d3" xml:space="preserve">CHEBI:15626</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15626]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -782,7 +782,7 @@
           </data>
         </node>
         <node id="n3::n44">
-          <data key="d3" xml:space="preserve">CHEBI:27555</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27555]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -796,7 +796,7 @@
           </data>
         </node>
         <node id="n3::n45">
-          <data key="d3" xml:space="preserve">CHEBI:15553</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15553]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -810,7 +810,7 @@
           </data>
         </node>
         <node id="n3::n46">
-          <data key="d3" xml:space="preserve">CHEBI:27595</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27595]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -825,8 +825,8 @@
         </node>
         <node id="n3::n47">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">TBXAS1</data>
-          <data key="d5" xml:space="preserve">P24557</data>
+          <data key="d4" xml:space="preserve"><![CDATA[TBXAS1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P24557]]></data>
           <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -842,9 +842,9 @@
         </node>
         <node id="n3::n48">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX15</data>
-          <data key="d5" xml:space="preserve">P16050</data>
-          <data key="d6" xml:space="preserve">HGNC:433</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1431.0" y="1050.2334008492412"/>
@@ -858,7 +858,7 @@
           </data>
         </node>
         <node id="n3::n49">
-          <data key="d3" xml:space="preserve">CHEBI:15628</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15628]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -873,9 +873,9 @@
         </node>
         <node id="n3::n50">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">GPX1</data>
-          <data key="d5" xml:space="preserve">P07203</data>
-          <data key="d6" xml:space="preserve">HGNC:4553</data>
+          <data key="d4" xml:space="preserve"><![CDATA[GPX1]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P07203]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:4553]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1063.0" y="340.0"/>
@@ -889,7 +889,7 @@
           </data>
         </node>
         <node id="n3::n51">
-          <data key="d3" xml:space="preserve">CHEBI:35032</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:35032]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -903,7 +903,7 @@
           </data>
         </node>
         <node id="n3::n52">
-          <data key="d3" xml:space="preserve">CHEBI:16978</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:16978]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -918,9 +918,9 @@
         </node>
         <node id="n3::n53">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX15</data>
-          <data key="d5" xml:space="preserve">P16050</data>
-          <data key="d6" xml:space="preserve">HGNC:433</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="981.5" y="1004.3954584721018"/>
@@ -934,7 +934,7 @@
           </data>
         </node>
         <node id="n3::n54">
-          <data key="d3" xml:space="preserve">CHEBI:63992</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63992]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -948,7 +948,7 @@
           </data>
         </node>
         <node id="n3::n55">
-          <data key="d3" xml:space="preserve">CHEBI:64095</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:64095]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -962,7 +962,7 @@
           </data>
         </node>
         <node id="n3::n56">
-          <data key="d3" xml:space="preserve">CHEBI:36220</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36220]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -976,7 +976,7 @@
           </data>
         </node>
         <node id="n3::n57">
-          <data key="d3" xml:space="preserve">CHEBI:34145</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34145]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -990,7 +990,7 @@
           </data>
         </node>
         <node id="n3::n58">
-          <data key="d3" xml:space="preserve">CHEBI:63977</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63977]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1004,7 +1004,7 @@
           </data>
         </node>
         <node id="n3::n59">
-          <data key="d3" xml:space="preserve">CHEBI:90979</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:90979]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1018,7 +1018,7 @@
           </data>
         </node>
         <node id="n3::n60">
-          <data key="d3" xml:space="preserve">CHEBI:61995</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:61995]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1033,9 +1033,9 @@
         </node>
         <node id="n3::n61">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGIS</data>
-          <data key="d5" xml:space="preserve">Q16647</data>
-          <data key="d6" xml:space="preserve">HGNC:9603</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGIS]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q16647]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9603]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2192.0" y="1172.0"/>
@@ -1049,7 +1049,7 @@
           </data>
         </node>
         <node id="n3::n62">
-          <data key="d3" xml:space="preserve">CHEBI:28728</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:28728]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1063,7 +1063,7 @@
           </data>
         </node>
         <node id="n3::n63">
-          <data key="d3" xml:space="preserve">CHEBI:15632</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15632]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1078,9 +1078,9 @@
         </node>
         <node id="n3::n64">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGDS</data>
-          <data key="d5" xml:space="preserve">P41222</data>
-          <data key="d6" xml:space="preserve">HGNC:9592</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGDS]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P41222]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9592]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2446.5007902517636" y="1172.0"/>
@@ -1094,7 +1094,7 @@
           </data>
         </node>
         <node id="n3::n65">
-          <data key="d3" xml:space="preserve">CHEBI:36203</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36203]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1109,9 +1109,9 @@
         </node>
         <node id="n3::n66">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX15</data>
-          <data key="d5" xml:space="preserve">P16050</data>
-          <data key="d6" xml:space="preserve">HGNC:433</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="776.0" y="580.0"/>
@@ -1126,9 +1126,9 @@
         </node>
         <node id="n3::n67">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">GGT5</data>
-          <data key="d5" xml:space="preserve">P36269</data>
-          <data key="d6" xml:space="preserve">HGNC:4260</data>
+          <data key="d4" xml:space="preserve"><![CDATA[GGT5]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P36269]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:4260]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="182.00864873366675" y="1484.0"/>
@@ -1143,9 +1143,9 @@
         </node>
         <node id="n3::n68">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">GPX4</data>
-          <data key="d5" xml:space="preserve">P36969</data>
-          <data key="d6" xml:space="preserve">HGNC:4556</data>
+          <data key="d4" xml:space="preserve"><![CDATA[GPX4]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P36969]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:4556]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1200.0" y="340.0"/>
@@ -1159,7 +1159,7 @@
           </data>
         </node>
         <node id="n3::n69">
-          <data key="d3" xml:space="preserve">CHEBI:36190</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36190]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1174,9 +1174,9 @@
         </node>
         <node id="n3::n70">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">HPGDS</data>
-          <data key="d5" xml:space="preserve">O60760</data>
-          <data key="d6" xml:space="preserve">HGNC:17890</data>
+          <data key="d4" xml:space="preserve"><![CDATA[HPGDS]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[O60760]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:17890]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2446.5007902517636" y="1239.9056563621048"/>
@@ -1191,9 +1191,9 @@
         </node>
         <node id="n3::n71">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX5</data>
-          <data key="d5" xml:space="preserve">P09917</data>
-          <data key="d6" xml:space="preserve">HGNC:435</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1708.0" y="808.0"/>
@@ -1207,7 +1207,7 @@
           </data>
         </node>
         <node id="n3::n72">
-          <data key="d3" xml:space="preserve">CHEBI:15650</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15650]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1221,7 +1221,7 @@
           </data>
         </node>
         <node id="n3::n73">
-          <data key="d3" xml:space="preserve">CHEBI:63991</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63991]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1235,7 +1235,7 @@
           </data>
         </node>
         <node id="n3::n74">
-          <data key="d3" xml:space="preserve">CHEBI:15559</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15559]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1249,7 +1249,7 @@
           </data>
         </node>
         <node id="n3::n75">
-          <data key="d3" xml:space="preserve">CHEBI:16978</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:16978]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1263,7 +1263,7 @@
           </data>
         </node>
         <node id="n3::n76">
-          <data key="d3" xml:space="preserve">CHEBI:63986</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63986]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1278,9 +1278,9 @@
         </node>
         <node id="n3::n77">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGES3</data>
-          <data key="d5" xml:space="preserve">Q15185</data>
-          <data key="d6" xml:space="preserve">HGNC:16049</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGES3]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q15185]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:16049]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3280.0" y="1269.6617613580206"/>
@@ -1295,9 +1295,9 @@
         </node>
         <node id="n3::n78">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX12</data>
-          <data key="d5" xml:space="preserve">P18054</data>
-          <data key="d6" xml:space="preserve">HGNC:429</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX12]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P18054]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:429]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1352.0" y="1588.0"/>
@@ -1312,9 +1312,9 @@
         </node>
         <node id="n3::n79">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">CYP4F2</data>
-          <data key="d5" xml:space="preserve">P78329</data>
-          <data key="d6" xml:space="preserve">HGNC:2645</data>
+          <data key="d4" xml:space="preserve"><![CDATA[CYP4F2]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P78329]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:2645]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="498.0" y="808.0"/>
@@ -1329,9 +1329,9 @@
         </node>
         <node id="n3::n80">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX12B</data>
-          <data key="d5" xml:space="preserve">O75342</data>
-          <data key="d6" xml:space="preserve">HGNC:430</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX12B]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[O75342]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:430]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1449.011088618822" y="174.09068572119747"/>
@@ -1346,9 +1346,9 @@
         </node>
         <node id="n3::n81">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">MGST2</data>
-          <data key="d5" xml:space="preserve">Q99735</data>
-          <data key="d6" xml:space="preserve">HGNC:7063</data>
+          <data key="d4" xml:space="preserve"><![CDATA[MGST2]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q99735]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:7063]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1105.5" y="573.0"/>
@@ -1363,9 +1363,9 @@
         </node>
         <node id="n3::n82">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGS2</data>
-          <data key="d5" xml:space="preserve">P35354</data>
-          <data key="d6" xml:space="preserve">HGNC:9605</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGS2]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P35354]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9605]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2728.0" y="864.0"/>
@@ -1380,9 +1380,9 @@
         </node>
         <node id="n3::n83">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX15</data>
-          <data key="d5" xml:space="preserve">P16050</data>
-          <data key="d6" xml:space="preserve">HGNC:433</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1407.0" y="719.0"/>
@@ -1396,7 +1396,7 @@
           </data>
         </node>
         <node id="n3::n84">
-          <data key="d3" xml:space="preserve">CHEBI:15558</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15558]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1411,9 +1411,9 @@
         </node>
         <node id="n3::n85">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PLA2G4C</data>
-          <data key="d5" xml:space="preserve">Q9UP65</data>
-          <data key="d6" xml:space="preserve">HGNC:9037</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PLA2G4C]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q9UP65]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9037]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2444.0685763166966" y="508.0"/>
@@ -1427,7 +1427,7 @@
           </data>
         </node>
         <node id="n3::n86">
-          <data key="d3" xml:space="preserve">CHEBI:15554</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15554]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1441,7 +1441,7 @@
           </data>
         </node>
         <node id="n3::n87">
-          <data key="d3" xml:space="preserve">CHEBI:15651</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15651]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1455,7 +1455,7 @@
           </data>
         </node>
         <node id="n3::n88">
-          <data key="d3" xml:space="preserve">CHEBI:15551</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15551]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1469,7 +1469,7 @@
           </data>
         </node>
         <node id="n3::n89">
-          <data key="d3" xml:space="preserve">CHEBI:34505</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34505]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1483,7 +1483,7 @@
           </data>
         </node>
         <node id="n3::n90">
-          <data key="d3" xml:space="preserve">CHEBI:72816</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:72816]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1497,7 +1497,7 @@
           </data>
         </node>
         <node id="n3::n91">
-          <data key="d3" xml:space="preserve">CHEBI:28099</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:28099]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1512,9 +1512,9 @@
         </node>
         <node id="n3::n92">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX5</data>
-          <data key="d5" xml:space="preserve">P09917</data>
-          <data key="d6" xml:space="preserve">HGNC:435</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1368.0" y="900.0"/>
@@ -1529,9 +1529,9 @@
         </node>
         <node id="n3::n93">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ABCC6</data>
-          <data key="d5" xml:space="preserve">O95255</data>
-          <data key="d6" xml:space="preserve">HGNC:57</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ABCC6]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[O95255]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:57]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="352.0" y="1042.0337924664213"/>
@@ -1546,9 +1546,9 @@
         </node>
         <node id="n3::n94">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">DPEP2</data>
-          <data key="d5" xml:space="preserve">Q9H4A9</data>
-          <data key="d6" xml:space="preserve">HGNC:23028</data>
+          <data key="d4" xml:space="preserve"><![CDATA[DPEP2]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q9H4A9]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:23028]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="44.0" y="1628.814358617885"/>
@@ -1562,7 +1562,7 @@
           </data>
         </node>
         <node id="n3::n95">
-          <data key="d3" xml:space="preserve">CHEBI:34151</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34151]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1591,9 +1591,9 @@
         </node>
         <node id="n3::n97">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX5</data>
-          <data key="d5" xml:space="preserve">P09917</data>
-          <data key="d6" xml:space="preserve">HGNC:435</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1376.0" y="460.0"/>
@@ -1607,7 +1607,7 @@
           </data>
         </node>
         <node id="n3::n98">
-          <data key="d3" xml:space="preserve">CHEBI:136401</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:136401]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1622,9 +1622,9 @@
         </node>
         <node id="n3::n99">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">CYP4F3</data>
-          <data key="d5" xml:space="preserve">Q08477</data>
-          <data key="d6" xml:space="preserve">HGNC:2646</data>
+          <data key="d4" xml:space="preserve"><![CDATA[CYP4F3]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q08477]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:2646]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="968.0" y="340.0"/>
@@ -1638,7 +1638,7 @@
           </data>
         </node>
         <node id="n3::n100">
-          <data key="d3" xml:space="preserve">CHEBI:82627</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:82627]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1652,7 +1652,7 @@
           </data>
         </node>
         <node id="n3::n101">
-          <data key="d3" xml:space="preserve">CHEBI:63984</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63984]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1666,7 +1666,7 @@
           </data>
         </node>
         <node id="n3::n102">
-          <data key="d3" xml:space="preserve">CHEBI:34146</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34146]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1681,9 +1681,9 @@
         </node>
         <node id="n3::n103">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">AKR1C3</data>
-          <data key="d5" xml:space="preserve">P42330</data>
-          <data key="d6" xml:space="preserve">HGNC:386</data>
+          <data key="d4" xml:space="preserve"><![CDATA[AKR1C3]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P42330]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:386]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2728.0" y="1239.9056563621048"/>
@@ -1698,9 +1698,9 @@
         </node>
         <node id="n3::n104">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">HPGD</data>
-          <data key="d5" xml:space="preserve">P15428</data>
-          <data key="d6" xml:space="preserve">HGNC:5154</data>
+          <data key="d4" xml:space="preserve"><![CDATA[HPGD]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P15428]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:5154]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1016.917748494388" y="1850.3939401348214"/>
@@ -1714,7 +1714,7 @@
           </data>
         </node>
         <node id="n3::n105">
-          <data key="d3" xml:space="preserve">CHEBI:6498</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:6498]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1729,9 +1729,9 @@
         </node>
         <node id="n3::n106">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGES3</data>
-          <data key="d5" xml:space="preserve">Q15185</data>
-          <data key="d6" xml:space="preserve">HGNC:16049</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGES3]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q15185]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:16049]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2997.0" y="1014.2652745740484"/>
@@ -1745,7 +1745,7 @@
           </data>
         </node>
         <node id="n3::n107">
-          <data key="d3" xml:space="preserve">CHEBI:34144</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34144]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1759,7 +1759,7 @@
           </data>
         </node>
         <node id="n3::n108">
-          <data key="d3" xml:space="preserve">CHEBI:15647</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15647]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1773,7 +1773,7 @@
           </data>
         </node>
         <node id="n3::n109">
-          <data key="d3" xml:space="preserve">CHEBI:63985</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63985]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1788,9 +1788,9 @@
         </node>
         <node id="n3::n110">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">CYP4F3</data>
-          <data key="d5" xml:space="preserve">Q08477</data>
-          <data key="d6" xml:space="preserve">HGNC:2646</data>
+          <data key="d4" xml:space="preserve"><![CDATA[CYP4F3]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q08477]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:2646]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="608.0" y="808.0"/>
@@ -1804,7 +1804,7 @@
           </data>
         </node>
         <node id="n3::n111">
-          <data key="d3" xml:space="preserve">CHEBI:36222</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36222]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1819,9 +1819,9 @@
         </node>
         <node id="n3::n112">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGES2</data>
-          <data key="d5" xml:space="preserve">Q9H7Z7</data>
-          <data key="d6" xml:space="preserve">HGNC:17822</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGES2]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q9H7Z7]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:17822]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2997.0" y="951.2652745740485"/>
@@ -1836,9 +1836,9 @@
         </node>
         <node id="n3::n113">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">PTGES2</data>
-          <data key="d5" xml:space="preserve">Q9H7Z7</data>
-          <data key="d6" xml:space="preserve">HGNC:17822</data>
+          <data key="d4" xml:space="preserve"><![CDATA[PTGES2]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q9H7Z7]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:17822]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3280.0" y="1211.25"/>
@@ -1852,7 +1852,7 @@
           </data>
         </node>
         <node id="n3::n114">
-          <data key="d3" xml:space="preserve">CHEBI:91286</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:91286]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1866,7 +1866,7 @@
           </data>
         </node>
         <node id="n3::n115">
-          <data key="d3" xml:space="preserve">CHEBI:6499</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:6499]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1880,7 +1880,7 @@
           </data>
         </node>
         <node id="n3::n116">
-          <data key="d3" xml:space="preserve">CHEBI:15627</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15627]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1895,9 +1895,9 @@
         </node>
         <node id="n3::n117">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">MGST2</data>
-          <data key="d5" xml:space="preserve">Q99735</data>
-          <data key="d6" xml:space="preserve">HGNC:7063</data>
+          <data key="d4" xml:space="preserve"><![CDATA[MGST2]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q99735]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:7063]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="696.0" y="1042.0337924664213"/>
@@ -1911,7 +1911,7 @@
           </data>
         </node>
         <node id="n3::n118">
-          <data key="d3" xml:space="preserve">CHEBI:15552</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15552]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1925,7 +1925,7 @@
           </data>
         </node>
         <node id="n3::n119">
-          <data key="d3" xml:space="preserve">CHEBI:63984</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63984]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1939,7 +1939,7 @@
           </data>
         </node>
         <node id="n3::n120">
-          <data key="d3" xml:space="preserve">CHEBI:36221</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36221]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -1954,9 +1954,9 @@
         </node>
         <node id="n3::n121">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">LTC4S</data>
-          <data key="d5" xml:space="preserve">Q16873</data>
-          <data key="d6" xml:space="preserve">HGNC:6719</data>
+          <data key="d4" xml:space="preserve"><![CDATA[LTC4S]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[Q16873]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:6719]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="597.9890828411052" y="1042.0337924664213"/>
@@ -1985,9 +1985,9 @@
         </node>
         <node id="n3::n123">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ALOX5</data>
-          <data key="d5" xml:space="preserve">P09917</data>
-          <data key="d6" xml:space="preserve">HGNC:435</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1008.0" y="1588.0"/>
@@ -2002,9 +2002,9 @@
         </node>
         <node id="n3::n124">
           <data key="d3" xml:space="preserve"/>
-          <data key="d4" xml:space="preserve">ABCC4</data>
-          <data key="d5" xml:space="preserve">O15439</data>
-          <data key="d6" xml:space="preserve">HGNC:55</data>
+          <data key="d4" xml:space="preserve"><![CDATA[ABCC4]]></data>
+          <data key="d5" xml:space="preserve"><![CDATA[O15439]]></data>
+          <data key="d6" xml:space="preserve"><![CDATA[HGNC:55]]></data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3280.0" y="2163.7030624224763"/>
@@ -2018,7 +2018,7 @@
           </data>
         </node>
         <node id="n3::n125">
-          <data key="d3" xml:space="preserve">CHEBI:50858</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:50858]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -2032,7 +2032,7 @@
           </data>
         </node>
         <node id="n3::n126">
-          <data key="d3" xml:space="preserve">CHEBI:46195</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:46195]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -2046,7 +2046,7 @@
           </data>
         </node>
         <node id="n3::n127">
-          <data key="d3" xml:space="preserve">CHEBI:6129</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:6129]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -2060,7 +2060,7 @@
           </data>
         </node>
         <node id="n3::n128">
-          <data key="d3" xml:space="preserve">CHEBI:6128</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:6128]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -2074,7 +2074,7 @@
           </data>
         </node>
         <node id="n3::n129">
-          <data key="d3" xml:space="preserve">CHEBI:47381</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:47381]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -2088,7 +2088,7 @@
           </data>
         </node>
         <node id="n3::n130">
-          <data key="d3" xml:space="preserve">CHEBI:5855</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:5855]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -2102,7 +2102,7 @@
           </data>
         </node>
         <node id="n3::n131">
-          <data key="d3" xml:space="preserve">CHEBI:7476</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:7476]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -2116,7 +2116,7 @@
           </data>
         </node>
         <node id="n3::n132">
-          <data key="d3" xml:space="preserve">CHEBI:41423</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:41423]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -2130,7 +2130,7 @@
           </data>
         </node>
         <node id="n3::n133">
-          <data key="d3" xml:space="preserve">CHEBI:8887</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:8887]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -2144,7 +2144,7 @@
           </data>
         </node>
         <node id="n3::n134">
-          <data key="d3" xml:space="preserve">CHEBI:137749</data>
+          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:137749]]></data>
           <data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
@@ -4775,7 +4775,7 @@
           <y:Path sx="0.0" sy="15.0" tx="0.0" ty="0.0">
             <y:Point x="1207.0" y="999.0"/>
           </y:Path>
-          <y:LineStyle color="#FF0000" type="line" width="1.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
