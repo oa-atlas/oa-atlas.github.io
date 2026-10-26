@@ -4,7 +4,7 @@
 "label": "TNF",
 "class": "Macromolecule",
 "box": [
-652.0,
+464.0,
 247.8,
 86.0,
 46.0
@@ -64,7 +64,7 @@
 "label": "TNFRSF1A",
 "class": "Macromolecule",
 "box": [
-652.0,
+464.0,
 315.8,
 86.0,
 46.0
@@ -124,7 +124,7 @@
 "label": "RIPK1",
 "class": "Macromolecule",
 "box": [
-795.0,
+607.0,
 480.0,
 80.0,
 40.0
@@ -180,7 +180,7 @@
 "label": "TRAF2",
 "class": "Macromolecule",
 "box": [
-795.0,
+607.0,
 432.0,
 80.0,
 40.0
@@ -236,7 +236,7 @@
 "label": "TRADD",
 "class": "Macromolecule",
 "box": [
-795.0,
+607.0,
 384.0,
 80.0,
 40.0
@@ -289,130 +289,10 @@
 ]
 },
 {
-"label": "CCL2",
-"class": "Macromolecule",
-"box": [
-239.0,
-263.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"C-C motif chemokine 2"
-],
-[
-"Alternative names",
-"HC11; Monocyte chemoattractant protein 1; Monocyte chemotactic and activating factor; Monocyte chemotactic protein 1; Monocyte secretory protein JE; Small-inducible cytokine A2"
-],
-[
-"Function",
-"Acts as a ligand for C-C chemokine receptor CCR2. Signals through binding and activation of CCR2 and induces a strong chemotactic response and mobilization of intracellular calcium ions."
-],
-[
-"Location",
-"Secreted"
-],
-[
-"HGNC",
-"HGNC:10618"
-],
-[
-"HGNC symbol",
-"CCL2"
-],
-[
-"Previous symbols",
-"SCYA2"
-],
-[
-"Alias symbols",
-"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
-],
-[
-"Entrez",
-"6347"
-],
-[
-"Ensembl",
-"ENSG00000108691"
-],
-[
-"RefSeq",
-"NM_002982"
-],
-[
-"UniProt",
-"P13500"
-]
-]
-},
-{
-"label": "CCR2",
-"class": "Macromolecule",
-"box": [
-239.0,
-311.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"C-C chemokine receptor type 2"
-],
-[
-"Alternative names",
-"Monocyte chemoattractant protein 1 receptor"
-],
-[
-"Function",
-"Key functional receptor for CCL2 but can also bind CCL7, and CCL12. Also transduces signaling mediated by CCL13."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:1603"
-],
-[
-"HGNC symbol",
-"CCR2"
-],
-[
-"Previous symbols",
-"CMKBR2"
-],
-[
-"Alias symbols",
-"CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302"
-],
-[
-"Entrez",
-"729230"
-],
-[
-"Ensembl",
-"ENSG00000121807"
-],
-[
-"RefSeq",
-"NM_000647"
-],
-[
-"UniProt",
-"P41597"
-]
-]
-},
-{
 "label": "TNFRSF1A",
 "class": "Macromolecule",
 "box": [
-451.0,
+263.0,
 295.0,
 86.0,
 46.0
@@ -472,7 +352,7 @@
 "label": "RIPK1",
 "class": "Macromolecule",
 "box": [
-895.0,
+707.0,
 188.0,
 80.0,
 40.0
@@ -528,7 +408,7 @@
 "label": "TRAF2",
 "class": "Macromolecule",
 "box": [
-795.0,
+607.0,
 188.0,
 80.0,
 40.0
@@ -584,7 +464,7 @@
 "label": "TRADD",
 "class": "Macromolecule",
 "box": [
-995.0,
+807.0,
 188.0,
 80.0,
 40.0
@@ -640,7 +520,7 @@
 "label": "MAP3K5",
 "class": "Macromolecule",
 "box": [
-705.0,
+517.0,
 615.5,
 80.0,
 40.0
@@ -700,7 +580,7 @@
 "label": "MAP3K5",
 "class": "Macromolecule",
 "box": [
-885.0,
+697.0,
 615.5,
 80.0,
 40.0
@@ -760,7 +640,7 @@
 "label": "MAP2K3",
 "class": "Macromolecule",
 "box": [
-795.0,
+607.0,
 714.5,
 80.0,
 40.0
@@ -816,7 +696,7 @@
 "label": "MAP2K3",
 "class": "Macromolecule",
 "box": [
-975.0,
+787.0,
 714.5,
 80.0,
 40.0
@@ -872,7 +752,7 @@
 "label": "P38 MAPK",
 "class": "Macromolecule",
 "box": [
-885.0,
+697.0,
 813.5,
 80.0,
 40.0
@@ -1102,7 +982,7 @@
 "label": "P38 MAPK",
 "class": "Macromolecule",
 "box": [
-1065.0,
+877.0,
 813.5,
 80.0,
 40.0
@@ -1329,70 +1209,10 @@
 ]
 },
 {
-"label": "CCR2",
-"class": "Macromolecule",
-"box": [
-47.0,
-298.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"C-C chemokine receptor type 2"
-],
-[
-"Alternative names",
-"Monocyte chemoattractant protein 1 receptor"
-],
-[
-"Function",
-"Key functional receptor for CCL2 but can also bind CCL7, and CCL12. Also transduces signaling mediated by CCL13."
-],
-[
-"Location",
-"Cell membrane"
-],
-[
-"HGNC",
-"HGNC:1603"
-],
-[
-"HGNC symbol",
-"CCR2"
-],
-[
-"Previous symbols",
-"CMKBR2"
-],
-[
-"Alias symbols",
-"CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302"
-],
-[
-"Entrez",
-"729230"
-],
-[
-"Ensembl",
-"ENSG00000121807"
-],
-[
-"RefSeq",
-"NM_000647"
-],
-[
-"UniProt",
-"P41597"
-]
-]
-},
-{
 "label": "IL1R1",
 "class": "Macromolecule",
 "box": [
-235.0,
+47.0,
 515.0,
 80.0,
 40.0
@@ -1452,7 +1272,7 @@
 "label": "IL1RAP",
 "class": "Macromolecule",
 "box": [
-475.0,
+287.0,
 515.0,
 80.0,
 40.0
@@ -1508,7 +1328,7 @@
 "label": "IL1B",
 "class": "Macromolecule",
 "box": [
-355.0,
+167.0,
 616.8,
 80.0,
 40.0
@@ -1564,7 +1384,7 @@
 "label": "IL1R1",
 "class": "Macromolecule",
 "box": [
-355.0,
+167.0,
 664.8,
 80.0,
 40.0
@@ -1624,7 +1444,7 @@
 "label": "IL1RAP",
 "class": "Macromolecule",
 "box": [
-355.0,
+167.0,
 712.8,
 80.0,
 40.0
@@ -1680,7 +1500,7 @@
 "label": "SCN10A",
 "class": "Macromolecule",
 "box": [
-945.0,
+757.0,
 955.0,
 80.0,
 40.0
@@ -1736,7 +1556,7 @@
 "label": "SCN10A",
 "class": "Macromolecule",
 "box": [
-1185.0,
+997.0,
 955.0,
 80.0,
 40.0
@@ -1792,7 +1612,7 @@
 "label": "TNF",
 "class": "Macromolecule",
 "box": [
-518.0,
+330.0,
 23.0,
 86.0,
 46.0
@@ -1849,70 +1669,10 @@
 ]
 },
 {
-"label": "CCL2",
-"class": "Macromolecule",
-"box": [
-108.0,
-36.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"C-C motif chemokine 2"
-],
-[
-"Alternative names",
-"HC11; Monocyte chemoattractant protein 1; Monocyte chemotactic and activating factor; Monocyte chemotactic protein 1; Monocyte secretory protein JE; Small-inducible cytokine A2"
-],
-[
-"Function",
-"Acts as a ligand for C-C chemokine receptor CCR2. Signals through binding and activation of CCR2 and induces a strong chemotactic response and mobilization of intracellular calcium ions."
-],
-[
-"Location",
-"Secreted"
-],
-[
-"HGNC",
-"HGNC:10618"
-],
-[
-"HGNC symbol",
-"CCL2"
-],
-[
-"Previous symbols",
-"SCYA2"
-],
-[
-"Alias symbols",
-"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
-],
-[
-"Entrez",
-"6347"
-],
-[
-"Ensembl",
-"ENSG00000108691"
-],
-[
-"RefSeq",
-"NM_002982"
-],
-[
-"UniProt",
-"P13500"
-]
-]
-},
-{
 "label": "IL1B",
 "class": "Macromolecule",
 "box": [
-355.0,
+167.0,
 25.0,
 80.0,
 40.0

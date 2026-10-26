@@ -406,14 +406,14 @@
 },
 {
 "id": "tnf-ccl2-p38",
-"title": "TNF, IL-1β and CCL2 - p38 MAPK - NaV1.8",
-"topic": "TNF, IL-1β and CCL2 - p38 MAPK",
+"title": "TNF and IL-1β - p38 MAPK - NaV1.8",
+"topic": "TNF and IL-1β - p38 MAPK",
 "group": "Nociceptor",
 "kind": null,
 "tag": "changed",
 "tab": null,
 "image": "files/tnf-ccl2-p38.svg",
-"width": 1322.0,
+"width": 1134.0,
 "height": 1062.0,
 "scale": 1,
 "annotation": "data/tnf-ccl2-p38.json",
@@ -429,6 +429,33 @@
 }
 ],
 "data": "data/tnf-ccl2-p38-text.json",
+"hasText": true
+},
+{
+"id": "ccl2-ccr2-gi",
+"title": "CCL2 - CCR2 - Giα - NaV1.8",
+"topic": "CCL2 - CCR2 - Giα - NaV1.8",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/ccl2-ccr2-gi.svg",
+"width": 1226.0,
+"height": 1114.0,
+"scale": 1,
+"annotation": "data/ccl2-ccr2-gi.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/ccl2-ccr2-gi.graphml"
+},
+{
+"label": "SVG",
+"url": "files/ccl2-ccr2-gi.svg"
+}
+],
+"data": "data/ccl2-ccr2-gi-text.json",
 "hasText": true
 },
 {
