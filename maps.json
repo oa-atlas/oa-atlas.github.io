@@ -54,6 +54,33 @@
 "hasText": true
 },
 {
+"id": "release-mast-cell",
+"title": "Transmitter release and mast cell activation",
+"topic": "Transmitter release and mast cell activation",
+"group": "Mast cell",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/release-mast-cell.svg",
+"width": 1502.0,
+"height": 694.0,
+"scale": 1,
+"annotation": "data/release-mast-cell.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/release-mast-cell.graphml"
+},
+{
+"label": "SVG",
+"url": "files/release-mast-cell.svg"
+}
+],
+"data": "data/release-mast-cell-text.json",
+"hasText": true
+},
+{
 "id": "ltb4-ltb4r-gq",
 "title": "LTB4 - LTB4R & LTB4R2 - Gqα",
 "topic": "LTB4 - LTB4R - Gqα",
@@ -483,33 +510,6 @@
 }
 ],
 "data": "data/il6-gp130-nociceptor-text.json",
-"hasText": true
-},
-{
-"id": "release-mast-cell",
-"title": "Transmitter release and mast cell activation",
-"topic": "Transmitter release and mast cell activation",
-"group": "Nociceptor",
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/release-mast-cell.svg",
-"width": 1502.0,
-"height": 694.0,
-"scale": 1,
-"annotation": "data/release-mast-cell.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/release-mast-cell.graphml"
-},
-{
-"label": "SVG",
-"url": "files/release-mast-cell.svg"
-}
-],
-"data": "data/release-mast-cell-text.json",
 "hasText": true
 },
 {
