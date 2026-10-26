@@ -170,7 +170,7 @@
           </data>
         <data key="d1">ALOX12</data><data key="d2">P18054</data><data key="d3">HGNC:429</data></node><node id="sa34"><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="184.0" y="1204.0"/>
+              <y:Geometry height="40.0" width="80.0" x="184.0" y="1212.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">GGT1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -419,7 +419,7 @@
           </data>
         <data key="d1">ALOX5</data><data key="d2">P09917</data><data key="d3">HGNC:435</data></node><node id="sa74"><data key="d0">CHEBI:36220</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="324.0" y="1530.0"/>
+          <y:Geometry height="40.0" width="40.0" x="324.0" y="1530.0913175675632"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="294.5" x="-127.25" xml:space="preserve" y="9.75" hasText="true">Lipoxin C4 (LXC4) extracellular<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -427,7 +427,7 @@
       </data>
     </node><node id="sa75"><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="136.0" y="1328.0"/>
+              <y:Geometry height="40.0" width="80.0" x="136.0" y="1333.5"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">MDP1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -538,7 +538,7 @@
       </data>
     </node><node id="sa95"><data key="d0">CHEBI:16978</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="84.0" y="1184.0"/>
+          <y:Geometry height="40.0" width="40.0" x="84.0" y="1176.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="171.0" x="-65.5" xml:space="preserve" y="9.75" hasText="true">LTC4 extracellular<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -670,7 +670,7 @@
           </data>
         <data key="d1">ALOX15</data><data key="d2">P16050</data><data key="d3">HGNC:433</data></node><node id="sa115"><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="224.0" y="1252.0"/>
+              <y:Geometry height="40.0" width="80.0" x="224.0" y="1260.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">GGT5<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -765,7 +765,7 @@
       </data>
     </node><node id="sa128"><data key="d0">CHEBI:63986</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="325.0043243668334" y="1421.5000018601327"/>
+          <y:Geometry height="40.0" width="40.0" x="325.0043243668334" y="1416.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="199.5" x="-79.75" xml:space="preserve" y="9.75" hasText="true">Eoxin E4 (14,15-LTE4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -939,7 +939,7 @@
           </data>
         <data key="d1">ABCC6</data><data key="d2">O95255</data><data key="d3">HGNC:57</data></node><node id="sa160"><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="136.0" y="1373.0"/>
+              <y:Geometry height="40.0" width="80.0" x="136.0" y="1378.5"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">DPEP2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1077,7 +1077,7 @@
       </data>
     </node><node id="sa179"><data key="d0">CHEBI:63985</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="325.0043243668334" y="1308.0"/>
+          <y:Geometry height="40.0" width="40.0" x="325.0043243668334" y="1296.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="199.5" x="-79.75" xml:space="preserve" y="9.75" hasText="true">Eoxin D4 (14,15-LTD4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1096,7 +1096,7 @@
           </data>
         <data key="d1">CYP4F3</data><data key="d2">Q08477</data><data key="d3">HGNC:2646</data></node><node id="sa181"><data key="d0">CHEBI:36222</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="324.0" y="1792.0"/>
+          <y:Geometry height="40.0" width="40.0" x="324.0" y="1776.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="161.5" x="-60.75" xml:space="preserve" y="9.75" hasText="true">Lipoxin E4 (LXE4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1169,7 +1169,7 @@
       </data>
     </node><node id="sa195"><data key="d0">CHEBI:63984</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="325.0043243668334" y="1164.0"/>
+          <y:Geometry height="40.0" width="40.0" x="325.0043243668334" y="1176.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="332.5" x="-146.25" xml:space="preserve" y="9.75" hasText="true">Eoxin C4 (14,15-LTC4) extracellular<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1177,7 +1177,7 @@
       </data>
     </node><node id="sa196"><data key="d0">CHEBI:36221</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="324.0" y="1668.0"/>
+          <y:Geometry height="40.0" width="40.0" x="324.0" y="1656.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="161.5" x="-60.75" xml:space="preserve" y="9.75" hasText="true">Lipoxin D4 (LXD4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1306,7 +1306,7 @@
       </data>
     </node><node id="re1"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
-          <y:Geometry height="18.0" width="18.0" x="335.0" y="1751.0"/>
+          <y:Geometry height="18.0" width="18.0" x="335.0" y="1727.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
@@ -2062,7 +2062,7 @@
       </data>
     </node><node id="re95"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
-          <y:Geometry height="18.0" width="18.0" x="336.0043243668334" y="1384.0"/>
+          <y:Geometry height="18.0" width="18.0" x="336.0043243668334" y="1367.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
@@ -2146,7 +2146,7 @@
       </data>
     </node><node id="re107"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
-          <y:Geometry height="18.0" width="18.0" x="95.0" y="1241.4999699999807"/>
+          <y:Geometry height="18.0" width="18.0" x="95.0" y="1247.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
@@ -2258,7 +2258,7 @@
       </data>
     </node><node id="re122"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
-          <y:Geometry height="18.0" width="18.0" x="336.0043243668334" y="1241.4999699999807"/>
+          <y:Geometry height="18.0" width="18.0" x="336.0043243668334" y="1247.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
@@ -2356,7 +2356,7 @@
       </data>
     </node><node id="re132"><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
-          <y:Geometry height="18.0" width="18.0" x="95.0" y="1375.0"/>
+          <y:Geometry height="18.0" width="18.0" x="95.0" y="1367.0"/>
           <y:Fill transparent="false" hasColor="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
@@ -2485,7 +2485,7 @@
     <edge id="re1_sa160_catalysis" source="sa160" target="re1">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-9.0" ty="0.0"><y:Point x="176.0" y="1760.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="-9.0" ty="0.0"><y:Point x="176.0" y="1736.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
@@ -2665,7 +2665,7 @@
     <edge id="re9_sa195" source="re9" target="sa195">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="18.477590650225693" ty="19.5"/>
+          <y:Path sx="0.0" sy="0.0" tx="18.477590650225693" ty="8.222146040648568"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -4405,7 +4405,7 @@
     <edge id="re107_sa115_catalysis" source="sa115" target="re107">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="-40.0" sy="-12.500030000019251" tx="9.0" ty="9.0"/>
+          <y:Path sx="-40.0" sy="-14.999774777478933" tx="9.0" ty="9.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
@@ -4415,7 +4415,7 @@
     <edge id="re107_sa34_catalysis" source="sa34" target="re107">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="9.0" ty="-9.0"/>
+          <y:Path sx="0.0" sy="14.998648648656854" tx="9.0" ty="-9.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
@@ -4685,7 +4685,7 @@
     <edge id="re122_sa34_catalysis" source="sa34" target="re122">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-9.0" ty="-9.0"/>
+          <y:Path sx="0.0" sy="14.998660766004832" tx="-9.0" ty="-9.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
@@ -4695,7 +4695,7 @@
     <edge id="re122_sa115_catalysis" source="sa115" target="re122">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="40.0" sy="-12.500030000019251" tx="-9.0" ty="9.0"/>
+          <y:Path sx="40.0" sy="-14.999218864935756" tx="-9.0" ty="9.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
