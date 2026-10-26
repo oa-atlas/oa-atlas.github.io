@@ -357,7 +357,7 @@
 "group": "Nociceptor",
 "kind": null,
 "tag": "changed",
-"tab": null,
+"tab": "wide",
 "image": "files/channels-ap-nociceptor.svg",
 "width": 2022.0,
 "height": 526.0,
@@ -375,6 +375,33 @@
 }
 ],
 "data": "data/channels-ap-nociceptor-text.json",
+"hasText": true
+},
+{
+"id": "channels-ap-nociceptor-vertical",
+"title": "Ion channels - action potential",
+"topic": "Ion channels - action potential",
+"group": "Nociceptor",
+"kind": null,
+"tag": "changed",
+"tab": "vertical",
+"image": "files/channels-ap-nociceptor-vertical.svg",
+"width": 514.0,
+"height": 1578.0,
+"scale": 1,
+"annotation": "data/channels-ap-nociceptor-vertical.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/channels-ap-nociceptor-vertical.graphml"
+},
+{
+"label": "SVG",
+"url": "files/channels-ap-nociceptor-vertical.svg"
+}
+],
+"data": "data/channels-ap-nociceptor-vertical-text.json",
 "hasText": true
 },
 {
