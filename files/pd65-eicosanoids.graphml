@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!--Created by yEd 3.25.1-->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
@@ -43,14 +43,14 @@
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="1980.0" closedWidth="3535.3331" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="5" bottomF="4.72265625" left="0" leftF="0.0" right="0" rightF="0.0" top="37" topF="37.0"/>
+              <y:BorderInsets bottom="5" bottomF="4.72265625" left="22" leftF="21.68603515625" right="21" rightF="21.0439453125" top="37" topF="37.0"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
       <graph edgedefault="directed" id="n0:">
         <node id="n0::n0">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34126]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:34126</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -60,30 +60,30 @@
               <y:Geometry height="40.0" width="40.0" x="3140.0" y="760.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="82.080078125" x="-21.0400390625" xml:space="preserve" y="9.755859375">11(R)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="82.080078125" x="-21.0400390625" xml:space="preserve" y="42.0">11(R)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n1">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:90990]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:90990</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="828.0" y="402.0"/>
+              <y:Geometry height="40.0" width="40.0" x="828.0" y="412.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="115.7607421875" x="-37.88037109375" xml:space="preserve" y="9.755859375">12(S),20-diHETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="115.7607421875" x="-37.88037109375" xml:space="preserve" y="42.0">12(S),20-diHETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n2">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX12]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P18054]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:429]]></data>
+          <data key="d4" xml:space="preserve">ALOX12</data>
+          <data key="d5" xml:space="preserve">P18054</data>
+          <data key="d6" xml:space="preserve">HGNC:429</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -98,7 +98,7 @@
           </data>
         </node>
         <node id="n0::n3">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27820]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:27820</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -113,7 +113,7 @@
           </data>
         </node>
         <node id="n0::n4">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15555]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15555</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -128,7 +128,7 @@
           </data>
         </node>
         <node id="n0::n5">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:137746]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:137746</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -138,15 +138,15 @@
               <y:Geometry height="40.0" width="40.0" x="667.0" y="466.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="122.5009765625" x="-41.25048828125" xml:space="preserve" y="9.755859375">5-oxo-15S-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="122.5009765625" x="-41.25048828125" xml:space="preserve" y="-22.48828125">5-oxo-15S-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n6">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGES]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[O14684]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9599]]></data>
+          <data key="d4" xml:space="preserve">PTGES</data>
+          <data key="d5" xml:space="preserve">O14684</data>
+          <data key="d6" xml:space="preserve">HGNC:9599</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -171,12 +171,12 @@
               <y:Geometry height="40.0" width="40.0" x="3484.0" y="780.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="157.412109375" x="-58.7060546875" xml:space="preserve" y="9.755859375">8,12-iso-iPF2alpha-VI<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="157.412109375" x="-58.7060546875" xml:space="preserve" y="42.0">8,12-iso-iPF2alpha-VI<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n8">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:165281]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:165281</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -191,7 +191,7 @@
           </data>
         </node>
         <node id="n0::n9">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:52449]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:52449</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -206,7 +206,7 @@
           </data>
         </node>
         <node id="n0::n10">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27647]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:27647</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -221,7 +221,7 @@
           </data>
         </node>
         <node id="n0::n11">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63983]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:63983</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -237,9 +237,9 @@
         </node>
         <node id="n0::n12">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PLA2G4A]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P47712]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9035]]></data>
+          <data key="d4" xml:space="preserve">PLA2G4A</data>
+          <data key="d5" xml:space="preserve">P47712</data>
+          <data key="d6" xml:space="preserve">HGNC:9035</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -255,9 +255,9 @@
         </node>
         <node id="n0::n13">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX12]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P18054]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:429]]></data>
+          <data key="d4" xml:space="preserve">ALOX12</data>
+          <data key="d5" xml:space="preserve">P18054</data>
+          <data key="d6" xml:space="preserve">HGNC:429</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -273,9 +273,9 @@
         </node>
         <node id="n0::n14">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX12]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P18054]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:429]]></data>
+          <data key="d4" xml:space="preserve">ALOX12</data>
+          <data key="d5" xml:space="preserve">P18054</data>
+          <data key="d6" xml:space="preserve">HGNC:429</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -291,9 +291,9 @@
         </node>
         <node id="n0::n15">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[GGT1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P19440]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:4250]]></data>
+          <data key="d4" xml:space="preserve">GGT1</data>
+          <data key="d5" xml:space="preserve">P19440</data>
+          <data key="d6" xml:space="preserve">HGNC:4250</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -308,7 +308,7 @@
           </data>
         </node>
         <node id="n0::n16">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:28666]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:28666</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -324,9 +324,9 @@
         </node>
         <node id="n0::n17">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGR1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q14914]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:18429]]></data>
+          <data key="d4" xml:space="preserve">PTGR1</data>
+          <data key="d5" xml:space="preserve">Q14914</data>
+          <data key="d6" xml:space="preserve">HGNC:18429</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -342,9 +342,9 @@
         </node>
         <node id="n0::n18">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGS1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P23219]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9604]]></data>
+          <data key="d4" xml:space="preserve">PTGS1</data>
+          <data key="d5" xml:space="preserve">P23219</data>
+          <data key="d6" xml:space="preserve">HGNC:9604</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -360,9 +360,9 @@
         </node>
         <node id="n0::n19">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PRXL2B]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q8TBF2]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:28390]]></data>
+          <data key="d4" xml:space="preserve">PRXL2B</data>
+          <data key="d5" xml:space="preserve">Q8TBF2</data>
+          <data key="d6" xml:space="preserve">HGNC:28390</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -378,9 +378,9 @@
         </node>
         <node id="n0::n20">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[MGST3]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[O14880]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:7064]]></data>
+          <data key="d4" xml:space="preserve">MGST3</data>
+          <data key="d5" xml:space="preserve">O14880</data>
+          <data key="d6" xml:space="preserve">HGNC:7064</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -396,9 +396,9 @@
         </node>
         <node id="n0::n21">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[GPX1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P07203]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:4553]]></data>
+          <data key="d4" xml:space="preserve">GPX1</data>
+          <data key="d5" xml:space="preserve">P07203</data>
+          <data key="d6" xml:space="preserve">HGNC:4553</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -431,7 +431,7 @@
           </data>
         </node>
         <node id="n0::n23">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:72789]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:72789</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -441,15 +441,15 @@
               <y:Geometry height="40.0" width="40.0" x="1612.0" y="880.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="93.3046875" x="-26.65234375" xml:space="preserve" y="9.755859375">15-epi-LXA4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="93.3046875" x="-26.65234375" xml:space="preserve" y="42.0">15-epi-LXA4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n24">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
+          <data key="d4" xml:space="preserve">ALOX15</data>
+          <data key="d5" xml:space="preserve">P16050</data>
+          <data key="d6" xml:space="preserve">HGNC:433</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -465,8 +465,8 @@
         </node>
         <node id="n0::n25">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[TBXAS1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P24557]]></data>
+          <data key="d4" xml:space="preserve">TBXAS1</data>
+          <data key="d5" xml:space="preserve">P24557</data>
           <data key="d6"/>
           <data key="d8"/>
           <data key="d9">
@@ -483,9 +483,9 @@
         </node>
         <node id="n0::n26">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[AKR1A1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P14550]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:380]]></data>
+          <data key="d4" xml:space="preserve">AKR1A1</data>
+          <data key="d5" xml:space="preserve">P14550</data>
+          <data key="d6" xml:space="preserve">HGNC:380</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -501,9 +501,9 @@
         </node>
         <node id="n0::n27">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
+          <data key="d4" xml:space="preserve">ALOX15</data>
+          <data key="d5" xml:space="preserve">P16050</data>
+          <data key="d6" xml:space="preserve">HGNC:433</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -519,9 +519,9 @@
         </node>
         <node id="n0::n28">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[DHRS4]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q9BTZ2]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:16985]]></data>
+          <data key="d4" xml:space="preserve">DHRS4</data>
+          <data key="d5" xml:space="preserve">Q9BTZ2</data>
+          <data key="d6" xml:space="preserve">HGNC:16985</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -536,7 +536,7 @@
           </data>
         </node>
         <node id="n0::n29">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27485]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:27485</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -546,15 +546,15 @@
               <y:Geometry height="40.0" width="40.0" x="2596.0" y="1272.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="35.0625" x="2.46875" xml:space="preserve" y="9.755859375">PGJ2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="35.0625" x="2.46875" xml:space="preserve" y="42.0">PGJ2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n30">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[CBR3]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[O75828]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:1549]]></data>
+          <data key="d4" xml:space="preserve">CBR3</data>
+          <data key="d5" xml:space="preserve">O75828</data>
+          <data key="d6" xml:space="preserve">HGNC:1549</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -570,9 +570,9 @@
         </node>
         <node id="n0::n31">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[LTA4H]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P09960]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:6710]]></data>
+          <data key="d4" xml:space="preserve">LTA4H</data>
+          <data key="d5" xml:space="preserve">P09960</data>
+          <data key="d6" xml:space="preserve">HGNC:6710</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -588,9 +588,9 @@
         </node>
         <node id="n0::n32">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGIS]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q16647]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9603]]></data>
+          <data key="d4" xml:space="preserve">PTGIS</data>
+          <data key="d5" xml:space="preserve">Q16647</data>
+          <data key="d6" xml:space="preserve">HGNC:9603</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -605,7 +605,7 @@
           </data>
         </node>
         <node id="n0::n33">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:28209]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:28209</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -621,9 +621,9 @@
         </node>
         <node id="n0::n34">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ABCC1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P33527]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:51]]></data>
+          <data key="d4" xml:space="preserve">ABCC1</data>
+          <data key="d5" xml:space="preserve">P33527</data>
+          <data key="d6" xml:space="preserve">HGNC:51</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -639,9 +639,9 @@
         </node>
         <node id="n0::n35">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGES]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[O14684]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9599]]></data>
+          <data key="d4" xml:space="preserve">PTGES</data>
+          <data key="d5" xml:space="preserve">O14684</data>
+          <data key="d6" xml:space="preserve">HGNC:9599</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -656,7 +656,7 @@
           </data>
         </node>
         <node id="n0::n36">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:138291]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:138291</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -672,9 +672,9 @@
         </node>
         <node id="n0::n37">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[CYP4F2]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P78329]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:2645]]></data>
+          <data key="d4" xml:space="preserve">CYP4F2</data>
+          <data key="d5" xml:space="preserve">P78329</data>
+          <data key="d6" xml:space="preserve">HGNC:2645</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -690,9 +690,9 @@
         </node>
         <node id="n0::n38">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
+          <data key="d4" xml:space="preserve">ALOX5</data>
+          <data key="d5" xml:space="preserve">P09917</data>
+          <data key="d6" xml:space="preserve">HGNC:435</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -707,25 +707,25 @@
           </data>
         </node>
         <node id="n0::n39">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36220]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:36220</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="324.0" y="1530.0913175675632"/>
+              <y:Geometry height="40.0" width="40.0" x="324.0" y="1540.0913175675632"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="214.287109375" x="-87.1435546875" xml:space="preserve" y="9.755859375">Lipoxin C4 (LXC4) extracellular<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="214.287109375" x="-87.1435546875" xml:space="preserve" y="-22.48828125">Lipoxin C4 (LXC4) extracellular<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n40">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[MDP1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q86V88]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:28781]]></data>
+          <data key="d4" xml:space="preserve">MDP1</data>
+          <data key="d5" xml:space="preserve">Q86V88</data>
+          <data key="d6" xml:space="preserve">HGNC:28781</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -741,9 +741,9 @@
         </node>
         <node id="n0::n41">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX12]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P18054]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:429]]></data>
+          <data key="d4" xml:space="preserve">ALOX12</data>
+          <data key="d5" xml:space="preserve">P18054</data>
+          <data key="d6" xml:space="preserve">HGNC:429</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -758,7 +758,7 @@
           </data>
         </node>
         <node id="n0::n42">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34784]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:34784</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -768,27 +768,27 @@
               <y:Geometry height="40.0" width="40.0" x="828.0" y="284.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="139.7412109375" x="-49.87060546875" xml:space="preserve" y="9.755859375">Hepoxilin B3 (HXB3)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="139.7412109375" x="-49.87060546875" xml:space="preserve" y="-22.48828125">Hepoxilin B3 (HXB3)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n43">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27814]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:27814</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="508.0" y="1230.0"/>
+              <y:Geometry height="40.0" width="40.0" x="508.0" y="1220.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="96.9140625" x="-28.45703125" xml:space="preserve" y="9.755859375">12-oxo-LTB4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="96.9140625" x="-28.45703125" xml:space="preserve" y="42.0">12-oxo-LTB4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n44">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15626]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15626</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -803,7 +803,7 @@
           </data>
         </node>
         <node id="n0::n45">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27555]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:27555</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -818,24 +818,24 @@
           </data>
         </node>
         <node id="n0::n46">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15553]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15553</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="2892.0" y="1164.0"/>
+              <y:Geometry height="40.0" width="40.0" x="2892.0" y="1183.5"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="75.2236328125" x="-17.61181640625" xml:space="preserve" y="9.755859375">PGF2alpha<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="75.2236328125" x="-17.61181640625" xml:space="preserve" y="42.0">PGF2alpha<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n47">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[TBXAS1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P24557]]></data>
+          <data key="d4" xml:space="preserve">TBXAS1</data>
+          <data key="d5" xml:space="preserve">P24557</data>
           <data key="d6"/>
           <data key="d8"/>
           <data key="d9">
@@ -852,9 +852,9 @@
         </node>
         <node id="n0::n48">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
+          <data key="d4" xml:space="preserve">ALOX15</data>
+          <data key="d5" xml:space="preserve">P16050</data>
+          <data key="d6" xml:space="preserve">HGNC:433</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -869,7 +869,7 @@
           </data>
         </node>
         <node id="n0::n49">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15628]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15628</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -879,15 +879,15 @@
               <y:Geometry height="40.0" width="40.0" x="1284.0" y="900.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.5791015625" x="-24.78955078125" xml:space="preserve" y="9.755859375">15(S)-HpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.5791015625" x="-24.78955078125" xml:space="preserve" y="-22.48828125">15(S)-HpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n50">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[GPX1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P07203]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:4553]]></data>
+          <data key="d4" xml:space="preserve">GPX1</data>
+          <data key="d5" xml:space="preserve">P07203</data>
+          <data key="d6" xml:space="preserve">HGNC:4553</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -902,22 +902,22 @@
           </data>
         </node>
         <node id="n0::n51">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:35032]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:35032</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="588.0" y="282.0"/>
+              <y:Geometry height="40.0" width="40.0" x="588.0" y="292.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="161.568359375" x="-60.7841796875" xml:space="preserve" y="9.755859375">Thioredoxin B3 (TrXB3)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="161.568359375" x="-60.7841796875" xml:space="preserve" y="42.0">Thioredoxin B3 (TrXB3)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n52">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:16978]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:16978</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -933,9 +933,9 @@
         </node>
         <node id="n0::n53">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
+          <data key="d4" xml:space="preserve">ALOX15</data>
+          <data key="d5" xml:space="preserve">P16050</data>
+          <data key="d6" xml:space="preserve">HGNC:433</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -950,7 +950,7 @@
           </data>
         </node>
         <node id="n0::n54">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63992]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:63992</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -960,12 +960,12 @@
               <y:Geometry height="40.0" width="40.0" x="1172.0" y="1616.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="98.431640625" x="-29.2158203125" xml:space="preserve" y="9.755859375">15-oxo-LXA4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="98.431640625" x="-29.2158203125" xml:space="preserve" y="42.0">15-oxo-LXA4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n55">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:64095]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:64095</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -980,7 +980,7 @@
           </data>
         </node>
         <node id="n0::n56">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36220]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:36220</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -995,7 +995,7 @@
           </data>
         </node>
         <node id="n0::n57">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34145]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:34145</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1005,12 +1005,12 @@
               <y:Geometry height="40.0" width="40.0" x="1284.0" y="93.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="90.8916015625" x="-25.44580078125" xml:space="preserve" y="9.755859375">12(R)-HpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="90.8916015625" x="-25.44580078125" xml:space="preserve" y="42.0">12(R)-HpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n58">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63977]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:63977</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1020,12 +1020,12 @@
               <y:Geometry height="40.0" width="40.0" x="1748.0" y="1144.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.1962890625" x="-24.59814453125" xml:space="preserve" y="9.755859375">12(S)-HHTrE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.1962890625" x="-24.59814453125" xml:space="preserve" y="42.0">12(S)-HHTrE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n59">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:90979]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:90979</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1040,7 +1040,7 @@
           </data>
         </node>
         <node id="n0::n60">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:61995]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:61995</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1050,15 +1050,15 @@
               <y:Geometry height="40.0" width="40.0" x="2596.0" y="376.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.142578125" x="-8.5712890625" xml:space="preserve" y="9.755859375">Lecithin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.142578125" x="-8.5712890625" xml:space="preserve" y="-22.48828125">Lecithin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n61">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGIS]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q16647]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9603]]></data>
+          <data key="d4" xml:space="preserve">PTGIS</data>
+          <data key="d5" xml:space="preserve">Q16647</data>
+          <data key="d6" xml:space="preserve">HGNC:9603</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1073,7 +1073,7 @@
           </data>
         </node>
         <node id="n0::n62">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:28728]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:28728</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1083,12 +1083,12 @@
               <y:Geometry height="40.0" width="40.0" x="1944.0" y="1164.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.521484375" x="0.7392578125" xml:space="preserve" y="9.755859375">TXB2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.521484375" x="0.7392578125" xml:space="preserve" y="42.0">TXB2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n63">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15632]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15632</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1104,9 +1104,9 @@
         </node>
         <node id="n0::n64">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGDS]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P41222]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9592]]></data>
+          <data key="d4" xml:space="preserve">PTGDS</data>
+          <data key="d5" xml:space="preserve">P41222</data>
+          <data key="d6" xml:space="preserve">HGNC:9592</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1121,25 +1121,25 @@
           </data>
         </node>
         <node id="n0::n65">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36203]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:36203</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="588.0" y="194.0"/>
+              <y:Geometry height="40.0" width="40.0" x="588.0" y="204.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="164.78125" x="-62.390625" xml:space="preserve" y="9.755859375">Thioredoxin A3 (TrXA3)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="164.78125" x="-62.390625" xml:space="preserve" y="42.0">Thioredoxin A3 (TrXA3)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n66">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
+          <data key="d4" xml:space="preserve">ALOX15</data>
+          <data key="d5" xml:space="preserve">P16050</data>
+          <data key="d6" xml:space="preserve">HGNC:433</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1155,9 +1155,9 @@
         </node>
         <node id="n0::n67">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[GGT5]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P36269]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:4260]]></data>
+          <data key="d4" xml:space="preserve">GGT5</data>
+          <data key="d5" xml:space="preserve">P36269</data>
+          <data key="d6" xml:space="preserve">HGNC:4260</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1173,9 +1173,9 @@
         </node>
         <node id="n0::n68">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[GPX4]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P36969]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:4556]]></data>
+          <data key="d4" xml:space="preserve">GPX4</data>
+          <data key="d5" xml:space="preserve">P36969</data>
+          <data key="d6" xml:space="preserve">HGNC:4556</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1190,7 +1190,7 @@
           </data>
         </node>
         <node id="n0::n69">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36190]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:36190</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1200,15 +1200,15 @@
               <y:Geometry height="40.0" width="40.0" x="828.0" y="196.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="142.9541015625" x="-51.47705078125" xml:space="preserve" y="9.755859375">Hepoxilin A3 (HXA3)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="142.9541015625" x="-51.47705078125" xml:space="preserve" y="42.0">Hepoxilin A3 (HXA3)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n70">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
+          <data key="d4" xml:space="preserve">ALOX5</data>
+          <data key="d5" xml:space="preserve">P09917</data>
+          <data key="d6" xml:space="preserve">HGNC:435</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1224,9 +1224,9 @@
         </node>
         <node id="n0::n71">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[HPGDS]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[O60760]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:17890]]></data>
+          <data key="d4" xml:space="preserve">HPGDS</data>
+          <data key="d5" xml:space="preserve">O60760</data>
+          <data key="d6" xml:space="preserve">HGNC:17890</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1242,9 +1242,9 @@
         </node>
         <node id="n0::n72">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
+          <data key="d4" xml:space="preserve">ALOX5</data>
+          <data key="d5" xml:space="preserve">P09917</data>
+          <data key="d6" xml:space="preserve">HGNC:435</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1259,7 +1259,7 @@
           </data>
         </node>
         <node id="n0::n73">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15650]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15650</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1269,12 +1269,12 @@
               <y:Geometry height="40.0" width="40.0" x="84.0" y="1416.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="36.7578125" x="1.62109375" xml:space="preserve" y="9.755859375">LTE4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="36.7578125" x="1.62109375" xml:space="preserve" y="42.0">LTE4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n74">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63991]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:63991</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1284,42 +1284,42 @@
               <y:Geometry height="40.0" width="40.0" x="1747.9999998421836" y="880.5"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="91.6982421875" x="-25.84912109375" xml:space="preserve" y="9.755859375">15-epi-LXB4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="91.6982421875" x="-25.84912109375" xml:space="preserve" y="42.0">15-epi-LXB4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n75">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15559]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15559</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="900.0" y="802.0"/>
+              <y:Geometry height="40.0" width="40.0" x="900.0" y="792.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="87.7197265625" x="-23.85986328125" xml:space="preserve" y="9.755859375">15-oxo-ETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="87.7197265625" x="-23.85986328125" xml:space="preserve" y="42.0">15-oxo-ETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n76">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:16978]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:16978</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="572.0" y="1085.0675849328427"/>
+              <y:Geometry height="40.0" width="40.0" x="572.0" y="1075.0675849328427"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.9775390625" x="-41.98876953125" xml:space="preserve" y="9.755859375">LTC4 intracellular<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.9775390625" x="-41.98876953125" xml:space="preserve" y="42.0">LTC4 intracellular<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n77">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63986]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:63986</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1329,15 +1329,15 @@
               <y:Geometry height="40.0" width="40.0" x="325.0043243668334" y="1416.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="156.6123046875" x="-58.30615234375" xml:space="preserve" y="9.755859375">Eoxin E4 (14,15-LTE4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="156.6123046875" x="-58.30615234375" xml:space="preserve" y="42.0">Eoxin E4 (14,15-LTE4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n78">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGES3]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q15185]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:16049]]></data>
+          <data key="d4" xml:space="preserve">PTGES3</data>
+          <data key="d5" xml:space="preserve">Q15185</data>
+          <data key="d6" xml:space="preserve">HGNC:16049</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1353,9 +1353,9 @@
         </node>
         <node id="n0::n79">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX12]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P18054]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:429]]></data>
+          <data key="d4" xml:space="preserve">ALOX12</data>
+          <data key="d5" xml:space="preserve">P18054</data>
+          <data key="d6" xml:space="preserve">HGNC:429</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1371,9 +1371,9 @@
         </node>
         <node id="n0::n80">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[CYP4F2]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P78329]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:2645]]></data>
+          <data key="d4" xml:space="preserve">CYP4F2</data>
+          <data key="d5" xml:space="preserve">P78329</data>
+          <data key="d6" xml:space="preserve">HGNC:2645</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1389,9 +1389,9 @@
         </node>
         <node id="n0::n81">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX12B]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[O75342]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:430]]></data>
+          <data key="d4" xml:space="preserve">ALOX12B</data>
+          <data key="d5" xml:space="preserve">O75342</data>
+          <data key="d6" xml:space="preserve">HGNC:430</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1407,9 +1407,9 @@
         </node>
         <node id="n0::n82">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[MGST2]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q99735]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:7063]]></data>
+          <data key="d4" xml:space="preserve">MGST2</data>
+          <data key="d5" xml:space="preserve">Q99735</data>
+          <data key="d6" xml:space="preserve">HGNC:7063</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1425,9 +1425,9 @@
         </node>
         <node id="n0::n83">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGS2]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P35354]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9605]]></data>
+          <data key="d4" xml:space="preserve">PTGS2</data>
+          <data key="d5" xml:space="preserve">P35354</data>
+          <data key="d6" xml:space="preserve">HGNC:9605</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1443,9 +1443,9 @@
         </node>
         <node id="n0::n84">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX15]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P16050]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:433]]></data>
+          <data key="d4" xml:space="preserve">ALOX15</data>
+          <data key="d5" xml:space="preserve">P16050</data>
+          <data key="d6" xml:space="preserve">HGNC:433</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1460,7 +1460,7 @@
           </data>
         </node>
         <node id="n0::n85">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15558]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15558</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1470,15 +1470,15 @@
               <y:Geometry height="40.0" width="40.0" x="900.0" y="901.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="80.767578125" x="-20.3837890625" xml:space="preserve" y="9.755859375">15(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="80.767578125" x="-20.3837890625" xml:space="preserve" y="-22.48828125">15(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n86">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PLA2G4C]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q9UP65]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:9037]]></data>
+          <data key="d4" xml:space="preserve">PLA2G4C</data>
+          <data key="d5" xml:space="preserve">Q9UP65</data>
+          <data key="d6" xml:space="preserve">HGNC:9037</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1493,7 +1493,7 @@
           </data>
         </node>
         <node id="n0::n87">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15554]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15554</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1508,7 +1508,7 @@
           </data>
         </node>
         <node id="n0::n88">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15651]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15651</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1523,7 +1523,7 @@
           </data>
         </node>
         <node id="n0::n89">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15551]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15551</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1538,7 +1538,7 @@
           </data>
         </node>
         <node id="n0::n90">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34505]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:34505</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1548,12 +1548,12 @@
               <y:Geometry height="40.0" width="40.0" x="3316.0" y="780.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="120.060546875" x="-40.0302734375" xml:space="preserve" y="9.755859375">8-iso-PGF2alpha<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="120.060546875" x="-40.0302734375" xml:space="preserve" y="42.0">8-iso-PGF2alpha<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n91">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:72816]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:72816</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1568,7 +1568,7 @@
           </data>
         </node>
         <node id="n0::n92">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:28099]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:28099</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1578,15 +1578,15 @@
               <y:Geometry height="40.0" width="40.0" x="3428.0" y="1520.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.7607421875" x="0.61962890625" xml:space="preserve" y="9.755859375">PGB2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.7607421875" x="0.61962890625" xml:space="preserve" y="42.0">PGB2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n93">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
+          <data key="d4" xml:space="preserve">ALOX5</data>
+          <data key="d5" xml:space="preserve">P09917</data>
+          <data key="d6" xml:space="preserve">HGNC:435</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1602,9 +1602,9 @@
         </node>
         <node id="n0::n94">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ABCC6]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[O95255]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:57]]></data>
+          <data key="d4" xml:space="preserve">ABCC6</data>
+          <data key="d5" xml:space="preserve">O95255</data>
+          <data key="d6" xml:space="preserve">HGNC:57</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1620,9 +1620,9 @@
         </node>
         <node id="n0::n95">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[DPEP2]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q9H4A9]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:23028]]></data>
+          <data key="d4" xml:space="preserve">DPEP2</data>
+          <data key="d5" xml:space="preserve">Q9H4A9</data>
+          <data key="d6" xml:space="preserve">HGNC:23028</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1637,7 +1637,7 @@
           </data>
         </node>
         <node id="n0::n96">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34151]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:34151</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1662,15 +1662,15 @@
               <y:Geometry height="40.0" width="40.0" x="2116.0" y="880.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="160.0166015625" x="-60.00830078125" xml:space="preserve" y="9.755859375">15-hydroperoxy-TXA2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="160.0166015625" x="-60.00830078125" xml:space="preserve" y="42.0">15-hydroperoxy-TXA2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n98">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
+          <data key="d4" xml:space="preserve">ALOX5</data>
+          <data key="d5" xml:space="preserve">P09917</data>
+          <data key="d6" xml:space="preserve">HGNC:435</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1685,7 +1685,7 @@
           </data>
         </node>
         <node id="n0::n99">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:136401]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:136401</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1695,15 +1695,15 @@
               <y:Geometry height="40.0" width="40.0" x="1132.0" y="1036.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="142.5302734375" x="-51.26513671875" xml:space="preserve" y="9.755859375">14(R),15(S)-diHpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="142.5302734375" x="-51.26513671875" xml:space="preserve" y="42.0">14(R),15(S)-diHpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n100">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[CYP4F3]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q08477]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:2646]]></data>
+          <data key="d4" xml:space="preserve">CYP4F3</data>
+          <data key="d5" xml:space="preserve">Q08477</data>
+          <data key="d6" xml:space="preserve">HGNC:2646</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1718,7 +1718,7 @@
           </data>
         </node>
         <node id="n0::n101">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:82627]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:82627</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1733,7 +1733,7 @@
           </data>
         </node>
         <node id="n0::n102">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63984]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:63984</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1743,12 +1743,12 @@
               <y:Geometry height="40.0" width="40.0" x="1284.0" y="1173.5"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="160.8095703125" x="-60.40478515625" xml:space="preserve" y="9.755859375">Eoxin C4 (14,15-LTC4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="160.8095703125" x="-60.40478515625" xml:space="preserve" y="42.0">Eoxin C4 (14,15-LTC4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n103">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34146]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:34146</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1758,15 +1758,15 @@
               <y:Geometry height="40.0" width="40.0" x="1068.0" y="403.00000273576086"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="80.767578125" x="-20.3837890625" xml:space="preserve" y="9.755859375">12(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="80.767578125" x="-20.3837890625" xml:space="preserve" y="42.0">12(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n104">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[AKR1C3]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P42330]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:386]]></data>
+          <data key="d4" xml:space="preserve">AKR1C3</data>
+          <data key="d5" xml:space="preserve">P42330</data>
+          <data key="d6" xml:space="preserve">HGNC:386</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1782,9 +1782,9 @@
         </node>
         <node id="n0::n105">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[HPGD]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P15428]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:5154]]></data>
+          <data key="d4" xml:space="preserve">HPGD</data>
+          <data key="d5" xml:space="preserve">P15428</data>
+          <data key="d6" xml:space="preserve">HGNC:5154</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1799,7 +1799,7 @@
           </data>
         </node>
         <node id="n0::n106">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:6498]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:6498</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1815,9 +1815,9 @@
         </node>
         <node id="n0::n107">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGES3]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q15185]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:16049]]></data>
+          <data key="d4" xml:space="preserve">PTGES3</data>
+          <data key="d5" xml:space="preserve">Q15185</data>
+          <data key="d6" xml:space="preserve">HGNC:16049</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1832,7 +1832,7 @@
           </data>
         </node>
         <node id="n0::n108">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34144]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:34144</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1847,7 +1847,7 @@
           </data>
         </node>
         <node id="n0::n109">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15647]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15647</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1862,7 +1862,7 @@
           </data>
         </node>
         <node id="n0::n110">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63985]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:63985</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1878,9 +1878,9 @@
         </node>
         <node id="n0::n111">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[CYP4F3]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q08477]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:2646]]></data>
+          <data key="d4" xml:space="preserve">CYP4F3</data>
+          <data key="d5" xml:space="preserve">Q08477</data>
+          <data key="d6" xml:space="preserve">HGNC:2646</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1895,7 +1895,7 @@
           </data>
         </node>
         <node id="n0::n112">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36222]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:36222</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1905,15 +1905,15 @@
               <y:Geometry height="40.0" width="40.0" x="324.0" y="1776.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="121.318359375" x="-40.6591796875" xml:space="preserve" y="9.755859375">Lipoxin E4 (LXE4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="121.318359375" x="-40.6591796875" xml:space="preserve" y="42.0">Lipoxin E4 (LXE4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n113">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGES2]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q9H7Z7]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:17822]]></data>
+          <data key="d4" xml:space="preserve">PTGES2</data>
+          <data key="d5" xml:space="preserve">Q9H7Z7</data>
+          <data key="d6" xml:space="preserve">HGNC:17822</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1929,9 +1929,9 @@
         </node>
         <node id="n0::n114">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[PTGES2]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q9H7Z7]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:17822]]></data>
+          <data key="d4" xml:space="preserve">PTGES2</data>
+          <data key="d5" xml:space="preserve">Q9H7Z7</data>
+          <data key="d6" xml:space="preserve">HGNC:17822</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -1946,7 +1946,7 @@
           </data>
         </node>
         <node id="n0::n115">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:91286]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:91286</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1961,7 +1961,7 @@
           </data>
         </node>
         <node id="n0::n116">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:6499]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:6499</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1971,12 +1971,12 @@
               <y:Geometry height="40.0" width="40.0" x="1332.0" y="1490.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="122.248046875" x="-41.1240234375" xml:space="preserve" y="9.755859375">Lipoxin B4 (LXB4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="122.248046875" x="-41.1240234375" xml:space="preserve" y="42.0">Lipoxin B4 (LXB4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n117">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15627]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15627</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -1986,15 +1986,15 @@
               <y:Geometry height="40.0" width="40.0" x="2116.0" y="1164.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="40.1279296875" x="-0.06396484375" xml:space="preserve" y="9.755859375">TXA2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="40.1279296875" x="-0.06396484375" xml:space="preserve" y="42.0">TXA2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n118">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[MGST2]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q99735]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:7063]]></data>
+          <data key="d4" xml:space="preserve">MGST2</data>
+          <data key="d5" xml:space="preserve">Q99735</data>
+          <data key="d6" xml:space="preserve">HGNC:7063</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -2009,7 +2009,7 @@
           </data>
         </node>
         <node id="n0::n119">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15552]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:15552</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2024,7 +2024,7 @@
           </data>
         </node>
         <node id="n0::n120">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:63984]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:63984</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2034,12 +2034,12 @@
               <y:Geometry height="40.0" width="40.0" x="325.0043243668334" y="1174.2221460406486"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="249.5810546875" x="-104.79052734375" xml:space="preserve" y="9.755859375">Eoxin C4 (14,15-LTC4) extracellular<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="249.5810546875" x="-104.79052734375" xml:space="preserve" y="-22.48828125">Eoxin C4 (14,15-LTC4) extracellular<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n121">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36221]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:36221</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2055,9 +2055,9 @@
         </node>
         <node id="n0::n122">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[LTC4S]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q16873]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:6719]]></data>
+          <data key="d4" xml:space="preserve">LTC4S</data>
+          <data key="d5" xml:space="preserve">Q16873</data>
+          <data key="d6" xml:space="preserve">HGNC:6719</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -2082,15 +2082,15 @@
               <y:Geometry height="40.0" width="40.0" x="2940.0" y="900.0"/>
               <y:Fill color="#F0EDDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="158.1845703125" x="-59.09228515625" xml:space="preserve" y="9.755859375">15-hydroperoxy-PGE2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="158.1845703125" x="-59.09228515625" xml:space="preserve" y="42.0">15-hydroperoxy-PGE2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n124">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[ALOX5]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[P09917]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:435]]></data>
+          <data key="d4" xml:space="preserve">ALOX5</data>
+          <data key="d5" xml:space="preserve">P09917</data>
+          <data key="d6" xml:space="preserve">HGNC:435</data>
           <data key="d8"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
@@ -2123,7 +2123,7 @@
           </data>
         </node>
         <node id="n0::n126">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:50858]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:50858</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2133,12 +2133,12 @@
               <y:Geometry height="40.0" width="40.0" x="2696.6614884369415" y="444.0"/>
               <y:Fill color="#FFE287" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="107.564453125" x="-33.7822265625" xml:space="preserve" y="9.755859375">Corticosteroids<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="107.564453125" x="-33.7822265625" xml:space="preserve" y="-22.48828125">Corticosteroids<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n127">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:46195]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:46195</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2148,12 +2148,12 @@
               <y:Geometry height="40.0" width="40.0" x="2460.0" y="228.0"/>
               <y:Fill color="#FFE287" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="86.5849609375" x="-23.29248046875" xml:space="preserve" y="9.755859375">Paracetamol<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="86.5849609375" x="-23.29248046875" xml:space="preserve" y="-22.48828125">Paracetamol<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n128">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:6129]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:6129</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2163,12 +2163,12 @@
               <y:Geometry height="40.0" width="40.0" x="2396.0" y="252.0"/>
               <y:Fill color="#FFE287" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="68.052734375" x="-14.0263671875" xml:space="preserve" y="9.755859375">Ketorolac<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="68.052734375" x="-14.0263671875" xml:space="preserve" y="-22.48828125">Ketorolac<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n129">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:6128]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:6128</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2178,12 +2178,12 @@
               <y:Geometry height="40.0" width="40.0" x="2340.0" y="268.0"/>
               <y:Fill color="#FFE287" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="79.55078125" x="-19.775390625" xml:space="preserve" y="9.755859375">Ketoprofen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="79.55078125" x="-19.775390625" xml:space="preserve" y="-22.48828125">Ketoprofen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n130">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:47381]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:47381</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2193,12 +2193,12 @@
               <y:Geometry height="40.0" width="40.0" x="2275.0084572139476" y="308.0"/>
               <y:Fill color="#FFE287" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="74.888671875" x="-17.4443359375" xml:space="preserve" y="9.755859375">Diclofenac<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="74.888671875" x="-17.4443359375" xml:space="preserve" y="-22.48828125">Diclofenac<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n131">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:5855]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:5855</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2208,12 +2208,12 @@
               <y:Geometry height="40.0" width="40.0" x="2220.0" y="348.0"/>
               <y:Fill color="#FFE287" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="70.30859375" x="-15.154296875" xml:space="preserve" y="9.755859375">Ibuprofen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="70.30859375" x="-15.154296875" xml:space="preserve" y="-22.48828125">Ibuprofen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n132">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:7476]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:7476</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2223,12 +2223,12 @@
               <y:Geometry height="40.0" width="40.0" x="2107.0001416522373" y="428.0"/>
               <y:Fill color="#FFE287" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="70.2880859375" x="-15.14404296875" xml:space="preserve" y="9.755859375">Naproxen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="70.2880859375" x="-15.14404296875" xml:space="preserve" y="42.0">Naproxen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n133">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:41423]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:41423</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2238,12 +2238,12 @@
               <y:Geometry height="40.0" width="40.0" x="2036.0000000000002" y="468.0"/>
               <y:Fill color="#FFE287" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="70.5478515625" x="-15.273925781250227" xml:space="preserve" y="9.755859375">Celecoxib<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="70.5478515625" x="-15.273925781250227" xml:space="preserve" y="42.0">Celecoxib<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n134">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:8887]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:8887</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -2253,12 +2253,12 @@
               <y:Geometry height="40.0" width="40.0" x="2156.0" y="387.0000000000002"/>
               <y:Fill color="#FFE287" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="71.6142578125" x="-15.80712890625" xml:space="preserve" y="9.755859375">Rofecoxib<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="71.6142578125" x="-15.80712890625" xml:space="preserve" y="-22.48828125">Rofecoxib<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="-2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n135">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:137749]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:137749</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -4087,7 +4087,7 @@
       </graph>
     </node>
     <node id="n1">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15551]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:15551</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -4097,12 +4097,12 @@
           <y:Geometry height="40.0" width="40.0" x="3180.0" y="2148.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.2958984375" x="0.85205078125" xml:space="preserve" y="9.755859375">PGE2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.2958984375" x="0.85205078125" xml:space="preserve" y="42.0">PGE2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n2">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15552]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:15552</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -4112,12 +4112,12 @@
           <y:Geometry height="40.0" width="40.0" x="1621.0" y="2276.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="34.7412109375" x="2.62939453125" xml:space="preserve" y="9.755859375">PGI2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="34.7412109375" x="2.62939453125" xml:space="preserve" y="42.0">PGI2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n3">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15647]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:15647</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -4127,7 +4127,7 @@
           <y:Geometry height="40.0" width="40.0" x="540.0" y="2248.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="37.22265625" x="1.388671875" xml:space="preserve" y="9.755859375">LTB4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="37.22265625" x="1.388671875" xml:space="preserve" y="42.0">LTB4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
@@ -4324,7 +4324,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-10.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -4471,7 +4471,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="10.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -4649,7 +4649,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="10.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -4948,7 +4948,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-10.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -5084,7 +5084,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="10.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -5345,7 +5345,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="-10.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -5952,7 +5952,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-10.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -6029,7 +6029,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-18.47759065022592" ty="19.5"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -6415,7 +6415,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="18.47759065022592" ty="19.5"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -6863,7 +6863,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="10.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -6924,7 +6924,7 @@
       <data key="d12"/>
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="10.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
