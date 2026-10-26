@@ -1,32 +1,5 @@
 [
 {
-"id": "pd65-eicosanoids",
-"title": "Eicosanoids (mast cell)",
-"topic": "Eicosanoids",
-"group": "Mast cell",
-"kind": null,
-"tag": null,
-"tab": "v14",
-"image": "files/pd65-eicosanoids.svg",
-"width": 3646.0,
-"height": 2329.0,
-"scale": 1,
-"annotation": "data/pd65-eicosanoids.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pd65-eicosanoids.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pd65-eicosanoids.svg"
-}
-],
-"data": "data/pd65-eicosanoids-text.json",
-"hasText": true
-},
-{
 "id": "pd65-eicosanoids-v15",
 "title": "Eicosanoids (mast cell)",
 "topic": "Eicosanoids",
@@ -54,60 +27,6 @@
 "hasText": true
 },
 {
-"id": "pd65-eicosanoids-tree-v01",
-"title": "Eicosanoids (mast cell)",
-"topic": "Eicosanoids",
-"group": "Mast cell",
-"kind": null,
-"tag": null,
-"tab": "tree v01",
-"image": "files/pd65-eicosanoids-tree-v01.svg",
-"width": 4399.0,
-"height": 2282.0,
-"scale": 1,
-"annotation": "data/pd65-eicosanoids-tree-v01.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pd65-eicosanoids-tree-v01.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pd65-eicosanoids-tree-v01.svg"
-}
-],
-"data": "data/pd65-eicosanoids-tree-v01-text.json",
-"hasText": true
-},
-{
-"id": "pd65-eicosanoids-tree-v02",
-"title": "Eicosanoids (mast cell)",
-"topic": "Eicosanoids",
-"group": "Mast cell",
-"kind": null,
-"tag": null,
-"tab": "tree v02",
-"image": "files/pd65-eicosanoids-tree-v02.svg",
-"width": 4360.0,
-"height": 2282.0,
-"scale": 1,
-"annotation": "data/pd65-eicosanoids-tree-v02.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pd65-eicosanoids-tree-v02.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pd65-eicosanoids-tree-v02.svg"
-}
-],
-"data": "data/pd65-eicosanoids-tree-v02-text.json",
-"hasText": true
-},
-{
 "id": "pd65-eicosanoids-grow",
 "title": "Eicosanoids (mast cell)",
 "topic": "Eicosanoids",
@@ -116,8 +35,8 @@
 "tag": null,
 "tab": "grow",
 "image": "files/pd65-eicosanoids-grow.svg",
-"width": 5225.0,
-"height": 2226.0,
+"width": 5872.0,
+"height": 4770.0,
 "scale": 1,
 "annotation": "data/pd65-eicosanoids-grow.json",
 "imageError": null,
