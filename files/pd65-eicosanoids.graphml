@@ -200,7 +200,7 @@
           </data>
         <data key="d1">PTGR1</data><data key="d2">Q14914</data><data key="d3">HGNC:18429</data></node><node id="sa42"><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="2688.0" y="708.0"/>
+              <y:Geometry height="40.0" width="80.0" x="2688.0" y="708.8524204471258"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="16.25" xml:space="preserve" y="9.75" hasText="true">PTGS1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -565,7 +565,7 @@
       </data>
     </node><node id="sa101"><data key="d0">CHEBI:64095</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="1172.0" y="1276.0"/>
+          <y:Geometry height="40.0" width="40.0" x="1172.0" y="1278.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="161.5" x="-60.75" xml:space="preserve" y="9.75" hasText="true">5,6-Ep-15(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -597,7 +597,7 @@
       </data>
     </node><node id="sa107"><data key="d0">CHEBI:90979</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="564.0" y="708.0"/>
+          <y:Geometry height="40.0" width="40.0" x="564.0" y="716.8644781767736"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="133.0" x="-46.5" xml:space="preserve" y="42.0" hasText="true">5(S),20-diHETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="2.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -795,7 +795,7 @@
           </data>
         <data key="d1">ALOX12</data><data key="d2">P18054</data><data key="d3">HGNC:429</data></node><node id="sa132"><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="624.0" y="681.9093142788025"/>
+              <y:Geometry height="40.0" width="80.0" x="624.0" y="683.5"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">CYP4F2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -877,7 +877,7 @@
       </data>
     </node><node id="sa147"><data key="d0">CHEBI:15651</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="780.0" y="1076.0"/>
+          <y:Geometry height="40.0" width="40.0" x="780.0" y="1075.0675849328427"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">LTA4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -885,7 +885,7 @@
       </data>
     </node><node id="sa149"><data key="d0">CHEBI:15551</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="3180.0" y="1164.0"/>
+          <y:Geometry height="40.0" width="40.0" x="3180.0" y="1183.5"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">PGE2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1042,7 +1042,7 @@
           </data>
         <data key="d1">HPGD</data><data key="d2">P15428</data><data key="d3">HGNC:5154</data></node><node id="sa174"><data key="d0">CHEBI:6498</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="1172.0" y="1460.0"/>
+          <y:Geometry height="40.0" width="40.0" x="1172.0" y="1462.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="161.5" x="-60.75" xml:space="preserve" y="9.75" hasText="true">Lipoxin A4 (LXA4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1134,7 +1134,7 @@
       </data>
     </node><node id="sa190"><data key="d0">CHEBI:6499</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="1332.0" y="1491.000006680603"/>
+          <y:Geometry height="40.0" width="40.0" x="1332.0" y="1490.0"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="161.5" x="-60.75" xml:space="preserve" y="9.75" hasText="true">Lipoxin B4 (LXB4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1169,7 +1169,7 @@
       </data>
     </node><node id="sa195"><data key="d0">CHEBI:63984</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="325.0043243668334" y="1176.0"/>
+          <y:Geometry height="40.0" width="40.0" x="325.0043243668334" y="1174.2221460406486"/>
           <y:Fill color="#F0EDDE" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="332.5" x="-146.25" xml:space="preserve" y="9.75" hasText="true">Eoxin C4 (14,15-LTC4) extracellular<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2541,7 +2541,7 @@
     <edge id="re3_sa61" source="sa61" target="re3">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="-16.0" sy="19.5" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="10.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -2551,7 +2551,7 @@
     <edge id="re3_sa107" source="re3" target="sa107">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="18.477590650225693" ty="8.86447817677356"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -2561,7 +2561,7 @@
     <edge id="re3_sa132_catalysis" source="sa132" target="re3">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="1.5906857211974739" tx="-10.090685721197506" ty="-8.5"/>
+          <y:Path sx="0.0" sy="0.0" tx="-10.090685721197506" ty="-8.5"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
@@ -2581,7 +2581,7 @@
     <edge id="re4_sa111" source="sa111" target="re4">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="-20.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -2681,7 +2681,7 @@
     <edge id="re9_sa195" source="re9" target="sa195">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="18.477590650225693" ty="8.222146040648568"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="10.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -2701,7 +2701,7 @@
     <edge id="re10_sa174" source="re10" target="sa174">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-18.47759065022592" ty="-8.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-10.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -2731,7 +2731,7 @@
     <edge id="re12_sa190" source="re12" target="sa190">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-18.47759065022592" ty="8.999993319396935"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="10.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -2861,7 +2861,7 @@
     <edge id="re22_sa25" source="sa25" target="re22">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="20.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="2960.0" y="800.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="2960.0" y="800.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -3161,7 +3161,7 @@
     <edge id="re36_sa82" source="sa82" target="re36">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="-20.0" tx="0.0" ty="0.0"><y:Point x="1304.0" y="224.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1304.0" y="224.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -3241,7 +3241,7 @@
     <edge id="re38_sa42_catalysis" source="sa42" target="re38">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="-9.147579552874163" tx="-8.849959792215957" ty="-9.14757955287413"/>
+          <y:Path sx="0.0" sy="-10.0" tx="-8.849959792215957" ty="-9.14757955287413"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
@@ -3261,7 +3261,7 @@
     <edge id="re41_sa147" source="sa147" target="re41">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="16.0" sy="-0.9324150671573079" tx="0.0" ty="0.0"><y:Point x="1192.0" y="1095.0675849328427"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1192.0" y="1095.0675849328427"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -3271,7 +3271,7 @@
     <edge id="re41_sa101" source="re41" target="sa101">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-20.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -3371,7 +3371,7 @@
     <edge id="re47_sa89" source="sa89" target="re47">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="-7.653668647301856" sy="13.125" tx="0.0" ty="0.0"><y:Point x="1224.0" y="1008.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1224.0" y="1008.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -3451,7 +3451,7 @@
     <edge id="re51_sa149" source="re51" target="sa149">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-20.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -3581,7 +3581,7 @@
     <edge id="re59_sa146" source="sa146" target="re59">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -3631,7 +3631,7 @@
     <edge id="re63_sa147" source="sa147" target="re63">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -3911,7 +3911,7 @@
     <edge id="re76_sa146" source="sa146" target="re76">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="-20.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1768.0" y="1056.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1768.0" y="1056.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -3951,7 +3951,7 @@
     <edge id="re78_sa89" source="re78" target="sa89">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="20.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -4021,7 +4021,7 @@
     <edge id="re83_sa101" source="sa101" target="re83">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4031,7 +4031,7 @@
     <edge id="re83_sa174" source="re83" target="sa174">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-20.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -4051,7 +4051,7 @@
     <edge id="re85_sa149" source="sa149" target="re85">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="18.477590650225466" sy="19.5" tx="0.0" ty="0.0"><y:Point x="3448.0" y="1204.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="3448.0" y="1204.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4071,7 +4071,7 @@
     <edge id="re86_sa147" source="sa147" target="re86">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="-19.5" sy="-0.9324150671573079" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4111,7 +4111,7 @@
     <edge id="re90_sa111" source="sa111" target="re90">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4181,7 +4181,7 @@
     <edge id="re92_sa61" source="sa61" target="re92">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="-20.0" tx="0.0" ty="0.0"><y:Point x="1088.0" y="537.0408605870688"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="1088.0" y="537.0408605870688"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4201,7 +4201,7 @@
     <edge id="re94_sa146" source="sa146" target="re94">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="20.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="2928.0" y="1056.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="2928.0" y="1056.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4301,7 +4301,7 @@
     <edge id="re98_sa101" source="sa101" target="re98">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="18.47759065022592" sy="12.0" tx="0.0" ty="0.0"><y:Point x="1512.0" y="1308.0"/></y:Path>
+          <y:Path sx="0.0" sy="10.0" tx="0.0" ty="0.0"><y:Point x="1512.0" y="1308.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4351,7 +4351,7 @@
     <edge id="re101_sa89" source="sa89" target="re101">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="-20.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4451,7 +4451,7 @@
     <edge id="re108_sa82" source="sa82" target="re108">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4481,7 +4481,7 @@
     <edge id="re109_sa149" source="sa149" target="re109">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="-18.477590650225466" sy="19.5" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4531,7 +4531,7 @@
     <edge id="re110_sa85" source="re110" target="sa85">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-20.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -4681,7 +4681,7 @@
     <edge id="re119_sa7_catalysis" source="sa7" target="re119">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="-40.0" sy="-9.081746742385917" tx="9.0" ty="9.0"/>
+          <y:Path sx="0.0" sy="-10.0" tx="9.0" ty="9.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
@@ -4691,7 +4691,7 @@
     <edge id="re122_sa195" source="sa195" target="re122">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4761,7 +4761,7 @@
     <edge id="re124_sa25" source="sa25" target="re124">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4771,7 +4771,7 @@
     <edge id="re124_sa146" source="re124" target="sa146">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-20.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -4981,7 +4981,7 @@
     <edge id="re131_sa174" source="sa174" target="re131">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="20.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -5051,7 +5051,7 @@
     <edge id="re133_sa111" source="sa111" target="re133">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="-14.142135623731065" sy="19.5" tx="0.0" ty="0.0"><y:Point x="800.0" y="748.0"/></y:Path>
+          <y:Path sx="0.0" sy="10.0" tx="0.0" ty="0.0"><y:Point x="800.0" y="748.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -5061,7 +5061,7 @@
     <edge id="re133_sa147" source="re133" target="sa147">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-20.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
