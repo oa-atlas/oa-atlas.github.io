@@ -1325,62 +1325,6 @@
 ]
 },
 {
-"label": "DHRS4",
-"class": "Macromolecule",
-"box": [
-3076.0,
-1429.5,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Dehydrogenase/reductase SDR family member 4"
-],
-[
-"Alternative names",
-"NADPH-dependent carbonyl reductase; NADPH-dependent retinol dehydrogenase/reductase; Peroxisomal short-chain alcohol dehydrogenase; SCAD-SRL; Short chain dehydrogenase/reductase family 25C member 2; Short-chain dehydrogenase/reductase family member 4"
-],
-[
-"Function",
-"NADPH-dependent oxidoreductase which catalyzes the reduction of a variety of compounds bearing carbonyl groups including ketosteroids, alpha-dicarbonyl compounds, aldehydes, aromatic ketones and quinones. Reduces 3-ketosteroids and benzil into 3beta-hydroxysteroids and R-benzoin, respectively, in contrast to the stereoselectivity of non-primate DHRS4s which produce 3alpha-hydroxysteroids and S-benzoin."
-],
-[
-"Location",
-"Peroxisome, Nucleus"
-],
-[
-"HGNC",
-"HGNC:16985"
-],
-[
-"HGNC symbol",
-"DHRS4"
-],
-[
-"Alias symbols",
-"SCAD-SRL, SDR-SRL, humNRDR, FLJ11008, SDR25C2"
-],
-[
-"Entrez",
-"10901"
-],
-[
-"Ensembl",
-"ENSG00000157326"
-],
-[
-"RefSeq",
-"NM_001282987"
-],
-[
-"UniProt",
-"Q9BTZ2"
-]
-]
-},
-{
 "label": "PGJ2",
 "class": "SimpleChemical",
 "box": [
@@ -1429,7 +1373,7 @@
 ]
 },
 {
-"label": "CBR3",
+"label": "CBR1",
 "class": "Macromolecule",
 "box": [
 2972.0,
@@ -1440,15 +1384,15 @@
 "props": [
 [
 "Full name",
-"Carbonyl reductase [NADPH] 3"
+"Carbonyl reductase [NADPH] 1"
 ],
 [
 "Alternative names",
-"NADPH-dependent carbonyl reductase 3; Quinone reductase CBR3; Short chain dehydrogenase/reductase family 21C member 2"
+"15-hydroxyprostaglandin dehydrogenase [NADP(+)]; 20-beta-hydroxysteroid dehydrogenase; Alcohol dehydrogenase [NAD(P)+] CBR1; NADPH-dependent carbonyl reductase 1; Prostaglandin 9-ketoreductase; Prostaglandin-E(2) 9-reductase; Short chain dehydrogenase/reductase family 21C member 1"
 ],
 [
 "Function",
-"Catalyzes the NADPH-dependent reduction of carbonyl compounds to their corresponding alcohols. Has low NADPH-dependent oxidoreductase activity."
+"NADPH-dependent reductase with broad substrate specificity. Catalyzes the reduction of a wide variety of carbonyl compounds including quinones, prostaglandins, menadione, plus various xenobiotics."
 ],
 [
 "Location",
@@ -1456,31 +1400,35 @@
 ],
 [
 "HGNC",
-"HGNC:1549"
+"HGNC:1548"
 ],
 [
 "HGNC symbol",
-"CBR3"
+"CBR1"
+],
+[
+"Previous symbols",
+"CBR"
 ],
 [
 "Alias symbols",
-"SDR21C2"
+"SDR21C1"
 ],
 [
 "Entrez",
-"874"
+"873"
 ],
 [
 "Ensembl",
-"ENSG00000159231"
+"ENSG00000159228"
 ],
 [
 "RefSeq",
-"NM_001236"
+"NM_001286789"
 ],
 [
 "UniProt",
-"O75828"
+"P16152"
 ]
 ]
 },
@@ -1945,7 +1893,7 @@
 ]
 },
 {
-"label": "MDP1",
+"label": "DPEP1",
 "class": "Macromolecule",
 "box": [
 148.0,
@@ -1956,39 +1904,43 @@
 "props": [
 [
 "Full name",
-"Magnesium-dependent phosphatase 1"
+"Dipeptidase 1"
+],
+[
+"Alternative names",
+"Beta-lactamase; Dehydropeptidase-I; Microsomal dipeptidase; Renal dipeptidase"
 ],
 [
 "Function",
-"Magnesium-dependent phosphatase which may act as a tyrosine phosphatase"
+"Hydrolyzes a wide range of dipeptides including the conversion of leukotriene D4 to leukotriene E4. Hydrolyzes cystinyl-bis-glycine (cys-bis-gly) formed during glutathione degradation."
+],
+[
+"Location",
+"Apical cell membrane, Cell projection, microvillus membrane"
 ],
 [
 "HGNC",
-"HGNC:28781"
+"HGNC:3002"
 ],
 [
 "HGNC symbol",
-"MDP1"
-],
-[
-"Alias symbols",
-"MGC5987, FN6Pase"
+"DPEP1"
 ],
 [
 "Entrez",
-"145553"
+"1800"
 ],
 [
 "Ensembl",
-"ENSG00000213920"
+"ENSG00000015413"
 ],
 [
 "RefSeq",
-"NM_138476"
+"NM_001128141"
 ],
 [
 "UniProt",
-"Q86V88"
+"P16444"
 ]
 ]
 },
@@ -2273,6 +2225,50 @@
 ]
 },
 {
+"label": "11-epi-PGF2alpha",
+"class": "SimpleChemical",
+"box": [
+2752.4,
+1396.7,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"11-epi-prostaglandin F2alpha"
+],
+[
+"Synonyms",
+"(5Z,13E,15S)-9alpha,11beta,15-trihydroxyprosta-5,13-dien-1-oic acid; 11-epi-PGF2a; 11-epi-PGF2alpha; 11-epi-Prostaglandin F2a; 11beta-PGF2alpha; 11beta-prostaglandin F2alpha"
+],
+[
+"Definition",
+"The prostaglandin F that is the 11-epimer of prostaglandin F2α."
+],
+[
+"Formula",
+"C20H34O5"
+],
+[
+"ChEBI",
+"CHEBI:27595"
+],
+[
+"KEGG",
+"C05959"
+],
+[
+"InChI",
+"InChI=1S/C20H34O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-19,21-23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,18-,19-/m0/s1"
+],
+[
+"InChIKey",
+"PXGPLTODNUVGFL-ZWAKLXPCSA-N"
+]
+]
+},
+{
 "label": "TBXAS1",
 "class": "Macromolecule",
 "box": [
@@ -2481,7 +2477,7 @@
 ]
 },
 {
-"label": "Thioredoxin B3 (TrXB3)",
+"label": "Trioxilin B3 (TrXB3)",
 "class": "SimpleChemical",
 "box": [
 600.0,
@@ -3105,7 +3101,7 @@
 ]
 },
 {
-"label": "Thioredoxin A3 (TrXA3)",
+"label": "Trioxilin A3 (TrXA3)",
 "class": "SimpleChemical",
 "box": [
 600.0,
@@ -3920,8 +3916,8 @@
 "label": "ALOX12B",
 "class": "Macromolecule",
 "box": [
-2492.0,
-797.7,
+1461.0,
+18.0,
 80.0,
 40.0
 ],
@@ -5981,6 +5977,62 @@
 [
 "UniProt",
 "P09917"
+]
+]
+},
+{
+"label": "ABCC4",
+"class": "Macromolecule",
+"box": [
+3268.0,
+2107.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP-binding cassette sub-family C member 4"
+],
+[
+"Alternative names",
+"MRP/cMOAT-related ABC transporter; Multi-specific organic anion transporter B; Multidrug resistance-associated protein 4"
+],
+[
+"Function",
+"ATP-dependent transporter of the ATP-binding cassette (ABC) family that actively extrudes physiological compounds and xenobiotics from cells. Transports a range of endogenous molecules that have a key role in cellular communication and signaling, including cyclic nucleotides such as cyclic AMP (cAMP) and cyclic GMP (cGMP), bile acids, steroid conjugates, urate, and prostaglandins."
+],
+[
+"Location",
+"Basolateral cell membrane, Apical cell membrane"
+],
+[
+"HGNC",
+"HGNC:55"
+],
+[
+"HGNC symbol",
+"ABCC4"
+],
+[
+"Alias symbols",
+"MRP4, EST170205, MOAT-B, MOATB"
+],
+[
+"Entrez",
+"10257"
+],
+[
+"Ensembl",
+"ENSG00000125257"
+],
+[
+"RefSeq",
+"NM_005845"
+],
+[
+"UniProt",
+"O15439"
 ]
 ]
 },
