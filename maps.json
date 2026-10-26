@@ -35,8 +35,8 @@
 "tag": null,
 "tab": null,
 "image": "files/ltb4-ltb4r-gq.svg",
-"width": 1142.0,
-"height": 848.0,
+"width": 1320.0,
+"height": 1208.0,
 "scale": 1,
 "annotation": "data/ltb4-ltb4r-gq.json",
 "imageError": null,
@@ -116,8 +116,8 @@
 "tag": null,
 "tab": null,
 "image": "files/pgi2-ptgir-gs.svg",
-"width": 1346.0,
-"height": 848.0,
+"width": 1146.0,
+"height": 1188.0,
 "scale": 1,
 "annotation": "data/pgi2-ptgir-gs.json",
 "imageError": null,
@@ -162,30 +162,57 @@
 "hasText": true
 },
 {
-"id": "pge2-ptger1-h1-gq",
-"title": "PGE2 - PTGER1 and histamine - HRH1 - Gqα",
-"topic": "PGE2 - PTGER1 and histamine - HRH1 - Gqα",
+"id": "pge2-ptger1-gq",
+"title": "PGE2 - PTGER1 - Gqα",
+"topic": "PGE2 - PTGER1 - Gqα",
 "group": "Nociceptor",
 "kind": null,
 "tag": null,
 "tab": null,
-"image": "files/pge2-ptger1-h1-gq.svg",
-"width": 2582.0,
-"height": 848.0,
+"image": "files/pge2-ptger1-gq.svg",
+"width": 1162.0,
+"height": 1196.0,
 "scale": 1,
-"annotation": "data/pge2-ptger1-h1-gq.json",
+"annotation": "data/pge2-ptger1-gq.json",
 "imageError": null,
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/pge2-ptger1-h1-gq.graphml"
+"url": "files/pge2-ptger1-gq.graphml"
 },
 {
 "label": "SVG",
-"url": "files/pge2-ptger1-h1-gq.svg"
+"url": "files/pge2-ptger1-gq.svg"
 }
 ],
-"data": "data/pge2-ptger1-h1-gq-text.json",
+"data": "data/pge2-ptger1-gq-text.json",
+"hasText": true
+},
+{
+"id": "histamine-hrh1-gq",
+"title": "Histamine - HRH1 - Gqα",
+"topic": "Histamine - HRH1 - Gqα",
+"group": "Nociceptor",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/histamine-hrh1-gq.svg",
+"width": 1182.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/histamine-hrh1-gq.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/histamine-hrh1-gq.graphml"
+},
+{
+"label": "SVG",
+"url": "files/histamine-hrh1-gq.svg"
+}
+],
+"data": "data/histamine-hrh1-gq-text.json",
 "hasText": true
 },
 {
