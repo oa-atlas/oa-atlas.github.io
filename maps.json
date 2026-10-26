@@ -6,7 +6,7 @@
 "group": "Mast cell",
 "kind": null,
 "tag": null,
-"tab": null,
+"tab": "redrawn",
 "image": "files/eicosanoids-mast-cell.svg",
 "width": 4446.0,
 "height": 2580.0,
@@ -24,6 +24,33 @@
 }
 ],
 "data": "data/eicosanoids-mast-cell-text.json",
+"hasText": true
+},
+{
+"id": "pd65-eicosanoids",
+"title": "Eicosanoids (mast cell)",
+"topic": "Eicosanoids",
+"group": "Mast cell",
+"kind": null,
+"tag": null,
+"tab": "as in pd65",
+"image": "files/pd65-eicosanoids.svg",
+"width": 3616.0,
+"height": 2308.0,
+"scale": 1,
+"annotation": "data/pd65-eicosanoids.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-eicosanoids.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-eicosanoids.svg"
+}
+],
+"data": "data/pd65-eicosanoids-text.json",
 "hasText": true
 },
 {
