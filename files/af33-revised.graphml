@@ -11,7 +11,7 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="1087.5" width="5270.0" x="2760.0" y="2800.0"/>
+              <y:Geometry height="1087.5" width="5220.0" x="2760.0" y="2800.0"/>
               <y:Fill color="#99999908" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="95.0" x="5181.0" xml:space="preserve" y="896.0" hasText="true">NOCICEPTOR</y:NodeLabel>
@@ -408,35 +408,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="d1">ADRB2</data><data key="d2">P07550</data><data key="d3">HGNC:286</data></node><node id="sa61"><data key="dev_node">sa61</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="4880.0" y="3000.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">Gqα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa62"><data key="dev_node">sa62</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="4580.0" y="3040.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">Giα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa63"><data key="dev_node">sa63</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="4140.0" y="3000.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">Gsα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa65"><data key="dev_node">sa65</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="80.0" width="160.0" x="7830.0" y="3210.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.5" x="56.25" xml:space="preserve" y="29.75" hasText="true">TRP CHANNELS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa7"><data key="dev_node">sa7</data><data key="ng">
+        <data key="d1">ADRB2</data><data key="d2">P07550</data><data key="d3">HGNC:286</data></node><node id="sa7"><data key="dev_node">sa7</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="4780.0" y="3000.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -447,14 +419,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa73"><data key="dev_node">sa73</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="160.0" x="6120.0" y="3700.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="152.0" x="4.0" xml:space="preserve" y="9.75" hasText="true">ACTION POTENTIAL<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa87"><data key="dev_node">sa87</data><data key="ng">
+        </node><node id="sa87"><data key="dev_node">sa87</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="6640.0" y="2800.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -700,7 +665,7 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="1040.0" width="3506.0" x="3950.0" y="4270.0"/>
+              <y:Geometry height="1007.5" width="3506.0" x="3950.0" y="4270.0"/>
               <y:Fill color="#99999908" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="237.5" x="3492.0" xml:space="preserve" y="796.0" hasText="true">SPINAL NOCICEPTIVE NEURON</y:NodeLabel>
@@ -828,14 +793,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa270"><data key="dev_node">sa270</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="5921.0" y="4415.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">Giα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa272"><data key="dev_node">sa272</data><data key="ng">
+        </node><node id="sa272"><data key="dev_node">sa272</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="6516.0" y="4270.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -1032,21 +990,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">Na+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa70"><data key="dev_node">sa70</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="4300.0" y="4430.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">Gqα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa71"><data key="dev_node">sa71</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="100.0" x="4630.0" y="5070.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="31.0" xml:space="preserve" y="9.75" hasText="true">Ca2+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="af_kcc2"><data key="dev_node">af_kcc2</data><data key="d3">HGNC:13818</data><data key="d1">SLC12A5</data><data key="d2">Q9H2X9</data><data key="ng">
+    </node><node id="af_kcc2"><data key="dev_node">af_kcc2</data><data key="d3">HGNC:13818</data><data key="d1">SLC12A5</data><data key="d2">Q9H2X9</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40" width="80" x="4600.0" y="4270.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -1135,14 +1079,7 @@
             </y:GenericNode>
           </data>
         </node>
-      <node id="sa72"><data key="dev_node">sa72</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="160.0" x="4920.0" y="5230.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="152.0" x="4.0" xml:space="preserve" y="9.75" hasText="true">ACTION POTENTIAL<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node></graph></node><node id="ca5" yfiles.foldertype="group"><data key="dev_node">ca5</data><data key="ng">
+      </graph></node><node id="ca5" yfiles.foldertype="group"><data key="dev_node">ca5</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
@@ -5496,21 +5433,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="19.0" x="10.5" xml:space="preserve" y="9.75" hasText="true">K+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa103"><data key="dev_node">sa103</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="5540.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="114.0" x="3.0" xml:space="preserve" y="9.75" hasText="true">CANNABINOIDS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa104"><data key="dev_node">sa104</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="7020.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">ATP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa106"><data key="dev_node">sa106</data><data key="d0">CHEBI:29108</data><data key="ng">
+    </node><node id="sa106"><data key="dev_node">sa106</data><data key="d0">CHEBI:29108</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="8000.0" y="3440.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
@@ -5526,14 +5449,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">Na+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa110"><data key="dev_node">sa110</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="112.0" width="255.0" x="7972.5" y="3334.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="133.0" x="61.0" xml:space="preserve" y="45.75" hasText="true">Ca2+ TRANSPORT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa17"><data key="dev_node">sa17</data><data key="d0">CHEBI:3165</data><data key="ng">
+    </node><node id="sa17"><data key="dev_node">sa17</data><data key="d0">CHEBI:3165</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="4780.0" y="2651.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
@@ -5568,21 +5484,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="104.5" x="-32.25" xml:space="preserve" y="9.75" hasText="true">cannabinoid<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa274"><data key="dev_node">sa274</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="160.0" x="6571.0" y="4170.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="66.5" x="46.75" xml:space="preserve" y="9.75" hasText="true">OPIOIDS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa275"><data key="dev_node">sa275</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="6186.0" y="4175.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="114.0" x="3.0" xml:space="preserve" y="9.75" hasText="true">CANNABINOIDS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa277"><data key="dev_node">sa277</data><data key="ng">
+    </node><node id="sa277"><data key="dev_node">sa277</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="2800.0" y="2680.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -5604,14 +5506,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="d1">TNF</data><data key="d2">P01375</data><data key="d3">HGNC:11892</data></node><node id="sa285"><data key="dev_node">sa285</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="3180.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">TNF<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa289"><data key="dev_node">sa289</data><data key="ng">
+        <data key="d1">TNF</data><data key="d2">P01375</data><data key="d3">HGNC:11892</data></node><node id="sa289"><data key="dev_node">sa289</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="4440.0" y="4110.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -5622,35 +5517,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="d1">BDNF</data><data key="d2">P23560</data><data key="d3">HGNC:1033</data></node><node id="sa292"><data key="dev_node">sa292</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="80.0" width="160.0" x="4400.0" y="3980.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="61.0" xml:space="preserve" y="29.75" hasText="true">BDNF<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa299"><data key="dev_node">sa299</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="80.0" width="160.0" x="3960.0" y="3980.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="61.0" xml:space="preserve" y="29.75" hasText="true">CGRP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa300"><data key="dev_node">sa300</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="2760.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="104.5" x="7.75" xml:space="preserve" y="9.75" hasText="true">SUBSTANCE P<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa302"><data key="dev_node">sa302</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="112.0" width="255.0" x="7982.5" y="3594.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.5" x="65.75" xml:space="preserve" y="45.75" hasText="true">Na+ TRANSPORT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa312"><data key="dev_node">sa312</data><data key="d0">CHEBI:6754</data><data key="ng">
+        <data key="d1">BDNF</data><data key="d2">P23560</data><data key="d3">HGNC:1033</data></node><node id="sa312"><data key="dev_node">sa312</data><data key="d0">CHEBI:6754</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="5352.349722647007" y="2442.5978333643557"/>
           <y:Fill color="#FFE287" transparent="false"/>
@@ -5800,14 +5667,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="d1">CCL2</data><data key="d2">P13500</data><data key="d3">HGNC:10618</data></node><node id="sa395"><data key="dev_node">sa395</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="6280.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="41.0" xml:space="preserve" y="9.75" hasText="true">CCL2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa396"><data key="dev_node">sa396</data><data key="d0">CHEBI:33569</data><data key="ng">
+        <data key="d1">CCL2</data><data key="d2">P13500</data><data key="d3">HGNC:10618</data></node><node id="sa396"><data key="dev_node">sa396</data><data key="d0">CHEBI:33569</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="5800.0" y="2640.0"/>
           <y:Fill color="#E8E8DD" transparent="false"/>
@@ -5815,14 +5675,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.5" x="-41.75" xml:space="preserve" y="9.75" hasText="true">noradrenaline<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa400"><data key="dev_node">sa400</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="5920.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.5" x="-1.75" xml:space="preserve" y="9.75" hasText="true">NORADRENALINE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa401"><data key="dev_node">sa401</data><data key="d0">CHEBI:33569</data><data key="ng">
+    </node><node id="sa401"><data key="dev_node">sa401</data><data key="d0">CHEBI:33569</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="6956.0" y="4150.0"/>
           <y:Fill color="#E8E8DD" transparent="false"/>
@@ -5838,14 +5691,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.5" x="-41.75" xml:space="preserve" y="9.75" hasText="true">noradrenaline<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa405"><data key="dev_node">sa405</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="7116.0" y="4110.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.5" x="-1.75" xml:space="preserve" y="9.75" hasText="true">NORADRENALINE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa407"><data key="dev_node">sa407</data><data key="d0">CHEBI:89951</data><data key="ng">
+    </node><node id="sa407"><data key="dev_node">sa407</data><data key="d0">CHEBI:89951</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="7656.0" y="4150.0"/>
           <y:Fill color="#E8E8DD" transparent="false"/>
@@ -5864,14 +5710,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="d1">COMT</data><data key="d2">P21964</data><data key="d3">HGNC:2228</data></node><node id="sa409"><data key="dev_node">sa409</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="160.0" x="7716.0" y="4050.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="61.0" xml:space="preserve" y="9.75" hasText="true">COMT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa410"><data key="dev_node">sa410</data><data key="d0">CHEBI:89951</data><data key="ng">
+        <data key="d1">COMT</data><data key="d2">P21964</data><data key="d3">HGNC:2228</data></node><node id="sa410"><data key="dev_node">sa410</data><data key="d0">CHEBI:89951</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="6200.0" y="2640.0"/>
           <y:Fill color="#E8E8DD" transparent="false"/>
@@ -5890,14 +5729,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        <data key="d1">COMT</data><data key="d2">P21964</data><data key="d3">HGNC:2228</data></node><node id="sa412"><data key="dev_node">sa412</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="160.0" x="6240.0" y="2500.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="61.0" xml:space="preserve" y="9.75" hasText="true">COMT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa415"><data key="dev_node">sa415</data><data key="d0">CHEBI:33569</data><data key="ng">
+        <data key="d1">COMT</data><data key="d2">P21964</data><data key="d3">HGNC:2228</data></node><node id="sa415"><data key="dev_node">sa415</data><data key="d0">CHEBI:33569</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="7156.0" y="4150.0"/>
           <y:Fill color="#E8E8DD" transparent="false"/>
@@ -5913,91 +5745,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="41.0" xml:space="preserve" y="17.25" hasText="true">Pain<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa54"><data key="dev_node">sa54</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="4460.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="41.0" xml:space="preserve" y="9.75" hasText="true">PGE2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa55"><data key="dev_node">sa55</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="90.0" x="4035.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="41.0" xml:space="preserve" y="9.75" hasText="true">PGI2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa56"><data key="dev_node">sa56</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="160.0" x="4960.0" y="2360.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="66.5" x="46.75" xml:space="preserve" y="9.75" hasText="true">OPIOIDS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa57"><data key="dev_node">sa57</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="3820.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="41.0" xml:space="preserve" y="9.75" hasText="true">LTB4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa58"><data key="dev_node">sa58</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="200.0" x="4720.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="95.0" x="52.5" xml:space="preserve" y="9.75" hasText="true">BRADYKININ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa59"><data key="dev_node">sa59</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="180.0" x="4920.0" y="2460.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="85.5" x="47.25" xml:space="preserve" y="9.75" hasText="true">HISTAMINE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa60"><data key="dev_node">sa60</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="6480.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">NGF<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa66"><data key="dev_node">sa66</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="80.0" width="160.0" x="4160.0" y="3980.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="104.5" x="27.75" xml:space="preserve" y="29.75" hasText="true">SUBSTANCE P<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa67"><data key="dev_node">sa67</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="80.0" width="160.0" x="5300.0" y="3980.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="85.5" x="37.25" xml:space="preserve" y="29.75" hasText="true">GLUTAMATE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa68"><data key="dev_node">sa68</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="80.0" width="160.0" x="5180.0" y="4165.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="133.0" x="13.5" xml:space="preserve" y="29.75" hasText="true">NMDA RECEPTORS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa69"><data key="dev_node">sa69</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="80.0" width="160.0" x="5480.0" y="4165.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="133.0" x="13.5" xml:space="preserve" y="29.75" hasText="true">AMPA RECEPTORS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa74"><data key="dev_node">sa74</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="4620.0" y="5350.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="41.0" xml:space="preserve" y="9.75" hasText="true">PAIN<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="sa75"><data key="dev_node">sa75</data><data key="d0">CHEBI:16714</data><data key="ng">
+    </node><node id="sa75"><data key="dev_node">sa75</data><data key="d0">CHEBI:16714</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="5228.941714587698" y="2504.088900845312"/>
           <y:Fill color="#FFE287" transparent="false"/>
@@ -10698,14 +10446,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <node id="af_t_il1"><data key="dev_node">af_t_il1</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="3340.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">IL-1β<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="af_il1b"><data key="dev_node">af_il1b</data><data key="d3">HGNC:5992</data><data key="d1">IL1B</data><data key="d2">P01584</data><data key="ng">
+    <node id="af_il1b"><data key="dev_node">af_il1b</data><data key="d3">HGNC:5992</data><data key="d1">IL1B</data><data key="d2">P01584</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40" width="80" x="3340.0" y="2660.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -10764,14 +10505,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <node id="af_t_il6"><data key="dev_node">af_t_il6</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="120.0" x="3620.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">IL-6<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="af_il6">
+    <node id="af_il6">
       <data key="dev_node">af_il6</data><data key="d0" xml:space="preserve"/>
       <data key="d1" xml:space="preserve">IL6</data>
       <data key="d2" xml:space="preserve">P05231</data>
@@ -10853,14 +10587,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <node id="af_t_pgd2"><data key="dev_node">af_t_pgd2</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="90.0" x="4155.0" y="2420.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">PGD2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><edge id="af_eic_n2_sa2" source="eic_n2" target="sa2">
+    <edge id="af_eic_n2_sa2" source="eic_n2" target="sa2">
       <data key="dev_edge">af_eic_n2_sa2</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11276,14 +11003,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
         </y:PolyLineEdge>
       </data>
     </edge>
-    <node id="af_t_eic"><data key="dev_node">af_t_eic</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="160.0" x="8360.0" y="3120.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">EICOSANOIDS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="af_trp_15dPGJ2">
+    <node id="af_trp_15dPGJ2">
           <data key="dev_node">af_trp_15dPGJ2</data><data key="d0" xml:space="preserve">CHEBI:34159</data>
           <data key="d1" xml:space="preserve"/>
           <data key="d2" xml:space="preserve"/>
@@ -11662,14 +11382,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
         </y:PolyLineEdge>
       </data>
     </edge>
-    <node id="af_t_inh"><data key="dev_node">af_t_inh</data><data key="ng">
-        <y:GenericNode configuration="com.yworks.sbgn.UnspecifiedEntity">
-          <y:Geometry height="40.0" width="200.0" x="4740.0" y="3990.0"/>
-          <y:Fill color="#FFFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="45.75" xml:space="preserve" y="9.75" hasText="true">GABA AND GLYCINE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-        </y:GenericNode>
-      </data></node><node id="af_gaba"><data key="dev_node">af_gaba</data><data key="d0">CHEBI:16865</data><data key="ng">
+    <node id="af_gaba"><data key="dev_node">af_gaba</data><data key="d0">CHEBI:16865</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40" width="40" x="4800.0" y="4110.0"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
