@@ -20,14 +20,13 @@
   <key for="edge" id="d16" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
     <node id="n0">
-      <data key="d3"/>
+      <data key="d3" xml:space="preserve"/>
       <data key="d4" xml:space="preserve">IL6</data>
       <data key="d5" xml:space="preserve">P05231</data>
       <data key="d6" xml:space="preserve">HGNC:6018</data>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d11"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
       <data key="d12">
         <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
           <y:Geometry height="40.0" width="80.0" x="240.0" y="60.573695345557155"/>
@@ -41,14 +40,13 @@
       </data>
     </node>
     <node id="n1">
-      <data key="d3"/>
+      <data key="d3" xml:space="preserve"/>
       <data key="d4" xml:space="preserve">IL6R</data>
       <data key="d5" xml:space="preserve">P08887</data>
       <data key="d6" xml:space="preserve">HGNC:6019</data>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d11"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
       <data key="d12">
         <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
           <y:Geometry height="40.0" width="80.0" x="336.13540197461214" y="125.0352609308886"/>
@@ -62,14 +60,13 @@
       </data>
     </node>
     <node id="n2">
-      <data key="d3"/>
-      <data key="d4"/>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d11"/>
+      <data key="d3" xml:space="preserve"/>
+      <data key="d4" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
       <data key="d12">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="271.0" y="165.82369534555713"/>
@@ -87,14 +84,13 @@
       </data>
     </node>
     <node id="n3" yfiles.foldertype="group">
-      <data key="d3"/>
-      <data key="d4"/>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d11"/>
+      <data key="d3" xml:space="preserve"/>
+      <data key="d4" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
       <data key="d12">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -102,7 +98,7 @@
               <y:Geometry height="140.48828125" width="104.0" x="228.0" y="253.505859375"/>
               <y:Fill color="#F7F7F7" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.9833984375" x="23.00830078125" xml:space="preserve" y="112.01171875">IL6:IL6R</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.9833984375" x="23.00830078125" xml:space="preserve" y="112.0">IL6:IL6R</y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
@@ -129,14 +125,13 @@
       </data>
       <graph edgedefault="directed" id="n3:">
         <node id="n3::n0">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">IL6</data>
           <data key="d5" xml:space="preserve">P05231</data>
           <data key="d6" xml:space="preserve">HGNC:6018</data>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="240.0" y="269.505859375"/>
@@ -150,14 +145,13 @@
           </data>
         </node>
         <node id="n3::n1">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">IL6R</data>
           <data key="d5" xml:space="preserve">P08887</data>
           <data key="d6" xml:space="preserve">HGNC:6019</data>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="240.0" y="317.505859375"/>
@@ -173,26 +167,25 @@
       </graph>
     </node>
     <node id="n4" yfiles.foldertype="group">
-      <data key="d3"/>
-      <data key="d4"/>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d11"/>
+      <data key="d3" xml:space="preserve"/>
+      <data key="d4" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
       <data key="d12">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="472.0" width="772.0" x="68.0" y="428.0"/>
+              <y:Geometry height="472.0" width="599.7574047954867" x="68.0" y="428.0"/>
               <y:Fill color="#99999908" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tr" textColor="#000000" verticalTextPosition="top" visible="true" width="92.5322265625" x="679.4677734375" xml:space="preserve" y="0.0">NOCICEPTOR</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tr" textColor="#000000" verticalTextPosition="top" visible="true" width="92.5322265625" x="507.22517823298665" xml:space="preserve" y="0.0">NOCICEPTOR</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="0" bottomF="0.0" left="15" leftF="15.0" right="15" rightF="15.0" top="12" topF="11.51171875"/>
-              <y:BorderInsets bottom="41" bottomF="41.0" left="17" leftF="17.0" right="25" rightF="25.0" top="0" topF="0.0"/>
+              <y:BorderInsets bottom="41" bottomF="41.0" left="17" leftF="17.0" right="30" rightF="29.722143864598024" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="1762.0" width="6423.5" x="112.0" y="357.25"/>
@@ -202,21 +195,20 @@
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="1762.0" closedWidth="6423.5" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="10" bottomF="10.22265625" left="17" leftF="17.0" right="25" rightF="25.0" top="17" topF="17.0"/>
+              <y:BorderInsets bottom="10" bottomF="10.22265625" left="17" leftF="17.0" right="30" rightF="29.722143864598024" top="17" topF="17.0"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
       <graph edgedefault="directed" id="n4:">
         <node id="n4::n0">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="271.0" y="500.0"/>
@@ -234,14 +226,13 @@
           </data>
         </node>
         <node id="n4::n1">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">IL6ST</data>
           <data key="d5" xml:space="preserve">P40189</data>
           <data key="d6" xml:space="preserve">HGNC:6021</data>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="100.0" y="460.0"/>
@@ -255,14 +246,13 @@
           </data>
         </node>
         <node id="n4::n2" yfiles.foldertype="group">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
@@ -270,7 +260,7 @@
                   <y:Geometry height="188.48828125" width="104.0" x="228.0" y="555.755859375"/>
                   <y:Fill color="#F7F7F7" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="99.15625" x="2.421875" xml:space="preserve" y="160.01171875">IL6:IL6R:IL6ST</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="99.15625" x="2.421875" xml:space="preserve" y="160.0">IL6:IL6R:IL6ST</y:NodeLabel>
                   <y:StyleProperties>
                     <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
                     <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
@@ -297,14 +287,13 @@
           </data>
           <graph edgedefault="directed" id="n4::n2:">
             <node id="n4::n2::n0">
-              <data key="d3"/>
+              <data key="d3" xml:space="preserve"/>
               <data key="d4" xml:space="preserve">IL6</data>
               <data key="d5" xml:space="preserve">P05231</data>
               <data key="d6" xml:space="preserve">HGNC:6018</data>
-              <data key="d7"/>
-              <data key="d8"/>
-              <data key="d9"/>
-              <data key="d11"/>
+              <data key="d7" xml:space="preserve"/>
+              <data key="d8" xml:space="preserve"/>
+              <data key="d9" xml:space="preserve"/>
               <data key="d12">
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
                   <y:Geometry height="40.0" width="80.0" x="240.0" y="571.755859375"/>
@@ -318,14 +307,13 @@
               </data>
             </node>
             <node id="n4::n2::n1">
-              <data key="d3"/>
+              <data key="d3" xml:space="preserve"/>
               <data key="d4" xml:space="preserve">IL6R</data>
               <data key="d5" xml:space="preserve">P08887</data>
               <data key="d6" xml:space="preserve">HGNC:6019</data>
-              <data key="d7"/>
-              <data key="d8"/>
-              <data key="d9"/>
-              <data key="d11"/>
+              <data key="d7" xml:space="preserve"/>
+              <data key="d8" xml:space="preserve"/>
+              <data key="d9" xml:space="preserve"/>
               <data key="d12">
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
                   <y:Geometry height="40.0" width="80.0" x="240.0" y="619.755859375"/>
@@ -339,14 +327,13 @@
               </data>
             </node>
             <node id="n4::n2::n2">
-              <data key="d3"/>
+              <data key="d3" xml:space="preserve"/>
               <data key="d4" xml:space="preserve">IL6ST</data>
               <data key="d5" xml:space="preserve">P40189</data>
               <data key="d6" xml:space="preserve">HGNC:6021</data>
-              <data key="d7"/>
-              <data key="d8"/>
-              <data key="d9"/>
-              <data key="d11"/>
+              <data key="d7" xml:space="preserve"/>
+              <data key="d8" xml:space="preserve"/>
+              <data key="d9" xml:space="preserve"/>
               <data key="d12">
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
                   <y:Geometry height="40.0" width="80.0" x="240.0" y="667.755859375"/>
@@ -362,17 +349,16 @@
           </graph>
         </node>
         <node id="n4::n3">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">PRKCD</data>
           <data key="d5" xml:space="preserve">Q05655</data>
           <data key="d6" xml:space="preserve">HGNC:9399</data>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="480.0" y="540.0"/>
+              <y:Geometry height="40.0" width="80.0" x="397.5176304654443" y="540.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="49.9033203125" x="15.04833984375" xml:space="preserve" y="9.755859375">PRKCD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -383,17 +369,16 @@
           </data>
         </node>
         <node id="n4::n4">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
-              <y:Geometry height="18.0" width="18.0" x="511.0" y="641.0"/>
+              <y:Geometry height="18.0" width="18.0" x="428.5176304654443" y="641.0"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
@@ -408,17 +393,16 @@
           </data>
         </node>
         <node id="n4::n5">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">PRKCD</data>
           <data key="d5" xml:space="preserve">Q05655</data>
           <data key="d6" xml:space="preserve">HGNC:9399</data>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="480.0" y="720.0"/>
+              <y:Geometry height="40.0" width="80.0" x="397.5176304654443" y="720.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="49.9033203125" x="15.04833984375" xml:space="preserve" y="9.755859375">PRKCD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -437,17 +421,16 @@
           </data>
         </node>
         <node id="n4::n6">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">TRPV1</data>
           <data key="d5" xml:space="preserve">Q8NER1</data>
           <data key="d6" xml:space="preserve">HGNC:12716</data>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="720.0" y="630.0"/>
+              <y:Geometry height="40.0" width="80.0" x="543.0352609308886" y="630.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.44921875" x="16.275390625" xml:space="preserve" y="9.755859375">TRPV1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -458,17 +441,16 @@
           </data>
         </node>
         <node id="n4::n7">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
-              <y:Geometry height="18.0" width="18.0" x="751.0" y="731.0"/>
+              <y:Geometry height="18.0" width="18.0" x="574.0352609308886" y="731.0"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
@@ -483,17 +465,16 @@
           </data>
         </node>
         <node id="n4::n8">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">TRPV1</data>
           <data key="d5" xml:space="preserve">Q8NER1</data>
           <data key="d6" xml:space="preserve">HGNC:12716</data>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
+          <data key="d7" xml:space="preserve"/>
+          <data key="d8" xml:space="preserve"/>
+          <data key="d9" xml:space="preserve"/>
           <data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="720.0" y="810.0"/>
+              <y:Geometry height="40.0" width="80.0" x="543.0352609308886" y="810.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.44921875" x="16.275390625" xml:space="preserve" y="9.755859375">TRPV1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -514,7 +495,6 @@
       </graph>
     </node>
     <edge id="e0" source="n0" target="n2">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -525,7 +505,6 @@
       </data>
     </edge>
     <edge id="e1" source="n1" target="n2">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -538,7 +517,6 @@
       </data>
     </edge>
     <edge id="e2" source="n2" target="n3">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -549,7 +527,6 @@
       </data>
     </edge>
     <edge id="e3" source="n3" target="n4::n0">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -560,7 +537,6 @@
       </data>
     </edge>
     <edge id="n4::e0" source="n4::n1" target="n4::n0">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -573,7 +549,6 @@
       </data>
     </edge>
     <edge id="n4::e1" source="n4::n0" target="n4::n2">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -584,7 +559,6 @@
       </data>
     </edge>
     <edge id="n4::e2" source="n4::n3" target="n4::n4">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -595,7 +569,6 @@
       </data>
     </edge>
     <edge id="n4::e3" source="n4::n4" target="n4::n5">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -606,7 +579,6 @@
       </data>
     </edge>
     <edge id="n4::e4" source="n4::n2" target="n4::n4">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -617,7 +589,6 @@
       </data>
     </edge>
     <edge id="n4::e5" source="n4::n6" target="n4::n7">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -628,7 +599,6 @@
       </data>
     </edge>
     <edge id="n4::e6" source="n4::n7" target="n4::n8">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -639,7 +609,6 @@
       </data>
     </edge>
     <edge id="n4::e7" source="n4::n5" target="n4::n7">
-      <data key="d15"/>
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
