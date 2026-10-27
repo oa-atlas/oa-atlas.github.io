@@ -321,7 +321,7 @@
       <graph edgedefault="directed" id="sa403_c:"><node id="sa403"><data key="d3">HGNC:4392</data><data key="d1">GNAS</data><data key="d2">P63092</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="170.0" y="155.25"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Gsα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -553,7 +553,7 @@
         </node><node id="sa827"><data key="d100">Protein kinases C (conventional and novel)</data><data key="d101">PRKCA; PRKCB; PRKCG; PRKCD; PRKCE; PRKCH; PRKCQ</data><data key="d102">[{"symbol": "PRKCA", "props": [["HGNC", "HGNC:9393"], ["HGNC symbol", "PRKCA"], ["UniProt", "P17252"]]}, {"symbol": "PRKCB", "props": [["HGNC", "HGNC:9395"], ["HGNC symbol", "PRKCB"], ["UniProt", "P05771"]]}, {"symbol": "PRKCG", "props": [["HGNC", "HGNC:9402"], ["HGNC symbol", "PRKCG"], ["UniProt", "P05129"]]}, {"symbol": "PRKCD", "props": [["HGNC", "HGNC:9399"], ["HGNC symbol", "PRKCD"], ["UniProt", "Q05655"]]}, {"symbol": "PRKCE", "props": [["HGNC", "HGNC:9401"], ["HGNC symbol", "PRKCE"], ["UniProt", "Q02156"]]}, {"symbol": "PRKCH", "props": [["HGNC", "HGNC:9403"], ["HGNC symbol", "PRKCH"], ["UniProt", "C0HM02"]]}, {"symbol": "PRKCQ", "props": [["HGNC", "HGNC:9410"], ["HGNC symbol", "PRKCQ"], ["UniProt", "Q04759"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="831.1946403385049" y="1028.5"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">PKC<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -564,7 +564,7 @@
         </node><node id="sa1016"><data key="d100">p38 MAP kinases</data><data key="d101">MAPK14; MAPK11; MAPK12; MAPK13</data><data key="d102">[{"symbol": "MAPK14", "props": [["HGNC", "HGNC:6876"], ["HGNC symbol", "MAPK14"], ["UniProt", "Q16539"]]}, {"symbol": "MAPK11", "props": [["HGNC", "HGNC:6873"], ["HGNC symbol", "MAPK11"], ["UniProt", "Q15759"]]}, {"symbol": "MAPK12", "props": [["HGNC", "HGNC:6874"], ["HGNC symbol", "MAPK12"], ["UniProt", "P53778"]]}, {"symbol": "MAPK13", "props": [["HGNC", "HGNC:6875"], ["HGNC symbol", "MAPK13"], ["UniProt", "O15264"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="639.0" y="544.4222496473908"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="76.0" x="2.0" xml:space="preserve" y="9.75" hasText="true">P38 MAPK<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="18.0" horizontalTextPosition="center" iconData="5" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="18.0" x="30.17647058823532" y="-9.0">

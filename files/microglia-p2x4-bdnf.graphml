@@ -21,7 +21,7 @@
     </node><node id="ca_o"><data key="d0">CHEBI:29108</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40" width="40" x="540.0" y="40.0"/>
-          <y:Fill color="#E8E8DD" transparent="false"/>
+          <y:Fill color="#E6B3AC" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">Ca2+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -156,7 +156,7 @@
     </node><node id="ca_i"><data key="d0">CHEBI:29108</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40" width="40" x="540.0" y="380.0"/>
-          <y:Fill color="#E8E8DD" transparent="false"/>
+          <y:Fill color="#E6B3AC" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">Ca2+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -164,7 +164,7 @@
     </node><node id="p38"><data key="d100">p38 MAP kinases</data><data key="d101">MAPK14; MAPK11; MAPK12; MAPK13</data><data key="d102">[{"symbol": "MAPK14", "props": [["HGNC", "HGNC:6876"], ["HGNC symbol", "MAPK14"], ["UniProt", "Q16539"]]}, {"symbol": "MAPK11", "props": [["HGNC", "HGNC:6873"], ["HGNC symbol", "MAPK11"], ["UniProt", "Q15759"]]}, {"symbol": "MAPK12", "props": [["HGNC", "HGNC:6874"], ["HGNC symbol", "MAPK12"], ["UniProt", "P53778"]]}, {"symbol": "MAPK13", "props": [["HGNC", "HGNC:6875"], ["HGNC symbol", "MAPK13"], ["UniProt", "O15264"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40" width="80" x="400.0" y="480.0"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">P38 MAPK<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -189,7 +189,7 @@
     </node><node id="p38_p"><data key="d100">p38 MAP kinases</data><data key="d101">MAPK14; MAPK11; MAPK12; MAPK13</data><data key="d102">[{"symbol": "MAPK14", "props": [["HGNC", "HGNC:6876"], ["HGNC symbol", "MAPK14"], ["UniProt", "Q16539"]]}, {"symbol": "MAPK11", "props": [["HGNC", "HGNC:6873"], ["HGNC symbol", "MAPK11"], ["UniProt", "Q15759"]]}, {"symbol": "MAPK12", "props": [["HGNC", "HGNC:6874"], ["HGNC symbol", "MAPK12"], ["UniProt", "P53778"]]}, {"symbol": "MAPK13", "props": [["HGNC", "HGNC:6875"], ["HGNC symbol", "MAPK13"], ["UniProt", "O15264"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40" width="80" x="640.0" y="480.0"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">P38 MAPK<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="18.0" horizontalTextPosition="center" iconData="5" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="18" x="31.0" y="31">
