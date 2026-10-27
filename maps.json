@@ -189,6 +189,33 @@
 "hasText": true
 },
 {
+"id": "pgd2-ptgdr-gs",
+"title": "PGD2 - PTGDR - Gsα",
+"topic": "PGD2 - PTGDR - Gsα",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/pgd2-ptgdr-gs.svg",
+"width": 1146.0,
+"height": 1188.0,
+"scale": 1,
+"annotation": "data/pgd2-ptgdr-gs.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pgd2-ptgdr-gs.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pgd2-ptgdr-gs.svg"
+}
+],
+"data": "data/pgd2-ptgdr-gs-text.json",
+"hasText": true
+},
+{
 "id": "bk-bdkrb2-gq",
 "title": "Bradykinin - BDKRB2 - Gqα",
 "topic": "Bradykinin - BDKRB2 - Gqα",
@@ -1007,7 +1034,7 @@
 "tag": "changed",
 "tab": null,
 "image": "files/pd65-assembled-nociceptor.svg",
-"width": 23630.0,
+"width": 24746.0,
 "height": 2752.0,
 "scale": 1,
 "annotation": "data/pd65-assembled-nociceptor.json",
@@ -1061,8 +1088,8 @@
 "tag": "new",
 "tab": null,
 "image": "files/pd65-assembled-whole.svg",
-"width": 23790.0,
-"height": 7448.0,
+"width": 24906.0,
+"height": 7480.0,
 "scale": 1,
 "annotation": "data/pd65-assembled-whole.json",
 "imageError": null,
