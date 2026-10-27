@@ -19645,7 +19645,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="cB_pP_stimulation_ltc4" source="cB_ltc4" target="re259_channels">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-316.0" ty="0.0"><y:Point x="19023.77574047955" y="1980.0"/><y:Point x="22287.77574047955" y="1980.0"/><y:Point x="22287.77574047955" y="1012.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="-9.0" ty="9.0"><y:Point x="19023.77574047955" y="1980.0"/><y:Point x="22287.77574047955" y="1980.0"/><y:Point x="22287.77574047955" y="1020.0"/><y:Point x="22555.77574047955" y="1020.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
