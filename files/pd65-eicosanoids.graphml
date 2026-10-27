@@ -3552,7 +3552,7 @@
         <y:PolyLineEdge>
           <y:Path sx="0" sy="0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#CC0000" type="line" width="2.0"/>
-          <y:Arrows source="none" target="white_delta_bar"/>
+          <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
       </data>
