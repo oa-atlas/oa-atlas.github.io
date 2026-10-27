@@ -891,6 +891,33 @@
 "hasText": true
 },
 {
+"id": "na-comt-receptors",
+"title": "Noradrenaline - α2A, β2 and COMT",
+"topic": "Noradrenaline - α2A, β2 and COMT",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/na-comt-receptors.svg",
+"width": 3481.0,
+"height": 1276.0,
+"scale": 1,
+"annotation": "data/na-comt-receptors.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-comt-receptors.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-comt-receptors.svg"
+}
+],
+"data": "data/na-comt-receptors-text.json",
+"hasText": true
+},
+{
 "id": "pgd2-dp-spinal",
 "title": "PGD2 - DP1, DP2 - allodynia",
 "topic": "PGD2 - DP1, DP2",
