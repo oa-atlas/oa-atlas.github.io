@@ -1,32 +1,5 @@
 [
 {
-"id": "pd65",
-"title": "Pain map, Process Description (pd65, original)",
-"topic": "Process Description (whole map)",
-"group": null,
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/pd65.svg",
-"width": 19392.0,
-"height": 8560.0,
-"scale": 1,
-"annotation": "data/pd65.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pd65.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pd65.svg"
-}
-],
-"data": null,
-"hasText": false
-},
-{
 "id": "pd65-eicosanoids",
 "title": "Eicosanoids (mast cell)",
 "topic": "Eicosanoids",
@@ -1101,6 +1074,33 @@
 {
 "label": "SVG",
 "url": "files/pd65-assembled-whole.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "pd65",
+"title": "Whole map (original pd65)",
+"topic": "Whole map (original pd65)",
+"group": "Assembled",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/pd65.svg",
+"width": 19392.0,
+"height": 8560.0,
+"scale": 1,
+"annotation": "data/pd65.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65.svg"
 }
 ],
 "data": null,
