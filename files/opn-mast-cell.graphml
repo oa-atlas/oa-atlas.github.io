@@ -71,7 +71,7 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="664.0" width="744.0" x="60.0" y="204.0"/>
+              <y:Geometry height="664.0" width="536.0" x="268.0" y="204.0"/>
               <y:Fill color="#99999908" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tr" textColor="#000000" verticalTextPosition="top" visible="true" width="78.744140625" x="668.148638777337" xml:space="preserve" y="0.0">MAST CELL</y:NodeLabel>
@@ -81,7 +81,7 @@
               <y:BorderInsets bottom="36" bottomF="36.0" left="19" leftF="19.0" right="19" rightF="19.0" top="6" topF="6.01171875"/>
             </y:GroupNode>
             <y:GroupNode>
-              <y:Geometry height="312.5" width="936.0" x="312.0" y="140.0"/>
+              <y:Geometry height="312.5" width="728.0" x="520.0" y="140.0"/>
               <y:Fill color="#99999908" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.77734375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="br" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.7275390625" x="886.2724609375" xml:space="preserve" y="296.72265625">CYTOSOL</y:NodeLabel>
@@ -94,27 +94,6 @@
         </y:ProxyAutoBoundsNode>
       </data>
       <graph edgedefault="directed" id="n2:">
-        <node id="n2::n0">
-          <data key="dev_node">n2::n0</data><data key="d3"/>
-          <data key="d4" xml:space="preserve">CD44</data>
-          <data key="d5" xml:space="preserve">P16070</data>
-          <data key="d6" xml:space="preserve">HGNC:1681</data>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
-          <data key="d12">
-            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="94.0" y="244.0"/>
-              <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="41.8779296875" x="19.06103515625" xml:space="preserve" y="9.755859375">CD44<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-              <y:StyleProperties>
-                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
-              </y:StyleProperties>
-            </y:GenericNode>
-          </data>
-        </node>
         <node id="n2::n1">
           <data key="dev_node">n2::n1</data><data key="d3"/>
           <data key="d4" xml:space="preserve">ITGAV</data>
@@ -133,31 +112,6 @@
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
               </y:StyleProperties>
-            </y:GenericNode>
-          </data>
-        </node>
-        <node id="n2::n2">
-          <data key="d103">pubmed:40102843 pubmed:18200503 pubmed:8560266</data><data key="dev_node">n2::n2</data><data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
-          <data key="d12">
-            <y:GenericNode configuration="com.yworks.sbgn.Process">
-              <y:Geometry height="18.0" width="18.0" x="245.0" y="255.0"/>
-              <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
-                <y:LabelModel>
-                  <y:SmartNodeLabelModel distance="4.0"/>
-                </y:LabelModel>
-                <y:ModelParameter>
-                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                </y:ModelParameter>
-              </y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
@@ -185,92 +139,6 @@
               </y:NodeLabel>
             </y:GenericNode>
           </data>
-        </node>
-        <node id="n2::n4" yfiles.foldertype="group">
-          <data key="dev_node">n2::n4</data><data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
-          <data key="d7"/>
-          <data key="d8"/>
-          <data key="d9"/>
-          <data key="d11"/>
-          <data key="d12">
-            <y:ProxyAutoBoundsNode>
-              <y:Realizers active="0">
-                <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
-                  <y:Geometry height="140.48828125" width="104.0" x="202.0" y="361.755859375"/>
-                  <y:Fill color="#F7F7F7" transparent="false"/>
-                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="78.1767578125" x="12.91162109375" xml:space="preserve" y="112.01171875">SPP1:CD44</y:NodeLabel>
-                  <y:StyleProperties>
-                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
-                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
-                  </y:StyleProperties>
-                  <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0"/>
-                  <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
-                  <y:BorderInsets bottom="0" bottomF="0.0" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
-                </y:GenericGroupNode>
-                <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
-                  <y:Geometry height="80.0" width="80.0" x="1347.2728174603176" y="-2318.206228406964"/>
-                  <y:Fill color="#FFFFFF" transparent="false"/>
-                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.580078125" x="6.2099609375" xml:space="preserve" y="53.8671875">SPP1:CD44</y:NodeLabel>
-                  <y:StyleProperties>
-                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
-                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
-                  </y:StyleProperties>
-                  <y:State autoResize="true" closed="true" closedHeight="80.0" closedWidth="80.0"/>
-                  <y:Insets bottom="16" bottomF="16.0" left="10" leftF="10.0" right="10" rightF="10.0" top="12" topF="12.0"/>
-                  <y:BorderInsets bottom="2" bottomF="2.35546875" left="2" leftF="2.0" right="2" rightF="2.0" top="4" topF="4.0"/>
-                </y:GenericGroupNode>
-              </y:Realizers>
-            </y:ProxyAutoBoundsNode>
-          </data>
-          <graph edgedefault="directed" id="n2::n4:">
-            <node id="n2::n4::n0">
-              <data key="dev_node">n2::n4::n0</data><data key="d3"/>
-              <data key="d4" xml:space="preserve">SPP1</data>
-              <data key="d5" xml:space="preserve">P10451</data>
-              <data key="d6" xml:space="preserve">HGNC:11255</data>
-              <data key="d7"/>
-              <data key="d8"/>
-              <data key="d9"/>
-              <data key="d11"/>
-              <data key="d12">
-                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-                  <y:Geometry height="40.0" width="80.0" x="214.0" y="377.755859375"/>
-                  <y:Fill color="#E6B3AC" transparent="false"/>
-                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="35.869140625" x="22.0654296875" xml:space="preserve" y="9.755859375">SPP1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-                  <y:StyleProperties>
-                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
-                  </y:StyleProperties>
-                </y:GenericNode>
-              </data>
-            </node>
-            <node id="n2::n4::n1">
-              <data key="dev_node">n2::n4::n1</data><data key="d3"/>
-              <data key="d4" xml:space="preserve">CD44</data>
-              <data key="d5" xml:space="preserve">P16070</data>
-              <data key="d6" xml:space="preserve">HGNC:1681</data>
-              <data key="d7"/>
-              <data key="d8"/>
-              <data key="d9"/>
-              <data key="d11"/>
-              <data key="d12">
-                <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-                  <y:Geometry height="40.0" width="80.0" x="214.0" y="425.755859375"/>
-                  <y:Fill color="#E6B3AC" transparent="false"/>
-                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="41.8779296875" x="19.06103515625" xml:space="preserve" y="9.755859375">CD44<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-                  <y:StyleProperties>
-                    <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
-                  </y:StyleProperties>
-                </y:GenericNode>
-              </data>
-            </node>
-          </graph>
         </node>
         <node id="n2::n5" yfiles.foldertype="group">
           <data key="dev_node">n2::n5</data><data key="d3"/>
@@ -504,6 +372,24 @@
             </y:GenericNode>
           </data>
         </node>
+        <node id="n2::n10">
+          <data key="dev_node">n2::n10</data><data key="d3"/>
+          <data key="d4"/>
+          <data key="d5"/>
+          <data key="d6"/>
+          <data key="d7"/>
+          <data key="d8"/>
+          <data key="d9"/>
+          <data key="d11"/>
+          <data key="d12">
+            <y:GenericNode configuration="com.yworks.sbgn.Phenotype">
+              <y:Geometry height="75" width="180" x="572" y="578"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="168.322265625" x="15.8388671875" xml:space="preserve" y="27.255859375">MAST CELL ADHESION<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node>
         <node id="n2::n8">
           <data key="dev_node">n2::n8</data><data key="d3" xml:space="preserve">CHEBI:18295</data>
           <data key="d4"/>
@@ -549,17 +435,6 @@
         </node>
       </graph>
     </node>
-    <edge id="e0" source="n0" target="n2::n2">
-      <data key="dev_edge">e0</data><data key="d15"/>
-      <data key="d16">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
     <edge id="e1" source="n0" target="n2::n3">
       <data key="dev_edge">e1</data><data key="d15"/>
       <data key="d16">
@@ -567,17 +442,6 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="610.0" y="146.25"/>
           </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="n2::e0" source="n2::n0" target="n2::n2">
-      <data key="dev_edge">n2::e0</data><data key="d15"/>
-      <data key="d16">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -595,17 +459,6 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n2::e2" source="n2::n2" target="n2::n4">
-      <data key="dev_edge">n2::e2</data><data key="d15"/>
-      <data key="d16">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="delta"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
     <edge id="n2::e3" source="n2::n3" target="n2::n6">
       <data key="dev_edge">n2::e3</data><data key="d15"/>
       <data key="d16">
@@ -613,32 +466,6 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="n2::e4" source="n2::n4" target="n2::n7">
-      <data key="dev_edge">n2::e4</data><data key="d15"/>
-      <data key="d16">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="254.0" y="616.0"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="white_delta"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="n2::e5" source="n2::n6" target="n2::n7">
-      <data key="dev_edge">n2::e5</data><data key="d15"/>
-      <data key="d16">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="610.0" y="616.0"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
       </data>
@@ -662,6 +489,18 @@
             <y:Point x="432.0" y="808.0"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="white_delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n2::e9" source="n2::n6" target="n2::n10">
+      <data key="dev_edge">n2::e9</data><data key="d15"/>
+      <data key="d16">
+        <y:PolyLineEdge>
+          <y:Path sx="0" sy="70" tx="-52" ty="-37.5">
+            </y:Path>
+          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
           <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>

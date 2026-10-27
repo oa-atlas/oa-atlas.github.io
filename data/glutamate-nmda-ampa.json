@@ -661,286 +661,6 @@
 ]
 },
 {
-"label": "glutamate",
-"class": "SimpleChemical",
-"box": [
-1587.0,
-206.2,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"glutamate(1-)"
-],
-[
-"Synonyms",
-"2-ammoniopentanedioate; glutamate; glutamic acid monoanion; hydrogen glutamate"
-],
-[
-"Definition",
-"An α-amino-acid anion that is the conjugate base of glutamic acid, having anionic carboxy groups and a cationic amino group"
-],
-[
-"Formula",
-"C5H8NO4"
-],
-[
-"ChEBI",
-"CHEBI:14321"
-],
-[
-"InChI",
-"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1"
-],
-[
-"InChIKey",
-"WHUUTDBJXJRKMK-UHFFFAOYSA-M"
-]
-]
-},
-{
-"label": "GRIA1",
-"class": "Macromolecule",
-"box": [
-1564.0,
-262.2,
-86.0,
-46.0
-],
-"props": [
-[
-"Full name",
-"Glutamate receptor 1"
-],
-[
-"Alternative names",
-"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
-],
-[
-"Function",
-"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
-],
-[
-"Location",
-"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
-],
-[
-"HGNC",
-"HGNC:4571"
-],
-[
-"HGNC symbol",
-"GRIA1"
-],
-[
-"Previous symbols",
-"GLUR1"
-],
-[
-"Alias symbols",
-"GluA1, GLURA"
-],
-[
-"Entrez",
-"2890"
-],
-[
-"Ensembl",
-"ENSG00000155511"
-],
-[
-"RefSeq",
-"NM_000827"
-],
-[
-"UniProt",
-"P42261"
-]
-]
-},
-{
-"label": "GRIA4",
-"class": "Macromolecule",
-"box": [
-1564.0,
-330.2,
-86.0,
-46.0
-],
-"props": [
-[
-"Full name",
-"Glutamate receptor 4"
-],
-[
-"Alternative names",
-"AMPA-selective glutamate receptor 4; GluR-D; Glutamate receptor ionotropic, AMPA 4"
-],
-[
-"Function",
-"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system and plays an important role in fast excitatory synaptic transmission."
-],
-[
-"Location",
-"Cell membrane, Postsynaptic cell membrane, Cell projection, dendrite"
-],
-[
-"HGNC",
-"HGNC:4574"
-],
-[
-"HGNC symbol",
-"GRIA4"
-],
-[
-"Previous symbols",
-"GLUR4"
-],
-[
-"Alias symbols",
-"GluA4, GLURD, GluR-4, GluR-D, GLUR4C"
-],
-[
-"Entrez",
-"2893"
-],
-[
-"Ensembl",
-"ENSG00000152578"
-],
-[
-"RefSeq",
-"NM_000829"
-],
-[
-"UniProt",
-"P48058"
-]
-]
-},
-{
-"label": "GRIA1",
-"class": "Macromolecule",
-"box": [
-1328.9,
-234.2,
-86.0,
-46.0
-],
-"props": [
-[
-"Full name",
-"Glutamate receptor 1"
-],
-[
-"Alternative names",
-"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
-],
-[
-"Function",
-"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
-],
-[
-"Location",
-"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
-],
-[
-"HGNC",
-"HGNC:4571"
-],
-[
-"HGNC symbol",
-"GRIA1"
-],
-[
-"Previous symbols",
-"GLUR1"
-],
-[
-"Alias symbols",
-"GluA1, GLURA"
-],
-[
-"Entrez",
-"2890"
-],
-[
-"Ensembl",
-"ENSG00000155511"
-],
-[
-"RefSeq",
-"NM_000827"
-],
-[
-"UniProt",
-"P42261"
-]
-]
-},
-{
-"label": "GRIA4",
-"class": "Macromolecule",
-"box": [
-1328.9,
-302.2,
-86.0,
-46.0
-],
-"props": [
-[
-"Full name",
-"Glutamate receptor 4"
-],
-[
-"Alternative names",
-"AMPA-selective glutamate receptor 4; GluR-D; Glutamate receptor ionotropic, AMPA 4"
-],
-[
-"Function",
-"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system and plays an important role in fast excitatory synaptic transmission."
-],
-[
-"Location",
-"Cell membrane, Postsynaptic cell membrane, Cell projection, dendrite"
-],
-[
-"HGNC",
-"HGNC:4574"
-],
-[
-"HGNC symbol",
-"GRIA4"
-],
-[
-"Previous symbols",
-"GLUR4"
-],
-[
-"Alias symbols",
-"GluA4, GLURD, GluR-4, GluR-D, GLUR4C"
-],
-[
-"Entrez",
-"2893"
-],
-[
-"Ensembl",
-"ENSG00000152578"
-],
-[
-"RefSeq",
-"NM_000829"
-],
-[
-"UniProt",
-"P48058"
-]
-]
-},
-{
 "label": "GRIA1",
 "class": "Macromolecule",
 "box": [
@@ -1004,7 +724,7 @@
 "label": "Ca2+",
 "class": "SimpleChemical",
 "box": [
-1728.0,
+1297.0,
 596.0,
 40.0,
 40.0
@@ -1044,7 +764,7 @@
 "label": "Na+",
 "class": "SimpleChemical",
 "box": [
-1808.0,
+1377.0,
 596.0,
 40.0,
 40.0
@@ -1311,7 +1031,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1776.0,
+1345.0,
 530.0,
 24.0,
 24.0
@@ -1384,80 +1104,6 @@
 ]
 },
 {
-"id": "re458",
-"label": "",
-"class": "Process",
-"box": [
-1470.9,
-292.5,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"GluA1:GluA4",
-"glutamate"
-],
-"out": [
-"Glutamate:GluA1:GluA4"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Schaible HG et al.",
-"journal": "J Neurochem",
-"title": "Spinal pain processing in arthritis: Neuron and glia (inter)actions.",
-"year": "2024",
-"db": "pubmed",
-"id": "36520021",
-"role": "OA",
-"note": "review, arthritis including osteoarthritis: spinal AMPA receptors are needed for spinal sensitisation to joint input (no OA paper on GluA4 itself)"
-},
-{
-"authors": "Wu M et al.",
-"journal": "J Pain Res",
-"title": "Acupotomy Alleviates Pain and Attenuates Spinal Neuronal Hyperexcitability in Knee Osteoarthritis Rats: Implication of the CaMKII/GluA1 Axis.",
-"year": "2026",
-"db": "pubmed",
-"id": "42898890",
-"role": "OA",
-"note": "rat MIA knee OA: AMPA receptor subunit GluA1 and spinal neuronal hyperexcitability in knee OA (GluA4 not measured)"
-},
-{
-"authors": "Polgár E et al.",
-"journal": "Mol Pain",
-"title": "Expression of AMPA receptor subunits at synapses in laminae I-III of the rodent spinal dorsal horn.",
-"year": "2008",
-"db": "pubmed",
-"id": "18215271",
-"role": "step",
-"note": "rat dorsal horn: the long form of GluA4 is at synapses of lamina I cells, apparently including projection neurons, but largely separate from GluA1"
-},
-{
-"authors": "Hale WD et al.",
-"journal": "Nat Commun",
-"title": "Structural basis for activation and conformational plasticity of the GluA4 AMPA receptor.",
-"year": "2026",
-"db": "pubmed",
-"id": "41656278",
-"role": "step",
-"note": "cryo-EM of the GluA4 receptor (rat GluA4 with human TARP gamma-2; human disease variants mapped): all four binding domains bind glutamate and open the channel, which is Ca2+ permeable"
-},
-{
-"authors": "Herguedas B et al.",
-"journal": "Science",
-"title": "Structure and organization of heteromeric AMPA-type glutamate receptors.",
-"year": "2016",
-"db": "pubmed",
-"id": "26966189",
-"role": "step",
-"note": "AMPA receptor heteromer structures including GluA2/GluA4: GluA1-GluA4 form heteromeric tetramers"
-}
-]
-},
-{
 "label": "glutamate",
 "class": "SimpleChemical",
 "box": [
@@ -1501,7 +1147,7 @@
 "label": "Ca2+",
 "class": "SimpleChemical",
 "box": [
-1728.0,
+1297.0,
 15.0,
 40.0,
 40.0
@@ -1541,7 +1187,7 @@
 "label": "Na+",
 "class": "SimpleChemical",
 "box": [
-1808.0,
+1377.0,
 15.0,
 40.0,
 40.0

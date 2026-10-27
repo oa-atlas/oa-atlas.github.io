@@ -5,7 +5,7 @@
 "topic": "Eicosanoids",
 "group": "Mast cell",
 "kind": null,
-"tag": null,
+"tag": "changed",
 "tab": null,
 "image": "files/pd65-eicosanoids.svg",
 "width": 4148.0,
@@ -36,7 +36,7 @@
 "topic": "Osteopontin - CD44, integrin αv - histamine",
 "group": "Mast cell",
 "kind": null,
-"tag": "new",
+"tag": "changed",
 "tab": null,
 "image": "files/opn-mast-cell.svg",
 "width": 1022.0,
@@ -558,37 +558,6 @@
 "hasText": true
 },
 {
-"id": "ltc4-cysltr2-nociceptor",
-"title": "LTC4 - CysLT2 - P2X3",
-"topic": "LTC4 - CysLT2 - P2X3",
-"group": "Nociceptor",
-"kind": null,
-"tag": "new",
-"tab": null,
-"image": "files/ltc4-cysltr2-nociceptor.svg",
-"width": 810.0,
-"height": 522.0,
-"scale": 1,
-"annotation": "data/ltc4-cysltr2-nociceptor.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/ltc4-cysltr2-nociceptor.graphml"
-},
-{
-"label": "SVG",
-"url": "files/ltc4-cysltr2-nociceptor.svg"
-},
-{
-"label": "References",
-"url": "files/ltc4-cysltr2-nociceptor-references.csv"
-}
-],
-"data": "data/ltc4-cysltr2-nociceptor-text.json",
-"hasText": true
-},
-{
 "id": "tnf-ccl2-p38",
 "title": "TNF and IL-1β - p38 MAPK - NaV1.8",
 "topic": "TNF and IL-1β - p38 MAPK",
@@ -935,10 +904,10 @@
 "topic": "Glutamate - NMDA and AMPA receptors - action potential",
 "group": "Spinal nociceptive neuron",
 "kind": null,
-"tag": null,
+"tag": "changed",
 "tab": null,
 "image": "files/glutamate-nmda-ampa.svg",
-"width": 1938.0,
+"width": 1507.0,
 "height": 804.0,
 "scale": 1,
 "annotation": "data/glutamate-nmda-ampa.json",
