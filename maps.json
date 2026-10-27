@@ -862,5 +862,32 @@
 ],
 "data": "data/microglia-p2x4-bdnf-text.json",
 "hasText": true
+},
+{
+"id": "pd65-assembled-nociceptor",
+"title": "Nociceptor, assembled from the blocks",
+"topic": "Nociceptor",
+"group": "Assembled",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/pd65-assembled-nociceptor.svg",
+"width": 21199.0,
+"height": 2519.0,
+"scale": 1,
+"annotation": "data/pd65-assembled-nociceptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-assembled-nociceptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-assembled-nociceptor.svg"
+}
+],
+"data": null,
+"hasText": false
 }
 ]
