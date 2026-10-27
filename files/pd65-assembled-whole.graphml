@@ -39176,9 +39176,20 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
       <data key="k19">n0::e0_pgd2_s</data><data key="k17"/>
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="-80.0" sy="30.0" tx="0.0" ty="0.0"><y:Point x="9169.0" y="6225.260930888576"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e_pgd2_src_pgd2_s" source="pgd2_src_pgd2_s" target="n0::n1_pgd2_s">
+      <data key="k19">e_pgd2_src_pgd2_s</data><data key="k17"/>
+      <data key="eg">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
       </data>
@@ -39312,7 +39323,20 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
             </y:GenericNode>
           </data>
         </node>
-        <node id="n0::n1_pgd2_s">
+        <node id="pgd2_src_pgd2_s">
+      <data key="k18">pgd2_src_pgd2_s</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.EmptySet">
+          <y:Geometry height="30" width="30" x="9234.0" y="6153.260930888576"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="35.869140625" x="22.0654296875" xml:space="preserve" y="9.755859375" hasText="false"><y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n0::n1_pgd2_s">
           <data key="d103">pubmed:27646532 pubmed:23169679 pubmed:22093915 pubmed:23505121 pubmed:17549007</data><data key="k18">n0::n1_pgd2_s</data><data key="d0"/>
           <data key="d1"/>
           <data key="d2"/>

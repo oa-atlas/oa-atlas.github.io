@@ -76241,7 +76241,7 @@
 "db": "pubmed",
 "id": "3113327",
 "role": "step",
-"note": "classic review of the G protein cycle: the alpha subunit hydrolyses its bound GTP to GDP and Pi, ending the active state. No abstract in PubMed, so no quote can be given"
+"note": "classic review: the alpha subunit hydrolyses its bound GTP to GDP and Pi, ending the active state (no abstract in PubMed)"
 }
 ]
 },
@@ -144663,7 +144663,9 @@
 ],
 "props": [],
 "reaction": {
-"in": [],
+"in": [
+""
+],
 "out": [
 "PGD2"
 ],
