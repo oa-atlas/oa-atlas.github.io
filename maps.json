@@ -432,30 +432,57 @@
 "hasText": true
 },
 {
-"id": "eicosanoid-receptors",
-"title": "Eicosanoids - TRPV1, TRPA1, CysLT2, DP1, DP2, FPR2",
-"topic": "Eicosanoid receptors",
+"id": "eicosanoids-trp-nociceptor",
+"title": "Eicosanoids - TRPV1, TRPA1",
+"topic": "Eicosanoids - TRPV1, TRPA1",
 "group": "Nociceptor",
 "kind": null,
 "tag": "new",
 "tab": null,
-"image": "files/eicosanoid-receptors.svg",
-"width": 1870.0,
-"height": 1074.0,
+"image": "files/eicosanoids-trp-nociceptor.svg",
+"width": 1254.0,
+"height": 438.0,
 "scale": 1,
-"annotation": "data/eicosanoid-receptors.json",
+"annotation": "data/eicosanoids-trp-nociceptor.json",
 "imageError": null,
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/eicosanoid-receptors.graphml"
+"url": "files/eicosanoids-trp-nociceptor.graphml"
 },
 {
 "label": "SVG",
-"url": "files/eicosanoid-receptors.svg"
+"url": "files/eicosanoids-trp-nociceptor.svg"
 }
 ],
-"data": "data/eicosanoid-receptors-text.json",
+"data": "data/eicosanoids-trp-nociceptor-text.json",
+"hasText": true
+},
+{
+"id": "ltc4-cysltr2-nociceptor",
+"title": "LTC4 - CysLT2 - P2X3",
+"topic": "LTC4 - CysLT2 - P2X3",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/ltc4-cysltr2-nociceptor.svg",
+"width": 810.0,
+"height": 522.0,
+"scale": 1,
+"annotation": "data/ltc4-cysltr2-nociceptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/ltc4-cysltr2-nociceptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/ltc4-cysltr2-nociceptor.svg"
+}
+],
+"data": "data/ltc4-cysltr2-nociceptor-text.json",
 "hasText": true
 },
 {
@@ -864,6 +891,33 @@
 "hasText": true
 },
 {
+"id": "pgd2-dp-spinal",
+"title": "PGD2 - DP1, DP2 - allodynia",
+"topic": "PGD2 - DP1, DP2",
+"group": "Spinal nociceptive neuron",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/pgd2-dp-spinal.svg",
+"width": 750.0,
+"height": 594.0,
+"scale": 1,
+"annotation": "data/pgd2-dp-spinal.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pgd2-dp-spinal.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pgd2-dp-spinal.svg"
+}
+],
+"data": "data/pgd2-dp-spinal-text.json",
+"hasText": true
+},
+{
 "id": "microglia-p2x4-bdnf",
 "title": "Microglia: ATP - P2X4 - p38 - BDNF",
 "topic": "Microglia: ATP - P2X4 - p38 - BDNF",
@@ -888,6 +942,33 @@
 }
 ],
 "data": "data/microglia-p2x4-bdnf-text.json",
+"hasText": true
+},
+{
+"id": "lxa4-fpr2-astrocyte",
+"title": "Lipoxin A4 - FPR2 - hyperalgesia",
+"topic": "Lipoxin A4 - FPR2",
+"group": "Spinal astrocyte",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/lxa4-fpr2-astrocyte.svg",
+"width": 662.0,
+"height": 442.0,
+"scale": 1,
+"annotation": "data/lxa4-fpr2-astrocyte.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/lxa4-fpr2-astrocyte.graphml"
+},
+{
+"label": "SVG",
+"url": "files/lxa4-fpr2-astrocyte.svg"
+}
+],
+"data": "data/lxa4-fpr2-astrocyte-text.json",
 "hasText": true
 },
 {
