@@ -1137,6 +1137,10 @@
 {
 "label": "SVG",
 "url": "files/pd65-assembled-mast-cell.svg"
+},
+{
+"label": "References",
+"url": "files/pd65-assembled-mast-cell-references.csv"
 }
 ],
 "data": null,
@@ -1151,8 +1155,8 @@
 "tag": "changed",
 "tab": null,
 "image": "files/pd65-assembled-nociceptor.svg",
-"width": 24746.0,
-"height": 2752.0,
+"width": 23850.0,
+"height": 2720.0,
 "scale": 1,
 "annotation": "data/pd65-assembled-nociceptor.json",
 "imageError": null,
@@ -1164,6 +1168,10 @@
 {
 "label": "SVG",
 "url": "files/pd65-assembled-nociceptor.svg"
+},
+{
+"label": "References",
+"url": "files/pd65-assembled-nociceptor-references.csv"
 }
 ],
 "data": null,
@@ -1178,7 +1186,7 @@
 "tag": "new",
 "tab": null,
 "image": "files/pd65-assembled-spinal.svg",
-"width": 15454.0,
+"width": 15023.0,
 "height": 1876.0,
 "scale": 1,
 "annotation": "data/pd65-assembled-spinal.json",
@@ -1191,6 +1199,10 @@
 {
 "label": "SVG",
 "url": "files/pd65-assembled-spinal.svg"
+},
+{
+"label": "References",
+"url": "files/pd65-assembled-spinal-references.csv"
 }
 ],
 "data": null,
@@ -1205,8 +1217,8 @@
 "tag": null,
 "tab": null,
 "image": "files/pd65-assembled-whole.svg",
-"width": 24906.0,
-"height": 7480.0,
+"width": 24010.0,
+"height": 7384.0,
 "scale": 1,
 "annotation": "data/pd65-assembled-whole.json",
 "imageError": null,
@@ -1218,6 +1230,10 @@
 {
 "label": "SVG",
 "url": "files/pd65-assembled-whole.svg"
+},
+{
+"label": "References",
+"url": "files/pd65-assembled-whole-references.csv"
 }
 ],
 "data": null,

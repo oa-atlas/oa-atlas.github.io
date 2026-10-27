@@ -4484,6 +4484,397 @@
 ]
 },
 {
+"id": "re329_cgrp",
+"label": "",
+"class": "Process",
+"box": [
+842.0,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CALCRL:RAMP1:Gs",
+"GTP"
+],
+"out": [
+"CALCRL:RAMP1:Gs",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"journal": "Eur J Pain",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"year": "2013",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Chung KY et al.",
+"journal": "Nature",
+"title": "Conformational changes in the G protein Gs induced by the β2 adrenergic receptor.",
+"year": "2011",
+"db": "pubmed",
+"id": "21956331",
+"role": "step",
+"note": "HDX-MS of bovine Gs bound to agonist-bound human β2AR: the receptor alters the P-loop and drives GDP release (generic for receptor-catalysed exchange, not the CGRP receptor)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): the receptor catalyses GDP for GTP exchange"
+}
+]
+},
+{
+"id": "re330_cgrp",
+"label": "",
+"class": "Process",
+"box": [
+1079.0,
+855.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CALCRL:RAMP1:Gs"
+],
+"out": [
+"Gsα:GTP",
+"CALCRL:RAMP1",
+"Gsβ:Gsγ",
+"CGRP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"journal": "Eur J Pain",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"year": "2013",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): GTP-bound α and βγ separate from the receptor"
+}
+]
+},
+{
+"id": "re331_cgrp",
+"label": "",
+"class": "Process",
+"box": [
+911.5,
+1077.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP"
+],
+"out": [
+"Gsα:GDP",
+"Pi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"journal": "Eur J Pain",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"year": "2013",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: mutations that block the GTPase of Gsα show its intrinsic GTP hydrolysis"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): Gsα hydrolyses its GTP by itself"
+}
+]
+},
+{
+"id": "re332_cgrp",
+"label": "",
+"class": "Process",
+"box": [
+547.5,
+1077.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GDP",
+"Gsβ:Gsγ"
+],
+"out": [
+"Gs heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"journal": "Eur J Pain",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"year": "2013",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): GDP-bound α reassociates with βγ"
+}
+]
+},
+{
+"id": "re333_cgrp",
+"label": "",
+"class": "Process",
+"box": [
+193.0,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CALCRL:RAMP1",
+"CGRP"
+],
+"out": [
+"CGRP:CALCRL:RAMP1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"journal": "Eur J Pain",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"year": "2013",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Bullock CM et al.",
+"journal": "Arthritis Rheumatol",
+"title": "Peripheral calcitonin gene-related peptide receptor activation and mechanical sensitization of the joint in rat models of osteoarthritis pain.",
+"year": "2014",
+"db": "pubmed",
+"id": "24719311",
+"role": "OA",
+"note": "rat MIA and MMT knee OA: CGRP receptor (CLR) on joint afferents, up in OA; CGRP8-37 reverses nociceptor sensitisation (periphery, not dorsal horn)"
+},
+{
+"authors": "Liang YL et al.",
+"journal": "Nature",
+"title": "Cryo-EM structure of the active, G(s)-protein complexed, human CGRP receptor.",
+"year": "2018",
+"db": "pubmed",
+"id": "30209400",
+"role": "step",
+"note": "cryo-EM of human CGRP receptor (CLR:RAMP1) bound to CGRP"
+},
+{
+"authors": "McLatchie LM et al.",
+"journal": "Nature",
+"title": "RAMPs regulate the transport and ligand specificity of the calcitonin-receptor-like receptor.",
+"year": "1998",
+"db": "pubmed",
+"id": "9620797",
+"role": "step",
+"note": "cell lines: CLR with RAMP1 is the CGRP receptor (RAMP1 cloned from human SK-N-MC cells, species not in the abstract)"
+},
+{
+"authors": "Marvizón JC et al.",
+"journal": "Neuroscience",
+"title": "Calcitonin receptor-like receptor and receptor activity modifying protein 1 in the rat dorsal horn: localization in glutamatergic presynaptic terminals containing opioids and adrenergic alpha2C receptors.",
+"year": "2007",
+"db": "pubmed",
+"id": "17614212",
+"role": "step",
+"note": "rat dorsal horn: CLR and RAMP1 in laminae I-II, mainly presynaptic glutamatergic terminals, RAMP1 also in cell bodies"
+}
+]
+},
+{
+"id": "re334_cgrp",
+"label": "",
+"class": "Process",
+"box": [
+397.0,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CGRP:CALCRL:RAMP1",
+"Gs heterotrimer"
+],
+"out": [
+"CALCRL:RAMP1:Gs"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"journal": "Eur J Pain",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"year": "2013",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Liang YL et al.",
+"journal": "Nature",
+"title": "Cryo-EM structure of the active, G(s)-protein complexed, human CGRP receptor.",
+"year": "2018",
+"db": "pubmed",
+"id": "30209400",
+"role": "step",
+"note": "cryo-EM of human CGRP:CLR:RAMP1 with the Gs heterotrimer (complex formed with CGRP and apyrase, nucleotide-free, full text methods)"
+},
+{
+"authors": "Weston C et al.",
+"journal": "J Biol Chem",
+"title": "Receptor Activity-modifying Protein-directed G Protein Signaling Specificity for the Calcitonin Gene-related Peptide Family of Receptors.",
+"year": "2016",
+"db": "pubmed",
+"id": "27566546",
+"role": "step",
+"note": "yeast and HEK-293 cells with CLR and RAMPs: CGRP receptor couples to Gαs (also Gαi and Gαq); erratum on Crossref, not a retraction"
+}
+]
+},
+{
+"id": "re335_cgrp",
+"label": "",
+"class": "Process",
+"box": [
+1079.0,
+1226.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP",
+"ADCY"
+],
+"out": [
+"Adenylate cyclase"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"journal": "Eur J Pain",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"year": "2013",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Van Valen F et al.",
+"journal": "Neurosci Lett",
+"title": "Calcitonin gene-related peptide (CGRP) receptors are linked to cyclic adenosine monophosphate production in SK-N-MC human neuroblastoma cells.",
+"year": "1990",
+"db": "pubmed",
+"id": "2177866",
+"role": "step",
+"note": "human SK-N-MC neuroblastoma cells: CGRP receptors raise cAMP (adenylyl cyclase via Gs)"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "structure of Gsα·GTPγS bound to the catalytic domains of adenylyl cyclase"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: GTP-bound (GTPase-dead) Gsα activates adenylyl cyclase"
+}
+]
+},
+{
 "label": "CALCRL",
 "class": "Macromolecule",
 "box": [
@@ -9216,6 +9607,469 @@
 ]
 },
 {
+"id": "re186_tac1",
+"label": "",
+"class": "Process",
+"box": [
+1657.0,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TAC1:TACR1",
+"Gq heterotrimer"
+],
+"out": [
+"TACR1:Gq"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"journal": "J Neuropathol Exp Neurol",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"year": "2025",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, its receptor-G protein steps by extension"
+},
+{
+"authors": "Thom C et al.",
+"journal": "Sci Adv",
+"title": "Structures of neurokinin 1 receptor in complex with G(q) and G(s) proteins reveal substance P binding mode and unique activation features.",
+"year": "2021",
+"db": "pubmed",
+"id": "34878828",
+"role": "step",
+"note": "cryo-EM of human SP-NK1R in complex with a Gq heterotrimer (mini-Galphaq with beta-gamma)"
+},
+{
+"authors": "Harris JA et al.",
+"journal": "Nat Chem Biol",
+"title": "Selective G protein signaling driven by substance P-neurokinin receptor dynamics.",
+"year": "2022",
+"db": "pubmed",
+"id": "34711980",
+"role": "step",
+"note": "cryo-EM of active human NK1R bound to SP with an engineered Gs/q alpha, and Gq signalling (IP1, calcium) in HEK293 cells expressing human NK1R"
+},
+{
+"authors": "Kwatra MM et al.",
+"journal": "J Biol Chem",
+"title": "The substance P receptor, which couples to Gq/11, is a substrate of beta-adrenergic receptor kinase 1 and 2.",
+"year": "1993",
+"db": "pubmed",
+"id": "7683643",
+"role": "step",
+"note": "rat NK1R reconstituted in vesicles: purified Gq/11 converts the receptor to the high-affinity SP state, the receptor-Gq complex"
+}
+]
+},
+{
+"id": "re187_tac1",
+"label": "",
+"class": "Process",
+"box": [
+2026.0,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TACR1:Gq",
+"GTP"
+],
+"out": [
+"TACR1:Gq",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"journal": "J Neuropathol Exp Neurol",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"year": "2025",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, the receptor's G protein cycle by extension"
+},
+{
+"authors": "Harris JA et al.",
+"journal": "Nat Chem Biol",
+"title": "Selective G protein signaling driven by substance P-neurokinin receptor dynamics.",
+"year": "2022",
+"db": "pubmed",
+"id": "34711980",
+"role": "step",
+"note": "human SP-NK1R-G protein complex captured nucleotide-free (GDP released), the state from which GTP binds (full text)"
+},
+{
+"authors": "Berstein G et al.",
+"journal": "J Biol Chem",
+"title": "Reconstitution of agonist-stimulated phosphatidylinositol 4,5-bisphosphate hydrolysis using purified m1 muscarinic receptor, Gq/11, and phospholipase C-beta 1.",
+"year": "1992",
+"db": "pubmed",
+"id": "1341877",
+"role": "step",
+"note": "purified receptor (m1, not NK1R) with Gq/11: agonist raises GTPgammaS binding 20 to 50-fold, receptor-catalysed exchange"
+},
+{
+"authors": "Nishimura A et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Structural basis for the specific inhibition of heterotrimeric Gq protein by a small molecule.",
+"year": "2010",
+"db": "pubmed",
+"id": "20639466",
+"role": "step",
+"note": "structure of human Gqalpha-beta-gamma with YM-254890: blocking GDP release blocks exchange, so GDP release is the step"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review of the G protein cycle: the receptor catalyses GDP for GTP exchange on the alpha subunit; no abstract on PubMed, cited as the classic review"
+}
+]
+},
+{
+"id": "re189_tac1",
+"label": "",
+"class": "Process",
+"box": [
+1453.0,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TACR1",
+"TAC1"
+],
+"out": [
+"TAC1:TACR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"journal": "J Neuropathol Exp Neurol",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"year": "2025",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: an NK1R antagonist reduces chronic OA pain and lowers SP, CGRP, cytokines and microglial activation in the dorsal horn (antagonist given intra-articularly)"
+},
+{
+"authors": "Otis C et al.",
+"journal": "Neuropeptides",
+"title": "Spinal neuropeptide modulation, functional assessment and cartilage lesions in a monosodium iodoacetate rat model of osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "28456437",
+"role": "OA",
+"note": "rat MIA knee OA: spinal cord substance P rises from day 14 and stays high with tactile allodynia"
+},
+{
+"authors": "Thom C et al.",
+"journal": "Sci Adv",
+"title": "Structures of neurokinin 1 receptor in complex with G(q) and G(s) proteins reveal substance P binding mode and unique activation features.",
+"year": "2021",
+"db": "pubmed",
+"id": "34878828",
+"role": "step",
+"note": "cryo-EM of wild-type human NK1R bound to substance P (with Gq and Gs), the binding pocket resolved"
+},
+{
+"authors": "Gerard NP et al.",
+"journal": "Biochemistry",
+"title": "Human substance P receptor (NK-1): organization of the gene, chromosome localization, and functional expression of cDNA clones.",
+"year": "1991",
+"db": "pubmed",
+"id": "1657150",
+"role": "step",
+"note": "cloned human NK1R in COS-7: substance P binds with Kd 0.35 nM, selective over NKA and NKB"
+},
+{
+"authors": "Mantyh PW et al.",
+"journal": "Science",
+"title": "Receptor endocytosis and dendrite reshaping in spinal neurons after somatosensory stimulation.",
+"year": "1995",
+"db": "pubmed",
+"id": "7539937",
+"role": "step",
+"note": "rat in vivo: noxious stimulation releases SP from primary afferents that acts on, and internalises, NK1R of spinal neurons (the cell drawn)"
+}
+]
+},
+{
+"id": "re238_tac1",
+"label": "",
+"class": "Process",
+"box": [
+2225.0,
+1223.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PLCB",
+"Gqα:GTP"
+],
+"out": [
+"PLCB:Gqα"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"journal": "J Neuropathol Exp Neurol",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"year": "2025",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, its Gq-PLC step by extension"
+},
+{
+"authors": "Gerard NP et al.",
+"journal": "Biochemistry",
+"title": "Human substance P receptor (NK-1): organization of the gene, chromosome localization, and functional expression of cDNA clones.",
+"year": "1991",
+"db": "pubmed",
+"id": "1657150",
+"role": "step",
+"note": "cloned human NK1R: substance P drives phosphatidylinositol metabolism, the PLC output of this receptor"
+},
+{
+"authors": "Waldo GL et al.",
+"journal": "Science",
+"title": "Kinetic scaffolding mediated by a phospholipase C-beta and Gq signaling complex.",
+"year": "2010",
+"db": "pubmed",
+"id": "20966218",
+"role": "step",
+"note": "2.7 A structure of PLC-beta3 bound to activated Gqalpha: the complex drawn"
+},
+{
+"authors": "Smrcka AV et al.",
+"journal": "Science",
+"title": "Regulation of polyphosphoinositide-specific phospholipase C activity by purified Gq.",
+"year": "1991",
+"db": "pubmed",
+"id": "1846707",
+"role": "step",
+"note": "purified Gqalpha stimulates phosphoinositide-specific PLC"
+}
+]
+},
+{
+"id": "re240_tac1",
+"label": "",
+"class": "Process",
+"box": [
+2086.0,
+1065.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gqα:GTP"
+],
+"out": [
+"Gqα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"journal": "J Neuropathol Exp Neurol",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"year": "2025",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, its G protein cycle by extension"
+},
+{
+"authors": "Saitoh O et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Alternative splicing of RGS8 gene determines inhibitory function of receptor type-specific Gq signaling.",
+"year": "2002",
+"db": "pubmed",
+"id": "12110731",
+"role": "step",
+"note": "Xenopus oocytes: RGS8 reduces Gq signalling from the substance P receptor, the RGS modifier on this receptor's Gq"
+},
+{
+"authors": "Heximer SP et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "RGS2/G0S8 is a selective inhibitor of Gqalpha function.",
+"year": "1997",
+"db": "pubmed",
+"id": "9405622",
+"role": "step",
+"note": "RGS2 is a selective GAP-type inhibitor of Gqalpha"
+},
+{
+"authors": "Berstein G et al.",
+"journal": "Cell",
+"title": "Phospholipase C-beta 1 is a GTPase-activating protein for Gq/11, its physiologic regulator.",
+"year": "1992",
+"db": "pubmed",
+"id": "1322796",
+"role": "step",
+"note": "purified proteins: PLC-beta1 is itself a GAP for Gq/11"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review: the alpha subunit hydrolyses bound GTP, ending the active state; no abstract on PubMed, cited as the classic review"
+}
+]
+},
+{
+"id": "re241_tac1",
+"label": "",
+"class": "Process",
+"box": [
+1779.0,
+1065.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gqα:GDP",
+"Gqβ:Gqγ"
+],
+"out": [
+"Gq heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"journal": "J Neuropathol Exp Neurol",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"year": "2025",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, its G protein cycle by extension"
+},
+{
+"authors": "Nishimura A et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Structural basis for the specific inhibition of heterotrimeric Gq protein by a small molecule.",
+"year": "2010",
+"db": "pubmed",
+"id": "20639466",
+"role": "step",
+"note": "crystal structure of the human Gqalpha-beta-gamma heterotrimer in its inactive GDP-bound form"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review: GDP-bound alpha reassociates with beta-gamma; no abstract on PubMed, cited as the classic review"
+}
+]
+},
+{
+"id": "re243_tac1",
+"label": "",
+"class": "Process",
+"box": [
+2225.0,
+855.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TACR1:Gq"
+],
+"out": [
+"Gqα:GTP",
+"Gqβ:Gqγ",
+"TACR1",
+"TAC1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"journal": "J Neuropathol Exp Neurol",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"year": "2025",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, the active G protein's release by extension"
+},
+{
+"authors": "Berstein G et al.",
+"journal": "J Biol Chem",
+"title": "Reconstitution of agonist-stimulated phosphatidylinositol 4,5-bisphosphate hydrolysis using purified m1 muscarinic receptor, Gq/11, and phospholipase C-beta 1.",
+"year": "1992",
+"db": "pubmed",
+"id": "1341877",
+"role": "step",
+"note": "purified receptor (m1) and Gq/11: GTP-loaded Gq/11 activates purified PLC-beta1, the GTP-bound alpha leaving as the active species"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review: the GTP-bound alpha subunit separates from the beta-gamma dimer and the receptor; no abstract on PubMed, cited as the classic review"
+}
+]
+},
+{
 "label": "CA2+",
 "class": "SimpleChemical",
 "box": [
@@ -9413,6 +10267,135 @@
 "UniProt",
 "Q14643"
 ]
+]
+},
+{
+"id": "re236_bdnf",
+"label": "",
+"class": "Process",
+"box": [
+3912.7,
+970.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ITPR1",
+"I(1,4,5)P3"
+],
+"out": [
+"ITPR1:IP3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"journal": "Neurosci Lett",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"year": "2023",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Bosanac I et al.",
+"journal": "Nature",
+"title": "Structure of the inositol 1,4,5-trisphosphate receptor binding core in complex with its ligand.",
+"year": "2002",
+"db": "pubmed",
+"id": "12442173",
+"role": "step",
+"note": "2.2 A crystal structure of the IP3-binding core of mouse ITPR1 with IP3"
+},
+{
+"authors": "Schmitz EA et al.",
+"journal": "Nat Commun",
+"title": "Structural basis for activation and gating of IP(3) receptors.",
+"year": "2022",
+"db": "pubmed",
+"id": "35301323",
+"role": "step",
+"note": "cryo-EM of human IP3 receptor type 3 (not type 1) with IP3: IP3 binding primes the channel"
+},
+{
+"authors": "Groth RD et al.",
+"journal": "J Neurosci",
+"title": "Brain-derived neurotrophic factor activation of NFAT (nuclear factor of activated T-cells)-dependent transcription: a role for the transcription factor NFATc4 in neurotrophin-mediated gene expression.",
+"year": "2003",
+"db": "pubmed",
+"id": "12954875",
+"role": "step",
+"note": "rat hippocampal neurons: BDNF through TrkB and PLC acts by IP3-mediated store Ca2+ release and raises ITPR1 expression (the BDNF arm to the IP3 receptor)"
+}
+]
+},
+{
+"id": "re237_bdnf",
+"label": "",
+"class": "Process",
+"box": [
+4022.9,
+1130.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CA2+"
+],
+"out": [
+"CA2+"
+],
+"by": [
+"ITPR1:IP3"
+]
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"journal": "Neurosci Lett",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"year": "2023",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Streb H et al.",
+"journal": "Nature",
+"title": "Release of Ca2+ from a nonmitochondrial intracellular store in pancreatic acinar cells by inositol-1,4,5-trisphosphate.",
+"year": "1983",
+"db": "pubmed",
+"id": "6605482",
+"role": "step",
+"note": "rat pancreatic acinar cells (classic biochemistry): IP3 releases Ca2+ from a nonmitochondrial (ER) store"
+},
+{
+"authors": "Groth RD et al.",
+"journal": "J Neurosci",
+"title": "Brain-derived neurotrophic factor activation of NFAT (nuclear factor of activated T-cells)-dependent transcription: a role for the transcription factor NFATc4 in neurotrophin-mediated gene expression.",
+"year": "2003",
+"db": "pubmed",
+"id": "12954875",
+"role": "step",
+"note": "rat hippocampal neurons: BDNF-TrkB-PLC signalling releases Ca2+ from intracellular stores through IP3"
+},
+{
+"authors": "Schmitz EA et al.",
+"journal": "Nat Commun",
+"title": "Structural basis for activation and gating of IP(3) receptors.",
+"year": "2022",
+"db": "pubmed",
+"id": "35301323",
+"role": "step",
+"note": "cryo-EM of human IP3 receptor type 3: the IP3 receptor releases Ca2+ from the ER (type 3, not type 1)"
+}
 ]
 },
 {
@@ -10780,6 +11763,431 @@
 ]
 },
 {
+"id": "re235_bdnf",
+"label": "",
+"class": "Process",
+"box": [
+3653.7,
+788.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PI(4,5)P2",
+"H2O"
+],
+"out": [
+"DAG",
+"I(1,4,5)P3"
+],
+"by": [
+"PLCB:Gqα",
+"PLCG1"
+]
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"journal": "Neurosci Lett",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"year": "2023",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Bellucci F et al.",
+"journal": "Br J Pharmacol",
+"title": "Novel effects mediated by bradykinin and pharmacological characterization of bradykinin B2 receptor antagonism in human synovial fibroblasts.",
+"year": "2009",
+"db": "pubmed",
+"id": "20050188",
+"role": "OA",
+"note": "human synovial fibroblasts (OA synovitis study): bradykinin raises inositol phosphates, PLC (U73122) dependent; joint cells, the PLCB arm"
+},
+{
+"authors": "Hicks SN et al.",
+"journal": "Mol Cell",
+"title": "General and versatile autoinhibition of PLC isozymes.",
+"year": "2008",
+"db": "pubmed",
+"id": "18691970",
+"role": "step",
+"note": "crystal structure and assays of human PLC-beta2: PLC isozymes hydrolyse PI(4,5)P2 into DAG and IP3"
+},
+{
+"authors": "Carpenter G et al.",
+"journal": "Exp Cell Res",
+"title": "Phospholipase C-gamma as a signal-transducing element.",
+"year": "1999",
+"db": "pubmed",
+"id": "10579907",
+"role": "step",
+"note": "review: in tyrosine kinase pathways PLC-gamma hydrolyses PI(4,5)P2 to IP3 and DAG (the PLCG1 arm)"
+},
+{
+"authors": "Chuang HH et al.",
+"journal": "Nature",
+"title": "Bradykinin and nerve growth factor release the capsaicin receptor from PtdIns(4,5)P2-mediated inhibition.",
+"year": "2001",
+"db": "pubmed",
+"id": "11418861",
+"role": "step",
+"note": "rat DRG neurons: bradykinin (Gq) and NGF (Trk) stimulate PLC signalling in primary afferent neurons (both arms drawn)"
+}
+]
+},
+{
+"id": "re313_bdnf",
+"label": "",
+"class": "Process",
+"box": [
+2569.0,
+649.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NTRK2",
+"BDNF"
+],
+"out": [
+"BDNF:NTRK2 dimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"journal": "Neurosci Lett",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"year": "2023",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Gowler PRW et al.",
+"journal": "Pain",
+"title": "Peripheral brain-derived neurotrophic factor contributes to chronic osteoarthritis joint pain.",
+"year": "2020",
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: sequestering BDNF with TrkB-Fc reverses pain (joint, peripheral)"
+},
+{
+"authors": "Simão AP et al.",
+"journal": "Rheumatol Int",
+"title": "Involvement of BDNF in knee osteoarthritis: the relationship with inflammation and clinical parameters.",
+"year": "2014",
+"db": "pubmed",
+"id": "24399456",
+"role": "OA",
+"note": "human knee OA (27 patients): plasma BDNF higher than controls and correlates with WOMAC pain"
+},
+{
+"authors": "Ahmed F et al.",
+"journal": "Biochem J",
+"title": "Dimerization of the Trk receptors in the plasma membrane: effects of their cognate ligands.",
+"year": "2018",
+"db": "pubmed",
+"id": "30366959",
+"role": "step",
+"note": "FRET in cell plasma membranes, human TrkB with human BDNF: ligand binding stabilises the TrkB dimer"
+},
+{
+"authors": "Haniu M et al.",
+"journal": "J Biol Chem",
+"title": "Interactions between brain-derived neurotrophic factor and the TRKB receptor. Identification of two ligand binding domains in soluble TRKB by affinity separation and chemical cross-linking.",
+"year": "1997",
+"db": "pubmed",
+"id": "9312147",
+"role": "step",
+"note": "extracellular domain of human TRKB binds BDNF; two binding domains mapped"
+}
+]
+},
+{
+"id": "re314_bdnf",
+"label": "",
+"class": "Process",
+"box": [
+2799.8,
+649.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BDNF:NTRK2 dimer"
+],
+"out": [
+"BDNF:p-NTRK2 dimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"journal": "Neurosci Lett",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"year": "2023",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Gowler PRW et al.",
+"journal": "Pain",
+"title": "Peripheral brain-derived neurotrophic factor contributes to chronic osteoarthritis joint pain.",
+"year": "2020",
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: sequestering BDNF with TrkB-Fc reverses pain (joint, peripheral)"
+},
+{
+"authors": "Artim SC et al.",
+"journal": "Biochem J",
+"title": "Comparison of tyrosine kinase domain properties for the neurotrophin receptors TrkA and TrkB.",
+"year": "2020",
+"db": "pubmed",
+"id": "33043964",
+"role": "step",
+"note": "human TrkB tyrosine kinase domain (residues 526-822, full text) autophosphorylates in vitro"
+},
+{
+"authors": "Sugimoto T et al.",
+"journal": "Jpn J Cancer Res",
+"title": "Signal transduction pathways through TRK-A and TRK-B receptors in human neuroblastoma cells.",
+"year": "2001",
+"db": "pubmed",
+"id": "11223544",
+"role": "step",
+"note": "human neuroblastoma cell line: BDNF induces TrkB tyrosine phosphorylation, blocked by K252a"
+},
+{
+"authors": "Middlemas DS et al.",
+"journal": "J Biol Chem",
+"title": "Identification of TrkB autophosphorylation sites and evidence that phospholipase C-gamma 1 is a substrate of the TrkB receptor.",
+"year": "1994",
+"db": "pubmed",
+"id": "8106527",
+"role": "step",
+"note": "TrkB in Rat-2 cells: BDNF and NT-3 induce TrkB autophosphorylation (Y670/674/675 activation loop, Y785 = human Y817)"
+}
+]
+},
+{
+"id": "re315_bdnf",
+"label": "",
+"class": "Process",
+"box": [
+3043.0,
+649.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BDNF:p-NTRK2 dimer",
+"PLCG1"
+],
+"out": [
+"BDNF:p-NTRK2:PLCG1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"journal": "Neurosci Lett",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"year": "2023",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Gowler PRW et al.",
+"journal": "Pain",
+"title": "Peripheral brain-derived neurotrophic factor contributes to chronic osteoarthritis joint pain.",
+"year": "2020",
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: sequestering BDNF with TrkB-Fc reverses pain (joint, peripheral)"
+},
+{
+"authors": "Middlemas DS et al.",
+"journal": "J Biol Chem",
+"title": "Identification of TrkB autophosphorylation sites and evidence that phospholipase C-gamma 1 is a substrate of the TrkB receptor.",
+"year": "1994",
+"db": "pubmed",
+"id": "8106527",
+"role": "step",
+"note": "Rat-2 cells: PLC-gamma1 forms a complex with activated TrkB; pY785 (human Y817) fits the PLC-gamma1 SH2 consensus"
+},
+{
+"authors": "Minichiello L et al.",
+"journal": "Neuron",
+"title": "Mechanism of TrkB-mediated hippocampal long-term potentiation.",
+"year": "2002",
+"db": "pubmed",
+"id": "12367511",
+"role": "step",
+"note": "mice with the TrkB PLC-gamma docking site mutated: BDNF signalling to CaMKIV and CREB lost; TrkB recruits PLC-gamma through this site"
+}
+]
+},
+{
+"id": "re316_bdnf",
+"label": "",
+"class": "Process",
+"box": [
+3297.1,
+649.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BDNF:p-NTRK2:PLCG1"
+],
+"out": [
+"BDNF:p-NTRK2:p-PLCG1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"journal": "Neurosci Lett",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"year": "2023",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Gowler PRW et al.",
+"journal": "Pain",
+"title": "Peripheral brain-derived neurotrophic factor contributes to chronic osteoarthritis joint pain.",
+"year": "2020",
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: sequestering BDNF with TrkB-Fc reverses pain (joint, peripheral)"
+},
+{
+"authors": "Middlemas DS et al.",
+"journal": "J Biol Chem",
+"title": "Identification of TrkB autophosphorylation sites and evidence that phospholipase C-gamma 1 is a substrate of the TrkB receptor.",
+"year": "1994",
+"db": "pubmed",
+"id": "8106527",
+"role": "step",
+"note": "Rat-2 cells: activated TrkB phosphorylates PLC-gamma1 on Y783, Y771 and Y1254"
+},
+{
+"authors": "Sugimoto T et al.",
+"journal": "Jpn J Cancer Res",
+"title": "Signal transduction pathways through TRK-A and TRK-B receptors in human neuroblastoma cells.",
+"year": "2001",
+"db": "pubmed",
+"id": "11223544",
+"role": "step",
+"note": "human neuroblastoma cells (TrkA and TrkB): BDNF raises PLC-gamma1 tyrosine phosphorylation, blocked by the Trk inhibitor K252a"
+},
+{
+"authors": "Hajicek N et al.",
+"journal": "Elife",
+"title": "Structural basis for the activation of PLC-γ isozymes by phosphorylation and cancer-associated mutations.",
+"year": "2019",
+"db": "pubmed",
+"id": "31889510",
+"role": "step",
+"note": "structure of rat PLC-gamma1 (96% identical to human): tyrosine phosphorylation releases autoinhibition and activates the enzyme"
+}
+]
+},
+{
+"id": "re318_bdnf",
+"label": "",
+"class": "Process",
+"box": [
+3563.7,
+649.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BDNF:p-NTRK2:p-PLCG1"
+],
+"out": [
+"PLCG1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"journal": "Neurosci Lett",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"year": "2023",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Gowler PRW et al.",
+"journal": "Pain",
+"title": "Peripheral brain-derived neurotrophic factor contributes to chronic osteoarthritis joint pain.",
+"year": "2020",
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: sequestering BDNF with TrkB-Fc reverses pain (joint, peripheral)"
+},
+{
+"authors": "Carpenter G et al.",
+"journal": "Exp Cell Res",
+"title": "Phospholipase C-gamma as a signal-transducing element.",
+"year": "1999",
+"db": "pubmed",
+"id": "10579907",
+"role": "step",
+"note": "review: PLC-gamma associates with and is phosphorylated by receptor tyrosine kinases (Reactome's only reference for the release step, which is not tested for TrkB)"
+},
+{
+"authors": "Poulin B et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Intramolecular interaction between phosphorylated tyrosine-783 and the C-terminal Src homology 2 domain activates phospholipase C-gamma1.",
+"year": "2005",
+"db": "pubmed",
+"id": "15764700",
+"role": "step",
+"note": "biochemistry: phosphorylated Y783 binds PLC-gamma1's own C-terminal SH2 domain, which activates it, while the N-terminal SH2 holds the receptor (two roles; release not shown)"
+}
+]
+},
+{
 "label": "GABA-A receptor",
 "class": "Macromolecule",
 "box": [
@@ -11027,6 +12435,70 @@
 "P18507"
 ]
 ]
+}
+]
+},
+{
+"id": "p1_kcc2",
+"label": "",
+"class": "Process",
+"box": [
+4735.0,
+581.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GABA",
+"GABA-A receptor"
+],
+"out": [
+"GABA:GABA-A receptor"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"journal": "Mol Pain",
+"title": "Spinal 5-HT(2A) receptor is involved in electroacupuncture inhibition of chronic pain.",
+"year": "2022",
+"db": "pubmed",
+"id": "35240891",
+"role": "OA",
+"note": "mouse knee OA (MIA): GABA-A receptor expression reduced in the dorsal spinal cord, restored by electroacupuncture"
+},
+{
+"authors": "Yuan XC et al.",
+"journal": "Front Neurosci",
+"title": "5-HT(7) Receptor Is Involved in Electroacupuncture Inhibition of Chronic Pain in the Spinal Cord.",
+"year": "2021",
+"db": "pubmed",
+"id": "34602973",
+"role": "OA",
+"note": "mouse knee OA (MIA): the GABA-A receptor antagonist bicuculline given intrathecally blocks the analgesia, so spinal GABA-A receptors carry inhibition in KOA"
+},
+{
+"authors": "Masiulis S et al.",
+"journal": "Nature",
+"title": "GABA(A) receptor signalling mechanisms revealed by structural pharmacology.",
+"year": "2019",
+"db": "pubmed",
+"id": "30602790",
+"role": "step",
+"note": "cryo-EM of the full-length human alpha1beta3gamma2L GABA-A receptor with the agonist GABA bound"
+},
+{
+"authors": "Zeilhofer HU et al.",
+"journal": "Physiol Rev",
+"title": "Fast synaptic inhibition in spinal sensory processing and pain control.",
+"year": "2012",
+"db": "pubmed",
+"id": "22298656",
+"role": "step",
+"note": "review: GABA mediates fast inhibitory neurotransmission in spinal sensory processing"
 }
 ]
 },
@@ -11378,6 +12850,70 @@
 ]
 },
 {
+"id": "p2_kcc2",
+"label": "",
+"class": "Process",
+"box": [
+5011.0,
+581.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"glycine",
+"GLRA3"
+],
+"out": [
+"glycine:GLRA3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Bai F et al.",
+"journal": "Evid Based Complement Alternat Med",
+"title": "Spinal Cord Glycine Transporter 2 Mediates Bilateral ST35 Acupoints Sensitization in Rats with Knee Osteoarthritis.",
+"year": "2019",
+"db": "pubmed",
+"id": "30881475",
+"role": "OA",
+"note": "rat knee OA (MIA): extracellular glycine falls in the dorsal horn (GlyT2 up), and intrathecal glycine relieves the sensitisation"
+},
+{
+"authors": "Huang X et al.",
+"journal": "Nat Struct Mol Biol",
+"title": "Crystal structures of human glycine receptor α3 bound to a novel class of analgesic potentiators.",
+"year": "2017",
+"db": "pubmed",
+"id": "27991902",
+"role": "step",
+"note": "X-ray structure of human homopentameric GlyR alpha3 with the agonist glycine in its orthosteric site"
+},
+{
+"authors": "Harvey RJ et al.",
+"journal": "Science",
+"title": "GlyR alpha3: an essential target for spinal PGE2-mediated inflammatory pain sensitization.",
+"year": "2004",
+"db": "pubmed",
+"id": "15131310",
+"role": "step",
+"note": "mouse: GlyR alpha3 is the glycine receptor subtype of the superficial dorsal horn that carries inflammatory pain sensitisation"
+},
+{
+"authors": "Zeilhofer HU et al.",
+"journal": "Physiol Rev",
+"title": "Fast synaptic inhibition in spinal sensory processing and pain control.",
+"year": "2012",
+"db": "pubmed",
+"id": "22298656",
+"role": "step",
+"note": "review: glycine mediates fast inhibitory neurotransmission in spinal sensory processing"
+}
+]
+},
+{
 "label": "glycine",
 "class": "SimpleChemical",
 "box": [
@@ -11474,6 +13010,136 @@
 ]
 },
 {
+"id": "p3a_kcc2",
+"label": "",
+"class": "Process",
+"box": [
+4859.0,
+729.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Cl-"
+],
+"out": [
+"Cl-"
+],
+"by": [
+"GABA:GABA-A receptor"
+]
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"journal": "Mol Pain",
+"title": "Spinal 5-HT(2A) receptor is involved in electroacupuncture inhibition of chronic pain.",
+"year": "2022",
+"db": "pubmed",
+"id": "35240891",
+"role": "OA",
+"note": "mouse knee OA (MIA): GABA-A receptor and KCC2, the two parts of the chloride-mediated inhibition, both reduced in the dorsal spinal cord"
+},
+{
+"authors": "Masiulis S et al.",
+"journal": "Nature",
+"title": "GABA(A) receptor signalling mechanisms revealed by structural pharmacology.",
+"year": "2019",
+"db": "pubmed",
+"id": "30602790",
+"role": "step",
+"note": "human GABA-A receptor structures: the receptor is a ligand-gated chloride channel, with the agonist-bound and pore states of its gating cycle"
+},
+{
+"authors": "Lee HH et al.",
+"journal": "J Biol Chem",
+"title": "Direct protein kinase C-dependent phosphorylation regulates the cell surface stability and activity of the potassium chloride cotransporter KCC2.",
+"year": "2007",
+"db": "pubmed",
+"id": "17693402",
+"role": "step",
+"note": "rat/heterologous cells: the chloride currents through GABA-A and glycine receptors are hyperpolarizing only while KCC2 keeps internal Cl- low"
+},
+{
+"authors": "Rivera C et al.",
+"journal": "Nature",
+"title": "The K+/Cl- co-transporter KCC2 renders GABA hyperpolarizing during neuronal maturation.",
+"year": "1999",
+"db": "pubmed",
+"id": "9930699",
+"role": "step",
+"note": "rat hippocampus: the Cl- gradient set by KCC2 is what makes the GABA-A current hyperpolarizing"
+}
+]
+},
+{
+"id": "p3b_kcc2",
+"label": "",
+"class": "Process",
+"box": [
+4883.0,
+729.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Cl-"
+],
+"out": [
+"Cl-"
+],
+"by": [
+"glycine:GLRA3"
+]
+},
+"references": [
+{
+"authors": "Bai F et al.",
+"journal": "Evid Based Complement Alternat Med",
+"title": "Spinal Cord Glycine Transporter 2 Mediates Bilateral ST35 Acupoints Sensitization in Rats with Knee Osteoarthritis.",
+"year": "2019",
+"db": "pubmed",
+"id": "30881475",
+"role": "OA",
+"note": "rat knee OA (MIA): less glycine in the dorsal horn, and giving glycine back relieves the sensitisation, so glycinergic inhibition is lost in KOA"
+},
+{
+"authors": "Liu X et al.",
+"journal": "Nat Commun",
+"title": "Mechanism of human α3β GlyR regulation by intracellular M3/M4 loop phosphorylation and 2,6-di-tert-butylphenol interaction.",
+"year": "2025",
+"db": "pubmed",
+"id": "40473619",
+"role": "step",
+"note": "cryo-EM and smFRET of the human alpha3beta glycine receptor: ion conduction through the pore of the dorsal horn subtype, and its block by phosphorylation"
+},
+{
+"authors": "Lee HH et al.",
+"journal": "J Biol Chem",
+"title": "Direct protein kinase C-dependent phosphorylation regulates the cell surface stability and activity of the potassium chloride cotransporter KCC2.",
+"year": "2007",
+"db": "pubmed",
+"id": "17693402",
+"role": "step",
+"note": "rat/heterologous cells: the glycine receptor current is hyperpolarizing only while KCC2 keeps internal Cl- low"
+},
+{
+"authors": "Zeilhofer HU et al.",
+"journal": "Physiol Rev",
+"title": "Fast synaptic inhibition in spinal sensory processing and pain control.",
+"year": "2012",
+"db": "pubmed",
+"id": "22298656",
+"role": "step",
+"note": "review: glycinergic currents are the fast inhibition of the dorsal horn and control pain"
+}
+]
+},
+{
 "label": "Cl-",
 "class": "SimpleChemical",
 "box": [
@@ -11519,6 +13185,71 @@
 "InChIKey",
 "VEXZGXHMUGYJMC-UHFFFAOYSA-M"
 ]
+]
+},
+{
+"id": "p5_kcc2",
+"label": "",
+"class": "Process",
+"box": [
+5011.0,
+869.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"glycine:GLRA3"
+],
+"out": [
+"glycine:GLRA3"
+],
+"by": [
+"PKA cat"
+]
+},
+"references": [
+{
+"authors": "Sung CS et al.",
+"journal": "Eur J Pain",
+"title": "Varying Analgesic Effectiveness of Systemic and Central Intrathecal Administration of Cyclooxygenase-2 Inhibitors in Different Phases of Osteoarthritic Pain in Rats.",
+"year": "2025",
+"db": "pubmed",
+"id": "40616299",
+"role": "OA",
+"note": "rat OA (ACLT): spinal COX-2 rises with the glia in the late phase and intrathecal COX-2 inhibitors relieve allodynia, so spinal PGE2 drives OA pain (the upstream of this step; GlyR not measured)"
+},
+{
+"authors": "Harvey RJ et al.",
+"journal": "Science",
+"title": "GlyR alpha3: an essential target for spinal PGE2-mediated inflammatory pain sensitization.",
+"year": "2004",
+"db": "pubmed",
+"id": "15131310",
+"role": "step",
+"note": "mouse, spinal cord: PGE2-induced phosphorylation of GlyR alpha3 inhibits the receptor and sensitises to inflammatory pain; GlyR alpha3-null mice lose it"
+},
+{
+"authors": "Ahmadi S et al.",
+"journal": "Nat Neurosci",
+"title": "PGE(2) selectively blocks inhibitory glycinergic neurotransmission onto rat superficial dorsal horn neurons.",
+"year": "2002",
+"db": "pubmed",
+"id": "11740501",
+"role": "step",
+"note": "rat superficial dorsal horn neurons: PGE2 blocks glycinergic currents through EP2, Gs and cAMP-dependent protein kinase (PKA)"
+},
+{
+"authors": "Liu X et al.",
+"journal": "Nat Commun",
+"title": "Mechanism of human α3β GlyR regulation by intracellular M3/M4 loop phosphorylation and 2,6-di-tert-butylphenol interaction.",
+"year": "2025",
+"db": "pubmed",
+"id": "40473619",
+"role": "step",
+"note": "human alpha3beta GlyR: phosphorylation of the alpha3 M3/M4 loop compacts it towards the pore and inhibits ion conduction"
+}
 ]
 },
 {
@@ -11671,6 +13402,82 @@
 "UniProt",
 "Q9H2X9"
 ]
+]
+},
+{
+"id": "p6_kcc2",
+"label": "",
+"class": "Process",
+"box": [
+5363.0,
+613.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Cl-"
+],
+"out": [
+"Cl-"
+],
+"by": [
+"SLC12A5",
+"BDNF:p-NTRK2 dimer"
+]
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"journal": "Mol Pain",
+"title": "Spinal 5-HT(2A) receptor is involved in electroacupuncture inhibition of chronic pain.",
+"year": "2022",
+"db": "pubmed",
+"id": "35240891",
+"role": "OA",
+"note": "mouse knee OA (MIA): KCC2 expression reduced in the dorsal spinal cord"
+},
+{
+"authors": "Ye Y et al.",
+"journal": "Neurosci Lett",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"year": "2023",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat knee OA (MIA): BDNF and TrkB rise in the spinal dorsal horn and the TrkB inhibitor ANA-12 reverses the allodynia (KCC2 not measured)"
+},
+{
+"authors": "Xie Y et al.",
+"journal": "Sci Adv",
+"title": "Structures and an activation mechanism of human potassium-chloride cotransporters.",
+"year": "2020",
+"db": "pubmed",
+"id": "33310850",
+"role": "step",
+"note": "cryo-EM structures of full-length human KCC2: coupled K+ and Cl- export, and its autoinhibition"
+},
+{
+"authors": "Puskarjov M et al.",
+"journal": "EMBO Rep",
+"title": "A variant of KCC2 from patients with febrile seizures impairs neuronal Cl- extrusion and dendritic spine formation.",
+"year": "2014",
+"db": "pubmed",
+"id": "24668262",
+"role": "step",
+"note": "human genetics: the KCC2-R952H variant from a family with febrile seizures reduces neuronal Cl- extrusion"
+},
+{
+"authors": "Rivera C et al.",
+"journal": "J Cell Biol",
+"title": "BDNF-induced TrkB activation down-regulates the K+-Cl- cotransporter KCC2 and impairs neuronal Cl- extrusion.",
+"year": "2002",
+"db": "pubmed",
+"id": "12473684",
+"role": "step",
+"note": "rat hippocampal slices: BDNF through TrkB lowers KCC2 mRNA and protein and impairs Cl- extrusion"
+}
 ]
 },
 {
@@ -12382,286 +14189,6 @@
 ]
 },
 {
-"label": "glutamate",
-"class": "SimpleChemical",
-"box": [
-7223.0,
-582.8,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"glutamate(1-)"
-],
-[
-"Synonyms",
-"2-ammoniopentanedioate; glutamate; glutamic acid monoanion; hydrogen glutamate"
-],
-[
-"Definition",
-"An α-amino-acid anion that is the conjugate base of glutamic acid, having anionic carboxy groups and a cationic amino group"
-],
-[
-"Formula",
-"C5H8NO4"
-],
-[
-"ChEBI",
-"CHEBI:14321"
-],
-[
-"InChI",
-"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1"
-],
-[
-"InChIKey",
-"WHUUTDBJXJRKMK-UHFFFAOYSA-M"
-]
-]
-},
-{
-"label": "GRIA1",
-"class": "Macromolecule",
-"box": [
-7200.0,
-638.8,
-86.0,
-46.0
-],
-"props": [
-[
-"Full name",
-"Glutamate receptor 1"
-],
-[
-"Alternative names",
-"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
-],
-[
-"Function",
-"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
-],
-[
-"Location",
-"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
-],
-[
-"HGNC",
-"HGNC:4571"
-],
-[
-"HGNC symbol",
-"GRIA1"
-],
-[
-"Previous symbols",
-"GLUR1"
-],
-[
-"Alias symbols",
-"GluA1, GLURA"
-],
-[
-"Entrez",
-"2890"
-],
-[
-"Ensembl",
-"ENSG00000155511"
-],
-[
-"RefSeq",
-"NM_000827"
-],
-[
-"UniProt",
-"P42261"
-]
-]
-},
-{
-"label": "GRIA4",
-"class": "Macromolecule",
-"box": [
-7200.0,
-706.8,
-86.0,
-46.0
-],
-"props": [
-[
-"Full name",
-"Glutamate receptor 4"
-],
-[
-"Alternative names",
-"AMPA-selective glutamate receptor 4; GluR-D; Glutamate receptor ionotropic, AMPA 4"
-],
-[
-"Function",
-"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system and plays an important role in fast excitatory synaptic transmission."
-],
-[
-"Location",
-"Cell membrane, Postsynaptic cell membrane, Cell projection, dendrite"
-],
-[
-"HGNC",
-"HGNC:4574"
-],
-[
-"HGNC symbol",
-"GRIA4"
-],
-[
-"Previous symbols",
-"GLUR4"
-],
-[
-"Alias symbols",
-"GluA4, GLURD, GluR-4, GluR-D, GLUR4C"
-],
-[
-"Entrez",
-"2893"
-],
-[
-"Ensembl",
-"ENSG00000152578"
-],
-[
-"RefSeq",
-"NM_000829"
-],
-[
-"UniProt",
-"P48058"
-]
-]
-},
-{
-"label": "GRIA1",
-"class": "Macromolecule",
-"box": [
-6964.9,
-610.8,
-86.0,
-46.0
-],
-"props": [
-[
-"Full name",
-"Glutamate receptor 1"
-],
-[
-"Alternative names",
-"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
-],
-[
-"Function",
-"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
-],
-[
-"Location",
-"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
-],
-[
-"HGNC",
-"HGNC:4571"
-],
-[
-"HGNC symbol",
-"GRIA1"
-],
-[
-"Previous symbols",
-"GLUR1"
-],
-[
-"Alias symbols",
-"GluA1, GLURA"
-],
-[
-"Entrez",
-"2890"
-],
-[
-"Ensembl",
-"ENSG00000155511"
-],
-[
-"RefSeq",
-"NM_000827"
-],
-[
-"UniProt",
-"P42261"
-]
-]
-},
-{
-"label": "GRIA4",
-"class": "Macromolecule",
-"box": [
-6964.9,
-678.8,
-86.0,
-46.0
-],
-"props": [
-[
-"Full name",
-"Glutamate receptor 4"
-],
-[
-"Alternative names",
-"AMPA-selective glutamate receptor 4; GluR-D; Glutamate receptor ionotropic, AMPA 4"
-],
-[
-"Function",
-"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system and plays an important role in fast excitatory synaptic transmission."
-],
-[
-"Location",
-"Cell membrane, Postsynaptic cell membrane, Cell projection, dendrite"
-],
-[
-"HGNC",
-"HGNC:4574"
-],
-[
-"HGNC symbol",
-"GRIA4"
-],
-[
-"Previous symbols",
-"GLUR4"
-],
-[
-"Alias symbols",
-"GluA4, GLURD, GluR-4, GluR-D, GLUR4C"
-],
-[
-"Entrez",
-"2893"
-],
-[
-"Ensembl",
-"ENSG00000152578"
-],
-[
-"RefSeq",
-"NM_000829"
-],
-[
-"UniProt",
-"P48058"
-]
-]
-},
-{
 "label": "GRIA1",
 "class": "Macromolecule",
 "box": [
@@ -12725,7 +14252,7 @@
 "label": "Ca2+",
 "class": "SimpleChemical",
 "box": [
-7364.0,
+6933.0,
 972.5,
 40.0,
 40.0
@@ -12765,7 +14292,7 @@
 "label": "Na+",
 "class": "SimpleChemical",
 "box": [
-7444.0,
+7013.0,
 972.5,
 40.0,
 40.0
@@ -12806,10 +14333,393 @@
 ]
 },
 {
+"id": "re180_glu",
+"label": "",
+"class": "Process",
+"box": [
+5837.0,
+669.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NMDA receptor",
+"glutamate"
+],
+"out": [
+"Glutamate:NMDA receptor"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Liu Z et al.",
+"journal": "J Musculoskelet Neuronal Interact",
+"title": "Transcranial Direct Current Stimulation Attenuates the Chronic Pain of Osteoarthritis in Rats via Reducing NMDAR2B Expressions in the Spinal Cord.",
+"year": "2023",
+"db": "pubmed",
+"id": "38037367",
+"role": "OA",
+"note": "rat MIA knee OA, spinal cord: NMDA receptor GluN2B raised in the spinal cord with the pain behaviour, reversed by tDCS"
+},
+{
+"authors": "Lin Y et al.",
+"journal": "Eur J Pharmacol",
+"title": "Inhibition of interleukin-6 function attenuates the central sensitization and pain behavior induced by osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "28663035",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn: NMDA subunit NR2B (and GluR1) upregulated in the ipsilateral dorsal horn with central sensitisation"
+},
+{
+"authors": "Schaible HG et al.",
+"journal": "J Neurochem",
+"title": "Spinal pain processing in arthritis: Neuron and glia (inter)actions.",
+"year": "2024",
+"db": "pubmed",
+"id": "36520021",
+"role": "OA",
+"note": "review of spinal pain processing in arthritis, osteoarthritis models included: spinal sensitisation depends on spinal glutamate receptors"
+},
+{
+"authors": "Zhang Y et al.",
+"journal": "Nature",
+"title": "Structural basis of ketamine action on human NMDA receptors.",
+"year": "2021",
+"db": "pubmed",
+"id": "34321660",
+"role": "step",
+"note": "cryo-EM of human GluN1-GluN2A and GluN1-GluN2B NMDA receptors with glutamate and glycine bound"
+},
+{
+"authors": "Furukawa H et al.",
+"journal": "Nature",
+"title": "Subunit arrangement and function in NMDA receptors.",
+"year": "2005",
+"db": "pubmed",
+"id": "16281028",
+"role": "step",
+"note": "NMDA receptor structure and function: activation needs glycine on GluN1 and glutamate on GluN2, then cations flow in"
+}
+]
+},
+{
+"id": "re202_glu",
+"label": "",
+"class": "Process",
+"box": [
+6290.8,
+669.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GluA1:GluA3",
+"glutamate"
+],
+"out": [
+"Glutamate:GluA1:GluA3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Wu M et al.",
+"journal": "J Pain Res",
+"title": "Acupotomy Alleviates Pain and Attenuates Spinal Neuronal Hyperexcitability in Knee Osteoarthritis Rats: Implication of the CaMKII/GluA1 Axis.",
+"year": "2026",
+"db": "pubmed",
+"id": "42898890",
+"role": "OA",
+"note": "rat MIA knee OA, spinal substantia gelatinosa: Gria1/GluA1 and its phosphorylation raised with neuronal hyperexcitability, both lowered by the treatment"
+},
+{
+"authors": "Schaible HG et al.",
+"journal": "J Neurochem",
+"title": "Spinal pain processing in arthritis: Neuron and glia (inter)actions.",
+"year": "2024",
+"db": "pubmed",
+"id": "36520021",
+"role": "OA",
+"note": "review, arthritis including osteoarthritis models: spinal AMPA receptors carry spinal sensitisation to knee input"
+},
+{
+"authors": "Polgár E et al.",
+"journal": "Mol Pain",
+"title": "Expression of AMPA receptor subunits at synapses in laminae I-III of the rodent spinal dorsal horn.",
+"year": "2008",
+"db": "pubmed",
+"id": "18215271",
+"role": "step",
+"note": "rat dorsal horn laminae I-III: GluA1 and GluA3 sit together at glutamatergic synapses (but with GluA2)"
+},
+{
+"authors": "Herguedas B et al.",
+"journal": "Science",
+"title": "Structure and organization of heteromeric AMPA-type glutamate receptors.",
+"year": "2016",
+"db": "pubmed",
+"id": "26966189",
+"role": "step",
+"note": "structures of AMPA receptor heteromers (GluA2/3, GluA2/4): GluA1-GluA4 assemble as heteromeric tetramers around a central axis"
+},
+{
+"authors": "Pokharna A et al.",
+"journal": "Nature",
+"title": "Architecture, dynamics and biogenesis of GluA3 AMPA glutamate receptors.",
+"year": "2025",
+"db": "pubmed",
+"id": "40592473",
+"role": "step",
+"note": "GluA3 cryo-EM (rat constructs, human disease mutations mapped): GluA3 forms a Ca2+-permeable, fast-transmitting receptor at sensory synapses"
+}
+]
+},
+{
+"id": "re203_glu",
+"label": "",
+"class": "Process",
+"box": [
+6694.9,
+669.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GRIA1",
+"glutamate"
+],
+"out": [
+"Glutamate:GluA1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Wu M et al.",
+"journal": "J Pain Res",
+"title": "Acupotomy Alleviates Pain and Attenuates Spinal Neuronal Hyperexcitability in Knee Osteoarthritis Rats: Implication of the CaMKII/GluA1 Axis.",
+"year": "2026",
+"db": "pubmed",
+"id": "42898890",
+"role": "OA",
+"note": "rat MIA knee OA: GluA1 (Gria1) in the spinal substantia gelatinosa drives the hyperexcitability of these neurons"
+},
+{
+"authors": "Lin Y et al.",
+"journal": "Eur J Pharmacol",
+"title": "Inhibition of interleukin-6 function attenuates the central sensitization and pain behavior induced by osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "28663035",
+"role": "OA",
+"note": "rat MIA knee OA: GluR1 (GluA1) upregulated in the ipsilateral dorsal horn, with c-Fos and pain behaviour"
+},
+{
+"authors": "Ismail V et al.",
+"journal": "Am J Hum Genet",
+"title": "Identification and functional evaluation of GRIA1 missense and truncation variants in individuals with ID: An emerging neurodevelopmental syndrome.",
+"year": "2022",
+"db": "pubmed",
+"id": "35675825",
+"role": "step",
+"note": "human GRIA1 variants from patients, GluA1-containing AMPA receptors assayed in vitro: GluA1 forms a glutamate-gated channel whose function the variants perturb"
+},
+{
+"authors": "Wigerblad G et al.",
+"journal": "Exp Neurol",
+"title": "Inflammation-induced GluA1 trafficking and membrane insertion of Ca(2+) permeable AMPA receptors in dorsal horn neurons is dependent on spinal tumor necrosis factor, PI3 kinase and protein kinase A.",
+"year": "2017",
+"db": "pubmed",
+"id": "28412220",
+"role": "step",
+"note": "rat inflammation: GluA2-lacking, Ca2+-permeable GluA1 receptors are inserted into synapses of nociceptive dorsal horn projection neurons"
+},
+{
+"authors": "Kumar Mondal A et al.",
+"journal": "Nature",
+"title": "Glutamate gating of AMPA-subtype iGluRs at physiological temperatures.",
+"year": "2025",
+"db": "pubmed",
+"id": "40140570",
+"role": "step",
+"note": "cryo-EM at physiological temperature: glutamate binding opens the AMPA receptor channel and lets cations in"
+}
+]
+},
+{
+"id": "re204_glu",
+"label": "",
+"class": "Process",
+"box": [
+6981.0,
+906.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+",
+"Na+"
+],
+"out": [
+"Ca2+",
+"Na+"
+],
+"by": [
+"OR"
+]
+},
+"references": [
+{
+"authors": "Wu M et al.",
+"journal": "J Pain Res",
+"title": "Acupotomy Alleviates Pain and Attenuates Spinal Neuronal Hyperexcitability in Knee Osteoarthritis Rats: Implication of the CaMKII/GluA1 Axis.",
+"year": "2026",
+"db": "pubmed",
+"id": "42898890",
+"role": "OA",
+"note": "rat MIA knee OA: spinal neurons of the substantia gelatinosa fire at abnormally high frequency, with calcium signalling genes enriched"
+},
+{
+"authors": "Schaible HG et al.",
+"journal": "J Neurochem",
+"title": "Spinal pain processing in arthritis: Neuron and glia (inter)actions.",
+"year": "2024",
+"db": "pubmed",
+"id": "36520021",
+"role": "OA",
+"note": "review, arthritis and osteoarthritis models: the spinal hyperexcitability these currents produce is the spinal side of arthritis pain"
+},
+{
+"authors": "Burnashev N et al.",
+"journal": "J Physiol",
+"title": "Fractional calcium currents through recombinant GluR channels of the NMDA, AMPA and kainate receptor subtypes.",
+"year": "1995",
+"db": "pubmed",
+"id": "7666365",
+"role": "step",
+"note": "recombinant receptors in HEK293: glutamate-gated current carries Ca2+ through NMDA receptors (8-11% of the current) and through GluA2(Q)-lacking AMPA receptors, almost none through GluA2(R)-containing ones; the rest is Na+"
+},
+{
+"authors": "D'Andrea T et al.",
+"journal": "Mol Neurobiol",
+"title": "Selective Reduction of Ca(2+) Entry Through the Human NMDA Receptor: a Quantitative Study by Simultaneous Ca(2+) and Na(+) Imaging.",
+"year": "2024",
+"db": "pubmed",
+"id": "38240993",
+"role": "step",
+"note": "human NMDA receptors and human iPSC-derived neurons: simultaneous Ca2+ and Na+ imaging measures the Ca2+ share of the NMDA current"
+},
+{
+"authors": "Kumar Mondal A et al.",
+"journal": "Nature",
+"title": "Glutamate gating of AMPA-subtype iGluRs at physiological temperatures.",
+"year": "2025",
+"db": "pubmed",
+"id": "40140570",
+"role": "step",
+"note": "AMPA receptor gating: the channel opens on glutamate binding and cations enter the postsynaptic neuron"
+}
+]
+},
+{
+"id": "n2::n0_pgd2",
+"label": "",
+"class": "Process",
+"box": [
+7316.0,
+600.3,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGD2",
+"PTGDR"
+],
+"out": [
+"PGD2:PTGDR"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ouhaddi Y et al.",
+"journal": "Arthritis Rheumatol",
+"title": "Exacerbation of Aging-Associated and Instability-Induced Murine Osteoarthritis With Deletion of D Prostanoid Receptor 1, a Prostaglandin D(2) Receptor.",
+"year": "2017",
+"db": "pubmed",
+"id": "28544596",
+"role": "OA",
+"note": "mouse OA (ageing and DMM): DP1 deletion worsens OA, the DP1 agonist BW245C protects; cartilage and bone, no pain outcome"
+},
+{
+"authors": "Zayed N et al.",
+"journal": "Arthritis Rheum",
+"title": "Inhibition of interleukin-1beta-induced matrix metalloproteinases 1 and 13 production in human osteoarthritic chondrocytes by prostaglandin D2.",
+"year": "2008",
+"db": "pubmed",
+"id": "18975308",
+"role": "OA",
+"note": "human OA chondrocytes: PGD2 acts through DP1; places PGD2-DP1 signalling in human OA tissue, not in the spinal cord"
+},
+{
+"authors": "Boie Y et al.",
+"journal": "J Biol Chem",
+"title": "Molecular cloning and characterization of the human prostanoid DP receptor.",
+"year": "1995",
+"db": "pubmed",
+"id": "7642548",
+"role": "step",
+"note": "cloned human DP receptor: selective high-affinity PGD2 binding"
+},
+{
+"authors": "Xu J et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Molecular basis for ligand recognition and receptor activation of the prostaglandin D2 receptor DP1.",
+"year": "2025",
+"db": "pubmed",
+"id": "40440061",
+"role": "step",
+"note": "cryo-EM of human DP1 with PGD2 bound"
+},
+{
+"authors": "Telleria-Diaz A et al.",
+"journal": "Neuroscience",
+"title": "Different effects of spinally applied prostaglandin D2 on responses of dorsal horn neurons with knee input in normal rats and in rats with acute knee inflammation.",
+"year": "2008",
+"db": "pubmed",
+"id": "18678231",
+"role": "step",
+"note": "rat, acute knee inflammation (not OA): spinal PGD2 or a DP1 agonist reduces dorsal horn responses to stimulation of the inflamed knee, a DP1 antagonist raises them"
+},
+{
+"authors": "Minami T et al.",
+"journal": "Br J Pharmacol",
+"title": "Inhibition of nociceptin-induced allodynia in conscious mice by prostaglandin D2.",
+"year": "1997",
+"db": "pubmed",
+"id": "9375954",
+"role": "step",
+"note": "mouse, intrathecal: PGD2 and the DP agonist BW245C block nociceptin-evoked allodynia, reversed by the DP antagonist BW A868C (the block's inhibitory arm)"
+}
+]
+},
+{
 "label": "PTGDR",
 "class": "Macromolecule",
 "box": [
-7591.0,
+7160.0,
 560.5,
 80.0,
 40.0
@@ -12865,7 +14775,7 @@
 "label": "PGD2",
 "class": "SimpleChemical",
 "box": [
-7739.0,
+7308.0,
 686.0,
 40.0,
 40.0
@@ -12913,7 +14823,7 @@
 "label": "PTGDR",
 "class": "Macromolecule",
 "box": [
-7719.0,
+7288.0,
 734.0,
 80.0,
 40.0
@@ -12966,10 +14876,84 @@
 ]
 },
 {
+"id": "n2::n3_pgd2",
+"label": "",
+"class": "Process",
+"box": [
+7636.0,
+600.3,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGD2",
+"PTGDR2"
+],
+"out": [
+"PGD2:PTGDR2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mishima S et al.",
+"journal": "Sci Rep",
+"title": "Higher PGD(2) production by synovial mast cells from rheumatoid arthritis patients compared with osteoarthritis patients via miR-199a-3p/prostaglandin synthetase 2 axis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33707464",
+"role": "OA",
+"note": "human OA and RA synovium: synovial mast cells of OA patients make PGD2 and OA synovial fluid contains PGD2 (less than RA); places the ligand in the OA joint, nothing on DP2 or the spinal cord"
+},
+{
+"authors": "Kanda H et al.",
+"journal": "Glia",
+"title": "COX-1-dependent prostaglandin D2 in microglia contributes to neuropathic pain via DP2 receptor in spinal neurons.",
+"year": "2013",
+"db": "pubmed",
+"id": "23505121",
+"role": "step",
+"note": "rat spared nerve injury: microglial PGD2 acts on DP2 of spinal neurons, a DP2 antagonist intrathecally attenuates mechanical allodynia"
+},
+{
+"authors": "Hirai H et al.",
+"journal": "J Exp Med",
+"title": "Prostaglandin D2 selectively induces chemotaxis in T helper type 2 cells, eosinophils, and basophils via seven-transmembrane receptor CRTH2.",
+"year": "2001",
+"db": "pubmed",
+"id": "11208866",
+"role": "step",
+"note": "human cells: CRTH2 (DP2) identified as a second PGD2 receptor, Gi-coupled"
+},
+{
+"authors": "Xu J et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Molecular basis of lipid and ligand regulation of prostaglandin receptor DP2.",
+"year": "2024",
+"db": "pubmed",
+"id": "39665758",
+"role": "step",
+"note": "cryo-EM of human DP2-Gi with PGD2 bound"
+},
+{
+"authors": "Liu H et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Molecular basis for lipid recognition by the prostaglandin D(2) receptor CRTH2.",
+"year": "2021",
+"db": "pubmed",
+"id": "34341104",
+"role": "step",
+"note": "crystal structure of human CRTH2 with the PGD2 derivative 15R-methyl-PGD2, defining the lipid-binding pocket"
+}
+]
+},
+{
 "label": "PTGDR2",
 "class": "Macromolecule",
 "box": [
-8152.6,
+7721.6,
 560.5,
 80.0,
 40.0
@@ -13029,7 +15013,7 @@
 "label": "PGD2",
 "class": "SimpleChemical",
 "box": [
-8059.0,
+7628.0,
 686.0,
 40.0,
 40.0
@@ -13077,7 +15061,7 @@
 "label": "PTGDR2",
 "class": "Macromolecule",
 "box": [
-8039.0,
+7608.0,
 734.0,
 80.0,
 40.0
@@ -13137,7 +15121,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-8743.8,
+8312.8,
 625.5,
 80.0,
 40.0
@@ -13351,7 +15335,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-8763.8,
+8332.8,
 673.5,
 40.0,
 40.0
@@ -13399,7 +15383,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-8855.8,
+8424.8,
 625.5,
 80.0,
 40.0
@@ -13589,7 +15573,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-8855.8,
+8424.8,
 673.5,
 80.0,
 40.0
@@ -14041,7 +16025,7 @@
 "label": "cannabinoid",
 "class": "SimpleChemical",
 "box": [
-8763.8,
+8332.8,
 559.5,
 40.0,
 40.0
@@ -14069,7 +16053,7 @@
 "label": "CNR1",
 "class": "Macromolecule",
 "box": [
-8855.8,
+8424.8,
 559.5,
 80.0,
 40.0
@@ -14129,7 +16113,7 @@
 "label": "cannabinoid",
 "class": "SimpleChemical",
 "box": [
-8535.2,
+8104.2,
 610.8,
 40.0,
 40.0
@@ -14157,7 +16141,7 @@
 "label": "CNR1",
 "class": "Macromolecule",
 "box": [
-8515.2,
+8084.2,
 658.8,
 80.0,
 40.0
@@ -14217,7 +16201,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-8600.5,
+8169.5,
 937.5,
 80.0,
 40.0
@@ -14431,7 +16415,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-8620.5,
+8189.5,
 985.5,
 40.0,
 40.0
@@ -14479,7 +16463,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-8600.5,
+8169.5,
 1088.0,
 80.0,
 40.0
@@ -14669,7 +16653,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-8600.5,
+8169.5,
 1136.0,
 80.0,
 40.0
@@ -15121,7 +17105,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-9254.0,
+8823.0,
 625.5,
 80.0,
 40.0
@@ -15311,7 +17295,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-9254.0,
+8823.0,
 673.5,
 80.0,
 40.0
@@ -15763,7 +17747,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-9142.0,
+8711.0,
 625.5,
 80.0,
 40.0
@@ -15977,7 +17961,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-9162.0,
+8731.0,
 673.5,
 40.0,
 40.0
@@ -16017,7 +18001,7 @@
 "label": "cannabinoid",
 "class": "SimpleChemical",
 "box": [
-9162.0,
+8731.0,
 559.5,
 40.0,
 40.0
@@ -16045,7 +18029,7 @@
 "label": "CNR1",
 "class": "Macromolecule",
 "box": [
-9254.0,
+8823.0,
 559.5,
 80.0,
 40.0
@@ -16105,7 +18089,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-8780.6,
+8349.6,
 890.5,
 80.0,
 40.0
@@ -16557,7 +18541,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-8780.6,
+8349.6,
 842.5,
 80.0,
 40.0
@@ -16747,7 +18731,7 @@
 "label": "CNR1",
 "class": "Macromolecule",
 "box": [
-8311.0,
+7880.0,
 645.0,
 80.0,
 40.0
@@ -16807,7 +18791,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-8989.8,
+8558.8,
 709.0,
 40.0,
 40.0
@@ -16847,7 +18831,7 @@
 "label": "Pi",
 "class": "SimpleChemical",
 "box": [
-9049.8,
+8618.8,
 997.2,
 40.0,
 40.0
@@ -16875,7 +18859,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-9047.8,
+8616.8,
 709.0,
 40.0,
 40.0
@@ -16923,7 +18907,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-8890.7,
+8459.7,
 1023.0,
 80.0,
 40.0
@@ -17137,7 +19121,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-8910.7,
+8479.7,
 1071.0,
 40.0,
 40.0
@@ -17185,7 +19169,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-9197.9,
+8766.9,
 1023.0,
 80.0,
 40.0
@@ -17399,7 +19383,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-9217.9,
+8786.9,
 1071.0,
 40.0,
 40.0
@@ -17439,7 +19423,7 @@
 "label": "ADCY",
 "class": "Macromolecule",
 "box": [
-9307.9,
+8876.9,
 1186.5,
 80.0,
 40.0
@@ -17910,7 +19894,7 @@
 "label": "CNR1",
 "class": "Macromolecule",
 "box": [
-9307.9,
+8876.9,
 932.8,
 80.0,
 40.0
@@ -17967,10 +19951,493 @@
 ]
 },
 {
+"id": "re282_cb1",
+"label": "",
+"class": "Process",
+"box": [
+8226.5,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Cannabinoid:CNR1",
+"Gi heterotrimer"
+],
+"out": [
+"CNR1:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"journal": "Arthritis Rheum",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"year": "2010",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): spinal CB1 signalling is functionally increased in the dorsal horn (spinal AM251 facilitates WDR neuron responses more in OA rats, full text)"
+},
+{
+"authors": "Schuelert N et al.",
+"journal": "Pain",
+"title": "Local application of the endocannabinoid hydrolysis inhibitor URB597 reduces nociception in spontaneous and chemically induced models of osteoarthritis.",
+"year": "2011",
+"db": "pubmed",
+"id": "21185649",
+"role": "OA",
+"note": "rat and guinea pig OA: the antinociception of raised endocannabinoids is abolished by the CB1 antagonist AM251, not by the CB2 antagonist (CB1 pathway in OA)"
+},
+{
+"authors": "Krishna Kumar K et al.",
+"journal": "Cell",
+"title": "Structure of a Signaling Cannabinoid Receptor 1-G Protein Complex.",
+"year": "2019",
+"db": "pubmed",
+"id": "30639101",
+"role": "step",
+"note": "cryo-EM of human full-length CB1 with the agonist MDMB-Fubinaca bound to the human Gi1 heterotrimer (full text: human Gαi and β1γ2 expressed)"
+},
+{
+"authors": "Hua T et al.",
+"journal": "Cell",
+"title": "Activation and Signaling Mechanism Revealed by Cannabinoid Receptor-G(i) Complex Structures.",
+"year": "2020",
+"db": "pubmed",
+"id": "32004463",
+"role": "step",
+"note": "second, independent cryo-EM structure of human CB1 in complex with human Giα1β1γ2 (full text)"
+},
+{
+"authors": "Felder CC et al.",
+"journal": "Mol Pharmacol",
+"title": "Comparison of the pharmacology and signal transduction of the human cannabinoid CB1 and CB2 receptors.",
+"year": "1995",
+"db": "pubmed",
+"id": "7565624",
+"role": "step",
+"note": "human CB1 in transfected cells: agonist inhibition of cAMP is pertussis toxin sensitive, i.e. through Gi/o"
+}
+]
+},
+{
+"id": "re283_cb1",
+"label": "",
+"class": "Process",
+"box": [
+8595.8,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CNR1:Gi",
+"GTP"
+],
+"out": [
+"CNR1:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"journal": "Arthritis Rheum",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"year": "2010",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): the spinal CB1 pathway is active in the dorsal horn of OA animals (the OA setting of the G protein cycle steps)"
+},
+{
+"authors": "Glass M et al.",
+"journal": "Mol Pharmacol",
+"title": "Agonist selective regulation of G proteins by cannabinoid CB(1) and CB(2) receptors.",
+"year": "1999",
+"db": "pubmed",
+"id": "10570066",
+"role": "step",
+"note": "human CB1 in insect cell membranes reconstituted with purified bovine brain Gi: the agonist-bound receptor catalyses GDP-GTP exchange on Gi"
+},
+{
+"authors": "Krishna Kumar K et al.",
+"journal": "Cell",
+"title": "Structure of a Signaling Cannabinoid Receptor 1-G Protein Complex.",
+"year": "2019",
+"db": "pubmed",
+"id": "30639101",
+"role": "step",
+"note": "human CB1-Gi structure: the agonist-bound receptor empties the nucleotide pocket of Gαi (full text: no GDP density; GTP turnover assays)"
+},
+{
+"authors": "Hua T et al.",
+"journal": "Cell",
+"title": "Activation and Signaling Mechanism Revealed by Cannabinoid Receptor-G(i) Complex Structures.",
+"year": "2020",
+"db": "pubmed",
+"id": "32004463",
+"role": "step",
+"note": "human CB1-Gi and CB2-Gi structures, full text: Gi is nucleotide-free in the receptor complex"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review of the G protein cycle: the activated receptor catalyses GDP for GTP exchange on the alpha subunit. No abstract in PubMed, so no quote can be given"
+}
+]
+},
+{
+"id": "re284_cb1",
+"label": "",
+"class": "Process",
+"box": [
+7998.0,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CNR1",
+"cannabinoid"
+],
+"out": [
+"Cannabinoid:CNR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"journal": "Arthritis Rheum",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"year": "2010",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): spinal anandamide and 2-AG raised, their synthetic enzymes up, and spinal CB1 is tonically active on dorsal horn neurons"
+},
+{
+"authors": "Schuelert N et al.",
+"journal": "Pain",
+"title": "Local application of the endocannabinoid hydrolysis inhibitor URB597 reduces nociception in spontaneous and chemically induced models of osteoarthritis.",
+"year": "2011",
+"db": "pubmed",
+"id": "21185649",
+"role": "OA",
+"note": "rat MIA and spontaneous guinea pig OA: raising endocannabinoid levels with the FAAH inhibitor URB597 reduces joint afferent firing and pain, through CB1"
+},
+{
+"authors": "Burston JJ et al.",
+"journal": "Br J Pharmacol",
+"title": "Robust anti-nociceptive effects of monoacylglycerol lipase inhibition in a model of osteoarthritis pain.",
+"year": "2016",
+"db": "pubmed",
+"id": "27501482",
+"role": "OA",
+"note": "rat knee OA (MIA): the MAG lipase inhibitor MJN110 raises 2-AG and reverses OA pain behaviour via CB1 and CB2"
+},
+{
+"authors": "Felder CC et al.",
+"journal": "Mol Pharmacol",
+"title": "Comparison of the pharmacology and signal transduction of the human cannabinoid CB1 and CB2 receptors.",
+"year": "1995",
+"db": "pubmed",
+"id": "7565624",
+"role": "step",
+"note": "human CB1 in transfected AtT-20 and CHO cells: high-affinity binding of cannabinoids and of the endocannabinoid anandamide"
+},
+{
+"authors": "Hua T et al.",
+"journal": "Cell",
+"title": "Activation and Signaling Mechanism Revealed by Cannabinoid Receptor-G(i) Complex Structures.",
+"year": "2020",
+"db": "pubmed",
+"id": "32004463",
+"role": "step",
+"note": "cryo-EM of agonist-bound human CB1 (synthetic cannabinoid) in complex with human Gi: the ligand pocket of the active receptor"
+}
+]
+},
+{
+"id": "re285_cb1",
+"label": "",
+"class": "Process",
+"box": [
+8794.9,
+855.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CNR1:Gi"
+],
+"out": [
+"Giα:GTP",
+"cannabinoid",
+"Giβ:Giγ",
+"CNR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"journal": "Arthritis Rheum",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"year": "2010",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): the spinal CB1 pathway is active in the dorsal horn of OA animals (the OA setting of the G protein cycle steps)"
+},
+{
+"authors": "Wall MA et al.",
+"journal": "Cell",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"year": "1995",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Giα1β1γ2 heterotrimer (recombinant, non-human): GTP rearranges switch II of Giα, which separates it from βγ"
+},
+{
+"authors": "Coleman DE et al.",
+"journal": "Science",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"year": "1994",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "GTPγS-Giα1 structure (rat recombinant): the disordered N-terminus suggests how βγ is released on activation"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review of the G protein cycle: the GTP-bound alpha subunit separates from the beta-gamma dimer. No abstract in PubMed, so no quote can be given"
+}
+]
+},
+{
+"id": "re286_cb1",
+"label": "",
+"class": "Process",
+"box": [
+8655.8,
+1065.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"journal": "Arthritis Rheum",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"year": "2010",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): the spinal CB1 pathway is active in the dorsal horn of OA animals (the OA setting of the G protein cycle steps)"
+},
+{
+"authors": "Coleman DE et al.",
+"journal": "Science",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"year": "1994",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "Giα1 GTPγS and GDP.AlF4 structures (rat recombinant): Gln204 and Arg178 in the intrinsic GTP hydrolysis"
+},
+{
+"authors": "Berman DM et al.",
+"journal": "Cell",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"year": "1996",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "purified proteins: GAIP (cloned from human) and RGS4 are GAPs for Gi-family alpha subunits"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Cell",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"year": "1997",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "RGS4 bound to AlF4-activated Giα1 (rat recombinant): how RGS accelerates hydrolysis"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review of the G protein cycle: the alpha subunit hydrolyses its bound GTP to GDP and Pi, ending the active state. No abstract in PubMed, so no quote can be given"
+}
+]
+},
+{
+"id": "re287_cb1",
+"label": "",
+"class": "Process",
+"box": [
+8348.6,
+1065.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"journal": "Arthritis Rheum",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"year": "2010",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): the spinal CB1 pathway is active in the dorsal horn of OA animals (the OA setting of the G protein cycle steps)"
+},
+{
+"authors": "Wall MA et al.",
+"journal": "Cell",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"year": "1995",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure: GDP-bound Giα1 sits with β1γ2 as the inactive heterotrimer (recombinant, non-human)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review of the G protein cycle: the GDP-bound alpha subunit reassociates with beta-gamma. No abstract in PubMed, so no quote can be given"
+}
+]
+},
+{
+"id": "re293_cb1",
+"label": "",
+"class": "Process",
+"box": [
+8794.9,
+1223.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"journal": "Arthritis Rheum",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"year": "2010",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): the spinal CB1 pathway is active in the dorsal horn of OA animals (its effector step is not measured here)"
+},
+{
+"authors": "Taussig R et al.",
+"journal": "Science",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"year": "1993",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "purified proteins: activated, myristoylated Giα directly inhibits adenylyl cyclases (not Goα)"
+},
+{
+"authors": "Felder CC et al.",
+"journal": "Mol Pharmacol",
+"title": "Comparison of the pharmacology and signal transduction of the human cannabinoid CB1 and CB2 receptors.",
+"year": "1995",
+"db": "pubmed",
+"id": "7565624",
+"role": "step",
+"note": "human CB1 in transfected cells: agonists inhibit cAMP accumulation, pertussis toxin sensitive (receptor level, Giα-cyclase contact not shown)"
+},
+{
+"authors": "Krishna Kumar K et al.",
+"journal": "Cell",
+"title": "Structure of a Signaling Cannabinoid Receptor 1-G Protein Complex.",
+"year": "2019",
+"db": "pubmed",
+"id": "30639101",
+"role": "step",
+"note": "human CB1-Gi structure paper: CB1 signals through the adenylyl cyclase-inhibiting Gi"
+}
+]
+},
+{
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-9909.0,
+9478.0,
 987.5,
 80.0,
 40.0
@@ -18184,7 +20651,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-9929.0,
+9498.0,
 1035.5,
 40.0,
 40.0
@@ -18232,7 +20699,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-9909.0,
+9478.0,
 1138.0,
 80.0,
 40.0
@@ -18422,7 +20889,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-9909.0,
+9478.0,
 1186.0,
 80.0,
 40.0
@@ -18874,7 +21341,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-10095.4,
+9664.4,
 940.5,
 80.0,
 40.0
@@ -19326,7 +21793,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-10095.4,
+9664.4,
 892.5,
 80.0,
 40.0
@@ -19516,7 +21983,7 @@
 "label": "OPRM1",
 "class": "Macromolecule",
 "box": [
-9809.5,
+9378.5,
 708.8,
 80.0,
 40.0
@@ -19572,7 +22039,7 @@
 "label": "opioid agonist",
 "class": "SimpleChemical",
 "box": [
-9829.5,
+9398.5,
 660.8,
 40.0,
 40.0
@@ -19600,7 +22067,7 @@
 "label": "OPRM1",
 "class": "Macromolecule",
 "box": [
-9591.0,
+9160.0,
 920.0,
 80.0,
 40.0
@@ -19656,7 +22123,7 @@
 "label": "opioid antagonist",
 "class": "SimpleChemical",
 "box": [
-9611.0,
+9180.0,
 872.0,
 40.0,
 40.0
@@ -19684,7 +22151,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-10066.5,
+9635.5,
 675.5,
 80.0,
 40.0
@@ -19898,7 +22365,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-10086.5,
+9655.5,
 723.5,
 40.0,
 40.0
@@ -19946,7 +22413,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-10181.0,
+9750.0,
 675.5,
 80.0,
 40.0
@@ -20136,7 +22603,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-10181.0,
+9750.0,
 723.5,
 80.0,
 40.0
@@ -20588,7 +23055,7 @@
 "label": "OPRM1",
 "class": "Macromolecule",
 "box": [
-10181.0,
+9750.0,
 609.5,
 80.0,
 40.0
@@ -20644,7 +23111,7 @@
 "label": "opioid agonist",
 "class": "SimpleChemical",
 "box": [
-10086.5,
+9655.5,
 609.5,
 40.0,
 40.0
@@ -20672,7 +23139,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-10596.0,
+10165.0,
 723.5,
 80.0,
 40.0
@@ -21124,7 +23591,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-10596.0,
+10165.0,
 675.5,
 80.0,
 40.0
@@ -21314,7 +23781,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-10481.5,
+10050.5,
 675.5,
 80.0,
 40.0
@@ -21528,7 +23995,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-10501.5,
+10070.5,
 723.5,
 40.0,
 40.0
@@ -21568,7 +24035,7 @@
 "label": "OPRM1",
 "class": "Macromolecule",
 "box": [
-10596.0,
+10165.0,
 609.5,
 80.0,
 40.0
@@ -21624,7 +24091,7 @@
 "label": "opioid agonist",
 "class": "SimpleChemical",
 "box": [
-10501.5,
+10070.5,
 609.5,
 40.0,
 40.0
@@ -21652,7 +24119,7 @@
 "label": "ADCY",
 "class": "Macromolecule",
 "box": [
-10641.5,
+10210.5,
 1236.5,
 80.0,
 40.0
@@ -22123,7 +24590,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-10531.5,
+10100.5,
 1073.0,
 80.0,
 40.0
@@ -22337,7 +24804,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-10551.5,
+10120.5,
 1121.0,
 40.0,
 40.0
@@ -22377,7 +24844,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-10211.8,
+9780.8,
 1073.0,
 80.0,
 40.0
@@ -22591,7 +25058,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-10231.8,
+9800.8,
 1121.0,
 40.0,
 40.0
@@ -22639,7 +25106,7 @@
 "label": "Pi",
 "class": "SimpleChemical",
 "box": [
-10377.1,
+9946.1,
 1047.2,
 40.0,
 40.0
@@ -22667,7 +25134,7 @@
 "label": "OPRM1",
 "class": "Macromolecule",
 "box": [
-10641.5,
+10210.5,
 982.8,
 80.0,
 40.0
@@ -22723,7 +25190,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-10373.0,
+9942.0,
 759.0,
 40.0,
 40.0
@@ -22771,7 +25238,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-10315.0,
+9884.0,
 759.0,
 40.0,
 40.0
@@ -22811,7 +25278,7 @@
 "label": "OPRM1",
 "class": "Macromolecule",
 "box": [
-9591.0,
+9160.0,
 695.0,
 80.0,
 40.0
@@ -22864,10 +25331,621 @@
 ]
 },
 {
+"id": "re294_opioid",
+"label": "",
+"class": "Process",
+"box": [
+9535.0,
+703.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Opioid:OPRM1",
+"Gi heterotrimer"
+],
+"out": [
+"OPRM1:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Inglis JJ et al.",
+"journal": "Arthritis Rheum",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"year": "2008",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: MOR in the nerves supplying the OA joint carries the endogenous opioid control of OA pain (covers the receptor's signalling steps by extension)"
+},
+{
+"authors": "Lillywhite A et al.",
+"journal": "Pain Rep",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"year": "2021",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: spinal dorsal horn MOR function (phosphorylation, desensitisation, blunted morphine analgesia) altered in OA-like pain"
+},
+{
+"authors": "Wang Y et al.",
+"journal": "Cell",
+"title": "Structures of the entire human opioid receptor family.",
+"year": "2023",
+"db": "pubmed",
+"id": "36638794",
+"role": "step",
+"note": "cryo-EM of the human mu-opioid receptor in complex with Gi, bound to its endogenous peptides"
+},
+{
+"authors": "Koehl A et al.",
+"journal": "Nature",
+"title": "Structure of the µ-opioid receptor-G(i) protein complex.",
+"year": "2018",
+"db": "pubmed",
+"id": "29899455",
+"role": "step",
+"note": "cryo-EM of the agonist-bound mu-opioid receptor with the Gi heterotrimer; receptor construct is the mouse muOR (full text), Gi coupling specificity shown"
+}
+]
+},
+{
+"id": "re295_opioid",
+"label": "",
+"class": "Process",
+"box": [
+9921.0,
+703.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"OPRM1:Gi",
+"GTP"
+],
+"out": [
+"OPRM1:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Inglis JJ et al.",
+"journal": "Arthritis Rheum",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"year": "2008",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: MOR induced in joint nerves masks OA pain (covers the receptor's G protein cycle by extension)"
+},
+{
+"authors": "Lillywhite A et al.",
+"journal": "Pain Rep",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"year": "2021",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: spinal MOR signalling altered in OA-like pain"
+},
+{
+"authors": "Koehl A et al.",
+"journal": "Nature",
+"title": "Structure of the µ-opioid receptor-G(i) protein complex.",
+"year": "2018",
+"db": "pubmed",
+"id": "29899455",
+"role": "step",
+"note": "mouse muOR with nucleotide-free Gi: the receptor complex is the state the nucleotide has left, the step the exchange begins from"
+},
+{
+"authors": "Oldham WM et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Mapping allosteric connections from the receptor to the nucleotide-binding pocket of heterotrimeric G proteins.",
+"year": "2007",
+"db": "pubmed",
+"id": "17463080",
+"role": "step",
+"note": "EPR on Gi alpha with activated rhodopsin: receptor binding empties the nucleotide pocket (receptor-catalysed exchange)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP for GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data"
+}
+]
+},
+{
+"id": "re296_opioid",
+"label": "",
+"class": "Process",
+"box": [
+9278.0,
+703.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"OPRM1",
+"opioid agonist: opioid peptide"
+],
+"out": [
+"Opioid:OPRM1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Inglis JJ et al.",
+"journal": "Arthritis Rheum",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"year": "2008",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA (medial meniscotibial ligament transection), nociceptor side: the endogenous peripheral opioid system masks OA pain and MOR is transiently induced in the nerves supplying the joint"
+},
+{
+"authors": "Lillywhite A et al.",
+"journal": "Pain Rep",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"year": "2021",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: endogenous opioid tone (plasma beta-endorphin) raised and spinal dorsal horn MOR phosphorylated in OA-like pain"
+},
+{
+"authors": "Wang Y et al.",
+"journal": "Cell",
+"title": "Structures of the entire human opioid receptor family.",
+"year": "2023",
+"db": "pubmed",
+"id": "36638794",
+"role": "step",
+"note": "cryo-EM of human mu-opioid receptor bound to the endogenous peptides endomorphin and beta-endorphin, each with Gi"
+},
+{
+"authors": "Corder G et al.",
+"journal": "Annu Rev Neurosci",
+"title": "Endogenous and Exogenous Opioids in Pain.",
+"year": "2018",
+"db": "pubmed",
+"id": "29852083",
+"role": "step",
+"note": "review of endogenous and exogenous opioids in pain: the peptide families and the four receptors they act at (both cells)"
+}
+]
+},
+{
+"id": "re_analgesic_opioid",
+"label": "",
+"class": "Process",
+"box": [
+9406.5,
+591.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"OPRM1",
+"opioid agonist: opioid analgesic"
+],
+"out": [
+"Opioid:OPRM1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "da Costa BR et al.",
+"journal": "Cochrane Database Syst Rev",
+"title": "Oral or transdermal opioids for osteoarthritis of the knee or hip.",
+"year": "2014",
+"db": "pubmed",
+"id": "25229835",
+"role": "OA",
+"note": "Cochrane review, knee or hip OA (tramadol excluded): oral or transdermal opioids reduce OA pain more than placebo, but by less than the minimal clinically important difference, with more adverse events"
+},
+{
+"authors": "Miranda JA et al.",
+"journal": "PLoS One",
+"title": "A preclinical physiological assay to test modulation of knee joint pain in the spinal cord: effects of oxycodone and naproxen.",
+"year": "2014",
+"db": "pubmed",
+"id": "25157947",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: intravenous oxycodone (a MOR agonist) reduces the firing of spinal neurons to knee joint rotation at clinically relevant doses"
+},
+{
+"authors": "Zhuang Y et al.",
+"journal": "Cell",
+"title": "Molecular recognition of morphine and fentanyl by the human μ-opioid receptor.",
+"year": "2022",
+"db": "pubmed",
+"id": "36368306",
+"role": "step",
+"note": "cryo-EM structures of the human mu-opioid receptor bound to morphine and fentanyl (and to TRV130, PZM21, SR17018), in complex with G protein"
+},
+{
+"authors": "D'Arcy Y et al.",
+"journal": "Postgrad Med",
+"title": "Treating osteoarthritis pain: mechanisms of action of acetaminophen, nonsteroidal anti-inflammatory drugs, opioids, and nerve growth factor antibodies.",
+"year": "2021",
+"db": "pubmed",
+"id": "34252357",
+"role": "OA",
+"note": "OA pain review (source reference of the block): opioids one of the common drug treatments of OA, acting at opioid receptors"
+}
+]
+},
+{
+"id": "re_nlx_opioid",
+"label": "",
+"class": "Process",
+"box": [
+9188.0,
+803.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"opioid antagonist",
+"OPRM1"
+],
+"out": [
+"Antagonist:OPRM1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Inglis JJ et al.",
+"journal": "Arthritis Rheum",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"year": "2008",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: naloxone, and peripherally restricted naloxone methiodide, bring pain on 4 weeks earlier, so the antagonist blocks MOR in the nerves supplying the OA joint"
+},
+{
+"authors": "Lillywhite A et al.",
+"journal": "Pain Rep",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"year": "2021",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: systemic naloxone increases mechanical hypersensitivity, showing it blocks the endogenous opioid tone in OA-like pain"
+},
+{
+"authors": "Wang D et al.",
+"journal": "J Neurochem",
+"title": "Inverse agonists and neutral antagonists at mu opioid receptor (MOR): possible role of basal receptor signaling in narcotic dependence.",
+"year": "2001",
+"db": "pubmed",
+"id": "11413242",
+"role": "step",
+"note": "cell membranes and intact cells expressing MOR (GTPgammaS binding, cAMP): naloxone and naltrexone bind MOR as neutral antagonists at a drug-naive receptor, inverse agonists only after morphine pretreatment; the drawing's product goes no further"
+},
+{
+"authors": "Wang D et al.",
+"journal": "J Pharmacol Exp Ther",
+"title": "Different effects of opioid antagonists on mu-, delta-, and kappa-opioid receptors with and without agonist pretreatment.",
+"year": "2007",
+"db": "pubmed",
+"id": "17267582",
+"role": "step",
+"note": "transfected human embryonic kidney 293 cell membranes: binding potency of naloxone, naltrexone and analogues at MOR, DOR and KOR, and their effect on basal and agonist-stimulated signalling"
+}
+]
+},
+{
+"id": "re298_opioid",
+"label": "",
+"class": "Process",
+"box": [
+9983.1,
+1115.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Lillywhite A et al.",
+"journal": "Pain Rep",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"year": "2021",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: MOR-Gi signalling in the dorsal horn in OA-like pain (covers the cycle's steps by extension)"
+},
+{
+"authors": "Coleman DE et al.",
+"journal": "Science",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"year": "1994",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "Gi alpha1 GTPgammaS and GDP.AlF4 structures: Gln204 and Arg178 in the intrinsic GTP hydrolysis (rat recombinant)"
+},
+{
+"authors": "Berman DM et al.",
+"journal": "Cell",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"year": "1996",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "GAIP (human) and RGS4 are GTPase-activating proteins for Gi-family alpha subunits (purified proteins)"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Cell",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"year": "1997",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "RGS4 bound to AlF4-activated Gi alpha1: RGS stabilises the switch regions in the transition state (rat recombinant)"
+}
+]
+},
+{
+"id": "re299_opioid",
+"label": "",
+"class": "Process",
+"box": [
+9663.4,
+1115.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Inglis JJ et al.",
+"journal": "Arthritis Rheum",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"year": "2008",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: MOR in joint nerves controls OA pain onset (covers the cycle's steps by extension)"
+},
+{
+"authors": "Lillywhite A et al.",
+"journal": "Pain Rep",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"year": "2021",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: spinal MOR signalling in OA-like pain"
+},
+{
+"authors": "Wall MA et al.",
+"journal": "Cell",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"year": "1995",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Gi alpha1(GDP) beta1 gamma2 heterotrimer: beta-gamma stabilises the inactive, GDP-bound alpha (recombinant, non-human proteins)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle, GDP-bound alpha reassociating with beta-gamma; no human data"
+}
+]
+},
+{
+"id": "re300_opioid",
+"label": "",
+"class": "Process",
+"box": [
+10128.5,
+905.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"OPRM1:Gi"
+],
+"out": [
+"Giα:GTP",
+"opioid agonist",
+"OPRM1",
+"Giβ:Giγ"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lillywhite A et al.",
+"journal": "Pain Rep",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"year": "2021",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: MOR signalling in the dorsal horn in OA-like pain (covers the cycle's steps by extension)"
+},
+{
+"authors": "Inglis JJ et al.",
+"journal": "Arthritis Rheum",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"year": "2008",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: MOR in joint nerves controls OA pain onset"
+},
+{
+"authors": "Wall MA et al.",
+"journal": "Cell",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"year": "1995",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "Gi alpha1 beta1 gamma2 heterotrimer structure: GTP rearranges switch II, which causes subunit dissociation (recombinant, non-human proteins)"
+},
+{
+"authors": "Coleman DE et al.",
+"journal": "Science",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"year": "1994",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "GTPgammaS-Gi alpha1 structure: disordered N-terminus suggests how beta-gamma is released on activation (rat recombinant)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle; no human data"
+}
+]
+},
+{
+"id": "re301_opioid",
+"label": "",
+"class": "Process",
+"box": [
+10128.5,
+1273.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lillywhite A et al.",
+"journal": "Pain Rep",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"year": "2021",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: spinal MOR function in OA-like pain (covers its Gi pathway by extension)"
+},
+{
+"authors": "Inglis JJ et al.",
+"journal": "Arthritis Rheum",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"year": "2008",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: MOR induced in joint nerves masks OA pain"
+},
+{
+"authors": "Koehl A et al.",
+"journal": "Nature",
+"title": "Structure of the µ-opioid receptor-G(i) protein complex.",
+"year": "2018",
+"db": "pubmed",
+"id": "29899455",
+"role": "step",
+"note": "mouse muOR-Gi structure paper: MOR analgesia runs through the adenylyl cyclase-inhibiting G protein Gi"
+},
+{
+"authors": "Taussig R et al.",
+"journal": "Science",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"year": "1993",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "purified activated Gi alpha inhibits adenylyl cyclases directly; myristoylation needed (recombinant proteins)"
+},
+{
+"authors": "Nevo I et al.",
+"journal": "Neuropharmacology",
+"title": "Acute and chronic activation of the mu-opioid receptor with the endogenous ligand endomorphin differentially regulates adenylyl cyclase isozymes.",
+"year": "2000",
+"db": "pubmed",
+"id": "10698002",
+"role": "step",
+"note": "COS-7 cells with single adenylyl cyclase isozymes: the endogenous MOR agonist endomorphin inhibits AC I and V acutely (AC II instead stimulated)"
+}
+]
+},
+{
 "label": "ADRA2A",
 "class": "Macromolecule",
 "box": [
-11000.8,
+10569.8,
 658.8,
 80.0,
 40.0
@@ -22927,7 +26005,7 @@
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
-11020.8,
+10589.8,
 610.8,
 40.0,
 40.0
@@ -22967,7 +26045,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-11095.5,
+10664.5,
 937.5,
 80.0,
 40.0
@@ -23181,7 +26259,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-11115.5,
+10684.5,
 985.5,
 40.0,
 40.0
@@ -23229,7 +26307,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-11095.5,
+10664.5,
 1088.0,
 80.0,
 40.0
@@ -23419,7 +26497,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-11095.5,
+10664.5,
 1136.0,
 80.0,
 40.0
@@ -23871,7 +26949,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-11279.2,
+10848.2,
 842.5,
 80.0,
 40.0
@@ -24061,7 +27139,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-11279.2,
+10848.2,
 890.5,
 80.0,
 40.0
@@ -24513,7 +27591,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-11248.2,
+10817.2,
 625.5,
 80.0,
 40.0
@@ -24727,7 +27805,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-11268.2,
+10837.2,
 673.5,
 40.0,
 40.0
@@ -24775,7 +27853,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-11360.2,
+10929.2,
 625.5,
 80.0,
 40.0
@@ -24965,7 +28043,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-11360.2,
+10929.2,
 673.5,
 80.0,
 40.0
@@ -25417,7 +28495,7 @@
 "label": "ADRA2A",
 "class": "Macromolecule",
 "box": [
-11360.2,
+10929.2,
 559.5,
 80.0,
 40.0
@@ -25477,7 +28555,7 @@
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
-11268.2,
+10837.2,
 559.5,
 40.0,
 40.0
@@ -25517,7 +28595,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-11768.0,
+11337.0,
 625.5,
 80.0,
 40.0
@@ -25707,7 +28785,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-11768.0,
+11337.0,
 673.5,
 80.0,
 40.0
@@ -26159,7 +29237,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-11656.0,
+11225.0,
 625.5,
 80.0,
 40.0
@@ -26373,7 +29451,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-11676.0,
+11245.0,
 673.5,
 40.0,
 40.0
@@ -26413,7 +29491,7 @@
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
-11676.0,
+11245.0,
 559.5,
 40.0,
 40.0
@@ -26453,7 +29531,7 @@
 "label": "ADRA2A",
 "class": "Macromolecule",
 "box": [
-11768.0,
+11337.0,
 559.5,
 80.0,
 40.0
@@ -26513,7 +29591,7 @@
 "label": "ADRA2A",
 "class": "Macromolecule",
 "box": [
-10787.0,
+10356.0,
 645.0,
 80.0,
 40.0
@@ -26573,7 +29651,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-11494.2,
+11063.2,
 709.0,
 40.0,
 40.0
@@ -26613,7 +29691,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-11392.8,
+10961.8,
 1023.0,
 80.0,
 40.0
@@ -26827,7 +29905,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-11412.8,
+10981.8,
 1071.0,
 40.0,
 40.0
@@ -26875,7 +29953,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-11552.2,
+11121.2,
 709.0,
 40.0,
 40.0
@@ -26923,7 +30001,7 @@
 "label": "Pi",
 "class": "SimpleChemical",
 "box": [
-11555.5,
+11124.5,
 997.2,
 40.0,
 40.0
@@ -26951,7 +30029,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-11707.1,
+11276.1,
 1023.0,
 80.0,
 40.0
@@ -27165,7 +30243,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-11727.1,
+11296.1,
 1071.0,
 40.0,
 40.0
@@ -27205,7 +30283,7 @@
 "label": "ADCY",
 "class": "Macromolecule",
 "box": [
-11817.1,
+11386.1,
 1186.5,
 80.0,
 40.0
@@ -27676,7 +30754,7 @@
 "label": "ADRA2A",
 "class": "Macromolecule",
 "box": [
-11817.1,
+11386.1,
 932.8,
 80.0,
 40.0
@@ -27733,10 +30811,443 @@
 ]
 },
 {
+"id": "re425_a2a",
+"label": "",
+"class": "Process",
+"box": [
+10721.5,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Noradrenaline:ADRA2A",
+"Gi heterotrimer"
+],
+"out": [
+"ADRA2A:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Burnham LJ et al.",
+"journal": "J Pharmacol Exp Ther",
+"title": "The antinociceptive effect of milnacipran in the monosodium iodoacetate model of osteoarthritis pain and its relation to changes in descending inhibition.",
+"year": "2013",
+"db": "pubmed",
+"id": "23297162",
+"role": "OA",
+"note": "rat MIA OA, dorsal horn neurons (spinal neuron; site of spinal α2 not separated): spinal α2 antagonist reverses SNRI inhibition; endogenous noradrenergic inhibition reduced late"
+},
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "OA review of noradrenaline and adrenoceptor signalling pathways in joint tissues (not neurons; neither cell of this block)"
+},
+{
+"authors": "Fink EA et al.",
+"journal": "Science",
+"title": "Structure-based discovery of nonopioid analgesics acting through the α(2A)-adrenergic receptor.",
+"year": "2022",
+"db": "pubmed",
+"id": "36173843",
+"role": "step",
+"note": "human α2A in HEK293T cells, BRET with Gαi1β1γ2: norepinephrine is the reference full agonist of α2A-mediated Gi activation (full text); α2A a validated pain target in mice (not OA)"
+},
+{
+"authors": "Nikolaev VO et al.",
+"journal": "J Biol Chem",
+"title": "Molecular basis of partial agonism at the neurotransmitter alpha2A-adrenergic receptor and Gi-protein heterotrimer.",
+"year": "2006",
+"db": "pubmed",
+"id": "16787921",
+"role": "step",
+"note": "FRET in living cells: α2A agonists activate the receptor and its Gi heterotrimer (receptor species not stated in the abstract)"
+}
+]
+},
+{
+"id": "re426_a2a",
+"label": "",
+"class": "Process",
+"box": [
+11100.2,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRA2A:Gi",
+"GTP"
+],
+"out": [
+"ADRA2A:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"journal": "J Neurophysiol",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"year": "2019",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Oldham WM et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Mapping allosteric connections from the receptor to the nucleotide-binding pocket of heterotrimeric G proteins.",
+"year": "2007",
+"db": "pubmed",
+"id": "17463080",
+"role": "step",
+"note": "EPR on Gi alpha with activated rhodopsin: receptor binding empties the nucleotide pocket (receptor-catalysed exchange); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data; neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "re427_a2a",
+"label": "",
+"class": "Process",
+"box": [
+11304.1,
+855.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRA2A:Gi"
+],
+"out": [
+"Giα:GTP",
+"Giβ:Giγ",
+"ADRA2A",
+"noradrenaline"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"journal": "J Neurophysiol",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"year": "2019",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Wall MA et al.",
+"journal": "Cell",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"year": "1995",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "Gi alpha1 beta1 gamma2 heterotrimer structure: GTP rearranges switch II, which causes subunit dissociation (non-human recombinant proteins); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Coleman DE et al.",
+"journal": "Science",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"year": "1994",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "GTPgammaS-Gi alpha1 structure: disordered N-terminus suggests how beta-gamma is released on activation (rat recombinant); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data; neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "re428_a2a",
+"label": "",
+"class": "Process",
+"box": [
+11161.5,
+1065.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"journal": "J Neurophysiol",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"year": "2019",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Coleman DE et al.",
+"journal": "Science",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"year": "1994",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "Gi alpha1 GTPgammaS and GDP.AlF4 structures: Gln204 and Arg178 in the intrinsic GTP hydrolysis (rat recombinant); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Berman DM et al.",
+"journal": "Cell",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"year": "1996",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "GAIP (human) and RGS4 are GAPs for Gi-family alpha, not Gs alpha (purified proteins); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Cell",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"year": "1997",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "RGS4 bound to AlF4-activated Gi alpha1: RGS stabilises the switch regions in the transition state (rat recombinant); neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "re429_a2a",
+"label": "",
+"class": "Process",
+"box": [
+10847.2,
+1065.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"journal": "J Neurophysiol",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"year": "2019",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Wall MA et al.",
+"journal": "Cell",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"year": "1995",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Gi alpha1(GDP) beta1 gamma2 heterotrimer (recombinant, non-human proteins); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data; neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "re430_a2a",
+"label": "",
+"class": "Process",
+"box": [
+10474.0,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRA2A",
+"noradrenaline"
+],
+"out": [
+"Noradrenaline:ADRA2A"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"journal": "J Neurophysiol",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"year": "2019",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Chappell AS et al.",
+"journal": "Pain",
+"title": "Duloxetine, a centrally acting analgesic, in the treatment of patients with osteoarthritis knee pain: a 13-week, randomized, placebo-controlled trial.",
+"year": "2009",
+"db": "pubmed",
+"id": "19625125",
+"role": "OA",
+"note": "RCT, human knee OA: the SNRI duloxetine (raises synaptic noradrenaline and serotonin, central action) reduces pain; receptor not identified; cell neither nociceptor nor spinal neuron in particular"
+},
+{
+"authors": "Xu J et al.",
+"journal": "Sci Adv",
+"title": "Structural insights into ligand recognition, activation, and signaling of the α(2A) adrenergic receptor.",
+"year": "2022",
+"db": "pubmed",
+"id": "35245122",
+"role": "step",
+"note": "cryo-EM of human α2A bound to norepinephrine (in complex with GoA, a Gi/o-family G protein, not Gi)"
+},
+{
+"authors": "Stone LS et al.",
+"journal": "J Neurosci",
+"title": "Differential distribution of alpha2A and alpha2C adrenergic receptor immunoreactivity in the rat spinal cord.",
+"year": "1998",
+"db": "pubmed",
+"id": "9671679",
+"role": "step",
+"note": "rat spinal cord: α2A on the central terminals of peptidergic primary afferents (nociceptor); α2C on interneurons (spinal neuron, other subtype)"
+},
+{
+"authors": "Pertovaara A",
+"journal": "Prog Neurobiol",
+"title": "Noradrenergic pain modulation.",
+"year": "2006",
+"db": "pubmed",
+"id": "17030082",
+"role": "step",
+"note": "review: descending noradrenaline acts on α2A at nociceptor central terminals (nociceptor) and on α2 receptors of pain relay neurons (spinal neuron)"
+}
+]
+},
+{
+"id": "re438_a2a",
+"label": "",
+"class": "Process",
+"box": [
+11304.1,
+1223.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"journal": "J Neurophysiol",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"year": "2019",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Taussig R et al.",
+"journal": "Science",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"year": "1993",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "purified activated Gi alpha inhibits adenylyl cyclases directly (myristoylation needed; recombinant); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Proudman RGW et al.",
+"journal": "Pharmacol Res Perspect",
+"title": "The signaling and selectivity of α-adrenoceptor agonists for the human α2A, α2B and α2C-adrenoceptors and comparison with human α1 and β-adrenoceptors.",
+"year": "2022",
+"db": "pubmed",
+"id": "36101495",
+"role": "step",
+"note": "human α2A in CHO cells: Gi-coupled, agonist Gi-IC50 (cAMP inhibition) measured; high-efficacy agonists also give a Gs phase"
+}
+]
+},
+{
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
-12196.8,
+11765.8,
 610.8,
 40.0,
 40.0
@@ -27776,7 +31287,7 @@
 "label": "ADRB2",
 "class": "Macromolecule",
 "box": [
-12176.8,
+11745.8,
 658.8,
 80.0,
 40.0
@@ -27836,7 +31347,7 @@
 "label": "Gsβ",
 "class": "Macromolecule",
 "box": [
-12271.5,
+11840.5,
 1088.0,
 80.0,
 40.0
@@ -28026,7 +31537,7 @@
 "label": "Gsγ",
 "class": "Macromolecule",
 "box": [
-12271.5,
+11840.5,
 1136.0,
 80.0,
 40.0
@@ -28478,7 +31989,7 @@
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-12271.5,
+11840.5,
 937.5,
 80.0,
 40.0
@@ -28538,7 +32049,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-12291.5,
+11860.5,
 985.5,
 40.0,
 40.0
@@ -28586,7 +32097,7 @@
 "label": "Gsβ",
 "class": "Macromolecule",
 "box": [
-12455.2,
+12024.2,
 842.5,
 80.0,
 40.0
@@ -28776,7 +32287,7 @@
 "label": "Gsγ",
 "class": "Macromolecule",
 "box": [
-12455.2,
+12024.2,
 890.5,
 80.0,
 40.0
@@ -29228,7 +32739,7 @@
 "label": "Gsβ",
 "class": "Macromolecule",
 "box": [
-12536.2,
+12105.2,
 625.5,
 80.0,
 40.0
@@ -29418,7 +32929,7 @@
 "label": "Gsγ",
 "class": "Macromolecule",
 "box": [
-12536.2,
+12105.2,
 673.5,
 80.0,
 40.0
@@ -29870,7 +33381,7 @@
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-12424.2,
+11993.2,
 625.5,
 80.0,
 40.0
@@ -29930,7 +33441,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-12444.2,
+12013.2,
 673.5,
 40.0,
 40.0
@@ -29978,7 +33489,7 @@
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
-12444.2,
+12013.2,
 559.5,
 40.0,
 40.0
@@ -30018,7 +33529,7 @@
 "label": "ADRB2",
 "class": "Macromolecule",
 "box": [
-12536.2,
+12105.2,
 559.5,
 80.0,
 40.0
@@ -30078,7 +33589,7 @@
 "label": "Gsβ",
 "class": "Macromolecule",
 "box": [
-12944.0,
+12513.0,
 625.5,
 80.0,
 40.0
@@ -30268,7 +33779,7 @@
 "label": "Gsγ",
 "class": "Macromolecule",
 "box": [
-12944.0,
+12513.0,
 673.5,
 80.0,
 40.0
@@ -30720,7 +34231,7 @@
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-12832.0,
+12401.0,
 625.5,
 80.0,
 40.0
@@ -30780,7 +34291,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-12852.0,
+12421.0,
 673.5,
 40.0,
 40.0
@@ -30820,7 +34331,7 @@
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
-12852.0,
+12421.0,
 559.5,
 40.0,
 40.0
@@ -30860,7 +34371,7 @@
 "label": "ADRB2",
 "class": "Macromolecule",
 "box": [
-12944.0,
+12513.0,
 559.5,
 80.0,
 40.0
@@ -30920,7 +34431,7 @@
 "label": "ADRB2",
 "class": "Macromolecule",
 "box": [
-11963.0,
+11532.0,
 645.0,
 80.0,
 40.0
@@ -30980,7 +34491,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-12728.2,
+12297.2,
 709.0,
 40.0,
 40.0
@@ -31028,7 +34539,7 @@
 "label": "Pi",
 "class": "SimpleChemical",
 "box": [
-12731.5,
+12300.5,
 997.2,
 40.0,
 40.0
@@ -31056,7 +34567,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-12670.2,
+12239.2,
 709.0,
 40.0,
 40.0
@@ -31096,7 +34607,7 @@
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-12568.8,
+12137.8,
 1023.0,
 80.0,
 40.0
@@ -31156,7 +34667,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-12588.8,
+12157.8,
 1071.0,
 40.0,
 40.0
@@ -31204,7 +34715,7 @@
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-12883.1,
+12452.1,
 1023.0,
 80.0,
 40.0
@@ -31264,7 +34775,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-12903.1,
+12472.1,
 1071.0,
 40.0,
 40.0
@@ -31304,7 +34815,7 @@
 "label": "ADCY",
 "class": "Macromolecule",
 "box": [
-12993.1,
+12562.1,
 1177.5,
 80.0,
 40.0
@@ -31775,7 +35286,7 @@
 "label": "ADRB2",
 "class": "Macromolecule",
 "box": [
-12993.1,
+12562.1,
 932.8,
 80.0,
 40.0
@@ -31832,10 +35343,401 @@
 ]
 },
 {
+"id": "re431_b2gs",
+"label": "",
+"class": "Process",
+"box": [
+12276.2,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2:Gs",
+"GTP"
+],
+"out": [
+"ADRB2:Gs",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Chung KY et al.",
+"journal": "Nature",
+"title": "Conformational changes in the G protein Gs induced by the β2 adrenergic receptor.",
+"year": "2011",
+"db": "pubmed",
+"id": "21956331",
+"role": "step",
+"note": "both cells: HDX-MS of bovine Gs bound to agonist-bound human β2AR: the receptor alters the P-loop and drives GDP release"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "both cells: human β2AR-Gs complex is nucleotide-free, the change reaching the nucleotide pocket"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): the receptor catalyses GDP for GTP exchange"
+}
+]
+},
+{
+"id": "re432_b2gs",
+"label": "",
+"class": "Process",
+"box": [
+12480.1,
+855.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2:Gs"
+],
+"out": [
+"Gsα:GTP",
+"Gsβ:Gsγ",
+"noradrenaline",
+"ADRB2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed): GTP-bound α and βγ separate from the receptor"
+}
+]
+},
+{
+"id": "re433_b2gs",
+"label": "",
+"class": "Process",
+"box": [
+12337.5,
+1065.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP"
+],
+"out": [
+"Gsα:GDP",
+"Pi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "both cells: human pituitary tumours: mutations that block the GTPase of Gsα show its intrinsic GTP hydrolysis"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed): Gsα hydrolyses its GTP by itself"
+}
+]
+},
+{
+"id": "re434_b2gs",
+"label": "",
+"class": "Process",
+"box": [
+12023.2,
+1065.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GDP",
+"Gsβ:Gsγ"
+],
+"out": [
+"Gs heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed): GDP-bound α reassociates with βγ"
+}
+]
+},
+{
+"id": "re435_b2gs",
+"label": "",
+"class": "Process",
+"box": [
+11897.5,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Noradrenaline:ADRB2",
+"Gs heterotrimer"
+],
+"out": [
+"ADRB2:Gs"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension; joint tissues, not neurons)"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "both cells: crystal structure of agonist-bound human β2AR with the Gs heterotrimer (agonist BI-167107, not noradrenaline)"
+}
+]
+},
+{
+"id": "re436_b2gs",
+"label": "",
+"class": "Process",
+"box": [
+11650.0,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2",
+"noradrenaline"
+],
+"out": [
+"Noradrenaline:ADRB2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA (both cells by extension): sympathetic fibres release noradrenaline in the OA joint, joint cells carry adrenoceptors; joint tissues, not neurons"
+},
+{
+"authors": "Ma Z et al.",
+"journal": "Int J Oral Sci",
+"title": "Effect of regional crosstalk between sympathetic nerves and sensory nerves on temporomandibular joint osteoarthritic pain.",
+"year": "2025",
+"db": "pubmed",
+"id": "39762209",
+"role": "OA",
+"note": "nociceptor: mouse TMJ OA (abnormal loading): sympathetic noradrenaline raises OA pain; in co-culture propranolol (non-selective β blocker) stops its effect on trigeminal sensory neurons (full text); TMJ, not knee, β not β2"
+},
+{
+"authors": "Xu X et al.",
+"journal": "Cell Res",
+"title": "Binding pathway determines norepinephrine selectivity for the human β(1)AR over β(2)AR.",
+"year": "2021",
+"db": "pubmed",
+"id": "33093660",
+"role": "step",
+"note": "both cells: human β1AR structures with noradrenaline; the catecholamine pocket is identical in human β2AR, which binds noradrenaline with about tenfold lower affinity"
+},
+{
+"authors": "Khasar SG et al.",
+"journal": "J Neurophysiol",
+"title": "Epinephrine produces a beta-adrenergic receptor-mediated mechanical hyperalgesia and in vitro sensitization of rat nociceptors.",
+"year": "1999",
+"db": "pubmed",
+"id": "10085337",
+"role": "step",
+"note": "nociceptor: rat paw and cultured small DRG neurons: adrenaline acts on a β-adrenergic receptor of nociceptors (subtype not resolved)"
+},
+{
+"authors": "Nicholson R et al.",
+"journal": "Neurosci Lett",
+"title": "Noradrenergic receptor mRNA expression in adult rat superficial dorsal horn and dorsal root ganglion neurons.",
+"year": "2005",
+"db": "pubmed",
+"id": "15862909",
+"role": "step",
+"note": "spinal neuron: rat in situ hybridisation: β2 mRNA in superficial dorsal horn neurons (none found in DRG neurons)"
+}
+]
+},
+{
+"id": "re439_b2gs",
+"label": "",
+"class": "Process",
+"box": [
+12480.1,
+1214.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP",
+"ADCY"
+],
+"out": [
+"Adenylate cyclase"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "both cells: structure of Gsα·GTPγS bound to the catalytic domains of adenylyl cyclase"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "both cells: human pituitary tumours: GTP-bound (GTPase-dead) Gsα activates adenylyl cyclase"
+},
+{
+"authors": "Khasar SG et al.",
+"journal": "J Neurophysiol",
+"title": "Epinephrine produces a beta-adrenergic receptor-mediated mechanical hyperalgesia and in vitro sensitization of rat nociceptors.",
+"year": "1999",
+"db": "pubmed",
+"id": "10085337",
+"role": "step",
+"note": "nociceptor: rat: β-adrenergic hyperalgesia needs adenylyl cyclase and PKA (cAMP pathway in nociceptors)"
+}
+]
+},
+{
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-13391.2,
+12960.2,
 842.5,
 80.0,
 40.0
@@ -32025,7 +35927,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-13391.2,
+12960.2,
 890.5,
 80.0,
 40.0
@@ -32477,7 +36379,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-13360.2,
+12929.2,
 625.5,
 80.0,
 40.0
@@ -32691,7 +36593,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-13380.2,
+12949.2,
 673.5,
 40.0,
 40.0
@@ -32739,7 +36641,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-13472.2,
+13041.2,
 625.5,
 80.0,
 40.0
@@ -32929,7 +36831,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-13472.2,
+13041.2,
 673.5,
 80.0,
 40.0
@@ -33381,7 +37283,7 @@
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
-13380.2,
+12949.2,
 559.5,
 40.0,
 40.0
@@ -33421,7 +37323,7 @@
 "label": "ADRB2",
 "class": "Macromolecule",
 "box": [
-13472.2,
+13041.2,
 559.5,
 80.0,
 40.0
@@ -33481,7 +37383,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-13207.5,
+12776.5,
 937.5,
 80.0,
 40.0
@@ -33695,7 +37597,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-13227.5,
+12796.5,
 985.5,
 40.0,
 40.0
@@ -33743,7 +37645,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-13207.5,
+12776.5,
 1088.0,
 80.0,
 40.0
@@ -33933,7 +37835,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-13207.5,
+12776.5,
 1136.0,
 80.0,
 40.0
@@ -34385,7 +38287,7 @@
 "label": "Giβ",
 "class": "Macromolecule",
 "box": [
-13880.0,
+13449.0,
 625.5,
 80.0,
 40.0
@@ -34575,7 +38477,7 @@
 "label": "Giγ",
 "class": "Macromolecule",
 "box": [
-13880.0,
+13449.0,
 673.5,
 80.0,
 40.0
@@ -35027,7 +38929,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-13768.0,
+13337.0,
 625.5,
 80.0,
 40.0
@@ -35241,7 +39143,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-13788.0,
+13357.0,
 673.5,
 40.0,
 40.0
@@ -35281,7 +39183,7 @@
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
-13788.0,
+13357.0,
 559.5,
 40.0,
 40.0
@@ -35321,7 +39223,7 @@
 "label": "ADRB2",
 "class": "Macromolecule",
 "box": [
-13880.0,
+13449.0,
 559.5,
 80.0,
 40.0
@@ -35381,7 +39283,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-13606.2,
+13175.2,
 709.0,
 40.0,
 40.0
@@ -35421,7 +39323,7 @@
 "label": "Pi",
 "class": "SimpleChemical",
 "box": [
-13667.5,
+13236.5,
 997.2,
 40.0,
 40.0
@@ -35449,7 +39351,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-13664.2,
+13233.2,
 709.0,
 40.0,
 40.0
@@ -35497,7 +39399,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-13504.8,
+13073.8,
 1023.0,
 80.0,
 40.0
@@ -35711,7 +39613,7 @@
 "label": "GDP",
 "class": "SimpleChemical",
 "box": [
-13524.8,
+13093.8,
 1071.0,
 40.0,
 40.0
@@ -35759,7 +39661,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-13819.1,
+13388.1,
 1023.0,
 80.0,
 40.0
@@ -35973,7 +39875,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-13839.1,
+13408.1,
 1071.0,
 40.0,
 40.0
@@ -36013,7 +39915,7 @@
 "label": "ADRB2",
 "class": "Macromolecule",
 "box": [
-13929.1,
+13498.1,
 932.8,
 80.0,
 40.0
@@ -36073,7 +39975,7 @@
 "label": "ADCY",
 "class": "Macromolecule",
 "box": [
-13929.1,
+13498.1,
 1186.5,
 80.0,
 40.0
@@ -36541,10 +40443,409 @@
 ]
 },
 {
+"id": "re450_b2gi",
+"label": "",
+"class": "Process",
+"box": [
+12833.5,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Noradrenaline:ADRB2",
+"Gi heterotrimer"
+],
+"out": [
+"ADRB2:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, the receptors and their signalling pathways; no Gi coupling in joint neurons shown"
+},
+{
+"authors": "Zamah AM et al.",
+"journal": "J Biol Chem",
+"title": "Protein kinase A-mediated phosphorylation of the beta 2-adrenergic receptor regulates its coupling to Gs and Gi. Demonstration in a reconstituted system.",
+"year": "2002",
+"db": "pubmed",
+"id": "12063255",
+"role": "step",
+"note": "both cells: purified recombinant beta2AR with purified heterotrimeric Gs and Gi; PKA phosphorylation of the receptor raises Gi coupling measured as receptor-stimulated GTPgammaS binding - the cleanest biochemical evidence for the step, in no neuron"
+},
+{
+"authors": "Daaka Y et al.",
+"journal": "Nature",
+"title": "Switching of the coupling of the beta2-adrenergic receptor to different G proteins by protein kinase A.",
+"year": "1997",
+"db": "pubmed",
+"id": "9363896",
+"role": "step",
+"note": "both cells: human HEK293 cells; beta2AR signals through pertussis-toxin-sensitive G protein betagamma and needs PKA sites - the key step paper, but Gi coupling is inferred from pertussis toxin and ERK, not measured directly, and it is contradicted by Friedman 2002 (see weak_points)"
+},
+{
+"authors": "Khasar SG et al.",
+"journal": "J Neurosci",
+"title": "Stress induces a switch of intracellular signaling in sensory neurons in a model of generalized pain.",
+"year": "2008",
+"db": "pubmed",
+"id": "18509033",
+"role": "step",
+"note": "nociceptor: rat sensory afferents after sound stress; adrenaline receptor coupling switches from Gs to Gi, giving prolonged hyperalgesia (the block's own rationale; a generalized pain model, not OA)"
+},
+{
+"authors": "Liu R et al.",
+"journal": "J Biol Chem",
+"title": "Agonist dose-dependent phosphorylation by protein kinase A and G protein-coupled receptor kinase regulates beta2 adrenoceptor coupling to G(i) proteins in cardiomyocytes.",
+"year": "2009",
+"db": "pubmed",
+"id": "19706594",
+"role": "step",
+"note": "both cells: mouse cardiac myocytes; beta2AR-Gi coupling needs the PKA sites and only occurs at high agonist concentrations (and also needs GRK phosphorylation)"
+}
+]
+},
+{
+"id": "re451_b2gi",
+"label": "",
+"class": "Process",
+"box": [
+13212.2,
+653.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2:Gi",
+"GTP"
+],
+"out": [
+"ADRB2:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, receptors and their signalling pathways"
+},
+{
+"authors": "Zamah AM et al.",
+"journal": "J Biol Chem",
+"title": "Protein kinase A-mediated phosphorylation of the beta 2-adrenergic receptor regulates its coupling to Gs and Gi. Demonstration in a reconstituted system.",
+"year": "2002",
+"db": "pubmed",
+"id": "12063255",
+"role": "step",
+"note": "both cells: the PKA-phosphorylated beta2AR catalyses GTPgammaS binding to purified Gi - receptor-catalysed nucleotide exchange for this very receptor pair"
+},
+{
+"authors": "Oldham WM et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Mapping allosteric connections from the receptor to the nucleotide-binding pocket of heterotrimeric G proteins.",
+"year": "2007",
+"db": "pubmed",
+"id": "17463080",
+"role": "step",
+"note": "both cells: EPR on Gi alpha with activated rhodopsin; receptor binding empties the nucleotide pocket"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "both cells: classic G protein review (no abstract on PubMed), the receptor-catalysed GDP-GTP exchange of the cycle; accepted here as nothing human covers the isolated step"
+}
+]
+},
+{
+"id": "re452_b2gi",
+"label": "",
+"class": "Process",
+"box": [
+13416.1,
+855.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2:Gi"
+],
+"out": [
+"Giα:GTP",
+"Giβ:Giγ",
+"noradrenaline",
+"ADRB2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, receptors and their signalling pathways"
+},
+{
+"authors": "Daaka Y et al.",
+"journal": "Nature",
+"title": "Switching of the coupling of the beta2-adrenergic receptor to different G proteins by protein kinase A.",
+"year": "1997",
+"db": "pubmed",
+"id": "9363896",
+"role": "step",
+"note": "both cells: human HEK293; the released betagamma of the pertussis-toxin-sensitive G protein carries the beta2AR signal, so alpha and betagamma separate after activation"
+},
+{
+"authors": "Wall MA et al.",
+"journal": "Cell",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"year": "1995",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "both cells: Gi alpha1 beta1 gamma2 heterotrimer structure; GTP rearranges switch II, which drives subunit dissociation (recombinant, non-human)"
+},
+{
+"authors": "Coleman DE et al.",
+"journal": "Science",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"year": "1994",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "both cells: GTPgammaS-Gi alpha1 structure; the disordered N-terminus suggests how betagamma is released (rat recombinant)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "both cells: classic G protein review (no abstract on PubMed): GTP-bound alpha and betagamma separate from the receptor"
+}
+]
+},
+{
+"id": "re453_b2gi",
+"label": "",
+"class": "Process",
+"box": [
+13273.5,
+1065.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, receptors and their signalling pathways"
+},
+{
+"authors": "Coleman DE et al.",
+"journal": "Science",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"year": "1994",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "both cells: Gi alpha1 GTPgammaS and GDP.AlF4 structures; Gln204 and Arg178 in the intrinsic hydrolysis (rat recombinant)"
+},
+{
+"authors": "Berman DM et al.",
+"journal": "Cell",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"year": "1996",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "both cells: GAIP (human) and RGS4 accelerate GTP hydrolysis by Gi-family alpha at least 40-fold (purified proteins) - the RGS modifier"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Cell",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"year": "1997",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "both cells: RGS4 bound to AlF4-activated Gi alpha1; RGS stabilises the switch regions in the transition state (rat recombinant)"
+}
+]
+},
+{
+"id": "re454_b2gi",
+"label": "",
+"class": "Process",
+"box": [
+12959.2,
+1065.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, receptors and their signalling pathways"
+},
+{
+"authors": "Wall MA et al.",
+"journal": "Cell",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"year": "1995",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "both cells: structure of the Gi alpha1(GDP) beta1 gamma2 heterotrimer; betagamma stabilises the inactive GDP-bound alpha (recombinant, non-human)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "both cells: classic G protein review (no abstract on PubMed): GDP-bound alpha reassociates with betagamma"
+}
+]
+},
+{
+"id": "re456_b2gi",
+"label": "",
+"class": "Process",
+"box": [
+13416.1,
+1223.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"journal": "Cell Signal",
+"title": "Adrenergic signalling in osteoarthritis.",
+"year": "2021",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, receptors and their signalling pathways including the cAMP arm"
+},
+{
+"authors": "Taussig R et al.",
+"journal": "Science",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"year": "1993",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "both cells: purified activated Gi alpha inhibits adenylyl cyclases directly, myristoylation required (recombinant)"
+},
+{
+"authors": "Xiao RP et al.",
+"journal": "Circ Res",
+"title": "Coupling of beta2-adrenoceptor to Gi proteins and its physiological relevance in murine cardiac myocytes.",
+"year": "1999",
+"db": "pubmed",
+"id": "9915773",
+"role": "step",
+"note": "both cells: mouse cardiac myocytes (with human beta2AR in the transgenics); beta2AR stimulation labels Gi2 and Gi3 alpha, and pertussis toxin restores the cAMP response - beta2-driven Gi opposing the cyclase in a cell"
+},
+{
+"authors": "Khasar SG et al.",
+"journal": "J Neurosci",
+"title": "Stress induces a switch of intracellular signaling in sensory neurons in a model of generalized pain.",
+"year": "2008",
+"db": "pubmed",
+"id": "18509033",
+"role": "step",
+"note": "nociceptor: rat; after stress the switch to Gi changes the cAMP-dependent response of sensory neurons to adrenaline (effect on the cyclase arm in the drawn cell type)"
+}
+]
+},
+{
 "label": "ADCY",
 "class": "Macromolecule",
 "box": [
-14333.0,
+13902.0,
 1125.9,
 80.0,
 40.0
@@ -37015,7 +41316,7 @@
 "label": "Giα",
 "class": "Macromolecule",
 "box": [
-14333.0,
+13902.0,
 1039.4,
 80.0,
 40.0
@@ -37229,7 +41530,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-14353.0,
+13922.0,
 991.4,
 40.0,
 40.0
@@ -37269,7 +41570,7 @@
 "label": "cAMP",
 "class": "SimpleChemical",
 "box": [
-14744.0,
+14313.0,
 1443.6,
 40.0,
 40.0
@@ -37317,7 +41618,7 @@
 "label": "PKA reg",
 "class": "Macromolecule",
 "box": [
-14721.0,
+14290.0,
 1499.6,
 86.0,
 46.0
@@ -37523,7 +41824,7 @@
 "label": "PKA reg",
 "class": "Macromolecule",
 "box": [
-14247.0,
+13816.0,
 1284.8,
 86.0,
 46.0
@@ -37729,7 +42030,7 @@
 "label": "PKA cat",
 "class": "Macromolecule",
 "box": [
-14347.0,
+13916.0,
 1284.8,
 86.0,
 46.0
@@ -37841,7 +42142,7 @@
 "label": "PKA reg",
 "class": "Macromolecule",
 "box": [
-14587.0,
+14156.0,
 1278.8,
 86.0,
 46.0
@@ -38047,7 +42348,7 @@
 "label": "PKA cat",
 "class": "Macromolecule",
 "box": [
-14587.0,
+14156.0,
 1346.8,
 86.0,
 46.0
@@ -38159,7 +42460,7 @@
 "label": "cAMP",
 "class": "SimpleChemical",
 "box": [
-14610.0,
+14179.0,
 1222.8,
 40.0,
 40.0
@@ -38207,7 +42508,7 @@
 "label": "ADCY",
 "class": "Macromolecule",
 "box": [
-14333.0,
+13902.0,
 709.1,
 80.0,
 40.0
@@ -38678,7 +42979,7 @@
 "label": "Gsα",
 "class": "Macromolecule",
 "box": [
-14333.0,
+13902.0,
 622.6,
 80.0,
 40.0
@@ -38738,7 +43039,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-14353.0,
+13922.0,
 574.6,
 40.0,
 40.0
@@ -38778,7 +43079,7 @@
 "label": "PKA cat",
 "class": "Macromolecule",
 "box": [
-14799.0,
+14368.0,
 1298.0,
 86.0,
 46.0
@@ -38890,7 +43191,7 @@
 "label": "cAMP",
 "class": "SimpleChemical",
 "box": [
-14476.0,
+14045.0,
 838.0,
 40.0,
 40.0
@@ -38938,7 +43239,7 @@
 "label": "PPi",
 "class": "SimpleChemical",
 "box": [
-14407.0,
+13976.0,
 902.0,
 40.0,
 40.0
@@ -38962,7 +43263,7 @@
 "label": "ATP",
 "class": "SimpleChemical",
 "box": [
-14288.0,
+13857.0,
 838.0,
 40.0,
 40.0
@@ -39004,6 +43305,191 @@
 "InChIKey",
 "ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
 ]
+]
+},
+{
+"id": "re288_camp",
+"label": "",
+"class": "Process",
+"box": [
+14082.0,
+1309.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PKA",
+"cAMP"
+],
+"out": [
+"PKA:cAMP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"journal": "Front Neurosci",
+"title": "5-HT(7) Receptor Is Involved in Electroacupuncture Inhibition of Chronic Pain in the Spinal Cord.",
+"year": "2021",
+"db": "pubmed",
+"id": "34602973",
+"role": "OA",
+"note": "mouse MIA knee OA, dorsal spinal cord: intrathecal PKA inhibitor H89 (and AC inhibitor SQ22536) abolish electroacupuncture analgesia, so the spinal Gs-cAMP-PKA pathway operates in OA (here in GABAergic neurons, antinociceptive); covers the pathway's steps by extension (pharmacology only, cAMP and PKA not measured; full text read)"
+},
+{
+"authors": "Taylor SS et al.",
+"journal": "Biochim Biophys Acta",
+"title": "PKA: lessons learned after twenty years.",
+"year": "2013",
+"db": "pubmed",
+"id": "23535202",
+"role": "step",
+"note": "PKA mechanism review (reused from the nociceptor block): the catalytic subunit is held in a holoenzyme with cAMP-binding regulatory subunits, PKA regulated by cAMP"
+},
+{
+"authors": "Kim C et al.",
+"journal": "Cell",
+"title": "PKA-I holoenzyme structure reveals a mechanism for cAMP-dependent activation.",
+"year": "2007",
+"db": "pubmed",
+"id": "17889648",
+"role": "step",
+"note": "crystal structure of the RIalpha:C holoenzyme (recombinant, not human-specified) with both cAMP-binding domains; mechanism of cooperative cAMP activation"
+}
+]
+},
+{
+"id": "re289_camp",
+"label": "",
+"class": "Process",
+"box": [
+13930.0,
+846.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ATP"
+],
+"out": [
+"cAMP",
+"PPi"
+],
+"by": [
+"Giα:ADCY",
+"Adenylate cyclase"
+]
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"journal": "Front Neurosci",
+"title": "5-HT(7) Receptor Is Involved in Electroacupuncture Inhibition of Chronic Pain in the Spinal Cord.",
+"year": "2021",
+"db": "pubmed",
+"id": "34602973",
+"role": "OA",
+"note": "mouse MIA knee OA: intrathecal adenylyl cyclase inhibitor SQ22536 reverses the analgesia that depends on spinal Gs-AC-cAMP (antinociceptive direction, GABAergic neurons; pharmacology only)"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "crystal structure of the adenylyl cyclase catalytic domains with Gsα (reused from the nociceptor block; chimeric soluble construct, generic transmembrane AC)"
+},
+{
+"authors": "Taussig R et al.",
+"journal": "Science",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"year": "1993",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "the Giα:ADCY inhibitor of this process: purified activated Giα inhibits adenylyl cyclases in vitro (classic biochemistry, no human paper)"
+}
+]
+},
+{
+"id": "re290_camp",
+"label": "",
+"class": "Process",
+"box": [
+14295.0,
+1309.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PKA:cAMP"
+],
+"out": [
+"PKA reg:cAMP",
+"PKA cat"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"journal": "Front Neurosci",
+"title": "5-HT(7) Receptor Is Involved in Electroacupuncture Inhibition of Chronic Pain in the Spinal Cord.",
+"year": "2021",
+"db": "pubmed",
+"id": "34602973",
+"role": "OA",
+"note": "mouse MIA knee OA: spinal PKA activity required (intrathecal H89), the freed catalytic subunit being the active kinase (by extension; pharmacology only)"
+},
+{
+"authors": "Taylor SS et al.",
+"journal": "Biochim Biophys Acta",
+"title": "PKA: lessons learned after twenty years.",
+"year": "2013",
+"db": "pubmed",
+"id": "23535202",
+"role": "step",
+"note": "PKA review (reused from the nociceptor block): cAMP binding to R subunits regulates the release of active C subunit"
+},
+{
+"authors": "Kim C et al.",
+"journal": "Cell",
+"title": "PKA-I holoenzyme structure reveals a mechanism for cAMP-dependent activation.",
+"year": "2007",
+"db": "pubmed",
+"id": "17889648",
+"role": "step",
+"note": "RIalpha:C holoenzyme structure and mutagenesis: ordered, cooperative activation of PKA by cAMP (recombinant, not human-specified)"
+},
+{
+"authors": "Hu HJ et al.",
+"journal": "J Neurophysiol",
+"title": "ERK integrates PKA and PKC signaling in superficial dorsal horn neurons. II. Modulation of neuronal excitability.",
+"year": "2003",
+"db": "pubmed",
+"id": "12750418",
+"role": "step",
+"note": "cultured mouse superficial dorsal horn neurons: activating PKA increases action potential firing (active PKA in the spinal neuron; supports the block's PKA cat -> action potential)"
+},
+{
+"authors": "Yang HB et al.",
+"journal": "J Neurochem",
+"title": "cAMP-dependent protein kinase activated Fyn in spinal dorsal horn to regulate NMDA receptor function during inflammatory pain.",
+"year": "2011",
+"db": "pubmed",
+"id": "21054385",
+"role": "step",
+"note": "mouse CFA inflammatory pain, spinal dorsal horn: PKA activity needed for GluN2B synaptic recruitment; direct PKA stimulation evokes pain sensitisation (not OA)"
+}
 ]
 },
 {
@@ -39662,7 +44148,7 @@
 "label": "Ca2+",
 "class": "SimpleChemical",
 "box": [
-7364.0,
+6933.0,
 391.5,
 40.0,
 40.0
@@ -39702,7 +44188,7 @@
 "label": "Na+",
 "class": "SimpleChemical",
 "box": [
-7444.0,
+7013.0,
 391.5,
 40.0,
 40.0
@@ -39746,7 +44232,7 @@
 "label": "PGD2",
 "class": "SimpleChemical",
 "box": [
-7899.0,
+7468.0,
 416.3,
 40.0,
 40.0
@@ -39791,10 +44277,83 @@
 ]
 },
 {
+"id": "n0::n1_pgd2",
+"label": "",
+"class": "Process",
+"box": [
+7476.0,
+320.3,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [],
+"out": [
+"PGD2"
+],
+"by": [
+"SPINAL MICROGLIA ACTIVATION"
+]
+},
+"references": [
+{
+"authors": "Tran PB et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Spinal microglial activation in a murine surgical model of knee osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "27646532",
+"role": "OA",
+"note": "mouse knee OA (DMM): spinal microglia are activated 8 and 16 weeks after surgery; places microglial activation in OA, not PGD2"
+},
+{
+"authors": "Ogbonna AC et al.",
+"journal": "Eur J Pain",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"year": "2013",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "mouse MIA OA: spinal microglial response (Iba-1) with pain behaviour, no astrocyte response"
+},
+{
+"authors": "Sagar DR et al.",
+"journal": "Mol Pain",
+"title": "The contribution of spinal glial cells to chronic pain behaviour in the monosodium iodoacetate model of osteoarthritic pain.",
+"year": "2011",
+"db": "pubmed",
+"id": "22093915",
+"role": "OA",
+"note": "rat MIA OA: spinal microglia activated with the pain behaviour"
+},
+{
+"authors": "Kanda H et al.",
+"journal": "Glia",
+"title": "COX-1-dependent prostaglandin D2 in microglia contributes to neuropathic pain via DP2 receptor in spinal neurons.",
+"year": "2013",
+"db": "pubmed",
+"id": "23505121",
+"role": "step",
+"note": "rat spared nerve injury: COX-1 and hematopoietic PGD synthase up in spinal microglia, PGD2 made COX-1 dependently"
+},
+{
+"authors": "Mohri I et al.",
+"journal": "J Neuropathol Exp Neurol",
+"title": "Hematopoietic prostaglandin D synthase and DP1 receptor are selectively upregulated in microglia and astrocytes within senile plaques from human patients and in a mouse model of Alzheimer disease.",
+"year": "2007",
+"db": "pubmed",
+"id": "17549007",
+"role": "step",
+"note": "human Alzheimer brain (and Tg2576 mice): hematopoietic PGD synthase in microglia around plaques, DP1 mRNA in microglia and reactive astrocytes; the human evidence that activated microglia carry the PGD2-making enzyme"
+}
+]
+},
+{
 "label": "cannabinoid",
 "class": "SimpleChemical",
 "box": [
-8392.0,
+7961.0,
 395.5,
 40.0,
 40.0
@@ -39822,7 +44381,7 @@
 "label": "cannabinoid",
 "class": "SimpleChemical",
 "box": [
-9378.0,
+8947.0,
 395.5,
 40.0,
 40.0
@@ -39850,7 +44409,7 @@
 "label": "tramadol",
 "class": "SimpleChemical",
 "box": [
-10026.0,
+9595.0,
 72.5,
 40.0,
 40.0
@@ -39890,7 +44449,7 @@
 "label": "codeine",
 "class": "SimpleChemical",
 "box": [
-9769.0,
+9338.0,
 19.5,
 40.0,
 40.0
@@ -39934,7 +44493,7 @@
 "label": "morphine",
 "class": "SimpleChemical",
 "box": [
-9683.0,
+9252.0,
 45.5,
 40.0,
 40.0
@@ -39978,7 +44537,7 @@
 "label": "oxycodone",
 "class": "SimpleChemical",
 "box": [
-9858.0,
+9427.0,
 15.5,
 40.0,
 40.0
@@ -40022,7 +44581,7 @@
 "label": "fentanyl",
 "class": "SimpleChemical",
 "box": [
-9945.0,
+9514.0,
 33.5,
 40.0,
 40.0
@@ -40062,7 +44621,7 @@
 "label": "enkephalin",
 "class": "SimpleChemical",
 "box": [
-9611.0,
+9180.0,
 233.5,
 40.0,
 40.0
@@ -40106,7 +44665,7 @@
 "label": "endomorphin-2",
 "class": "SimpleChemical",
 "box": [
-9672.0,
+9241.0,
 193.5,
 40.0,
 40.0
@@ -40130,7 +44689,7 @@
 "label": "opioid agonist: opioid peptide",
 "class": "SimpleChemical",
 "box": [
-9672.0,
+9241.0,
 439.0,
 40.0,
 40.0
@@ -40158,7 +44717,7 @@
 "label": "opioid agonist: opioid analgesic",
 "class": "SimpleChemical",
 "box": [
-9829.5,
+9398.5,
 439.0,
 40.0,
 40.0
@@ -40186,7 +44745,7 @@
 "label": "opioid antagonist",
 "class": "SimpleChemical",
 "box": [
-9531.0,
+9100.0,
 439.0,
 40.0,
 40.0
@@ -40214,7 +44773,7 @@
 "label": "buprenorphine",
 "class": "SimpleChemical",
 "box": [
-10190.0,
+9759.0,
 373.5,
 40.0,
 40.0
@@ -40262,7 +44821,7 @@
 "label": "hydromorphone",
 "class": "SimpleChemical",
 "box": [
-10178.0,
+9747.0,
 285.5,
 40.0,
 40.0
@@ -40306,7 +44865,7 @@
 "label": "pethidine",
 "class": "SimpleChemical",
 "box": [
-10094.0,
+9663.0,
 129.5,
 40.0,
 40.0
@@ -40354,7 +44913,7 @@
 "label": "naloxone",
 "class": "SimpleChemical",
 "box": [
-9531.0,
+9100.0,
 193.5,
 40.0,
 40.0
@@ -40402,7 +44961,7 @@
 "label": "naltrexone",
 "class": "SimpleChemical",
 "box": [
-9470.0,
+9039.0,
 233.5,
 40.0,
 40.0
@@ -40450,7 +45009,7 @@
 "label": "tapentadol",
 "class": "SimpleChemical",
 "box": [
-10146.0,
+9715.0,
 202.5,
 40.0,
 40.0
@@ -40482,7 +45041,7 @@
 "label": "opioid agonist",
 "class": "SimpleChemical",
 "box": [
-10700.0,
+10269.0,
 439.0,
 40.0,
 40.0
@@ -40510,7 +45069,7 @@
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
-12044.0,
+11613.0,
 395.5,
 40.0,
 40.0
@@ -40550,7 +45109,7 @@
 "label": "COMT",
 "class": "Macromolecule",
 "box": [
-12130.8,
+11699.8,
 223.5,
 80.0,
 40.0
@@ -40598,7 +45157,7 @@
 "label": "normetanephrine",
 "class": "SimpleChemical",
 "box": [
-12255.5,
+11824.5,
 323.2,
 40.0,
 40.0
@@ -40628,6 +45187,81 @@
 "InChIKey",
 "YNYAYWLBAHXHLL-UHFFFAOYSA-N"
 ]
+]
+},
+{
+"id": "re440_comt",
+"label": "",
+"class": "Process",
+"box": [
+11727.8,
+342.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"noradrenaline"
+],
+"out": [
+"normetanephrine"
+],
+"by": [
+"COMT"
+]
+},
+"references": [
+{
+"authors": "van Meurs JB et al.",
+"journal": "Arthritis Rheum",
+"title": "A functional polymorphism in the catechol-O-methyltransferase gene is associated with osteoarthritis-related pain.",
+"year": "2009",
+"db": "pubmed",
+"id": "19180497",
+"role": "OA",
+"note": "human, Rotterdam Study (letter, no abstract): the hypofunctional COMT Val158Met allele raises the risk of hip pain in women, not men, with radiographic hip OA (OR 4.9; 171 women, 288 men), as summarised by Thakur 2013"
+},
+{
+"authors": "Thakur M et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Genomics of pain in osteoarthritis.",
+"year": "2013",
+"db": "pubmed",
+"id": "23973152",
+"role": "OA",
+"note": "OA pain genetics review: COMT, the catecholamine-degrading enzyme, among the first genes linked to OA pain"
+},
+{
+"authors": "Martire LM et al.",
+"journal": "Scand J Pain",
+"title": "COMT and OPRM1 Genotype Associations with Daily Knee Pain Variability and Activity Induced Pain.",
+"year": "2016",
+"db": "pubmed",
+"id": "26322144",
+"role": "OA",
+"note": "human knee OA, 120 patients, 22 days of diary: COMT rs4680 Val/Val with the most day-to-day pain variability and most activity-induced pain; no between-person difference in mean pain"
+},
+{
+"authors": "Lotta T et al.",
+"journal": "Biochemistry",
+"title": "Kinetics of human soluble and membrane-bound catechol O-methyltransferase: a revised mechanism and description of the thermolabile variant of the enzyme.",
+"year": "1995",
+"db": "pubmed",
+"id": "7703232",
+"role": "step",
+"note": "recombinant human soluble and membrane-bound COMT: kinetics of the methylation of (-)-noradrenaline, AdoMet as methyl donor"
+},
+{
+"authors": "Masuda M et al.",
+"journal": "Ann Clin Biochem",
+"title": "Assay of catechol-O-methyltransferase activity in human erythrocytes using norepinephrine as a natural substrate.",
+"year": "2002",
+"db": "pubmed",
+"id": "12564841",
+"role": "step",
+"note": "human erythrocytes (n = 54): COMT activity measured with noradrenaline as substrate and normetanephrine as product; Km for noradrenaline 91 uM (S-COMT) and 12 uM (MB-COMT)"
+}
 ]
 }
 ]
