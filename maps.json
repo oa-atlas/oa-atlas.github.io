@@ -675,6 +675,33 @@
 "hasText": true
 },
 {
+"id": "na-comt-receptors",
+"title": "Noradrenaline - α2A, β2 and COMT",
+"topic": "Noradrenaline - α2A, β2 and COMT",
+"group": "Nociceptor and spinal neuron",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/na-comt-receptors.svg",
+"width": 3318.0,
+"height": 1368.0,
+"scale": 1,
+"annotation": "data/na-comt-receptors.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-comt-receptors.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-comt-receptors.svg"
+}
+],
+"data": "data/na-comt-receptors-text.json",
+"hasText": true
+},
+{
 "id": "tac1-tacr1-gq",
 "title": "Substance P - TACR1 - Gqα",
 "topic": "Substance P - TACR1 - Gqα",
@@ -861,33 +888,6 @@
 }
 ],
 "data": "data/camp-pka-spinal-text.json",
-"hasText": true
-},
-{
-"id": "na-comt-receptors",
-"title": "Noradrenaline - α2A, β2 and COMT",
-"topic": "Noradrenaline - α2A, β2 and COMT",
-"group": "Spinal nociceptive neuron",
-"kind": null,
-"tag": "new",
-"tab": null,
-"image": "files/na-comt-receptors.svg",
-"width": 3318.0,
-"height": 1368.0,
-"scale": 1,
-"annotation": "data/na-comt-receptors.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/na-comt-receptors.graphml"
-},
-{
-"label": "SVG",
-"url": "files/na-comt-receptors.svg"
-}
-],
-"data": "data/na-comt-receptors-text.json",
 "hasText": true
 },
 {
