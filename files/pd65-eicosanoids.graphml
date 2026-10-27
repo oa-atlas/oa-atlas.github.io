@@ -74,7 +74,7 @@
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="35" bottomF="34.95361876234574" left="41" leftF="40.770870319844335" right="27" rightF="26.764165645683534" top="37" topF="37.0"/>
+              <y:BorderInsets bottom="35" bottomF="34.95361876234574" left="41" leftF="40.770870319844335" right="69" rightF="69.01108760925672" top="37" topF="37.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="1980.0" width="4048.0" x="-264.0" y="40.0"/>
@@ -656,7 +656,7 @@
               <y:Geometry height="40.0" width="40.0" x="324.0" y="1764.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="214.287109375" x="-87.1435546875" xml:space="preserve" y="9.755859375">Lipoxin C4 (LXC4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="125.515625" x="-42.7578125" xml:space="preserve" y="9.755859375">Lipoxin C4 (LXC4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
@@ -853,7 +853,7 @@
               <y:Geometry height="40.0" width="40.0" x="-60.0" y="1300.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="127.6279296875" x="-43.81396484375" xml:space="preserve" y="9.755859375">LTC4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.8564453125" x="0.57177734375" xml:space="preserve" y="9.755859375">LTC4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
@@ -979,7 +979,7 @@
           <data key="d6" xml:space="preserve">HGNC:9603</data>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="2192.0" y="1172.0"/>
+              <y:Geometry height="40.0" width="80.0" x="2168.0" y="1172.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="42.28125" x="18.859375" xml:space="preserve" y="9.755859375">PTGIS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1199,7 +1199,7 @@
               <y:Geometry height="40.0" width="40.0" x="500.0" y="1132.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.9775390625" x="-41.98876953125" xml:space="preserve" y="9.755859375">LTC4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.8564453125" x="0.57177734375" xml:space="preserve" y="9.755859375">LTC4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
@@ -1622,7 +1622,7 @@
               <y:Geometry height="40.0" width="40.0" x="1172.0" y="1684.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="125.4609375" x="-42.73046875" xml:space="preserve" y="9.755859375">Lipoxin A4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="77.185546875" x="-18.5927734375" xml:space="preserve" y="9.755859375">Lipoxin A4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
@@ -1799,7 +1799,7 @@
               <y:Geometry height="40.0" width="40.0" x="324.0" y="1300.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="249.5810546875" x="-104.79052734375" xml:space="preserve" y="9.755859375">Eoxin C4 (14,15-LTC4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="160.8095703125" x="-60.40478515625" xml:space="preserve" y="9.755859375">Eoxin C4 (14,15-LTC4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
@@ -3535,7 +3535,7 @@
           </data>
         </node>
         <node id="n3::n198">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">ALOX5AP</data>
           <data key="d5" xml:space="preserve">P20292</data>
           <data key="d6" xml:space="preserve">HGNC:436</data>
@@ -3552,7 +3552,7 @@
           </data>
         </node>
         <node id="n3::n199">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">CYP2J2</data>
           <data key="d5" xml:space="preserve">P51589</data>
           <data key="d6" xml:space="preserve">HGNC:2634</data>
@@ -3569,7 +3569,7 @@
           </data>
         </node>
         <node id="n3::n200">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">CYP2J2</data>
           <data key="d5" xml:space="preserve">P51589</data>
           <data key="d6" xml:space="preserve">HGNC:2634</data>
@@ -3586,7 +3586,7 @@
           </data>
         </node>
         <node id="n3::n201">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">EPHX2</data>
           <data key="d5" xml:space="preserve">P34913</data>
           <data key="d6" xml:space="preserve">HGNC:3402</data>
@@ -3603,7 +3603,7 @@
           </data>
         </node>
         <node id="n3::n202">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">EPHX2</data>
           <data key="d5" xml:space="preserve">P34913</data>
           <data key="d6" xml:space="preserve">HGNC:3402</data>
@@ -3621,9 +3621,9 @@
         </node>
         <node id="n3::n203">
           <data key="d3" xml:space="preserve">CHEBI:34450</data>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="2924.0" y="836.0"/>
@@ -3634,10 +3634,10 @@
           </data>
         </node>
         <node id="n3::n204">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="2935.0" y="751.0"/>
@@ -3656,9 +3656,9 @@
         </node>
         <node id="n3::n205">
           <data key="d3" xml:space="preserve">CHEBI:34490</data>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3180.0" y="836.0"/>
@@ -3669,10 +3669,10 @@
           </data>
         </node>
         <node id="n3::n206">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3191.0" y="751.0"/>
@@ -3691,9 +3691,9 @@
         </node>
         <node id="n3::n207">
           <data key="d3" xml:space="preserve">CHEBI:63970</data>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3180.0" y="996.0"/>
@@ -3704,10 +3704,10 @@
           </data>
         </node>
         <node id="n3::n208">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3191.0" y="927.0"/>
@@ -3726,9 +3726,9 @@
         </node>
         <node id="n3::n209">
           <data key="d3" xml:space="preserve">CHEBI:34130</data>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3436.0" y="836.0"/>
@@ -3739,10 +3739,10 @@
           </data>
         </node>
         <node id="n3::n210">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3447.0" y="751.0"/>
@@ -3761,9 +3761,9 @@
         </node>
         <node id="n3::n211">
           <data key="d3" xml:space="preserve">CHEBI:63969</data>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3436.0" y="996.0"/>
@@ -3774,10 +3774,10 @@
           </data>
         </node>
         <node id="n3::n212">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3447.0" y="927.0"/>
@@ -3796,9 +3796,9 @@
         </node>
         <node id="n3::n213">
           <data key="d3" xml:space="preserve">CHEBI:34157</data>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3692.0" y="836.0"/>
@@ -3809,10 +3809,10 @@
           </data>
         </node>
         <node id="n3::n214">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3703.0" y="751.0"/>
@@ -3831,9 +3831,9 @@
         </node>
         <node id="n3::n215">
           <data key="d3" xml:space="preserve">CHEBI:63966</data>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3692.0" y="996.0"/>
@@ -3844,10 +3844,10 @@
           </data>
         </node>
         <node id="n3::n216">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3703.0" y="927.0"/>
@@ -3865,7 +3865,7 @@
           </data>
         </node>
         <node id="n3::n217">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">EPHX2</data>
           <data key="d5" xml:space="preserve">P34913</data>
           <data key="d6" xml:space="preserve">HGNC:3402</data>
@@ -3882,7 +3882,7 @@
           </data>
         </node>
         <node id="n3::n218">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">EPHX2</data>
           <data key="d5" xml:space="preserve">P34913</data>
           <data key="d6" xml:space="preserve">HGNC:3402</data>
@@ -3899,10 +3899,10 @@
           </data>
         </node>
         <node id="n3::n219">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3631.0" y="1391.0"/>
@@ -3921,9 +3921,9 @@
         </node>
         <node id="n3::n220">
           <data key="d3" xml:space="preserve">CHEBI:15547</data>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3620.0" y="1460.0"/>
@@ -3934,10 +3934,10 @@
           </data>
         </node>
         <node id="n3::n221">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3631.0" y="1551.0"/>
@@ -3956,9 +3956,9 @@
         </node>
         <node id="n3::n222">
           <data key="d3" xml:space="preserve">CHEBI:15550</data>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3620.0" y="1620.0"/>
@@ -3969,7 +3969,7 @@
           </data>
         </node>
         <node id="n3::n223">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">HPGD</data>
           <data key="d5" xml:space="preserve">P15428</data>
           <data key="d6" xml:space="preserve">HGNC:5154</data>
@@ -3986,7 +3986,7 @@
           </data>
         </node>
         <node id="n3::n224">
-          <data key="d3"/>
+          <data key="d3" xml:space="preserve"/>
           <data key="d4" xml:space="preserve">PTGR2</data>
           <data key="d5" xml:space="preserve">Q8N8N7</data>
           <data key="d6" xml:space="preserve">HGNC:20149</data>
@@ -4003,10 +4003,10 @@
           </data>
         </node>
         <node id="n3::n225">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="2607.0" y="1639.0"/>
@@ -4024,10 +4024,10 @@
           </data>
         </node>
         <node id="n3::n226">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="2596.0" y="1708.0"/>
@@ -4038,10 +4038,10 @@
           </data>
         </node>
         <node id="n3::n227">
-          <data key="d3"/>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d3" xml:space="preserve"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="2607.0" y="1799.0"/>
@@ -4060,9 +4060,9 @@
         </node>
         <node id="n3::n228">
           <data key="d3" xml:space="preserve">CHEBI:34159</data>
-          <data key="d4"/>
-          <data key="d5"/>
-          <data key="d6"/>
+          <data key="d4" xml:space="preserve"/>
+          <data key="d5" xml:space="preserve"/>
+          <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="2596.0" y="1868.0"/>
@@ -4286,9 +4286,9 @@
     </node>
     <node id="n9">
       <data key="d3" xml:space="preserve">CHEBI:34159</data>
-      <data key="d4"/>
-      <data key="d5"/>
-      <data key="d6"/>
+      <data key="d4" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
       <data key="d9">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="2596.0" y="2263.5618331847436"/>
@@ -4314,9 +4314,9 @@
     </node>
     <node id="n11">
       <data key="d3" xml:space="preserve">CHEBI:34450</data>
-      <data key="d4"/>
-      <data key="d5"/>
-      <data key="d6"/>
+      <data key="d4" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
       <data key="d9">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="3779.94150061259" y="2263.5618331847436"/>
