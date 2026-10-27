@@ -1,0 +1,11164 @@
+{
+"nodes": [
+{
+"label": "K+",
+"class": "SimpleChemical",
+"box": [
+3995.0,
+2555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"potassium(1+)"
+],
+[
+"Synonyms",
+"K(+); K+; POTASSIUM ION; potassium cation; potassium(1+) ion; potassium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from potassium."
+],
+[
+"Formula",
+"K"
+],
+[
+"ChEBI",
+"CHEBI:29103"
+],
+[
+"KEGG",
+"C00238"
+],
+[
+"InChI",
+"InChI=1S/K/q+1"
+],
+[
+"InChIKey",
+"NPYPAHLBTDXSSS-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "TRPV1",
+"class": "Macromolecule",
+"box": [
+5355.0,
+3135.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transient receptor potential cation channel subfamily V member 1"
+],
+[
+"Alternative names",
+"Capsaicin receptor; Osm-9-like TRP channel 1; Vanilloid receptor 1"
+],
+[
+"Function",
+"Non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons."
+],
+[
+"Location",
+"Postsynaptic cell membrane, Cell projection, dendritic spine membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:12716"
+],
+[
+"HGNC symbol",
+"TRPV1"
+],
+[
+"Previous symbols",
+"VR1"
+],
+[
+"Entrez",
+"7442"
+],
+[
+"Ensembl",
+"ENSG00000196689"
+],
+[
+"RefSeq",
+"NM_018727"
+],
+[
+"UniProt",
+"Q8NER1"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+5225.0,
+3075.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+5215.0,
+3205.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "PTGER2",
+"class": "Macromolecule",
+"box": [
+1415.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E2 receptor EP2 subtype"
+],
+[
+"Alternative names",
+"Prostanoid EP2 receptor"
+],
+[
+"Function",
+"Receptor for prostaglandin E2 (PGE2). The activity of this receptor is mediated by G(s) proteins that stimulate adenylate cyclase."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9594"
+],
+[
+"HGNC symbol",
+"PTGER2"
+],
+[
+"Alias symbols",
+"EP2, COX-2"
+],
+[
+"Entrez",
+"5732"
+],
+[
+"Ensembl",
+"ENSG00000125384"
+],
+[
+"RefSeq",
+"NM_000956"
+],
+[
+"UniProt",
+"P43116"
+]
+]
+},
+{
+"label": "PTGER4",
+"class": "Macromolecule",
+"box": [
+1535.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E2 receptor EP4 subtype"
+],
+[
+"Alternative names",
+"Prostanoid EP4 receptor"
+],
+[
+"Function",
+"Receptor for prostaglandin E2 (PGE2). The activity of this receptor is mediated by G(s) proteins that stimulate adenylate cyclase."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9596"
+],
+[
+"HGNC symbol",
+"PTGER4"
+],
+[
+"Alias symbols",
+"EP4"
+],
+[
+"Entrez",
+"5734"
+],
+[
+"Ensembl",
+"ENSG00000171522"
+],
+[
+"RefSeq",
+"NM_000958"
+],
+[
+"UniProt",
+"P35408"
+]
+]
+},
+{
+"label": "PTGER3",
+"class": "Macromolecule",
+"box": [
+1655.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E2 receptor EP3 subtype"
+],
+[
+"Alternative names",
+"PGE2-R; Prostanoid EP3 receptor"
+],
+[
+"Function",
+"Receptor for prostaglandin E2 (PGE2). The activity of this receptor can couple to both the inhibition of adenylate cyclase mediated by G(i) proteins, and to an elevation of intracellular calcium."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9595"
+],
+[
+"HGNC symbol",
+"PTGER3"
+],
+[
+"Alias symbols",
+"EP3, lnc003875"
+],
+[
+"Entrez",
+"5733"
+],
+[
+"Ensembl",
+"ENSG00000050628"
+],
+[
+"RefSeq",
+"NM_000957"
+],
+[
+"UniProt",
+"P43115"
+]
+]
+},
+{
+"label": "PTGER1",
+"class": "Macromolecule",
+"box": [
+1775.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E2 receptor EP1 subtype"
+],
+[
+"Alternative names",
+"Prostanoid EP1 receptor"
+],
+[
+"Function",
+"Receptor for prostaglandin E2 (PGE2). The activity of this receptor is mediated by G(q) proteins which activate a phosphatidylinositol-calcium second messenger system."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9593"
+],
+[
+"HGNC symbol",
+"PTGER1"
+],
+[
+"Alias symbols",
+"EP1"
+],
+[
+"Entrez",
+"5731"
+],
+[
+"Ensembl",
+"ENSG00000160951"
+],
+[
+"RefSeq",
+"NM_000955"
+],
+[
+"UniProt",
+"P34995"
+]
+]
+},
+{
+"label": "BDKRB2",
+"class": "Macromolecule",
+"box": [
+2346.0,
+2436.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"B2 bradykinin receptor"
+],
+[
+"Function",
+"Receptor for bradykinin. It is associated with G proteins that activate a phosphatidylinositol-calcium second messenger system"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1030"
+],
+[
+"HGNC symbol",
+"BDKRB2"
+],
+[
+"Alias symbols",
+"BK-2"
+],
+[
+"Entrez",
+"624"
+],
+[
+"Ensembl",
+"ENSG00000168398"
+],
+[
+"RefSeq",
+"NM_000623"
+],
+[
+"UniProt",
+"P30411"
+]
+]
+},
+{
+"label": "LTB4R",
+"class": "Macromolecule",
+"box": [
+1055.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Leukotriene B4 receptor 1"
+],
+[
+"Alternative names",
+"Chemoattractant receptor-like 1; G protein-coupled receptor 16; P2Y purinoceptor 7"
+],
+[
+"Function",
+"Receptor for extracellular ATP > UTP and ADP. The activity of this receptor is mediated by G proteins which activate a phosphatidylinositol-calcium second messenger system."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:6713"
+],
+[
+"HGNC symbol",
+"LTB4R"
+],
+[
+"Previous symbols",
+"P2RY7, GPR16, CMKRL1"
+],
+[
+"Alias symbols",
+"BLTR, P2Y7, LTB4R1"
+],
+[
+"Entrez",
+"1241"
+],
+[
+"Ensembl",
+"ENSG00000213903"
+],
+[
+"RefSeq",
+"NM_001143919"
+],
+[
+"UniProt",
+"Q15722"
+]
+]
+},
+{
+"label": "HRH1",
+"class": "Macromolecule",
+"box": [
+2478.0,
+2437.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Histamine H1 receptor"
+],
+[
+"Function",
+"G protein-coupled receptor for histamine, a biogenic amine that functions as an immune modulator and a neurotransmitter. Through the H1 receptor, histamine mediates the contraction of smooth muscles and increases capillary permeability due to contraction of terminal venules."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:5182"
+],
+[
+"HGNC symbol",
+"HRH1"
+],
+[
+"Entrez",
+"3269"
+],
+[
+"Ensembl",
+"ENSG00000196639"
+],
+[
+"RefSeq",
+"NM_000861"
+],
+[
+"UniProt",
+"P35367"
+]
+]
+},
+{
+"label": "OPRM1",
+"class": "Macromolecule",
+"box": [
+2775.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mu-type opioid receptor"
+],
+[
+"Alternative names",
+"Mu opiate receptor; Mu opioid receptor"
+],
+[
+"Function",
+"Receptor for endogenous opioids such as beta-endorphin and endomorphin. Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone."
+],
+[
+"Location",
+"Cell membrane, Cell projection, axon, Perikaryon, Cell projection, dendrite, Endosome, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:8156"
+],
+[
+"HGNC symbol",
+"OPRM1"
+],
+[
+"Alias symbols",
+"MOR1, MOP"
+],
+[
+"Entrez",
+"4988"
+],
+[
+"Ensembl",
+"ENSG00000112038"
+],
+[
+"RefSeq",
+"NM_000914"
+],
+[
+"UniProt",
+"P35372"
+]
+]
+},
+{
+"label": "NGFR",
+"class": "Macromolecule",
+"box": [
+3335.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor superfamily member 16"
+],
+[
+"Alternative names",
+"Gp80-LNGFR; Low affinity neurotrophin receptor p75NTR; Low-affinity nerve growth factor receptor; Low-affinity nerve growth factor receptor p75NGFR; Low-affinity nerve growth factor receptor p75NGR; p75 ICD"
+],
+[
+"Function",
+"Low affinity receptor which can bind to NGF, BDNF, NTF3, and NTF4. Forms a heterodimeric receptor with SORCS2 that binds the precursor forms of NGF, BDNF and NTF3 with high affinity, and has much lower affinity for mature NGF and BDNF."
+],
+[
+"Location",
+"Cell membrane, Cytoplasm, Perikaryon, Cell projection, growth cone, Cell projection, dendritic spine"
+],
+[
+"HGNC",
+"HGNC:7809"
+],
+[
+"HGNC symbol",
+"NGFR"
+],
+[
+"Alias symbols",
+"TNFRSF16, CD271, p75NTR"
+],
+[
+"Entrez",
+"4804"
+],
+[
+"Ensembl",
+"ENSG00000064300"
+],
+[
+"RefSeq",
+"NM_002507"
+],
+[
+"UniProt",
+"P08138"
+]
+]
+},
+{
+"label": "PLCG1",
+"class": "Macromolecule",
+"box": [
+2735.0,
+2795.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1"
+],
+[
+"Alternative names",
+"PLC-148; Phosphoinositide phospholipase C-gamma-1; Phospholipase C-II; Phospholipase C-gamma-1"
+],
+[
+"Function",
+"Mediates the production of the second messenger molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3). Plays an important role in the regulation of intracellular signaling cascades."
+],
+[
+"Location",
+"Cell projection, lamellipodium, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:9065"
+],
+[
+"HGNC symbol",
+"PLCG1"
+],
+[
+"Previous symbols",
+"PLC1"
+],
+[
+"Alias symbols",
+"PLC148, PLC-II, PLCgamma1, NCKAP3"
+],
+[
+"Entrez",
+"5335"
+],
+[
+"Ensembl",
+"ENSG00000124181"
+],
+[
+"RefSeq",
+"NM_182811"
+],
+[
+"UniProt",
+"P19174"
+]
+]
+},
+{
+"label": "CNR2",
+"class": "Macromolecule",
+"box": [
+3055.0,
+2445.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cannabinoid receptor 1"
+],
+[
+"Alternative names",
+"CANN6"
+],
+[
+"Function",
+"G protein-coupled receptor for endogenous cannabinoids (eCBs), including N-arachidonoylethanolamide (also called anandamide or AEA) and 2-arachidonoylglycerol (2-AG), as well as phytocannabinoids, such as delta(9)-tetrahydrocannabinol (THC). Mediates many cannabinoid-induced effects, acting, among others, on food intake, memory loss, gastrointestinal motility, catalepsy, ambulatory activity, anxiety, chronic pain."
+],
+[
+"Location",
+"Cell membrane, Membrane raft, Mitochondrion outer membrane, Cell projection, axon, Presynapse"
+],
+[
+"HGNC",
+"HGNC:2160"
+],
+[
+"HGNC symbol",
+"CNR2"
+],
+[
+"Alias symbols",
+"CB2"
+],
+[
+"Entrez",
+"1269"
+],
+[
+"Ensembl",
+"ENSG00000188822"
+],
+[
+"RefSeq",
+"NM_001841"
+],
+[
+"UniProt",
+"P21554"
+]
+]
+},
+{
+"label": "TAC1",
+"class": "Macromolecule",
+"box": [
+495.0,
+2595.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protachykinin-1"
+],
+[
+"Alternative names",
+"PPT"
+],
+[
+"Function",
+"Tachykinins are active peptides which excite neurons, evoke behavioral responses, are potent vasodilators and secretagogues, and contract (directly or indirectly) many smooth muscles"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:11517"
+],
+[
+"HGNC symbol",
+"TAC1"
+],
+[
+"Previous symbols",
+"TAC2, NKNA"
+],
+[
+"Alias symbols",
+"NPK"
+],
+[
+"Entrez",
+"6863"
+],
+[
+"Ensembl",
+"ENSG00000006128"
+],
+[
+"RefSeq",
+"NM_003182"
+],
+[
+"UniProt",
+"P20366"
+]
+]
+},
+{
+"label": "ITPR1",
+"class": "Macromolecule",
+"box": [
+2175.0,
+3115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1"
+],
+[
+"Alternative names",
+"IP3 receptor isoform 1; Inositol 1,4,5 trisphosphate receptor; Inositol 1,4,5-trisphosphate receptor type 1; Type 1 inositol 1,4,5-trisphosphate receptor"
+],
+[
+"Function",
+"Inositol 1,4,5-trisphosphate-gated calcium channel that, upon inositol 1,4,5-trisphosphate binding, mediates calcium release from the endoplasmic reticulum (ER). Undergoes conformational changes upon ligand binding, suggesting structural flexibility that allows the channel to switch from a closed state, capable of interacting with its ligands such as 1,4,5-trisphosphate and calcium, to an open state, capable of transferring calcium ions across the ER membrane."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Cytoplasmic vesicle, secretory vesicle membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:6180"
+],
+[
+"HGNC symbol",
+"ITPR1"
+],
+[
+"Previous symbols",
+"SCA15, SCA16, SCA29"
+],
+[
+"Alias symbols",
+"Insp3r1, IP3R1, ACV, PPP1R94"
+],
+[
+"Entrez",
+"3708"
+],
+[
+"Ensembl",
+"ENSG00000150995"
+],
+[
+"RefSeq",
+"NM_002222"
+],
+[
+"UniProt",
+"Q14643"
+]
+]
+},
+{
+"label": "TNFRSF1A",
+"class": "Macromolecule",
+"box": [
+695.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor superfamily member 1A"
+],
+[
+"Alternative names",
+"Tumor necrosis factor receptor 1; Tumor necrosis factor receptor type I; p55; p60"
+],
+[
+"Function",
+"Receptor for TNFSF2/TNF and homotrimeric TNFSF1/lymphotoxin-alpha. The adapter molecule FADD recruits caspase-8 to the activated receptor."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:11916"
+],
+[
+"HGNC symbol",
+"TNFRSF1A"
+],
+[
+"Previous symbols",
+"TNFR1"
+],
+[
+"Alias symbols",
+"TNF-R, TNFAR, TNFR60, TNF-R-I, CD120a, TNF-R55"
+],
+[
+"Entrez",
+"7132"
+],
+[
+"Ensembl",
+"ENSG00000067182"
+],
+[
+"RefSeq",
+"NM_001065"
+],
+[
+"UniProt",
+"P19438"
+]
+]
+},
+{
+"label": "TRAF2",
+"class": "Macromolecule",
+"box": [
+695.0,
+2635.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"TNF receptor-associated factor 2"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein ligase TRAF2; RING-type E3 ubiquitin transferase TRAF2; Tumor necrosis factor type 2 receptor-associated protein 3"
+],
+[
+"Function",
+"E3 ubiquitin-protein ligase that regulates activation of NF-kappa-B and JNK and plays a central role in the regulation of cell survival and apoptosis. Catalyzes 'Lys-63'-linked ubiquitination of target proteins, such as BIRC3, IKBKE, MLST8, RIPK1 and TICAM1."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:12032"
+],
+[
+"HGNC symbol",
+"TRAF2"
+],
+[
+"Alias symbols",
+"TRAP3, RNF117"
+],
+[
+"Entrez",
+"7186"
+],
+[
+"Ensembl",
+"ENSG00000127191"
+],
+[
+"RefSeq",
+"NM_021138"
+],
+[
+"UniProt",
+"Q12933"
+]
+]
+},
+{
+"label": "GCKR",
+"class": "Macromolecule",
+"box": [
+695.0,
+2735.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glucokinase regulatory protein"
+],
+[
+"Function",
+"Regulates glucokinase (GCK) by forming an inactive complex with this enzyme. Acts by promoting GCK recruitment to the nucleus, possibly to provide a reserve of GCK that can be quickly released in the cytoplasm after a meal."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4196"
+],
+[
+"HGNC symbol",
+"GCKR"
+],
+[
+"Entrez",
+"2646"
+],
+[
+"Ensembl",
+"ENSG00000084734"
+],
+[
+"RefSeq",
+"NM_001486"
+],
+[
+"UniProt",
+"Q14397"
+]
+]
+},
+{
+"label": "TRADD",
+"class": "Macromolecule",
+"box": [
+695.0,
+2535.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor type 1-associated DEATH domain protein"
+],
+[
+"Alternative names",
+"TNFRSF1A-associated via death domain"
+],
+[
+"Function",
+"Adapter molecule for TNFRSF1A/TNFR1 that specifically associates with the cytoplasmic domain of activated TNFRSF1A/TNFR1 mediating its interaction with FADD. Overexpression of TRADD leads to two major TNF-induced responses, apoptosis and activation of NF-kappa-B."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:12030"
+],
+[
+"HGNC symbol",
+"TRADD"
+],
+[
+"Alias symbols",
+"Hs.89862"
+],
+[
+"Entrez",
+"8717"
+],
+[
+"Ensembl",
+"ENSG00000102871"
+],
+[
+"RefSeq",
+"NM_001323552"
+],
+[
+"UniProt",
+"Q15628"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+2195.0,
+3295.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "LTB4R2",
+"class": "Macromolecule",
+"box": [
+1175.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Leukotriene B4 receptor 2"
+],
+[
+"Alternative names",
+"LTB4 receptor JULF2; Leukotriene B4 receptor BLT2; Seven transmembrane receptor BLTR2"
+],
+[
+"Function",
+"Low-affinity receptor for leukotrienes including leukotriene B4. Mediates chemotaxis of granulocytes and macrophages."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:19260"
+],
+[
+"HGNC symbol",
+"LTB4R2"
+],
+[
+"Alias symbols",
+"BLTR2, BLT2, JULF2, NOP9"
+],
+[
+"Entrez",
+"56413"
+],
+[
+"Ensembl",
+"ENSG00000213906"
+],
+[
+"RefSeq",
+"NM_001164692"
+],
+[
+"UniProt",
+"Q9NPC1"
+]
+]
+},
+{
+"label": "SCN10A",
+"class": "Macromolecule",
+"box": [
+5355.0,
+3275.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sodium channel protein type 10 subunit alpha"
+],
+[
+"Alternative names",
+"Peripheral nerve sodium channel 3; Sodium channel protein type X subunit alpha; Voltage-gated sodium channel subunit alpha Nav1.8"
+],
+[
+"Function",
+"Tetrodotoxin-resistant channel that mediates the voltage-dependent sodium ion permeability of excitable membranes. Assuming opened or closed conformations in response to the voltage difference across the membrane, the protein forms a sodium-selective channel through which sodium ions may pass in accordance with their electrochemical gradient."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10582"
+],
+[
+"HGNC symbol",
+"SCN10A"
+],
+[
+"Alias symbols",
+"Nav1.8, hPN3, SNS, PN3"
+],
+[
+"Entrez",
+"6336"
+],
+[
+"Ensembl",
+"ENSG00000185313"
+],
+[
+"RefSeq",
+"NM_006514"
+],
+[
+"UniProt",
+"Q9Y5Y9"
+]
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+1475.0,
+2955.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "CALCA",
+"class": "Macromolecule",
+"box": [
+185.0,
+2595.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcitonin"
+],
+[
+"Function",
+"Calcitonin is a peptide hormone that causes a rapid but short-lived drop in the level of calcium and phosphate in blood by promoting the incorporation of those ions in the bones. Calcitonin function is mediated by the calcitonin receptor/CALCR and the CALCR-RAMP2 (AMYR2) receptor complex"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1437"
+],
+[
+"HGNC symbol",
+"CALCA"
+],
+[
+"Previous symbols",
+"CALC1"
+],
+[
+"Alias symbols",
+"CGRP, CGRP-alpha"
+],
+[
+"Entrez",
+"796"
+],
+[
+"Ensembl",
+"ENSG00000110680"
+],
+[
+"RefSeq",
+"NM_001741"
+],
+[
+"UniProt",
+"P01258"
+]
+]
+},
+{
+"label": "CALCB",
+"class": "Macromolecule",
+"box": [
+285.0,
+2595.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcitonin gene-related peptide 2"
+],
+[
+"Alternative names",
+"Beta-type CGRP; Calcitonin gene-related peptide II"
+],
+[
+"Function",
+"CALCB/CGRP2 is a peptide hormone that induces vasodilation mediated by the CALCRL-RAMP1 receptor complex. Dilates a variety of vessels including the coronary, cerebral and systemic vasculature."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1438"
+],
+[
+"HGNC symbol",
+"CALCB"
+],
+[
+"Previous symbols",
+"CALC2"
+],
+[
+"Alias symbols",
+"FLJ30166, CGRP-II"
+],
+[
+"Entrez",
+"797"
+],
+[
+"Ensembl",
+"ENSG00000175868"
+],
+[
+"RefSeq",
+"NM_000728"
+],
+[
+"UniProt",
+"P10092"
+]
+]
+},
+{
+"label": "CCR2",
+"class": "Macromolecule",
+"box": [
+855.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"C-C chemokine receptor type 2"
+],
+[
+"Alternative names",
+"Monocyte chemoattractant protein 1 receptor"
+],
+[
+"Function",
+"Key functional receptor for CCL2 but can also bind CCL7, and CCL12. Also transduces signaling mediated by CCL13."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1603"
+],
+[
+"HGNC symbol",
+"CCR2"
+],
+[
+"Previous symbols",
+"CMKBR2"
+],
+[
+"Alias symbols",
+"CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302"
+],
+[
+"Entrez",
+"729230"
+],
+[
+"Ensembl",
+"ENSG00000121807"
+],
+[
+"RefSeq",
+"NM_000647"
+],
+[
+"UniProt",
+"P41597"
+]
+]
+},
+{
+"label": "ADRA2A",
+"class": "Macromolecule",
+"box": [
+4675.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Alpha-2A adrenergic receptor"
+],
+[
+"Alternative names",
+"Alpha-2 adrenergic receptor subtype C10; Alpha-2A adrenoreceptor"
+],
+[
+"Function",
+"Alpha-2 adrenergic receptors are G protein-coupled receptors for catecholamines that activate the G(i/o) protein pathway, thereby promoting adenylyl cyclase inhibition, ERK1/2 stimulation, and voltage-gated calcium channels suppression. Control a variety of physiological processes, such as regulation of blood pressure, lipolysis and insulin release."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:281"
+],
+[
+"HGNC symbol",
+"ADRA2A"
+],
+[
+"Previous symbols",
+"ADRA2, ADRA2R"
+],
+[
+"Alias symbols",
+"ADRAR"
+],
+[
+"Entrez",
+"150"
+],
+[
+"Ensembl",
+"ENSG00000150594"
+],
+[
+"RefSeq",
+"NM_000681"
+],
+[
+"UniProt",
+"P08913"
+]
+]
+},
+{
+"label": "ADRB2",
+"class": "Macromolecule",
+"box": [
+4975.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Beta-2 adrenergic receptor"
+],
+[
+"Alternative names",
+"Beta-2 adrenoreceptor"
+],
+[
+"Function",
+"G protein-coupled receptor for catecholamines that couples to both G(s) and G(i) proteins, activating bifurcated signaling pathways. ADRB2 binds epinephrine (Epi) with an approximately 30-fold greater affinity than norepinephrine (NE)."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:286"
+],
+[
+"HGNC symbol",
+"ADRB2"
+],
+[
+"Previous symbols",
+"ADRB2R"
+],
+[
+"Alias symbols",
+"ADRBR, BAR, B2AR, ARB2"
+],
+[
+"Entrez",
+"154"
+],
+[
+"Ensembl",
+"ENSG00000169252"
+],
+[
+"RefSeq",
+"NM_000024"
+],
+[
+"UniProt",
+"P07550"
+]
+]
+},
+{
+"label": "P2RX3",
+"class": "Macromolecule",
+"box": [
+3575.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+},
+{
+"label": "PTGIR",
+"class": "Macromolecule",
+"box": [
+1295.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostacyclin receptor"
+],
+[
+"Alternative names",
+"Prostaglandin I2 receptor; Prostanoid IP receptor"
+],
+[
+"Function",
+"Receptor for prostacyclin (prostaglandin I2 or PGI2). The activity of this receptor is mediated by G(s) proteins which activate adenylate cyclase"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9602"
+],
+[
+"HGNC symbol",
+"PTGIR"
+],
+[
+"Alias symbols",
+"IP"
+],
+[
+"Entrez",
+"5739"
+],
+[
+"Ensembl",
+"ENSG00000160013"
+],
+[
+"RefSeq",
+"NM_000960"
+],
+[
+"UniProt",
+"P43119"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+3835.0,
+2555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "P2RX2",
+"class": "Macromolecule",
+"box": [
+4255.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 2"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"ATP-gated nonselective transmembrane cation channel permeable to potassium, sodium and calcium. Activation by extracellular ATP induces a variety of cellular responses, such as excitatory postsynaptic responses in sensory neurons, neuromuscular junctions (NMJ) formation, hearing, perception of taste and peristalsis."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:15459"
+],
+[
+"HGNC symbol",
+"P2RX2"
+],
+[
+"Previous symbols",
+"DFNA41"
+],
+[
+"Alias symbols",
+"P2X2"
+],
+[
+"Entrez",
+"22953"
+],
+[
+"Ensembl",
+"ENSG00000187848"
+],
+[
+"RefSeq",
+"NM_001282164"
+],
+[
+"UniProt",
+"Q9UBL9"
+]
+]
+},
+{
+"label": "P2RX3",
+"class": "Macromolecule",
+"box": [
+4375.0,
+2435.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"P2X purinoceptor 3"
+],
+[
+"Alternative names",
+"ATP receptor; Purinergic receptor"
+],
+[
+"Function",
+"Extracellular ATP-activated non-selective cation channel. Plays particularly important role in sensory neurons where its activation is critical for gustatory, nociceptive responses, visceral reflexes and sensory hypersensitization"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8534"
+],
+[
+"HGNC symbol",
+"P2RX3"
+],
+[
+"Alias symbols",
+"P2X3"
+],
+[
+"Entrez",
+"5024"
+],
+[
+"Ensembl",
+"ENSG00000109991"
+],
+[
+"RefSeq",
+"NM_002559"
+],
+[
+"UniProt",
+"P56373"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+4155.0,
+2555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "CALCRL",
+"class": "Macromolecule",
+"box": [
+1495.0,
+3730.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcitonin gene-related peptide type 1 receptor"
+],
+[
+"Alternative names",
+"Calcitonin receptor-like receptor"
+],
+[
+"Function",
+"G protein-coupled receptor which specificity is determined by its interaction with receptor-activity-modifying proteins (RAMPs). Together with RAMP1, form the receptor complex for calcitonin-gene-related peptides CALCA/CGRP1 and CALCB/CGRP2."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:16709"
+],
+[
+"HGNC symbol",
+"CALCRL"
+],
+[
+"Alias symbols",
+"CGRPR, CRLR"
+],
+[
+"Entrez",
+"10203"
+],
+[
+"Ensembl",
+"ENSG00000064989"
+],
+[
+"RefSeq",
+"NM_005795"
+],
+[
+"UniProt",
+"Q16602"
+]
+]
+},
+{
+"label": "RAMP1",
+"class": "Macromolecule",
+"box": [
+1495.0,
+3780.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Receptor activity-modifying protein 1"
+],
+[
+"Alternative names",
+"Calcitonin-receptor-like receptor activity-modifying protein 1"
+],
+[
+"Function",
+"Accessory protein that interacts with and modulates the function of G protein-coupled receptors including calcitonin gene-related peptide type 1 receptor (CALCRL) and calcitonin receptor (CALCR). Required for the transport of CALCRL to the plasma membrane."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9843"
+],
+[
+"HGNC symbol",
+"RAMP1"
+],
+[
+"Entrez",
+"10267"
+],
+[
+"Ensembl",
+"ENSG00000132329"
+],
+[
+"RefSeq",
+"NM_005855"
+],
+[
+"UniProt",
+"O60894"
+]
+]
+},
+{
+"label": "CNR1",
+"class": "Macromolecule",
+"box": [
+3099.8,
+3757.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cannabinoid receptor 1"
+],
+[
+"Alternative names",
+"CANN6"
+],
+[
+"Function",
+"G protein-coupled receptor for endogenous cannabinoids (eCBs), including N-arachidonoylethanolamide (also called anandamide or AEA) and 2-arachidonoylglycerol (2-AG), as well as phytocannabinoids, such as delta(9)-tetrahydrocannabinol (THC). Mediates many cannabinoid-induced effects, acting, among others, on food intake, memory loss, gastrointestinal motility, catalepsy, ambulatory activity, anxiety, chronic pain."
+],
+[
+"Location",
+"Cell membrane, Membrane raft, Mitochondrion outer membrane, Cell projection, axon, Presynapse"
+],
+[
+"HGNC",
+"HGNC:2159"
+],
+[
+"HGNC symbol",
+"CNR1"
+],
+[
+"Previous symbols",
+"CNR"
+],
+[
+"Alias symbols",
+"CB1K5, CB-R, CB1, CANN6, CB1A"
+],
+[
+"Entrez",
+"1268"
+],
+[
+"Ensembl",
+"ENSG00000118432"
+],
+[
+"RefSeq",
+"NM_001160226"
+],
+[
+"UniProt",
+"P21554"
+]
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+3120.0,
+4225.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "OPRM1",
+"class": "Macromolecule",
+"box": [
+3375.0,
+3755.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mu-type opioid receptor"
+],
+[
+"Alternative names",
+"Mu opiate receptor; Mu opioid receptor"
+],
+[
+"Function",
+"Receptor for endogenous opioids such as beta-endorphin and endomorphin. Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone."
+],
+[
+"Location",
+"Cell membrane, Cell projection, axon, Perikaryon, Cell projection, dendrite, Endosome, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:8156"
+],
+[
+"HGNC symbol",
+"OPRM1"
+],
+[
+"Alias symbols",
+"MOR1, MOP"
+],
+[
+"Entrez",
+"4988"
+],
+[
+"Ensembl",
+"ENSG00000112038"
+],
+[
+"RefSeq",
+"NM_000914"
+],
+[
+"UniProt",
+"P35372"
+]
+]
+},
+{
+"label": "NTRK2",
+"class": "Macromolecule",
+"box": [
+1695.0,
+3755.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"BDNF/NT-3 growth factors receptor"
+],
+[
+"Alternative names",
+"GP145-TrkB; Neurotrophic tyrosine kinase receptor type 2; TrkB tyrosine kinase; Tropomyosin-related kinase B"
+],
+[
+"Function",
+"Receptor tyrosine kinase involved in the development and the maturation of the central and the peripheral nervous systems through regulation of neuron survival, proliferation, migration, differentiation, and synapse formation and plasticity. Receptor for BDNF/brain-derived neurotrophic factor and NTF4/neurotrophin-4."
+],
+[
+"Location",
+"Cell membrane, Endosome membrane, Early endosome membrane, Cell projection, axon, Cell projection, dendrite, Cytoplasm, perinuclear region, Postsynaptic density"
+],
+[
+"HGNC",
+"HGNC:8032"
+],
+[
+"HGNC symbol",
+"NTRK2"
+],
+[
+"Alias symbols",
+"TRKB"
+],
+[
+"Entrez",
+"4915"
+],
+[
+"Ensembl",
+"ENSG00000148053"
+],
+[
+"RefSeq",
+"NM_001007097"
+],
+[
+"UniProt",
+"Q16620"
+]
+]
+},
+{
+"label": "PLCG1",
+"class": "Macromolecule",
+"box": [
+1695.0,
+4075.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1"
+],
+[
+"Alternative names",
+"PLC-148; Phosphoinositide phospholipase C-gamma-1; Phospholipase C-II; Phospholipase C-gamma-1"
+],
+[
+"Function",
+"Mediates the production of the second messenger molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3). Plays an important role in the regulation of intracellular signaling cascades."
+],
+[
+"Location",
+"Cell projection, lamellipodium, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:9065"
+],
+[
+"HGNC symbol",
+"PLCG1"
+],
+[
+"Previous symbols",
+"PLC1"
+],
+[
+"Alias symbols",
+"PLC148, PLC-II, PLCgamma1, NCKAP3"
+],
+[
+"Entrez",
+"5335"
+],
+[
+"Ensembl",
+"ENSG00000124181"
+],
+[
+"RefSeq",
+"NM_182811"
+],
+[
+"UniProt",
+"P19174"
+]
+]
+},
+{
+"label": "TACR1",
+"class": "Macromolecule",
+"box": [
+1935.0,
+3755.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Substance-P receptor"
+],
+[
+"Alternative names",
+"NK-1 receptor; Tachykinin receptor 1"
+],
+[
+"Function",
+"Receptor for the tachykinin substance P, also able to bind and respond to tachynins neurokinin A/substance K and neurokinin B/neuromedin-K. The rank order of affinity of this receptor to tachykinins is: substance P > neurokinin A/substance K > neurokinin B/neuromedin-K."
+],
+[
+"Location",
+"Cell membrane, Early endosome"
+],
+[
+"HGNC",
+"HGNC:11526"
+],
+[
+"HGNC symbol",
+"TACR1"
+],
+[
+"Previous symbols",
+"TAC1R"
+],
+[
+"Alias symbols",
+"SPR, NK1R, NKIR"
+],
+[
+"Entrez",
+"6869"
+],
+[
+"Ensembl",
+"ENSG00000115353"
+],
+[
+"RefSeq",
+"NM_001058"
+],
+[
+"UniProt",
+"P25103"
+]
+]
+},
+{
+"label": "ADRA2A",
+"class": "Macromolecule",
+"box": [
+3795.0,
+3755.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Alpha-2A adrenergic receptor"
+],
+[
+"Alternative names",
+"Alpha-2 adrenergic receptor subtype C10; Alpha-2A adrenoreceptor"
+],
+[
+"Function",
+"Alpha-2 adrenergic receptors are G protein-coupled receptors for catecholamines that activate the G(i/o) protein pathway, thereby promoting adenylyl cyclase inhibition, ERK1/2 stimulation, and voltage-gated calcium channels suppression. Control a variety of physiological processes, such as regulation of blood pressure, lipolysis and insulin release."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:281"
+],
+[
+"HGNC symbol",
+"ADRA2A"
+],
+[
+"Previous symbols",
+"ADRA2, ADRA2R"
+],
+[
+"Alias symbols",
+"ADRAR"
+],
+[
+"Entrez",
+"150"
+],
+[
+"Ensembl",
+"ENSG00000150594"
+],
+[
+"RefSeq",
+"NM_000681"
+],
+[
+"UniProt",
+"P08913"
+]
+]
+},
+{
+"label": "ADRB2",
+"class": "Macromolecule",
+"box": [
+4195.0,
+3755.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Beta-2 adrenergic receptor"
+],
+[
+"Alternative names",
+"Beta-2 adrenoreceptor"
+],
+[
+"Function",
+"G protein-coupled receptor for catecholamines that couples to both G(s) and G(i) proteins, activating bifurcated signaling pathways. ADRB2 binds epinephrine (Epi) with an approximately 30-fold greater affinity than norepinephrine (NE)."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:286"
+],
+[
+"HGNC symbol",
+"ADRB2"
+],
+[
+"Previous symbols",
+"ADRB2R"
+],
+[
+"Alias symbols",
+"ADRBR, BAR, B2AR, ARB2"
+],
+[
+"Entrez",
+"154"
+],
+[
+"Ensembl",
+"ENSG00000169252"
+],
+[
+"RefSeq",
+"NM_000024"
+],
+[
+"UniProt",
+"P07550"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+2275.0,
+4555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "ADRB2",
+"class": "Macromolecule",
+"box": [
+3995.0,
+3755.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Beta-2 adrenergic receptor"
+],
+[
+"Alternative names",
+"Beta-2 adrenoreceptor"
+],
+[
+"Function",
+"G protein-coupled receptor for catecholamines that couples to both G(s) and G(i) proteins, activating bifurcated signaling pathways. ADRB2 binds epinephrine (Epi) with an approximately 30-fold greater affinity than norepinephrine (NE)."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:286"
+],
+[
+"HGNC symbol",
+"ADRB2"
+],
+[
+"Previous symbols",
+"ADRB2R"
+],
+[
+"Alias symbols",
+"ADRBR, BAR, B2AR, ARB2"
+],
+[
+"Entrez",
+"154"
+],
+[
+"Ensembl",
+"ENSG00000169252"
+],
+[
+"RefSeq",
+"NM_000024"
+],
+[
+"UniProt",
+"P07550"
+]
+]
+},
+{
+"label": "ITPR1",
+"class": "Macromolecule",
+"box": [
+1935.0,
+4395.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1"
+],
+[
+"Alternative names",
+"IP3 receptor isoform 1; Inositol 1,4,5 trisphosphate receptor; Inositol 1,4,5-trisphosphate receptor type 1; Type 1 inositol 1,4,5-trisphosphate receptor"
+],
+[
+"Function",
+"Inositol 1,4,5-trisphosphate-gated calcium channel that, upon inositol 1,4,5-trisphosphate binding, mediates calcium release from the endoplasmic reticulum (ER). Undergoes conformational changes upon ligand binding, suggesting structural flexibility that allows the channel to switch from a closed state, capable of interacting with its ligands such as 1,4,5-trisphosphate and calcium, to an open state, capable of transferring calcium ions across the ER membrane."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Cytoplasmic vesicle, secretory vesicle membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:6180"
+],
+[
+"HGNC symbol",
+"ITPR1"
+],
+[
+"Previous symbols",
+"SCA15, SCA16, SCA29"
+],
+[
+"Alias symbols",
+"Insp3r1, IP3R1, ACV, PPP1R94"
+],
+[
+"Entrez",
+"3708"
+],
+[
+"Ensembl",
+"ENSG00000150995"
+],
+[
+"RefSeq",
+"NM_002222"
+],
+[
+"UniProt",
+"Q14643"
+]
+]
+},
+{
+"label": "GRIN1",
+"class": "Macromolecule",
+"box": [
+2575.0,
+3755.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor ionotropic, NMDA 1"
+],
+[
+"Alternative names",
+"Glutamate [NMDA] receptor subunit zeta-1; N-methyl-D-aspartate receptor subunit NR1"
+],
+[
+"Function",
+"Component of N-methyl-D-aspartate (NMDA) receptors (NMDARs) that function as heterotetrameric, ligand-gated cation channels with high calcium permeability and voltage-dependent block by Mg(2+). NMDARs participate in synaptic plasticity for learning and memory formation by contributing to the long-term potentiation (LTP)."
+],
+[
+"Location",
+"Cell membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Synaptic cell membrane"
+],
+[
+"HGNC",
+"HGNC:4584"
+],
+[
+"HGNC symbol",
+"GRIN1"
+],
+[
+"Previous symbols",
+"NMDAR1"
+],
+[
+"Alias symbols",
+"GluN1, NR1"
+],
+[
+"Entrez",
+"2902"
+],
+[
+"Ensembl",
+"ENSG00000176884"
+],
+[
+"RefSeq",
+"NM_007327"
+],
+[
+"UniProt",
+"Q05586"
+]
+]
+},
+{
+"label": "GRIN2B",
+"class": "Macromolecule",
+"box": [
+2735.0,
+3755.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor ionotropic, NMDA 2B"
+],
+[
+"Alternative names",
+"Glutamate [NMDA] receptor subunit epsilon-2; N-methyl D-aspartate receptor subtype 2B; N-methyl-D-aspartate receptor subunit 3"
+],
+[
+"Function",
+"Component of N-methyl-D-aspartate (NMDA) receptors (NMDARs) that function as heterotetrameric, ligand-gated cation channels with high calcium permeability and voltage-dependent block by Mg(2+). Participates in synaptic plasticity for learning and memory formation by contributing to the long-term depression (LTD) of hippocampus membrane currents."
+],
+[
+"Location",
+"Cell membrane, Postsynaptic cell membrane, Cell projection, dendrite, Late endosome, Lysosome, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:4586"
+],
+[
+"HGNC symbol",
+"GRIN2B"
+],
+[
+"Previous symbols",
+"NMDAR2B"
+],
+[
+"Alias symbols",
+"GluN2B, NR2B"
+],
+[
+"Entrez",
+"2904"
+],
+[
+"Ensembl",
+"ENSG00000273079"
+],
+[
+"RefSeq",
+"NM_000834"
+],
+[
+"UniProt",
+"Q13224"
+]
+]
+},
+{
+"label": "GRIA1",
+"class": "Macromolecule",
+"box": [
+2255.0,
+3755.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutamate receptor 1"
+],
+[
+"Alternative names",
+"AMPA-selective glutamate receptor 1; GluR-A; GluR-K1; Glutamate receptor ionotropic, AMPA 1"
+],
+[
+"Function",
+"Ionotropic glutamate receptor that functions as a ligand-gated cation channel, gated by L-glutamate and glutamatergic agonists such as alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), quisqualic acid, and kainic acid. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Postsynaptic cell membrane, Postsynaptic density membrane, Cell projection, dendrite, Cell projection, dendritic spine, Early endosome membrane, Recycling endosome membrane, Presynapse, Synapse"
+],
+[
+"HGNC",
+"HGNC:4571"
+],
+[
+"HGNC symbol",
+"GRIA1"
+],
+[
+"Previous symbols",
+"GLUR1"
+],
+[
+"Alias symbols",
+"GluA1, GLURA"
+],
+[
+"Entrez",
+"2890"
+],
+[
+"Ensembl",
+"ENSG00000155511"
+],
+[
+"RefSeq",
+"NM_000827"
+],
+[
+"UniProt",
+"P42261"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+2435.0,
+4555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Lecithin",
+"class": "SimpleChemical",
+"box": [
+3495.0,
+395.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"lecithin"
+],
+[
+"Definition",
+"A lipid-rich mixture containing glycerol, fatty acids, phosphoric acid and other components."
+],
+[
+"ChEBI",
+"CHEBI:61995"
+]
+]
+},
+{
+"label": "Arachidonic acid",
+"class": "SimpleChemical",
+"box": [
+3495.0,
+595.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"L-alanyl-L-alanine"
+],
+[
+"Synonyms",
+"AA; Ala-Ala; L-Ala-L-Ala; N-L-alanyl-L-alanine"
+],
+[
+"Definition",
+"A dipeptide consisting of two L-alanine units joined by a peptide linkage."
+],
+[
+"Formula",
+"C6H12N2O3"
+],
+[
+"ChEBI",
+"CHEBI:72816"
+],
+[
+"HMDB",
+"HMDB0028680"
+],
+[
+"InChI",
+"InChI=1S/C6H12N2O3/c1-3(7)5(9)8-4(2)6(10)11/h3-4H,7H2,1-2H3,(H,8,9)(H,10,11)/t3-,4-/m0/s1"
+],
+[
+"InChIKey",
+"DEFJQIDDEAULHB-IMJSIDKUSA-N"
+]
+]
+},
+{
+"label": "PLA2G4A",
+"class": "Macromolecule",
+"box": [
+3600.0,
+480.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Cytosolic phospholipase A2"
+],
+[
+"Alternative names",
+"Phospholipase A2 group IVA"
+],
+[
+"Function",
+"Has primarily calcium-dependent phospholipase and lysophospholipase activities, with a major role in membrane lipid remodeling and biosynthesis of lipid mediators of the inflammatory response. Plays an important role in embryo implantation and parturition through its ability to trigger prostanoid production."
+],
+[
+"Location",
+"Cytoplasm, Golgi apparatus membrane, Nucleus envelope"
+],
+[
+"HGNC",
+"HGNC:9035"
+],
+[
+"HGNC symbol",
+"PLA2G4A"
+],
+[
+"Previous symbols",
+"PLA2G4"
+],
+[
+"Alias symbols",
+"cPLA2-alpha"
+],
+[
+"Entrez",
+"5321"
+],
+[
+"Ensembl",
+"ENSG00000116711"
+],
+[
+"RefSeq",
+"NM_024420"
+],
+[
+"UniProt",
+"P47712"
+]
+]
+},
+{
+"label": "PLA2G4C",
+"class": "Macromolecule",
+"box": [
+3360.0,
+480.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Cytosolic phospholipase A2 gamma"
+],
+[
+"Alternative names",
+"Cytosolic lysophospholipase; Cytosolic lysophospholipid O-acyltransferase; Phospholipase A2 group IVC"
+],
+[
+"Function",
+"Calcium-independent phospholipase, lysophospholipase and O-acyltransferase involved in phospholipid remodeling with implications in endoplasmic reticulum membrane homeostasis and lipid droplet biogenesis. Preferentially hydrolyzes the ester bond of the fatty acyl group attached at the sn-2 position of phospholipids with choline and ethanolamine head groups, producing lysophospholipids that are used in deacylation-reacylation cycles."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Mitochondrion membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:9037"
+],
+[
+"HGNC symbol",
+"PLA2G4C"
+],
+[
+"Alias symbols",
+"cPLA2-gamma"
+],
+[
+"Entrez",
+"8605"
+],
+[
+"Ensembl",
+"ENSG00000105499"
+],
+[
+"RefSeq",
+"NM_001159322"
+],
+[
+"UniProt",
+"Q9UP65"
+]
+]
+},
+{
+"label": "PGG2",
+"class": "SimpleChemical",
+"box": [
+3495.0,
+855.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin G2"
+],
+[
+"Synonyms",
+"(5Z)-7-{(1R,4S,5R,6R)-6-[(1E,3S)-3-hydroperoxyoct-1-en-1-yl]-2,3-dioxabicyclo[2.2.1]hept-5-yl}hept-5-enoic acid; (5Z,9S,11R,13E,15S)-15-hydroperoxy-9,11-epidioxyprosta-5,13-dien-1-oic acid; PGG2"
+],
+[
+"Formula",
+"C20H32O6"
+],
+[
+"ChEBI",
+"CHEBI:27647"
+],
+[
+"KEGG",
+"C05956"
+],
+[
+"InChI",
+"InChI=1S/C20H32O6/c1-2-3-6-9-15(24-23)12-13-17-16(18-14-19(17)26-25-18)10-7-4-5-8-11-20(21)22/h4,7,12-13,15-19,23H,2-3,5-6,8-11,14H2,1H3,(H,21,22)/b7-4-,13-12+/t15-,16+,17+,18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"SGUKUZOVHSFKPH-YNNPMVKQSA-N"
+]
+]
+},
+{
+"label": "11(R)-HETE",
+"class": "SimpleChemical",
+"box": [
+4055.0,
+855.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"11(R)-HETE"
+],
+[
+"Synonyms",
+"(11R)-hydroxy-(5Z),(8Z),(12E),(14Z)-eicosatetraenoic acid; (5Z,8Z,11R,12E,14Z)-11-hydroxyeicosa-5,8,12,14-tetraenoic acid; (5Z,8Z,11R,12E,14Z)-11-hydroxyicosa-5,8,12,14-tetraenoic acid; (5Z,8Z,12E,14Z)-(11R)-Hydroxyeicosa-5,8,12,14-tetraenoic acid; (5Z,8Z,12E,14Z)-(11R)-Hydroxyicosa-5,8,12,14-tetraenoic acid; (R)-(Z,E,Z,Z)-11-hydroxyeicosatetraenoic acid; (R)-11-hydroxy-eicosa-5,8,12,14-tetraenoic acid; 11(R)-hydroxyeicosatetraenoic acid; 11R-HETE"
+],
+[
+"Definition",
+"An 11-HETE in which the chiral centre at position 11 has R-configuration."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34126"
+],
+[
+"KEGG",
+"C14780"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-7-10-13-16-19(21)17-14-11-8-6-9-12-15-18-20(22)23/h6-7,9-11,13-14,16,19,21H,2-5,8,12,15,17-18H2,1H3,(H,22,23)/b9-6-,10-7-,14-11-,16-13+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"GCZRCCHPLVMMJE-WXMXURGXSA-N"
+]
+]
+},
+{
+"label": "8-iso-PGF2alpha",
+"class": "SimpleChemical",
+"box": [
+4175.0,
+855.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"8-epi-prostaglandin F2alpha"
+],
+[
+"Synonyms",
+"(5Z,13E,15S)-9alpha,11alpha,15-trihydroxy-8beta-prosta-5,13-dien-1-oic acid; 8-Epiprostaglandin F2alpha; 8-Iso-PGF2a; 8-Iso-PGF2alpha; 8-IsoP; 8-Isoprostaglandin F2alpha; 8-Isoprostane; 8-epi-PGF2alpha; 8-iso-PGF2alpha-III; 9,11,15-Trihydroxy-prosta-5,13-dien-1-oic acid"
+],
+[
+"Definition",
+"An isoprostane that is prostaglandin F2α having inverted stereochemistry at the 8-position."
+],
+[
+"Formula",
+"C20H34O5"
+],
+[
+"ChEBI",
+"CHEBI:34505"
+],
+[
+"KEGG",
+"C13809"
+],
+[
+"HMDB",
+"HMDB0005083"
+],
+[
+"InChI",
+"InChI=1S/C20H34O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-19,21-23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16-,17+,18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"PXGPLTODNUVGFL-NAPLMKITSA-N"
+]
+]
+},
+{
+"label": "8,12-iso-iPF2alpha-VI",
+"class": "SimpleChemical",
+"box": [
+4315.0,
+855.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"8,12-iso-ipf2alpha-vi"
+],
+[
+"Formula",
+"C20H34O5"
+],
+[
+"ChEBI",
+"CHEBI:189852"
+],
+[
+"InChI",
+"InChI=1S/C20H34O5/c1-2-3-4-5-6-7-10-16-17(19(23)14-18(16)22)13-12-15(21)9-8-11-20(24)25/h6-7,12-13,15-19,21-23H,2-5,8-11,14H2,1H3,(H,24,25)/b7-6-,13-12+/t15?,16-,17+,18+,19-/m0/s1"
+],
+[
+"InChIKey",
+"RZCPXIZGLPAGEV-DCOIXEBESA-N"
+]
+]
+},
+{
+"label": "ALOXE3",
+"class": "Macromolecule",
+"box": [
+3320.0,
+660.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Hydroperoxide isomerase ALOXE3"
+],
+[
+"Alternative names",
+"Epidermis-type lipoxygenase 3; Hydroperoxy dehydratase ALOXE3; Hydroperoxy icosatetraenoate dehydratase; Hydroperoxy icosatetraenoate isomerase"
+],
+[
+"Function",
+"Non-heme iron-containing lipoxygenase which is atypical in that it displays a prominent hydroperoxide isomerase activity and a reduced lipoxygenases activity. The hydroperoxide isomerase activity catalyzes the isomerization of hydroperoxides, derived from arachidonic and linoleic acid by ALOX12B, into hepoxilin-type epoxyalcohols and ketones."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:13743"
+],
+[
+"HGNC symbol",
+"ALOXE3"
+],
+[
+"Alias symbols",
+"eLOX3, E-LOX"
+],
+[
+"Entrez",
+"59344"
+],
+[
+"Ensembl",
+"ENSG00000179148"
+],
+[
+"RefSeq",
+"NM_001165960"
+],
+[
+"UniProt",
+"Q9BYJ1"
+]
+]
+},
+{
+"label": "ALOX12B",
+"class": "Macromolecule",
+"box": [
+3320.0,
+780.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Arachidonate 12-lipoxygenase, 12R-type"
+],
+[
+"Alternative names",
+"Epidermis-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of a single molecule of dioxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. In the skin, acts upstream of ALOXE3 on the lineolate moiety of esterified omega-hydroxyacyl-sphingosine (EOS) ceramides to produce an epoxy-ketone derivative, a crucial step in the conjugation of omega-hydroxyceramide to membrane proteins."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:430"
+],
+[
+"HGNC symbol",
+"ALOX12B"
+],
+[
+"Alias symbols",
+"12R-LOX"
+],
+[
+"Entrez",
+"242"
+],
+[
+"Ensembl",
+"ENSG00000179477"
+],
+[
+"RefSeq",
+"NM_001139"
+],
+[
+"UniProt",
+"O75342"
+]
+]
+},
+{
+"label": "PTGS1",
+"class": "Macromolecule",
+"box": [
+3640.0,
+660.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 1"
+],
+[
+"Alternative names",
+"Cyclooxygenase-1; Prostaglandin H2 synthase 1; Prostaglandin-endoperoxide synthase 1"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase that plays an important role in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9604"
+],
+[
+"HGNC symbol",
+"PTGS1"
+],
+[
+"Alias symbols",
+"COX1, PGHS-1, PTGHS"
+],
+[
+"Entrez",
+"5742"
+],
+[
+"Ensembl",
+"ENSG00000095303"
+],
+[
+"RefSeq",
+"NM_000962"
+],
+[
+"UniProt",
+"P23219"
+]
+]
+},
+{
+"label": "PTGS2",
+"class": "Macromolecule",
+"box": [
+3640.0,
+780.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 2"
+],
+[
+"Alternative names",
+"Cyclooxygenase-2; PHS II; Prostaglandin H2 synthase 2; Prostaglandin-endoperoxide synthase 2"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane, Nucleus inner membrane, Nucleus outer membrane"
+],
+[
+"HGNC",
+"HGNC:9605"
+],
+[
+"HGNC symbol",
+"PTGS2"
+],
+[
+"Alias symbols",
+"COX2"
+],
+[
+"Entrez",
+"5743"
+],
+[
+"Ensembl",
+"ENSG00000073756"
+],
+[
+"RefSeq",
+"NM_000963"
+],
+[
+"UniProt",
+"P35354"
+]
+]
+},
+{
+"label": "PTGES",
+"class": "Macromolecule",
+"box": [
+3920.0,
+820.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase"
+],
+[
+"Alternative names",
+"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
+],
+[
+"Function",
+"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
+],
+[
+"Location",
+"Membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:9599"
+],
+[
+"HGNC symbol",
+"PTGES"
+],
+[
+"Previous symbols",
+"MGST1L1"
+],
+[
+"Alias symbols",
+"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
+],
+[
+"Entrez",
+"9536"
+],
+[
+"Ensembl",
+"ENSG00000148344"
+],
+[
+"RefSeq",
+"NM_004878"
+],
+[
+"UniProt",
+"O14684"
+]
+]
+},
+{
+"label": "PTGES2",
+"class": "Macromolecule",
+"box": [
+3920.0,
+860.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase 2"
+],
+[
+"Alternative names",
+"Membrane-associated prostaglandin E synthase-2; Microsomal prostaglandin E synthase 2; Prostaglandin-H(2) E-isomerase"
+],
+[
+"Function",
+"Isomerase that catalyzes the conversion of PGH2 into the more stable prostaglandin E2 (PGE2) (in vitro). The biological function and the GSH-dependent property of PTGES2 is still under debate."
+],
+[
+"Location",
+"Golgi apparatus membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:17822"
+],
+[
+"HGNC symbol",
+"PTGES2"
+],
+[
+"Previous symbols",
+"C9orf15"
+],
+[
+"Alias symbols",
+"mPGES-2, FLJ14038"
+],
+[
+"Entrez",
+"80142"
+],
+[
+"Ensembl",
+"ENSG00000148334"
+],
+[
+"RefSeq",
+"NM_001256335"
+],
+[
+"UniProt",
+"Q9H7Z7"
+]
+]
+},
+{
+"label": "PTGES3",
+"class": "Macromolecule",
+"box": [
+3920.0,
+920.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase 3"
+],
+[
+"Alternative names",
+"Cytosolic prostaglandin E2 synthase; Hsp90 co-chaperone; Progesterone receptor complex p23; Telomerase-binding protein p23"
+],
+[
+"Function",
+"Cytosolic prostaglandin synthase that catalyzes the oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2). Molecular chaperone that localizes to genomic response elements in a hormone-dependent manner and disrupts receptor-mediated transcriptional activation, by promoting disassembly of transcriptional regulatory complexes."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:16049"
+],
+[
+"HGNC symbol",
+"PTGES3"
+],
+[
+"Alias symbols",
+"p23, TEBP, cPGES"
+],
+[
+"Entrez",
+"10728"
+],
+[
+"Ensembl",
+"ENSG00000110958"
+],
+[
+"RefSeq",
+"NM_006601"
+],
+[
+"UniProt",
+"Q15185"
+]
+]
+},
+{
+"label": "HPGDS",
+"class": "Macromolecule",
+"box": [
+3360.0,
+920.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Hematopoietic prostaglandin D synthase"
+],
+[
+"Alternative names",
+"GST class-sigma; Glutathione S-transferase; Glutathione-dependent PGD synthase; Glutathione-requiring prostaglandin D synthase; Prostaglandin-H2 D-isomerase"
+],
+[
+"Function",
+"Bifunctional enzyme which catalyzes both the conversion of PGH2 to PGD2, a prostaglandin involved in smooth muscle contraction/relaxation and a potent inhibitor of platelet aggregation, and the conjugation of glutathione with a wide range of aryl halides and organic isothiocyanates. Similarly, catalyzes the conversion of PGH3 (derived from eicosapentaenoate (EPA, C20:5n-3)) to PGD3, though PGH2 remains the preferred substrate."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:17890"
+],
+[
+"HGNC symbol",
+"HPGDS"
+],
+[
+"Alias symbols",
+"GSTS, PGDS, H-PGDS, PGD2, GSTS1-1, GSTS1"
+],
+[
+"Entrez",
+"27306"
+],
+[
+"Ensembl",
+"ENSG00000163106"
+],
+[
+"RefSeq",
+"NM_014485"
+],
+[
+"UniProt",
+"O60760"
+]
+]
+},
+{
+"label": "PTGDS",
+"class": "Macromolecule",
+"box": [
+3360.0,
+1000.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin-H2 D-isomerase"
+],
+[
+"Alternative names",
+"Beta-trace protein; Cerebrin-28; Glutathione-independent PGD synthase; Lipocalin-type prostaglandin-D synthase; Prostaglandin-D2 synthase"
+],
+[
+"Function",
+"Catalyzes the conversion of PGH2 to PGD2, a prostaglandin involved in smooth muscle contraction/relaxation and a potent inhibitor of platelet aggregation. Involved in a variety of CNS functions, such as sedation, NREM sleep and PGE2-induced allodynia, and may have an anti-apoptotic role in oligodendrocytes."
+],
+[
+"Location",
+"Rough endoplasmic reticulum, Nucleus membrane, Golgi apparatus, Cytoplasm, perinuclear region, Secreted"
+],
+[
+"HGNC",
+"HGNC:9592"
+],
+[
+"HGNC symbol",
+"PTGDS"
+],
+[
+"Alias symbols",
+"PGDS, L-PGDS"
+],
+[
+"Entrez",
+"5730"
+],
+[
+"Ensembl",
+"ENSG00000107317"
+],
+[
+"RefSeq",
+"NM_000954"
+],
+[
+"UniProt",
+"P41222"
+]
+]
+},
+{
+"label": "PGH2",
+"class": "SimpleChemical",
+"box": [
+3495.0,
+1115.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin H2"
+],
+[
+"Synonyms",
+"(5Z)-7-{(1R,4S,5R,6R)-6-[(1E,3S)-3-hydroxyoct-1-en-1-yl]-2,3-dioxabicyclo[2.2.1]hept-5-yl}hept-5-enoic acid; (5Z,13E)-(15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoic acid; (5Z,9alpha,11alpha,13E,15S)-9,11-epidioxy-15-hydroxyprosta-5,13-dien-1-oic acid; 9,11-Epoxymethano-pgh2; PGH2"
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15554"
+],
+[
+"KEGG",
+"C00427"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18-14-19(17)25-24-18)10-7-4-5-8-11-20(22)23/h4,7,12-13,15-19,21H,2-3,5-6,8-11,14H2,1H3,(H,22,23)/b7-4-,13-12+/t15-,16+,17+,18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"YIBNHAJFJUQSRA-YNNPMVKQSA-N"
+]
+]
+},
+{
+"label": "PGD2",
+"class": "SimpleChemical",
+"box": [
+3495.0,
+1295.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin D2"
+],
+[
+"Synonyms",
+"(5Z,13E)-(15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,15-dihydroxy-11-oxoprosta-5,13-dien-1-oic acid; 11-Dehydroprostaglandin F2-alpha; PGD2"
+],
+[
+"Definition",
+"A member of the class of  prostaglandins D that is prosta-5,13-dien-1-oic acid substituted by hydroxy groups at positions 9 and 15 and an oxo group at position 11 (the 5Z,9α,13E,15S- stereoisomer)."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15555"
+],
+[
+"KEGG",
+"C00696"
+],
+[
+"HMDB",
+"HMDB0001403"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-18,21-22H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,18-/m0/s1"
+],
+[
+"InChIKey",
+"BHMBVRSPMRCCGG-OUTUXVNYSA-N"
+]
+]
+},
+{
+"label": "PGJ2",
+"class": "SimpleChemical",
+"box": [
+3495.0,
+1455.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin J2"
+],
+[
+"Synonyms",
+"(5Z,13E,15S)-15-hydroxy-11-oxoprosta-5,9,13-trien-1-oic acid; 9-Deoxy-delta-9-pgd2; 9-Deoxy-delta-9-prostaglandin D2; PGJ2"
+],
+[
+"Definition",
+"A member of the class of prostaglandins J that consists of prosta-5,9,13-trien-1-oic acid substituted by an oxo group at position 11 and a hydroxy group at position 15 (the 5Z,13E,15S stereoisomer)."
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:27485"
+],
+[
+"KEGG",
+"C05957"
+],
+[
+"HMDB",
+"HMDB0002710"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-6-10-17(21)13-14-18-16(12-15-19(18)22)9-7-4-5-8-11-20(23)24/h4,7,12-18,21H,2-3,5-6,8-11H2,1H3,(H,23,24)/b7-4-,14-13+/t16-,17-,18+/m0/s1"
+],
+[
+"InChIKey",
+"UQOQENZZLBSFKO-POPPZSFYSA-N"
+]
+]
+},
+{
+"label": "AKR1A1",
+"class": "Macromolecule",
+"box": [
+3560.0,
+1180.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Aldo-keto reductase family 1 member A1"
+],
+[
+"Alternative names",
+"Alcohol dehydrogenase [NADP(+)]; Aldehyde reductase; Glucuronate reductase; Glucuronolactone reductase; S-nitroso-CoA reductase"
+],
+[
+"Function",
+"Catalyzes the NADPH-dependent reduction of a wide variety of carbonyl-containing compounds to their corresponding alcohols. Displays enzymatic activity towards endogenous metabolites such as aromatic and aliphatic aldehydes, ketones, monosaccharides and bile acids, with a preference for negatively charged substrates, such as glucuronate and succinic semialdehyde."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Apical cell membrane"
+],
+[
+"HGNC",
+"HGNC:380"
+],
+[
+"HGNC symbol",
+"AKR1A1"
+],
+[
+"Alias symbols",
+"ALR, DD3"
+],
+[
+"Entrez",
+"10327"
+],
+[
+"Ensembl",
+"ENSG00000117448"
+],
+[
+"RefSeq",
+"NM_006066"
+],
+[
+"UniProt",
+"P14550"
+]
+]
+},
+{
+"label": "PGF2alpha",
+"class": "SimpleChemical",
+"box": [
+3855.0,
+1295.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin F2alpha"
+],
+[
+"Synonyms",
+"(+)-Prostaglandin F2a; (5Z,13E)-(15S)-9alpha,11alpha,15-Trihydroxyprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,11alpha,15-trihydroxyprosta-5,13-dien-1-oic acid; 7-[3,5-Dihydroxy-2-(3-hydroxy-1-octenyl)cyclopentyl]-5-heptenoic acid; 9,11,15-Trihydroxy-(5Z,9a,11a,13E,15S)-prosta-5,13-dien-1-oic acid; 9a,11a-PGF2; Amoglandin; Cyclosin; Dinoprost; Enzaprost; Enzaprost F; PGF2a; PGF2alpha; Panacelan; Prostaglandin F2a; Prostin F 2 alpha; Protamodin; U 14583; dinoprosta; dinoprostum; l-PGF2-alpha; l-Prostaglandin F2-alpha"
+],
+[
+"Definition",
+"A prostaglandins Fα that is prosta-5,13-dien-1-oic acid substituted by hydroxy groups at positions 9, 11 and 15. It is a naturally occurring prostaglandin used to induce labor."
+],
+[
+"Formula",
+"C20H34O5"
+],
+[
+"ChEBI",
+"CHEBI:15553"
+],
+[
+"KEGG",
+"C00639"
+],
+[
+"HMDB",
+"HMDB0001139"
+],
+[
+"InChI",
+"InChI=1S/C20H34O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-19,21-23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"PXGPLTODNUVGFL-YNNPMVKQSA-N"
+]
+]
+},
+{
+"label": "PGE2",
+"class": "SimpleChemical",
+"box": [
+4015.0,
+1295.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin E2"
+],
+[
+"Synonyms",
+"(15S)-prostaglandin E2; (5Z,11alpha,13E,15S)-11,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprost-13-enoate; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate; (5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (E,Z)-(1R,2R,3R)-7-(3-Hydroxy-2-((3S)-(3-hydroxy-1-octenyl))-5-oxocyclopentyl)-5-heptenoic acid; (Z)-7-((1R,2R,3R)-3-hydroxy-2-((S,E)-3-hydroxyoct-1-enyl)-5-oxocyclopentyl)hept-5-enoic acid; Cervidil; Cerviprime; Cerviprost; Dinoproston; Enzaprost E; Glandin-E2; Minprositin E2; Minprostin E2; PGE2; Prepidil; Propess; Prostarmon E; Prostenone; Prostin; Prostin E2; U 12062; U-12,062; U-12062; dinoprostona; dinoprostone; dinoprostonum"
+],
+[
+"Definition",
+"Prostaglandin F2α in which the hydroxy group at position 9 has been oxidised to the corresponding ketone. Prostaglandin E2 is the most common and most biologically potent of mammalian prostaglandins."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15551"
+],
+[
+"KEGG",
+"C00584"
+],
+[
+"HMDB",
+"HMDB0001220"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-17,19,21,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,19+/m0/s1"
+],
+[
+"InChIKey",
+"XEYBRNLFEZDVAW-ARSRFYASSA-N"
+]
+]
+},
+{
+"label": "PGA2",
+"class": "SimpleChemical",
+"box": [
+4175.0,
+1395.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin A2"
+],
+[
+"Synonyms",
+"(+)-Prostaglandin A(sup 2); (15S)-PGA2; (15S)-Prostaglandin A2; (5Z,13E,15S)-15-hydroxy-9-oxoprosta-5,10,13-trien-1-oic acid; 5,6-cis-PGA2; Medullin; PGA2"
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:27820"
+],
+[
+"KEGG",
+"C05953"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-6-9-17(21)14-12-16-13-15-19(22)18(16)10-7-4-5-8-11-20(23)24/h4,7,12-18,21H,2-3,5-6,8-11H2,1H3,(H,23,24)/b7-4-,14-12+/t16-,17-,18+/m0/s1"
+],
+[
+"InChIKey",
+"MYHXHCUNDDAEOZ-FOSBLDSVSA-N"
+]
+]
+},
+{
+"label": "PGC2",
+"class": "SimpleChemical",
+"box": [
+4175.0,
+1495.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin C2"
+],
+[
+"Synonyms",
+"(5Z,13E,15S)-15-hydroxy-9-oxoprosta-5,11,13-trien-1-oic acid; PGC2"
+],
+[
+"Definition",
+"A member of the class of prostaglandins C that is prosta-5,11,13-trien-1-oic acid carrying oxo and hydroxy substituents at positions 9 and 15 respectively (the 5Z,13E,15S-stereoisomer)."
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:27555"
+],
+[
+"KEGG",
+"C05955"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-6-9-17(21)14-12-16-13-15-19(22)18(16)10-7-4-5-8-11-20(23)24/h4,7,12-14,17-18,21H,2-3,5-6,8-11,15H2,1H3,(H,23,24)/b7-4-,14-12+/t17-,18+/m0/s1"
+],
+[
+"InChIKey",
+"CMBOTAQMTNMTBD-KLASNZEFSA-N"
+]
+]
+},
+{
+"label": "PGB2",
+"class": "SimpleChemical",
+"box": [
+4175.0,
+1595.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin B2"
+],
+[
+"Synonyms",
+"(5Z,13E,15R)-15-hydroxy-9-oxoprosta-5,8(12),13-trien-1-oic acid; (5Z,13E,15S)-15-hydroxy-9-oxoprosta-5,8(12),13-trien-1-oic acid; PGB2"
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:28099"
+],
+[
+"KEGG",
+"C05954"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-6-9-17(21)14-12-16-13-15-19(22)18(16)10-7-4-5-8-11-20(23)24/h4,7,12,14,17,21H,2-3,5-6,8-11,13,15H2,1H3,(H,23,24)/b7-4-,14-12+/t17-/m0/s1"
+],
+[
+"InChIKey",
+"PRFXRIUZNKLRHM-HKVRTXJWSA-N"
+]
+]
+},
+{
+"label": "PTGES",
+"class": "Macromolecule",
+"box": [
+4080.0,
+1180.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase"
+],
+[
+"Alternative names",
+"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
+],
+[
+"Function",
+"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
+],
+[
+"Location",
+"Membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:9599"
+],
+[
+"HGNC symbol",
+"PTGES"
+],
+[
+"Previous symbols",
+"MGST1L1"
+],
+[
+"Alias symbols",
+"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
+],
+[
+"Entrez",
+"9536"
+],
+[
+"Ensembl",
+"ENSG00000148344"
+],
+[
+"RefSeq",
+"NM_004878"
+],
+[
+"UniProt",
+"O14684"
+]
+]
+},
+{
+"label": "PTGES2",
+"class": "Macromolecule",
+"box": [
+4080.0,
+1220.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase 2"
+],
+[
+"Alternative names",
+"Membrane-associated prostaglandin E synthase-2; Microsomal prostaglandin E synthase 2; Prostaglandin-H(2) E-isomerase"
+],
+[
+"Function",
+"Isomerase that catalyzes the conversion of PGH2 into the more stable prostaglandin E2 (PGE2) (in vitro). The biological function and the GSH-dependent property of PTGES2 is still under debate."
+],
+[
+"Location",
+"Golgi apparatus membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:17822"
+],
+[
+"HGNC symbol",
+"PTGES2"
+],
+[
+"Previous symbols",
+"C9orf15"
+],
+[
+"Alias symbols",
+"mPGES-2, FLJ14038"
+],
+[
+"Entrez",
+"80142"
+],
+[
+"Ensembl",
+"ENSG00000148334"
+],
+[
+"RefSeq",
+"NM_001256335"
+],
+[
+"UniProt",
+"Q9H7Z7"
+]
+]
+},
+{
+"label": "PTGES3",
+"class": "Macromolecule",
+"box": [
+4080.0,
+1260.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase 3"
+],
+[
+"Alternative names",
+"Cytosolic prostaglandin E2 synthase; Hsp90 co-chaperone; Progesterone receptor complex p23; Telomerase-binding protein p23"
+],
+[
+"Function",
+"Cytosolic prostaglandin synthase that catalyzes the oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2). Molecular chaperone that localizes to genomic response elements in a hormone-dependent manner and disrupts receptor-mediated transcriptional activation, by promoting disassembly of transcriptional regulatory complexes."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:16049"
+],
+[
+"HGNC symbol",
+"PTGES3"
+],
+[
+"Alias symbols",
+"p23, TEBP, cPGES"
+],
+[
+"Entrez",
+"10728"
+],
+[
+"Ensembl",
+"ENSG00000110958"
+],
+[
+"RefSeq",
+"NM_006601"
+],
+[
+"UniProt",
+"Q15185"
+]
+]
+},
+{
+"label": "AKR1C3",
+"class": "Macromolecule",
+"box": [
+3640.0,
+1240.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Aldo-keto reductase family 1 member C3"
+],
+[
+"Alternative names",
+"17-beta-hydroxysteroid dehydrogenase type 5; 3-alpha-HSD type II, brain; 3-alpha-hydroxysteroid dehydrogenase type 2; Chlordecone reductase homolog HAKRb; Dihydrodiol dehydrogenase 3; Dihydrodiol dehydrogenase type I; HA1753; Prostaglandin F synthase; Testosterone 17-beta-dehydrogenase 5"
+],
+[
+"Function",
+"Cytosolic aldo-keto reductase that catalyzes NADPH-dependent reduction of ketosteroids to hydroxysteroids. Displays broad substrate specificity with distinct positional and stereochemistry, primarily generating 17beta-hydroxysteroids, but also 3alpha- and 20alpha-hydroxysteroids."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:386"
+],
+[
+"HGNC symbol",
+"AKR1C3"
+],
+[
+"Previous symbols",
+"HSD17B5"
+],
+[
+"Alias symbols",
+"KIAA0119, DDX, HAKRB, PGFS"
+],
+[
+"Entrez",
+"8644"
+],
+[
+"Ensembl",
+"ENSG00000196139"
+],
+[
+"RefSeq",
+"NM_003739"
+],
+[
+"UniProt",
+"P42330"
+]
+]
+},
+{
+"label": "FAM213B",
+"class": "Macromolecule",
+"box": [
+3853.0,
+1219.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostamide/prostaglandin F synthase"
+],
+[
+"Alternative names",
+"Peroxiredoxin-like 2B; Protein FAM213B"
+],
+[
+"Function",
+"Catalyzes the reduction of prostaglandin-ethanolamide H(2) (prostamide H(2)) to prostamide F(2alpha) with NADPH as proton donor. Also able to reduce prostaglandin H(2) to prostaglandin F(2alpha)"
+],
+[
+"Location",
+"Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:28390"
+],
+[
+"HGNC symbol",
+"PRXL2B"
+],
+[
+"Previous symbols",
+"C1orf93, FAM213B"
+],
+[
+"Alias symbols",
+"MGC26818"
+],
+[
+"Entrez",
+"127281"
+],
+[
+"Ensembl",
+"ENSG00000157870"
+],
+[
+"RefSeq",
+"NM_152371"
+],
+[
+"UniProt",
+"Q8TBF2"
+]
+]
+},
+{
+"label": "CBR3",
+"class": "Macromolecule",
+"box": [
+3880.0,
+1400.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Carbonyl reductase [NADPH] 3"
+],
+[
+"Alternative names",
+"NADPH-dependent carbonyl reductase 3; Quinone reductase CBR3; Short chain dehydrogenase/reductase family 21C member 2"
+],
+[
+"Function",
+"Catalyzes the NADPH-dependent reduction of carbonyl compounds to their corresponding alcohols. Has low NADPH-dependent oxidoreductase activity."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:1549"
+],
+[
+"HGNC symbol",
+"CBR3"
+],
+[
+"Alias symbols",
+"SDR21C2"
+],
+[
+"Entrez",
+"874"
+],
+[
+"Ensembl",
+"ENSG00000159231"
+],
+[
+"RefSeq",
+"NM_001236"
+],
+[
+"UniProt",
+"O75828"
+]
+]
+},
+{
+"label": "DHRS4",
+"class": "Macromolecule",
+"box": [
+3960.0,
+1400.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Dehydrogenase/reductase SDR family member 4"
+],
+[
+"Alternative names",
+"NADPH-dependent carbonyl reductase; NADPH-dependent retinol dehydrogenase/reductase; Peroxisomal short-chain alcohol dehydrogenase; SCAD-SRL; Short chain dehydrogenase/reductase family 25C member 2; Short-chain dehydrogenase/reductase family member 4"
+],
+[
+"Function",
+"NADPH-dependent oxidoreductase which catalyzes the reduction of a variety of compounds bearing carbonyl groups including ketosteroids, alpha-dicarbonyl compounds, aldehydes, aromatic ketones and quinones. Reduces 3-ketosteroids and benzil into 3beta-hydroxysteroids and R-benzoin, respectively, in contrast to the stereoselectivity of non-primate DHRS4s which produce 3alpha-hydroxysteroids and S-benzoin."
+],
+[
+"Location",
+"Peroxisome, Nucleus"
+],
+[
+"HGNC",
+"HGNC:16985"
+],
+[
+"HGNC symbol",
+"DHRS4"
+],
+[
+"Alias symbols",
+"SCAD-SRL, SDR-SRL, humNRDR, FLJ11008, SDR25C2"
+],
+[
+"Entrez",
+"10901"
+],
+[
+"Ensembl",
+"ENSG00000157326"
+],
+[
+"RefSeq",
+"NM_001282987"
+],
+[
+"UniProt",
+"Q9BTZ2"
+]
+]
+},
+{
+"label": "TBXAS1",
+"class": "Macromolecule",
+"box": [
+2960.0,
+1020.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Thromboxane-A synthase"
+],
+[
+"Alternative names",
+"Cytochrome P450 5A1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"Catalyzes the conversion of prostaglandin H2 (PGH2) to thromboxane A2 (TXA2), a potent inducer of blood vessel constriction and platelet aggregation. Also cleaves PGH2 to 12-hydroxy-heptadecatrienoicacid (12-HHT) and malondialdehyde, which is known to act as a mediator of DNA damage."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:11609"
+],
+[
+"HGNC symbol",
+"TBXAS1"
+],
+[
+"Alias symbols",
+"CYP5, CYP5A1, THAS, TXS, TXAS, TS"
+],
+[
+"Entrez",
+"6916"
+],
+[
+"Ensembl",
+"ENSG00000059377"
+],
+[
+"RefSeq",
+"NM_001061"
+],
+[
+"UniProt",
+"P24557"
+]
+]
+},
+{
+"label": "PGI2",
+"class": "SimpleChemical",
+"box": [
+3215.0,
+1295.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin I2"
+],
+[
+"Synonyms",
+"(5Z,13E)-(15S)-6,9alpha-Epoxy-11alpha,15-dihydroxyprosta-5,13-dienoate; (5Z,13E,15S)-6,9alpha-epoxy-11alpha,15-dihydroxyprosta-5,13-dienoic acid; (5Z,9alpha,11alpha,13E,15S)-6,9-epoxy-11,15-dihydroxyprosta-5,13-dien-1-oic acid; Epoprostenol; Flolan; PGI2; PGX; Prostacyclin; Vasocyclin; prostaglandin X"
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15552"
+],
+[
+"KEGG",
+"C01312"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-4-7-14(21)10-11-16-17-12-15(8-5-6-9-20(23)24)25-19(17)13-18(16)22/h8,10-11,14,16-19,21-22H,2-7,9,12-13H2,1H3,(H,23,24)/b11-10+,15-8-/t14-,16+,17+,18+,19-/m0/s1"
+],
+[
+"InChIKey",
+"KAQKFAOMNZTLHT-OZUDYXHBSA-N"
+]
+]
+},
+{
+"label": "TXA2",
+"class": "SimpleChemical",
+"box": [
+3095.0,
+1295.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"thromboxane A2"
+],
+[
+"Synonyms",
+"(5Z,13E)-(15S)-9alpha,11alpha-Epoxy-15-hydroxythromboxa-5,13-dienoate; (5Z,13E,15S)-9alpha,11alpha-epoxy-15-hydroxythromboxa-5,13-dien-1-oic acid; (5Z,9alpha,11alpha,13E,15S)-9,11-Epoxy-15-hydroxythromboxa-5,13-dien-1-oic acid; 9S,11S-epoxy,15S-hydroxy-thromboxa-5Z,13E-dien-1-oic acid; TXA-2; TXA2"
+],
+[
+"Definition",
+"A thromboxane which is produced by activated platelets and has prothrombotic properties: it stimulates activation of new platelets as well as increases platelet aggregation."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15627"
+],
+[
+"KEGG",
+"C02198"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18-14-20(24-17)25-18)10-7-4-5-8-11-19(22)23/h4,7,12-13,15-18,20-21H,2-3,5-6,8-11,14H2,1H3,(H,22,23)/b7-4-,13-12+/t15-,16+,17+,18-,20+/m0/s1"
+],
+[
+"InChIKey",
+"DSNBHJFQCNUKMA-SCKDECHMSA-N"
+]
+]
+},
+{
+"label": "TXB2",
+"class": "SimpleChemical",
+"box": [
+3015.0,
+1295.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"thromboxane B2"
+],
+[
+"Synonyms",
+"(5Z,13E,15S)-9alpha,11,15-trihydroxythromboxa-5,13-dien-1-oic acid; TXB2"
+],
+[
+"Definition",
+"A member of the class of thromboxanes B that is (5Z,13E)-thromboxa-5,13-dien-1-oic acid substituted by hydroxy groups at positions 9, 11 and 15."
+],
+[
+"Formula",
+"C20H34O6"
+],
+[
+"ChEBI",
+"CHEBI:28728"
+],
+[
+"KEGG",
+"C05963"
+],
+[
+"HMDB",
+"HMDB0003252"
+],
+[
+"InChI",
+"InChI=1S/C20H34O6/c1-2-3-6-9-15(21)12-13-18-16(17(22)14-20(25)26-18)10-7-4-5-8-11-19(23)24/h4,7,12-13,15-18,20-22,25H,2-3,5-6,8-11,14H2,1H3,(H,23,24)/b7-4-,13-12+/t15-,16-,17-,18+,20?/m0/s1"
+],
+[
+"InChIKey",
+"XNRNNGPBEPRNAR-JQBLCGNGSA-N"
+]
+]
+},
+{
+"label": "PTGIS",
+"class": "Macromolecule",
+"box": [
+3280.0,
+1260.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostacyclin synthase"
+],
+[
+"Alternative names",
+"Hydroperoxy icosatetraenoate dehydratase; Prostaglandin I2 synthase"
+],
+[
+"Function",
+"Catalyzes the biosynthesis and metabolism of eicosanoids. Catalyzes the isomerization of prostaglandin H2 to prostacyclin (= prostaglandin I2), a potent mediator of vasodilation and inhibitor of platelet aggregation."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9603"
+],
+[
+"HGNC symbol",
+"PTGIS"
+],
+[
+"Alias symbols",
+"PGIS, CYP8A1"
+],
+[
+"Entrez",
+"5740"
+],
+[
+"Ensembl",
+"ENSG00000124212"
+],
+[
+"RefSeq",
+"NM_000961"
+],
+[
+"UniProt",
+"Q16647"
+]
+]
+},
+{
+"label": "15(R)-HpETE",
+"class": "SimpleChemical",
+"box": [
+2595.0,
+755.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15(R)-HPETE"
+],
+[
+"Synonyms",
+"(15R)-HPETE; (5Z,8Z,11Z,13E,15R)-15-hydroperoxyeicosatetraenoic acid; (5Z,8Z,11Z,13E,15R)-15-hydroperoxyicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E,15R)-15-hydroperoxyicosatetraenoic acid"
+],
+[
+"Definition",
+"A HPETE that is (5Z,8Z,11Z,13E,15R)-icosa-5,8,11,13-tetraenoic acid with the hydroperoxy group located at position 15 (the R-enantiomer)."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:82627"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-13-16-19(24-23)17-14-11-9-7-5-4-6-8-10-12-15-18-20(21)22/h4-5,8-11,14,17,19,23H,2-3,6-7,12-13,15-16,18H2,1H3,(H,21,22)/b5-4-,10-8-,11-9-,17-14+/t19-/m1/s1"
+],
+[
+"InChIKey",
+"BFWYTORDSFIVKP-UDQWCNDOSA-N"
+]
+]
+},
+{
+"label": "15-epi-LXA4",
+"class": "SimpleChemical",
+"box": [
+2595.0,
+955.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-epi-lipoxin A4"
+],
+[
+"Synonyms",
+"(5S,6R,7E,9E,11Z,13E,15R)-5,6,15-trihydroxyicosa-7,9,11,13-tetraenoic acid; 15-epi-LXA4; 15R-LXA4"
+],
+[
+"Definition",
+"A C20 hydroxy polyunsaturated fatty acid having (5S)-, (6R)- and (15R)-hydroxy groups as well as (7E)- (9E)-, (11Z)- and (13E)-double bonds."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:72789"
+],
+[
+"HMDB",
+"HMDB0012587"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-8-12-17(21)13-9-6-4-5-7-10-14-18(22)19(23)15-11-16-20(24)25/h4-7,9-10,13-14,17-19,21-23H,2-3,8,11-12,15-16H2,1H3,(H,24,25)/b6-4-,7-5+,13-9+,14-10+/t17-,18-,19+/m1/s1"
+],
+[
+"InChIKey",
+"IXAQOQZEOGMIQS-JEWNPAEBSA-N"
+]
+]
+},
+{
+"label": "15-epi-LXB4",
+"class": "SimpleChemical",
+"box": [
+2735.0,
+955.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-epi-lipoxin B4"
+],
+[
+"Synonyms",
+"(5S,6E,8Z,10E,12E,14R,15R)-5,14,15-trihydroxyicosa-6,8,10,12-tetraenoic acid; 15-epi-LXB4; 5S,14R,15R-trihydroxy-6E,8Z,10E,12E-eicosatetraenoic acid; epi-LXB4; epi-Lipoxin B4"
+],
+[
+"Definition",
+"A C20 hydroxy fatty acid having (5S)-, (14R)- and (15R)-hydroxy groups as well as (6E)- (8Z)-, (10E)- and (12E)-double bonds."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:63991"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-8-14-18(22)19(23)15-10-7-5-4-6-9-12-17(21)13-11-16-20(24)25/h4-7,9-10,12,15,17-19,21-23H,2-3,8,11,13-14,16H2,1H3,(H,24,25)/b6-4-,7-5+,12-9+,15-10+/t17-,18-,19-/m1/s1"
+],
+[
+"InChIKey",
+"UXVRTOKOJOMENI-SKYGSKSRSA-N"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+2640.0,
+860.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
+"label": "5(S)-HpETE",
+"class": "SimpleChemical",
+"box": [
+2135.0,
+595.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5(S)-HPETE"
+],
+[
+"Synonyms",
+"(5S,6E,8Z,11Z,14Z)-5-Hydroperoxyicosa-6,8,11,14-tetraenoate; (5S,6E,8Z,11Z,14Z)-5-hydroperoxyeicosa-6,8,11,14-tetraenoic acid; (5S,6E,8Z,11Z,14Z)-5-hydroperoxyicosa-6,8,11,14-tetraenoic acid; (6E,8Z,11Z,14Z)-(5S)-5-Hydroperoxyeicosa-6,8,11,14-tetraenoate; (6E,8Z,11Z,14Z)-(5S)-5-Hydroperoxyeicosa-6,8,11,14-tetraenoic acid; (S)-5-HPETE; 5(S)-Hydroperoxy-6-trans-8,11,14-cis-eicosatetraenoic acid; 5(S)-hydroperoxy-6(E),8(Z),11(Z),14(Z)-eicosatetraenoic acid; 5(S)-hydroxyperoxy-6E,8Z,11Z,14Z-icosatetraenoic acid; 5-Hydroperoxy-6-trans-8,11,14-cis-eicosatetraenoate; 5S-HpETE"
+],
+[
+"Definition",
+"An icosatetraenoic acid in which the double bonds are located at the 6-7, 8-9, 11-12, and 14-15 positions and have E, Z, Z, and Z geometry, respectively, and in which the pro-S hydrogen is substituted by a hydroperoxy group."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:15632"
+],
+[
+"KEGG",
+"C05356"
+],
+[
+"HMDB",
+"HMDB0011135"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(24-23)17-15-18-20(21)22/h6-7,9-10,12-14,16,19,23H,2-5,8,11,15,17-18H2,1H3,(H,21,22)/b7-6-,10-9-,13-12-,16-14+/t19-/m1/s1"
+],
+[
+"InChIKey",
+"JNUUNUQHXIOFDA-JGKLHWIESA-N"
+]
+]
+},
+{
+"label": "15(S)-HpETE",
+"class": "SimpleChemical",
+"box": [
+2135.0,
+955.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15(S)-HPETE"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,13E)-(15S)-15-Hydroperoxyicosa-5,8,11,13-tetraenoate; (5Z,8Z,11Z,13E)-(15S)-15-Hydroperoxyicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroperoxyicosa-5,8,11,13-tetraenoic acid; 15-Hydroperoxyeicosatetraenoate; 15-Hydroperoxyeicosatetraenoic acid; 15-Hydroperoxyicosatetraenoate; 15-Hydroperoxyicosatetraenoic acid; 15S-HpETE"
+],
+[
+"Definition",
+"The (S)-enantiomer of 15-HPETE."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:15628"
+],
+[
+"KEGG",
+"C05966"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-13-16-19(24-23)17-14-11-9-7-5-4-6-8-10-12-15-18-20(21)22/h4-5,8-11,14,17,19,23H,2-3,6-7,12-13,15-16,18H2,1H3,(H,21,22)/b5-4-,10-8-,11-9-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"BFWYTORDSFIVKP-VAEKSGALSA-N"
+]
+]
+},
+{
+"label": "5(S),15(S)-diHpETE",
+"class": "SimpleChemical",
+"box": [
+2135.0,
+755.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(5S,15S)-dihydroperoxy-(6E,8Z,11Z,13E)-icosatetraenoic acid"
+],
+[
+"Synonyms",
+"(5S,15S)-diHPETE; (5S,15S)-dihydroperoxy-(6E,8Z,11Z,13E)-eicosatetraenoic acid; (5S,6E,8Z,11Z,13E,15S)-5,15-bis(hydroperoxy)eicosatetraenoic acid; (5S,6E,8Z,11Z,13E,15S)-5,15-bis(hydroperoxy)icosa-6,8,11,13-tetraenoic acid; (5S,6E,8Z,11Z,13E,15S)-5,15-bis(hydroperoxy)icosatetraenoic acid; 5(S),15(S)-diHPETE; 5(S),15(S)-dihydroxy-6,13-trans-8,11-cis-eicosatetraenoic acid; 5(S),15(S)-dihydroxy-6,13-trans-8,11-cis-icosatetraenoic acid"
+],
+[
+"Definition",
+"A bis(hydroperoxy)icosatetraenoic acid that is (6E,8Z,11Z,13E)-icosatetraenoic acid in which the two hydroperoxy groups are located at positions 5S and 15S."
+],
+[
+"Formula",
+"C20H32O6"
+],
+[
+"ChEBI",
+"CHEBI:138291"
+],
+[
+"InChI",
+"InChI=1S/C20H32O6/c1-2-3-9-13-18(25-23)14-10-7-5-4-6-8-11-15-19(26-24)16-12-17-20(21)22/h5-8,10-11,14-15,18-19,23-24H,2-4,9,12-13,16-17H2,1H3,(H,21,22)/b7-5-,8-6-,14-10+,15-11+/t18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"PCIOUQYHTPPZEM-BVHTXILBSA-N"
+]
+]
+},
+{
+"label": "Eoxin C4 (14,15-LTC4)",
+"class": "SimpleChemical",
+"box": [
+2135.0,
+1275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"eoxin C4"
+],
+[
+"Synonyms",
+"14,15-LTC4; 14,15-Leukotriene C4; 15S-hydroxy,14R-(S-glutathionyl)-5Z,8Z,10E,12E-eicosatetraenoic acid; EXC4; L-gamma-glutamyl-S-[(6S,7R,8E,10E,12Z,15Z)-19-carboxy-6-hydroxynonadeca-8,10,12,15-tetraen-7-yl]-L-cysteinylglycine"
+],
+[
+"Definition",
+"A leukotriene that is the 14R-(S-glutathionyl),15S-hydroxy derivative of (5Z,8Z,10E,12E)-icosa-7,9,11,14-tetraenoic acid."
+],
+[
+"Formula",
+"C30H47N3O9S"
+],
+[
+"ChEBI",
+"CHEBI:63984"
+],
+[
+"InChI",
+"InChI=1S/C30H47N3O9S/c1-2-3-12-15-24(34)25(16-13-10-8-6-4-5-7-9-11-14-17-27(36)37)43-21-23(29(40)32-20-28(38)39)33-26(35)19-18-22(31)30(41)42/h4,6-10,13,16,22-25,34H,2-3,5,11-12,14-15,17-21,31H2,1H3,(H,32,40)(H,33,35)(H,36,37)(H,38,39)(H,41,42)/b6-4-,9-7-,10-8+,16-13+/t22-,23-,24-,25+/m0/s1"
+],
+[
+"InChIKey",
+"OBQVBASHEWLKCQ-PKBWNXTMSA-N"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+2180.0,
+440.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+2220.0,
+640.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+2200.0,
+860.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+2260.0,
+1000.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
+"label": "ALOX12",
+"class": "Macromolecule",
+"box": [
+2200.0,
+1040.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX12"
+],
+[
+"Alternative names",
+"Arachidonate (12S)-lipoxygenase; Arachidonate (15S)-lipoxygenase; Linoleate (13S)-lipoxygenase; Lipoxin synthase 12-LO; Platelet-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of molecular oxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. Mainly converts arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to the specific bioactive lipid (12S)-hydroperoxyeicosatetraenoate/(12S)-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:429"
+],
+[
+"HGNC symbol",
+"ALOX12"
+],
+[
+"Alias symbols",
+"12S-LOX"
+],
+[
+"Entrez",
+"239"
+],
+[
+"Ensembl",
+"ENSG00000108839"
+],
+[
+"RefSeq",
+"NM_000697"
+],
+[
+"UniProt",
+"P18054"
+]
+]
+},
+{
+"label": "12(S)-HpETE",
+"class": "SimpleChemical",
+"box": [
+2135.0,
+375.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(S)-HPETE"
+],
+[
+"Synonyms",
+"(5Z,8Z,10E,12S,14Z)-12-hydroperoxyicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyeicosa-5,8,10,14-tetraenoate; (5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyicosa-5,8,10,14-tetraenoate; (5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyicosa-5,8,10,14-tetraenoic acid; 12-HpETE; 12-Hydroperoxyeicosatetraenoate; 12-Hydroperoxyeicosatetraenoic acid; 12-Hydroperoxyicosatetraenoate; 12-Hydroperoxyicosatetraenoic acid; 12-Oohete; Arachidonic acid omega-9 hydroperoxide; omega-9 Hpaa; omega-9-Hydroperoxyarachidonic acid"
+],
+[
+"Definition",
+"The (S)-enantiomer of 12-HPETE."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:15626"
+],
+[
+"KEGG",
+"C05965"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-4-5-10-13-16-19(24-23)17-14-11-8-6-7-9-12-15-18-20(21)22/h7-11,13-14,17,19,23H,2-6,12,15-16,18H2,1H3,(H,21,22)/b9-7-,11-8-,13-10-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"ZIOZYRSDNLNNNJ-LQWMCKPYSA-N"
+]
+]
+},
+{
+"label": "ALOX12",
+"class": "Macromolecule",
+"box": [
+2240.0,
+340.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX12"
+],
+[
+"Alternative names",
+"Arachidonate (12S)-lipoxygenase; Arachidonate (15S)-lipoxygenase; Linoleate (13S)-lipoxygenase; Lipoxin synthase 12-LO; Platelet-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of molecular oxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. Mainly converts arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to the specific bioactive lipid (12S)-hydroperoxyeicosatetraenoate/(12S)-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:429"
+],
+[
+"HGNC symbol",
+"ALOX12"
+],
+[
+"Alias symbols",
+"12S-LOX"
+],
+[
+"Entrez",
+"239"
+],
+[
+"Ensembl",
+"ENSG00000108839"
+],
+[
+"RefSeq",
+"NM_000697"
+],
+[
+"UniProt",
+"P18054"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+2280.0,
+280.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
+"label": "12(S)-HETE",
+"class": "SimpleChemical",
+"box": [
+1935.0,
+375.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(S)-HETE"
+],
+[
+"Synonyms",
+"(12S)-12-hydroxy-5,8,14-cis-10-trans-eicosatetraenoic acid; (5Z,8Z,10E,12S,14Z)-12-hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,12S,14Z)-12-hydroxyicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12S)-12-Hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12S)-12-Hydroxyicosa-5,8,10,14-tetraenoic acid; 12(S)-hydroxy-5(Z),8(Z),10(E),14(Z)-eicosatetraenoic acid; 12(S)-hydroxy-5,8,14(Z),10(E)-eicosatetraenoic acid; 12(S)-hydroxyeicosatetraenoic acid; 12S-HETE"
+],
+[
+"Definition",
+"A HETE having a (12S)-hydroxy group and (5Z)-, (8Z)-, (10E)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34146"
+],
+[
+"KEGG",
+"C14777"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h7-11,13-14,17,19,21H,2-6,12,15-16,18H2,1H3,(H,22,23)/b9-7-,11-8-,13-10-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"ZNHVWPKMFKADKW-LQWMCKPYSA-N"
+]
+]
+},
+{
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+2060.0,
+320.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+1960.0,
+320.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "CYP4F3",
+"class": "Macromolecule",
+"box": [
+1860.0,
+320.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F3"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2646"
+],
+[
+"HGNC symbol",
+"CYP4F3"
+],
+[
+"Previous symbols",
+"LTB4H"
+],
+[
+"Alias symbols",
+"CYP4F"
+],
+[
+"Entrez",
+"4051"
+],
+[
+"Ensembl",
+"ENSG00000186529"
+],
+[
+"RefSeq",
+"NM_000896"
+],
+[
+"UniProt",
+"Q08477"
+]
+]
+},
+{
+"label": "CYP4F2",
+"class": "Macromolecule",
+"box": [
+1780.0,
+320.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F2"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; Arachidonic acid omega-hydroxylase; CYPIVF2; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase; Leukotriene-B(4) 20-monooxygenase 1; Leukotriene-B(4) omega-hydroxylase 1; Phylloquinone omega-hydroxylase CYP4F2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, eicosanoids and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:2645"
+],
+[
+"HGNC symbol",
+"CYP4F2"
+],
+[
+"Entrez",
+"8529"
+],
+[
+"Ensembl",
+"ENSG00000186115"
+],
+[
+"RefSeq",
+"NM_001082"
+],
+[
+"UniProt",
+"P78329"
+]
+]
+},
+{
+"label": "5(S)-HETE",
+"class": "SimpleChemical",
+"box": [
+1935.0,
+603.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5(S)-HETE"
+],
+[
+"Synonyms",
+"(5S,6E,8Z,11Z,14Z)-5-hydroxyeicosa-6,8,11,14-tetraenoic acid; (5S,6E,8Z,11Z,14Z)-5-hydroxyicosa-6,8,11,14-tetraenoic acid; (6E,8Z,11Z,14Z)-(5S)-5-Hydroxyicosa-6,8,11,14-tetraenoic acid; (S)-(E,Z,Z,Z)-5-hydroxyeicosa-6,8,11,14-tetraenoic acid; 5(S)-hydroxy-6(E),8(Z),11(Z),14(Z)-eicosatetraenoic acid; 5(S)-hydroxyeicosatetraenoic acid; 5-Hydroxyeicosatetraenoate; 5S-HETE; 6,8,11,14-Eicosatetraenoic acid, 5-hydroxy-, (S-(E,Z,Z,Z))-"
+],
+[
+"Definition",
+"A HETE having a (5S)-hydroxy group and (6E)-, (8Z)-, (11Z)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:28209"
+],
+[
+"KEGG",
+"C04805"
+],
+[
+"HMDB",
+"HMDB0011134"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(21)17-15-18-20(22)23/h6-7,9-10,12-14,16,19,21H,2-5,8,11,15,17-18H2,1H3,(H,22,23)/b7-6-,10-9-,13-12-,16-14+/t19-/m1/s1"
+],
+[
+"InChIKey",
+"KGIJOOYOSFUGPC-JGKLHWIESA-N"
+]
+]
+},
+{
+"label": "5(S),15(S)-diHETE",
+"class": "SimpleChemical",
+"box": [
+1755.0,
+605.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5(S),15(S)-DiHETE"
+],
+[
+"Synonyms",
+"(5S,15S)-dihydroxy-(6E,8Z,11Z,13E)-eicosatetraenoic acid; (5S,15S)-dihydroxy-(6E,8Z,11Z,13E)-icosatetraenoic acid; (5S,6E,8Z,11Z,13E,15S)-5,15-dihydroxyicosa-6,8,11,13-tetraenoic acid; (5S,6E,8Z,11Z,13E,15S)-5,15-dihydroxyicosatetraenoic acid; 5(S),15(S)-Dihydroxy-6,13-trans-8,11-cis-eicosatetraenoic acid; 5,15-DiHETE; 5,15-Dihydroxy-6,8,11,13-eicosatetraenoic acid; 5,15-Dihydroxyeicosatetraenoic acid; 5S,15S-DiHETE; 5S,15S-dihydroxy-6E,8Z,11Z,13E-eicosatetraenoic acid"
+],
+[
+"Definition",
+"A DiHETE that is (6E,8Z,11Z,13E)-icosatetraenoic acid in which the two hydroxy substituents are placed at the 5S- and 15S-positions."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:91286"
+],
+[
+"HMDB",
+"HMDB0010216"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-9-13-18(21)14-10-7-5-4-6-8-11-15-19(22)16-12-17-20(23)24/h5-8,10-11,14-15,18-19,21-22H,2-4,9,12-13,16-17H2,1H3,(H,23,24)/b7-5-,8-6-,14-10+,15-11+/t18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"UXGXCGPWGSUMNI-BVHTXILBSA-N"
+]
+]
+},
+{
+"label": "MGST3",
+"class": "Macromolecule",
+"box": [
+2060.0,
+540.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Glutathione S-transferase 3, mitochondrial"
+],
+[
+"Alternative names",
+"Glutathione peroxidase MGST3; LTC4 synthase MGST3"
+],
+[
+"Function",
+"Displays both glutathione S-transferase and glutathione peroxidase activities toward oxyeicosanoids, as part of cellular detoxification as well as synthesis of bioactive metabolites. Catalyzes conjugate addition of reduced glutathione to the alpha, beta-unsaturated C=C carbonyl group of eisosanoids such as leukotriene A4 and 15-deoxy-Delta12,14-prostaglandin J2 to form GSH adducts relevant to the inflammatory response."
+],
+[
+"Location",
+"Mitochondrion outer membrane"
+],
+[
+"HGNC",
+"HGNC:7064"
+],
+[
+"HGNC symbol",
+"MGST3"
+],
+[
+"Alias symbols",
+"GST-III"
+],
+[
+"Entrez",
+"4259"
+],
+[
+"Ensembl",
+"ENSG00000143198"
+],
+[
+"RefSeq",
+"NM_004528"
+],
+[
+"UniProt",
+"O14880"
+]
+]
+},
+{
+"label": "MGST2",
+"class": "Macromolecule",
+"box": [
+1980.0,
+540.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Microsomal glutathione S-transferase 2"
+],
+[
+"Alternative names",
+"Glutathione peroxidase MGST2; Leukotriene C4 synthase MGST2; Microsomal glutathione S-transferase II"
+],
+[
+"Function",
+"Catalyzes several different glutathione-dependent reactions. Catalyzes the glutathione-dependent reduction of lipid hydroperoxides, such as 5-HPETE."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:7063"
+],
+[
+"HGNC symbol",
+"MGST2"
+],
+[
+"Alias symbols",
+"MGST-II"
+],
+[
+"Entrez",
+"4258"
+],
+[
+"Ensembl",
+"ENSG00000085871"
+],
+[
+"RefSeq",
+"NM_002413"
+],
+[
+"UniProt",
+"Q99735"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+1875.0,
+559.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
+"label": "ALOX12",
+"class": "Macromolecule",
+"box": [
+1718.0,
+568.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX12"
+],
+[
+"Alternative names",
+"Arachidonate (12S)-lipoxygenase; Arachidonate (15S)-lipoxygenase; Linoleate (13S)-lipoxygenase; Lipoxin synthase 12-LO; Platelet-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of molecular oxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. Mainly converts arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to the specific bioactive lipid (12S)-hydroperoxyeicosatetraenoate/(12S)-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:429"
+],
+[
+"HGNC symbol",
+"ALOX12"
+],
+[
+"Alias symbols",
+"12S-LOX"
+],
+[
+"Entrez",
+"239"
+],
+[
+"Ensembl",
+"ENSG00000108839"
+],
+[
+"RefSeq",
+"NM_000697"
+],
+[
+"UniProt",
+"P18054"
+]
+]
+},
+{
+"label": "CYP4F3",
+"class": "Macromolecule",
+"box": [
+1600.0,
+580.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F3"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2646"
+],
+[
+"HGNC symbol",
+"CYP4F3"
+],
+[
+"Previous symbols",
+"LTB4H"
+],
+[
+"Alias symbols",
+"CYP4F"
+],
+[
+"Entrez",
+"4051"
+],
+[
+"Ensembl",
+"ENSG00000186529"
+],
+[
+"RefSeq",
+"NM_000896"
+],
+[
+"UniProt",
+"Q08477"
+]
+]
+},
+{
+"label": "CYP4F2",
+"class": "Macromolecule",
+"box": [
+1520.0,
+580.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F2"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; Arachidonic acid omega-hydroxylase; CYPIVF2; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase; Leukotriene-B(4) 20-monooxygenase 1; Leukotriene-B(4) omega-hydroxylase 1; Phylloquinone omega-hydroxylase CYP4F2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, eicosanoids and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:2645"
+],
+[
+"HGNC symbol",
+"CYP4F2"
+],
+[
+"Entrez",
+"8529"
+],
+[
+"Ensembl",
+"ENSG00000186115"
+],
+[
+"RefSeq",
+"NM_001082"
+],
+[
+"UniProt",
+"P78329"
+]
+]
+},
+{
+"label": "12(R)-HpETE",
+"class": "SimpleChemical",
+"box": [
+2135.0,
+75.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(R)-HPETE"
+],
+[
+"Synonyms",
+"(5Z,8Z,10E,12R,14Z)-12-hydroperoxyicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12R)-12-Hydroperoxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12R)-12-Hydroperoxyicosa-5,8,10,14-tetraenoic acid"
+],
+[
+"Definition",
+"A HPETE that is (5Z,8Z,10E,12R,14Z)-icosa-5,8,10,14-tetraenoic acid with the hydroperoxy group located at position 12 (the R-enantiomer)."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:34145"
+],
+[
+"KEGG",
+"C14812"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-4-5-10-13-16-19(24-23)17-14-11-8-6-7-9-12-15-18-20(21)22/h7-11,13-14,17,19,23H,2-6,12,15-16,18H2,1H3,(H,21,22)/b9-7-,11-8-,13-10-,17-14+/t19-/m1/s1"
+],
+[
+"InChIKey",
+"ZIOZYRSDNLNNNJ-ZYBDYUKJSA-N"
+]
+]
+},
+{
+"label": "12(R)-HETE",
+"class": "SimpleChemical",
+"box": [
+1935.0,
+75.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(R)-HETE"
+],
+[
+"Synonyms",
+"(5Z,8Z,10E,12R,14Z)-12-hydroxy-5,8,10,14-eicosatetraenoic acid; (5Z,8Z,10E,12R,14Z)-12-hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,12R,14Z)-12-hydroxyicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12R)-12-Hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12R)-12-Hydroxyicosa-5,8,10,14-tetraenoic acid; 12(R)-hydroxy-5(Z),8(Z),10(E),14(Z)-eicosatetraenoic acid; 12(R)-hydroxy-5,8,14-cis-10-trans-eicosatetraenoic acid; 12(R)-hydroxyeicosatetraenoic acid; 12R-HETE"
+],
+[
+"Definition",
+"A HETE having a (12R)-hydroxy group and (5Z)-, (8Z)-, (10E)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34144"
+],
+[
+"KEGG",
+"C14822"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h7-11,13-14,17,19,21H,2-6,12,15-16,18H2,1H3,(H,22,23)/b9-7-,11-8-,13-10-,17-14+/t19-/m1/s1"
+],
+[
+"InChIKey",
+"ZNHVWPKMFKADKW-ZYBDYUKJSA-N"
+]
+]
+},
+{
+"label": "12-oxo-ETE",
+"class": "SimpleChemical",
+"box": [
+1755.0,
+75.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12-oxo-ETE"
+],
+[
+"Synonyms",
+"(5Z,8Z,10E,14Z)-12-Oxoeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-12-Oxoicosa-5,8,10,14-tetraenoic acid; 12-KETE; 12-OxoETE; 12-keto-ETE; 12-ketoeicosatetraenoic acid; 12-oxo, 5c,8c,10t,14c-20:4"
+],
+[
+"Definition",
+"An oxoicosatetraenoic acid having a 12-oxo group; and (5Z)-, (8Z), (10E)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:34151"
+],
+[
+"KEGG",
+"C14807"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h7-11,13-14,17H,2-6,12,15-16,18H2,1H3,(H,22,23)/b9-7-,11-8-,13-10-,17-14+"
+],
+[
+"InChIKey",
+"GURBRQGDZZKITB-VXBMJZGYSA-N"
+]
+]
+},
+{
+"label": "15-oxo-ETE",
+"class": "SimpleChemical",
+"box": [
+1795.0,
+755.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-oxo-ETE"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,13E)-15-Oxoicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E)-15-ketoeicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E)-15-oxo-5,8,11,13-eicosatetraenoic acid; (5Z,8Z,11Z,13E)-15-oxoeicosa-5,8,11,13-tetraenoic acid; 15-Kete; 15-Oxo-5,8,11-cis-13-trans-eicosatetraenoate; 15-OxoETE"
+],
+[
+"Definition",
+"An oxoicosatetraenoic acid having (5Z,8Z,11Z,13E) double bond stereochemistry, and an oxo group in position 15."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:15559"
+],
+[
+"KEGG",
+"C04577"
+],
+[
+"HMDB",
+"HMDB0010210"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-13-16-19(21)17-14-11-9-7-5-4-6-8-10-12-15-18-20(22)23/h4-5,8-11,14,17H,2-3,6-7,12-13,15-16,18H2,1H3,(H,22,23)/b5-4-,10-8-,11-9-,17-14+"
+],
+[
+"InChIKey",
+"YGJTUEISKATQSM-USWFWKISSA-N"
+]
+]
+},
+{
+"label": "15(S)-HETE",
+"class": "SimpleChemical",
+"box": [
+1795.0,
+935.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15(S)-HETE"
+],
+[
+"Synonyms",
+"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate; (15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate; (15S)-hydroxy-(5Z,8Z,11Z,13E)-eicosatetraenoic acid; (15S)-hydroxyeicosa-(5Z,8Z,11Z,13E)-tetraenoic acid; (5Z,8Z,11Z,13E)-(15S)-15-Hydroxyicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroxy-5,8,11,13-eicosatetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroxyeicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroxyicosa-5,8,11,13-tetraenoic acid; 15(S)-hydroxyeicosatetraenoic acid; 15S-HETE; icomucret"
+],
+[
+"Definition",
+"An optically active form of 15-HETE having 15(S)-configuration.."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:15558"
+],
+[
+"KEGG",
+"C04742"
+],
+[
+"HMDB",
+"HMDB0003876"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-13-16-19(21)17-14-11-9-7-5-4-6-8-10-12-15-18-20(22)23/h4-5,8-11,14,17,19,21H,2-3,6-7,12-13,15-16,18H2,1H3,(H,22,23)/b5-4-,10-8-,11-9-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"JSFATNQSLKRBCI-VAEKSGALSA-N"
+]
+]
+},
+{
+"label": "14(R),15(S)-diHpETE",
+"class": "SimpleChemical",
+"box": [
+1995.0,
+1135.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"14(R),15(S)-DiHPETE"
+],
+[
+"Synonyms",
+"(14R,15S)-DiHPETE; (14R,15S)-dihydroperoxy-(5Z,8Z,10E,12E)-eicosatetraenoic acid; (14R,15S)-dihydroperoxy-(5Z,8Z,10E,12E)-icosatetraenoic acid; (5Z,8Z,10E,12E,14R,15S)-14,15-bis(hydroperoxy)eicosatetraenoic acid; (5Z,8Z,10E,12E,14R,15S)-14,15-bis(hydroperoxy)icosa-5,8,10,12-tetraenoic acid; (5Z,8Z,10E,12E,14R,15S)-14,15-bis(hydroperoxy)icosatetraenoic acid"
+],
+[
+"Definition",
+"A bis(hydroperoxy)icosatetraenoic acid that is (5Z,8Z,10E,12E)-icosatetraenoic acid carrying two hydroperoxy substituents at positions 14 and 15 (the 14R,15S-stereoisomer)."
+],
+[
+"Formula",
+"C20H32O6"
+],
+[
+"ChEBI",
+"CHEBI:136401"
+],
+[
+"InChI",
+"InChI=1S/C20H32O6/c1-2-3-12-15-18(25-23)19(26-24)16-13-10-8-6-4-5-7-9-11-14-17-20(21)22/h4,6-10,13,16,18-19,23-24H,2-3,5,11-12,14-15,17H2,1H3,(H,21,22)/b6-4-,9-7-,10-8+,16-13+/t18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"USYFDKIQMRDNHC-PEPUZGFWSA-N"
+]
+]
+},
+{
+"label": "PTGIS",
+"class": "Macromolecule",
+"box": [
+1980.0,
+740.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostacyclin synthase"
+],
+[
+"Alternative names",
+"Hydroperoxy icosatetraenoate dehydratase; Prostaglandin I2 synthase"
+],
+[
+"Function",
+"Catalyzes the biosynthesis and metabolism of eicosanoids. Catalyzes the isomerization of prostaglandin H2 to prostacyclin (= prostaglandin I2), a potent mediator of vasodilation and inhibitor of platelet aggregation."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9603"
+],
+[
+"HGNC symbol",
+"PTGIS"
+],
+[
+"Alias symbols",
+"PGIS, CYP8A1"
+],
+[
+"Entrez",
+"5740"
+],
+[
+"Ensembl",
+"ENSG00000124212"
+],
+[
+"RefSeq",
+"NM_000961"
+],
+[
+"UniProt",
+"Q16647"
+]
+]
+},
+{
+"label": "TBXAS1",
+"class": "Macromolecule",
+"box": [
+1880.0,
+740.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Thromboxane-A synthase"
+],
+[
+"Alternative names",
+"Cytochrome P450 5A1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"Catalyzes the conversion of prostaglandin H2 (PGH2) to thromboxane A2 (TXA2), a potent inducer of blood vessel constriction and platelet aggregation. Also cleaves PGH2 to 12-hydroxy-heptadecatrienoicacid (12-HHT) and malondialdehyde, which is known to act as a mediator of DNA damage."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:11609"
+],
+[
+"HGNC symbol",
+"TBXAS1"
+],
+[
+"Alias symbols",
+"CYP5, CYP5A1, THAS, TXS, TXAS, TS"
+],
+[
+"Entrez",
+"6916"
+],
+[
+"Ensembl",
+"ENSG00000059377"
+],
+[
+"RefSeq",
+"NM_001061"
+],
+[
+"UniProt",
+"P24557"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+2036.0,
+896.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+1940.0,
+1020.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
+"label": "ALOX12",
+"class": "Macromolecule",
+"box": [
+1940.0,
+1060.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX12"
+],
+[
+"Alternative names",
+"Arachidonate (12S)-lipoxygenase; Arachidonate (15S)-lipoxygenase; Linoleate (13S)-lipoxygenase; Lipoxin synthase 12-LO; Platelet-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of molecular oxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. Mainly converts arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to the specific bioactive lipid (12S)-hydroperoxyeicosatetraenoate/(12S)-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:429"
+],
+[
+"HGNC symbol",
+"ALOX12"
+],
+[
+"Alias symbols",
+"12S-LOX"
+],
+[
+"Entrez",
+"239"
+],
+[
+"Ensembl",
+"ENSG00000108839"
+],
+[
+"RefSeq",
+"NM_000697"
+],
+[
+"UniProt",
+"P18054"
+]
+]
+},
+{
+"label": "15-oxo-LXA4",
+"class": "SimpleChemical",
+"box": [
+2035.0,
+1715.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-oxolipoxin A4"
+],
+[
+"Synonyms",
+"(5S,6R,7E,9E,11Z,13E)-5,6-dihydroxy-15-oxoicosa-7,9,11,13-tetraenoic acid; 15-keto-LXA4; 15-keto-Lipoxin A4; 15-oxo-5S,6R-dihydroxy-7E,9E,11Z,13E-eicosatetraenoic acid; 15-oxo-LXA4"
+],
+[
+"Definition",
+"A C20 hydroxy fatty acid having (5S)- and (6R)- -hydroxy groups as well as a 15-oxo group and (7E)- (9E)-, (11Z)- and (13E)-double bonds."
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:63992"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-3-8-12-17(21)13-9-6-4-5-7-10-14-18(22)19(23)15-11-16-20(24)25/h4-7,9-10,13-14,18-19,22-23H,2-3,8,11-12,15-16H2,1H3,(H,24,25)/b6-4-,7-5+,13-9+,14-10+/t18-,19+/m1/s1"
+],
+[
+"InChIKey",
+"KMQGFEBCBYXSPZ-OABWHSJTSA-N"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+1948.0,
+1201.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+1920.0,
+1320.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
+"label": "ALOX12",
+"class": "Macromolecule",
+"box": [
+1900.0,
+1440.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX12"
+],
+[
+"Alternative names",
+"Arachidonate (12S)-lipoxygenase; Arachidonate (15S)-lipoxygenase; Linoleate (13S)-lipoxygenase; Lipoxin synthase 12-LO; Platelet-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of molecular oxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. Mainly converts arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to the specific bioactive lipid (12S)-hydroperoxyeicosatetraenoate/(12S)-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:429"
+],
+[
+"HGNC symbol",
+"ALOX12"
+],
+[
+"Alias symbols",
+"12S-LOX"
+],
+[
+"Entrez",
+"239"
+],
+[
+"Ensembl",
+"ENSG00000108839"
+],
+[
+"RefSeq",
+"NM_000697"
+],
+[
+"UniProt",
+"P18054"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+1900.0,
+1480.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
+"label": "HPGD",
+"class": "Macromolecule",
+"box": [
+1960.0,
+1655.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"15-hydroxyprostaglandin dehydrogenase [NAD(+)]"
+],
+[
+"Alternative names",
+"Eicosanoid/docosanoid dehydrogenase [NAD(+)]; Prostaglandin dehydrogenase 1; Short chain dehydrogenase/reductase family 36C member 1"
+],
+[
+"Function",
+"Catalyzes the NAD-dependent dehydrogenation (oxidation) of a broad array of hydroxylated polyunsaturated fatty acids (mainly eicosanoids and docosanoids, including prostaglandins, lipoxins and resolvins), yielding their corresponding keto (oxo) metabolites. Decreases the levels of the pro-proliferative prostaglandins such as prostaglandin E2 (whose activity is increased in cancer because of an increase in the expression of cyclooxygenase 2) and generates oxo-fatty acid products that can profoundly influence cell function by abrogating pro-inflammatory cytokine expression."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:5154"
+],
+[
+"HGNC symbol",
+"HPGD"
+],
+[
+"Alias symbols",
+"SDR36C1"
+],
+[
+"Entrez",
+"3248"
+],
+[
+"Ensembl",
+"ENSG00000164120"
+],
+[
+"RefSeq",
+"NM_000860"
+],
+[
+"UniProt",
+"P15428"
+]
+]
+},
+{
+"label": "LTA4",
+"class": "SimpleChemical",
+"box": [
+1675.0,
+1215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene A4"
+],
+[
+"Synonyms",
+"(5S,6S,7E,9E,11Z,14Z)-5,6-epoxyicosa-7,9,11,14-tetraenoic acid; (7E,9E,11Z,14Z)-(5S,6S)-5,6-epoxyeicosa-7,9,11,14-tetraenoic acid; 5(S)-5,6-oxido-7,9-trans-11,14-cis-eicosatetraenoic acid; 5S,6S-epoxy-7E,9E,11Z,14Z-eicosatetraenoic acid; 5S,6S-leukotriene A4; LTA4; Oxiranebutanoic acid, 3-(1,3,5,8-tetradecatetraenyl)-, (2S-(2alpha,3beta(1E,3Z,5Z,8Z)))-"
+],
+[
+"Definition",
+"A leukotriene that is the (5S,6S)-epoxy derivative of (7E,9E,11Z,14Z)-icosa-7,9,11,14-tetraenoic acid."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:15651"
+],
+[
+"KEGG",
+"C00909"
+],
+[
+"HMDB",
+"HMDB0001337"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-15-18-19(23-18)16-14-17-20(21)22/h6-7,9-13,15,18-19H,2-5,8,14,16-17H2,1H3,(H,21,22)/b7-6-,10-9-,12-11+,15-13+/t18-,19-/m0/s1"
+],
+[
+"InChIKey",
+"UFPQIRYSPUYQHK-WAQVJNLQSA-N"
+]
+]
+},
+{
+"label": "LTB4",
+"class": "SimpleChemical",
+"box": [
+1675.0,
+1375.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene B4"
+],
+[
+"Synonyms",
+"(5S,12R,6Z,8E,10E,14Z)-5,12-dihydroxy-6,8,10,14-eicosatetraenoic acid; (5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyeicosa-6,8,10,14-tetraenoic acid; (5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid; (S-(R*,S*-(E,Z,E,Z)))-5,12-Dihydroxy-6,8,10,14-eicosatetraenoic acid; 5(S),12(R)-dihydroxy-6(Z),8(E),10(E),14(Z)-eicosatetraenoic acid; 5(S),12(R)-dihydroxy-6(Z),8(E),10(E),14(Z)-icosatetraenoic acid; 5,12-Dihete; 5,12-Hete; 5S,12R-diHETE; 5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid; LTB4"
+],
+[
+"Definition",
+"A leukotriene composed of (6Z,8E,10E,14Z)-icosatetraenoic acid having (5S)- and (12R)-hydroxy substituents. It is a lipid mediator of inflammation that is generated from arachidonic acid via the 5-lipoxygenase pathway."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:15647"
+],
+[
+"KEGG",
+"C02165"
+],
+[
+"HMDB",
+"HMDB0001085"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-4-5-6-9-13-18(21)14-10-7-8-11-15-19(22)16-12-17-20(23)24/h6-11,14-15,18-19,21-22H,2-5,12-13,16-17H2,1H3,(H,23,24)/b8-7+,9-6-,14-10+,15-11-/t18-,19-/m1/s1"
+],
+[
+"InChIKey",
+"VNYSSYRCGWBHLG-AMOLWHMGSA-N"
+]
+]
+},
+{
+"label": "12-oxo-LTB4",
+"class": "SimpleChemical",
+"box": [
+1415.0,
+1375.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12-dehydro-leukotriene B4"
+],
+[
+"Synonyms",
+"(5S,6Z,8E,10E,14Z)-5-hydroxy-12-oxoeicosa-6,8,10,14-tetraenoic acid; (5S,6Z,8E,10E,14Z)-5-hydroxy-12-oxoicosa-6,8,10,14-tetraenoic acid; 12-Keto-LTB4; 12-Keto-leukotriene B4; 12-Oxo-ltb4; 12-Oxoleukotriene B4; 5(S)-hydroxy-12-oxo-6(Z),8(E),10(E),14(Z)-eicosatetraenoic acid; 5-Hydroxy-12-oxo-delta5,8,11,14-eicosapolyenoic acid; 5S-hydroxy-12-keto-6Z,8E,10E,14Z-eicosatetraenoic acid"
+],
+[
+"Definition",
+"A long-chain fatty acid consisting of leukotriene B4 having a 12-keto group in place of the 12-hydroxy group."
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:27814"
+],
+[
+"KEGG",
+"C05949"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-4-5-6-9-13-18(21)14-10-7-8-11-15-19(22)16-12-17-20(23)24/h6-11,14-15,19,22H,2-5,12-13,16-17H2,1H3,(H,23,24)/b8-7+,9-6-,14-10+,15-11-/t19-/m1/s1"
+],
+[
+"InChIKey",
+"SJVWVCVZWMJXOK-NOJHDUNKSA-N"
+]
+]
+},
+{
+"label": "PTGR1",
+"class": "Macromolecule",
+"box": [
+1520.0,
+1434.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin reductase 1"
+],
+[
+"Alternative names",
+"15-oxoprostaglandin 13-reductase; Dithiolethione-inducible gene 1 protein; Leukotriene B4 12-hydroxydehydrogenase; NAD(P)H-dependent alkenal/one oxidoreductase"
+],
+[
+"Function",
+"NAD(P)H-dependent oxidoreductase involved in metabolic inactivation of pro- and anti-inflammatory eicosanoids: prostaglandins (PG), leukotrienes (LT) and lipoxins (LX). Catalyzes with high efficiency the reduction of the 13,14 double bond of 15-oxoPGs, including 15-oxo-PGE1, 15-oxo-PGE2, 15-oxo-PGF1-alpha and 15-oxo-PGF2-alpha."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:18429"
+],
+[
+"HGNC symbol",
+"PTGR1"
+],
+[
+"Previous symbols",
+"LTB4DH"
+],
+[
+"Alias symbols",
+"ZADH3"
+],
+[
+"Entrez",
+"22949"
+],
+[
+"Ensembl",
+"ENSG00000106853"
+],
+[
+"RefSeq",
+"NM_001146108"
+],
+[
+"UniProt",
+"Q14914"
+]
+]
+},
+{
+"label": "LTA4H",
+"class": "Macromolecule",
+"box": [
+1600.0,
+1320.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Leukotriene A-4 hydrolase"
+],
+[
+"Alternative names",
+"Leukotriene A(4) hydrolase; Tripeptide aminopeptidase LTA4H"
+],
+[
+"Function",
+"Bifunctional zinc metalloenzyme that comprises both epoxide hydrolase (EH) and aminopeptidase activities. Acts as an epoxide hydrolase to catalyze the conversion of LTA4 to the pro-inflammatory mediator leukotriene B4 (LTB4)."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6710"
+],
+[
+"HGNC symbol",
+"LTA4H"
+],
+[
+"Entrez",
+"4048"
+],
+[
+"Ensembl",
+"ENSG00000111144"
+],
+[
+"RefSeq",
+"NM_000895"
+],
+[
+"UniProt",
+"P09960"
+]
+]
+},
+{
+"label": "LTC4S",
+"class": "Macromolecule",
+"box": [
+1520.0,
+1160.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Leukotriene C4 synthase"
+],
+[
+"Alternative names",
+"Glutathione S-transferase LTC4; Leukotriene-C(4) synthase; Leukotriene-C4 synthase"
+],
+[
+"Function",
+"Catalyzes the conjugation of leukotriene A4 with reduced glutathione (GSH) to form leukotriene C4 with high specificity. Can also catalyze the transfer of a glutathionyl group from glutathione (GSH) to 13(S),14(S)-epoxy-docosahexaenoic acid to form maresin conjugate in tissue regeneration 1 (MCTR1), a bioactive lipid mediator that possess potent anti-inflammatory and proresolving actions"
+],
+[
+"Location",
+"Nucleus outer membrane, Endoplasmic reticulum membrane, Nucleus membrane"
+],
+[
+"HGNC",
+"HGNC:6719"
+],
+[
+"HGNC symbol",
+"LTC4S"
+],
+[
+"Alias symbols",
+"MGC33147"
+],
+[
+"Entrez",
+"4056"
+],
+[
+"Ensembl",
+"ENSG00000213316"
+],
+[
+"RefSeq",
+"NM_000897"
+],
+[
+"UniProt",
+"Q16873"
+]
+]
+},
+{
+"label": "MGST2",
+"class": "Macromolecule",
+"box": [
+1600.0,
+1160.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Microsomal glutathione S-transferase 2"
+],
+[
+"Alternative names",
+"Glutathione peroxidase MGST2; Leukotriene C4 synthase MGST2; Microsomal glutathione S-transferase II"
+],
+[
+"Function",
+"Catalyzes several different glutathione-dependent reactions. Catalyzes the glutathione-dependent reduction of lipid hydroperoxides, such as 5-HPETE."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:7063"
+],
+[
+"HGNC symbol",
+"MGST2"
+],
+[
+"Alias symbols",
+"MGST-II"
+],
+[
+"Entrez",
+"4258"
+],
+[
+"Ensembl",
+"ENSG00000085871"
+],
+[
+"RefSeq",
+"NM_002413"
+],
+[
+"UniProt",
+"Q99735"
+]
+]
+},
+{
+"label": "ABCC6",
+"class": "Macromolecule",
+"box": [
+1260.0,
+1160.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"ATP-binding cassette sub-family C member 6"
+],
+[
+"Alternative names",
+"Anthracycline resistance-associated protein; Multi-specific organic anion transporter E; Multidrug resistance-associated protein 6"
+],
+[
+"Function",
+"ATP-dependent transporter of the ATP-binding cassette (ABC) family that actively extrudes physiological compounds, and xenobiotics from cells. Mediates ATP-dependent transport of glutathione conjugates such as leukotriene-c4 (LTC4) and N-ethylmaleimide S-glutathione (NEM-GS) (in vitro), and an anionic cyclopentapeptide endothelin antagonist, BQ-123."
+],
+[
+"Location",
+"Basal cell membrane, Basolateral cell membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:57"
+],
+[
+"HGNC symbol",
+"ABCC6"
+],
+[
+"Previous symbols",
+"ARA, PXE"
+],
+[
+"Alias symbols",
+"MRP6, EST349056, MLP1, URG7"
+],
+[
+"Entrez",
+"368"
+],
+[
+"Ensembl",
+"ENSG00000091262"
+],
+[
+"RefSeq",
+"NM_001079528"
+],
+[
+"UniProt",
+"O95255"
+]
+]
+},
+{
+"label": "ABCC1",
+"class": "Macromolecule",
+"box": [
+1180.0,
+1160.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"ATP-binding cassette sub-family C member 1"
+],
+[
+"Alternative names",
+"Glutathione-S-conjugate-translocating ATPase ABCC1; Leukotriene C(4) transporter; Multidrug resistance-associated protein 1"
+],
+[
+"Function",
+"ATP-dependent transporter of the ATP-binding cassette (ABC) family that hydrolyzes ATP to enable the active transport of organic anions conjugated with glutathione, glucuronate or sulfate. Operates at the plasma membrane where it mediates the efflux of substrates from the cytoplasm into the extracellular space."
+],
+[
+"Location",
+"Cell membrane, Basolateral cell membrane"
+],
+[
+"HGNC",
+"HGNC:51"
+],
+[
+"HGNC symbol",
+"ABCC1"
+],
+[
+"Previous symbols",
+"MRP, MRP1"
+],
+[
+"Alias symbols",
+"GS-X"
+],
+[
+"Entrez",
+"4363"
+],
+[
+"Ensembl",
+"ENSG00000103222"
+],
+[
+"RefSeq",
+"NM_004996"
+],
+[
+"UniProt",
+"P33527"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+1580.0,
+780.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
+"label": "Lipoxin E4 (LXE4)",
+"class": "SimpleChemical",
+"box": [
+1274.0,
+1833.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"lipoxin E4"
+],
+[
+"Synonyms",
+"(5S,6R,7E,9E,11Z,13E,15S)-6-{[(2R)-2-amino-2-carboxyethyl]sulfanyl}-5,15-dihydroxyicosa-7,9,11,13-tetraenoic acid; 7,9,11,13-Eicosatetraenoic acid, 6-((2-amino-2-carboxyethyl)thio)-5,15-dihydroxy-, (5S-(5R*,6S*(S*),7E,9E,11Z,13E,15R*))-; LXE4; S-{(1R,2E,4E,6Z,8E,10S)-1-[(1S)-4-carboxy-1-hydroxybutyl]-10-hydroxypentadeca-2,4,6,8-tetraen-1-yl}-L-cysteine"
+],
+[
+"Formula",
+"C23H37NO6S"
+],
+[
+"ChEBI",
+"CHEBI:36222"
+],
+[
+"InChI",
+"InChI=1S/C23H37NO6S/c1-2-3-8-12-18(25)13-9-6-4-5-7-10-15-21(31-17-19(24)23(29)30)20(26)14-11-16-22(27)28/h4-7,9-10,13,15,18-21,25-26H,2-3,8,11-12,14,16-17,24H2,1H3,(H,27,28)(H,29,30)/b6-4-,7-5+,13-9+,15-10+/t18-,19-,20-,21+/m0/s1"
+],
+[
+"InChIKey",
+"KVXVULITEYDTNN-HGCWDHQMSA-N"
+]
+]
+},
+{
+"label": "LTD4",
+"class": "SimpleChemical",
+"box": [
+1055.0,
+1395.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene D4"
+],
+[
+"Synonyms",
+"(R-(R*,S*-(E,E,Z,Z)))-N-(S-(1-(4-Carboxy-1-hydroxybutyl)-2,4,6,9-pentadecatetraenyl)-L-cysteinyl)glycine; 5S-hydroxy-6R-(S-cysteinylglycinyl)-7E,9E,11E,14Z-eicosatetraenoic acid; LTD4; S-{(1R,2E,4E,6Z,9Z)-1-[(1S)-4-carboxy-1-hydroxybutyl]pentadeca-2,4,6,9-tetraen-1-yl}-L-cysteinylglycine"
+],
+[
+"Definition",
+"A leukotriene that is (7E,9E,11Z,14Z)-icosa-7,9,11,14-tetraenoic acid substituted by a hydroxy group at position 5 (5S) and a L-cysteinylglycinyl group at position 6 (6R)."
+],
+[
+"Formula",
+"C25H40N2O6S"
+],
+[
+"ChEBI",
+"CHEBI:28666"
+],
+[
+"KEGG",
+"C05951"
+],
+[
+"HMDB",
+"HMDB0003080"
+],
+[
+"InChI",
+"InChI=1S/C25H40N2O6S/c1-2-3-4-5-6-7-8-9-10-11-12-13-16-22(21(28)15-14-17-23(29)30)34-19-20(26)25(33)27-18-24(31)32/h6-7,9-13,16,20-22,28H,2-5,8,14-15,17-19,26H2,1H3,(H,27,33)(H,29,30)(H,31,32)/b7-6-,10-9-,12-11+,16-13+/t20-,21-,22+/m0/s1"
+],
+[
+"InChIKey",
+"YEESKJGWJFYOOK-IJHYULJSSA-N"
+]
+]
+},
+{
+"label": "LTE4",
+"class": "SimpleChemical",
+"box": [
+1055.0,
+1515.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene E4"
+],
+[
+"Synonyms",
+"(5S,6R,7E,9E,11Z,14Z)-6-(L-cystein-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoic acid; (5S-(5R*,6S*(S*),7E,9E,11Z,14Z))-6-((2-Amino-2-carboxyethyl)thio)-5-hydroxy-7,9,11,14-eicosatetraenoic acid; (7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyeicosa-7,9,11,14-tetraenoate; (7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoate; 5S-hydroxy,6R-(S-cysteinyl),7E,9E,11Z,14Z-eicosatetraenoic acid; LTE4; S-{(1R,2E,4E,6Z,9Z)-1-[(1S)-4-carboxy-1-hydroxybutyl]pentadeca-2,4,6,9-tetraen-1-yl}-L-cysteine"
+],
+[
+"Definition",
+"A leukotriene that is (7E,9E,11Z,14Z)-icosa-7,9,11,14-tetraenoic acid substituted by a hydroxy group at position 5 (5S) and an L-cystein-S-yl group at position 6 (6R)."
+],
+[
+"Formula",
+"C23H37NO5S"
+],
+[
+"ChEBI",
+"CHEBI:15650"
+],
+[
+"KEGG",
+"C05952"
+],
+[
+"InChI",
+"InChI=1S/C23H37NO5S/c1-2-3-4-5-6-7-8-9-10-11-12-13-16-21(30-18-19(24)23(28)29)20(25)15-14-17-22(26)27/h6-7,9-13,16,19-21,25H,2-5,8,14-15,17-18,24H2,1H3,(H,26,27)(H,28,29)/b7-6-,10-9-,12-11+,16-13+/t19-,20-,21+/m0/s1"
+],
+[
+"InChIKey",
+"OTZRAYGBFWZKMX-FRFVZSDQSA-N"
+]
+]
+},
+{
+"label": "GGT1",
+"class": "Macromolecule",
+"box": [
+1120.0,
+1320.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Glutathione hydrolase 1 proenzyme"
+],
+[
+"Alternative names",
+"Gamma-glutamyltransferase 1; Gamma-glutamyltranspeptidase 1; Leukotriene-C4 hydrolase"
+],
+[
+"Function",
+"Cleaves the gamma-glutamyl bond of extracellular glutathione (gamma-Glu-Cys-Gly), glutathione conjugates (such as maresin conjugate (13R)-S-glutathionyl-(14S)-hydroxy-(4Z,7Z,9E,11E,16Z,19Z)-docosahexaenoate, MCTR1) and other gamma-glutamyl compounds (such as leukotriene C4, LTC4). The metabolism of glutathione by GGT1 releases free glutamate and the dipeptide cysteinyl-glycine, which is hydrolyzed to cysteine and glycine by dipeptidases."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4250"
+],
+[
+"HGNC symbol",
+"GGT1"
+],
+[
+"Previous symbols",
+"GGT"
+],
+[
+"Alias symbols",
+"D22S672, D22S732, CD224"
+],
+[
+"Entrez",
+"2678"
+],
+[
+"Ensembl",
+"ENSG00000100031"
+],
+[
+"RefSeq",
+"NM_013430"
+],
+[
+"UniProt",
+"P19440"
+]
+]
+},
+{
+"label": "GGT5",
+"class": "Macromolecule",
+"box": [
+1120.0,
+1380.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Glutathione hydrolase 5 proenzyme"
+],
+[
+"Alternative names",
+"Gamma-glutamyl transpeptidase-related enzyme; Gamma-glutamyltransferase 5; Gamma-glutamyltransferase-like activity 1; Gamma-glutamyltranspeptidase 5; Leukotriene-C4 hydrolase"
+],
+[
+"Function",
+"Cleaves the gamma-glutamyl bond of extracellular glutathione tripeptide (gamma-Glu-Cys-Gly) and certain glutathione conjugates. Hydrolyzes glutathione releasing L-Glu and Cys-Gly dipeptide which is further metabolized to maintain extracellular cysteine levels but also to provide cysteine necessary for intracellular glutathione synthesis."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:4260"
+],
+[
+"HGNC symbol",
+"GGT5"
+],
+[
+"Previous symbols",
+"GGTLA1"
+],
+[
+"Alias symbols",
+"GGT-REL"
+],
+[
+"Entrez",
+"2687"
+],
+[
+"Ensembl",
+"ENSG00000099998"
+],
+[
+"RefSeq",
+"NM_004121"
+],
+[
+"UniProt",
+"P36269"
+]
+]
+},
+{
+"label": "MDP1",
+"class": "Macromolecule",
+"box": [
+1120.0,
+1440.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Magnesium-dependent phosphatase 1"
+],
+[
+"Function",
+"Magnesium-dependent phosphatase which may act as a tyrosine phosphatase"
+],
+[
+"HGNC",
+"HGNC:28781"
+],
+[
+"HGNC symbol",
+"MDP1"
+],
+[
+"Alias symbols",
+"MGC5987, FN6Pase"
+],
+[
+"Entrez",
+"145553"
+],
+[
+"Ensembl",
+"ENSG00000213920"
+],
+[
+"RefSeq",
+"NM_138476"
+],
+[
+"UniProt",
+"Q86V88"
+]
+]
+},
+{
+"label": "DPEP2",
+"class": "Macromolecule",
+"box": [
+1120.0,
+1500.0,
+70.0,
+30.0
+],
+"props": [
+[
+"Full name",
+"Dipeptidase 2"
+],
+[
+"Function",
+"Dipeptidase that hydrolyzes leukotriene D4 (LTD4) into leukotriene E4 (LTE4). Hydrolyzes cystinyl-bis-glycine"
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:23028"
+],
+[
+"HGNC symbol",
+"DPEP2"
+],
+[
+"Entrez",
+"64174"
+],
+[
+"Ensembl",
+"ENSG00000167261"
+],
+[
+"RefSeq",
+"NM_022355"
+],
+[
+"UniProt",
+"Q9H4A9"
+]
+]
+},
+{
+"label": "SLCO2A1",
+"class": "Macromolecule",
+"box": [
+2575.0,
+1835.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Solute carrier organic anion transporter family member 2A1"
+],
+[
+"Alternative names",
+"OATP2A1; PHOAR2; Prostaglandin transporter; Solute carrier family 21 member 2"
+],
+[
+"Function",
+"Mediates the transport of prostaglandins (PGs, mainly PGE2, PGE1, PGE3, PGF2alpha, PGD2, PGH2) and thromboxanes (thromboxane B2) across the cell membrane. PGs and thromboxanes play fundamental roles in diverse functions such as intraocular pressure, gastric acid secretion, renal salt and water transport, vascular tone, and fever."
+],
+[
+"Location",
+"Cell membrane, Basal cell membrane, Cytoplasm, Lysosome"
+],
+[
+"HGNC",
+"HGNC:10955"
+],
+[
+"HGNC symbol",
+"SLCO2A1"
+],
+[
+"Previous symbols",
+"SLC21A2, MATR1"
+],
+[
+"Alias symbols",
+"PGT, OATP2A1"
+],
+[
+"Entrez",
+"6578"
+],
+[
+"Ensembl",
+"ENSG00000174640"
+],
+[
+"RefSeq",
+"NM_005630"
+],
+[
+"UniProt",
+"Q92959"
+]
+]
+},
+{
+"label": "TACR1",
+"class": "Macromolecule",
+"box": [
+495.0,
+1895.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Substance-P receptor"
+],
+[
+"Alternative names",
+"NK-1 receptor; Tachykinin receptor 1"
+],
+[
+"Function",
+"Receptor for the tachykinin substance P, also able to bind and respond to tachynins neurokinin A/substance K and neurokinin B/neuromedin-K. The rank order of affinity of this receptor to tachykinins is: substance P > neurokinin A/substance K > neurokinin B/neuromedin-K."
+],
+[
+"Location",
+"Cell membrane, Early endosome"
+],
+[
+"HGNC",
+"HGNC:11526"
+],
+[
+"HGNC symbol",
+"TACR1"
+],
+[
+"Previous symbols",
+"TAC1R"
+],
+[
+"Alias symbols",
+"SPR, NK1R, NKIR"
+],
+[
+"Entrez",
+"6869"
+],
+[
+"Ensembl",
+"ENSG00000115353"
+],
+[
+"RefSeq",
+"NM_001058"
+],
+[
+"UniProt",
+"P25103"
+]
+]
+},
+{
+"label": "RAMP1",
+"class": "Macromolecule",
+"box": [
+185.0,
+1895.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Receptor activity-modifying protein 1"
+],
+[
+"Alternative names",
+"Calcitonin-receptor-like receptor activity-modifying protein 1"
+],
+[
+"Function",
+"Accessory protein that interacts with and modulates the function of G protein-coupled receptors including calcitonin gene-related peptide type 1 receptor (CALCRL) and calcitonin receptor (CALCR). Required for the transport of CALCRL to the plasma membrane."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9843"
+],
+[
+"HGNC symbol",
+"RAMP1"
+],
+[
+"Entrez",
+"10267"
+],
+[
+"Ensembl",
+"ENSG00000132329"
+],
+[
+"RefSeq",
+"NM_005855"
+],
+[
+"UniProt",
+"O60894"
+]
+]
+},
+{
+"label": "CALCRL",
+"class": "Macromolecule",
+"box": [
+285.0,
+1895.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcitonin gene-related peptide type 1 receptor"
+],
+[
+"Alternative names",
+"Calcitonin receptor-like receptor"
+],
+[
+"Function",
+"G protein-coupled receptor which specificity is determined by its interaction with receptor-activity-modifying proteins (RAMPs). Together with RAMP1, form the receptor complex for calcitonin-gene-related peptides CALCA/CGRP1 and CALCB/CGRP2."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:16709"
+],
+[
+"HGNC symbol",
+"CALCRL"
+],
+[
+"Alias symbols",
+"CGRPR, CRLR"
+],
+[
+"Entrez",
+"10203"
+],
+[
+"Ensembl",
+"ENSG00000064989"
+],
+[
+"RefSeq",
+"NM_005795"
+],
+[
+"UniProt",
+"Q16602"
+]
+]
+},
+{
+"label": "Corticosteroids",
+"class": "SimpleChemical",
+"box": [
+3491.0,
+211.0,
+48.0,
+48.0
+],
+"props": [
+[
+"Full name",
+"corticosteroid"
+],
+[
+"Synonyms",
+"corticoides; corticosteroides; corticosteroids"
+],
+[
+"Definition",
+"A natural or synthetic analogue of the hormones secreted by the adrenal gland."
+],
+[
+"ChEBI",
+"CHEBI:50858"
+]
+]
+},
+{
+"label": "Paracetamol",
+"class": "SimpleChemical",
+"box": [
+3851.0,
+211.0,
+48.0,
+48.0
+],
+"props": [
+[
+"Full name",
+"paracetamol"
+],
+[
+"Synonyms",
+"4'-hydroxyacetanilide; 4-(Acetylamino)phenol; 4-acetamidophenol; APAP; Acenol; Acetaminofen; Acetaminophen; N-(4-hydroxyphenyl)acetamide; N-acetyl-p-aminophenol; Panadol; Tylenol; acetaminophene; p-Acetylaminophenol; p-acetamidophenol; p-acetaminophenol; p-hydroxyacetanilide; p-hydroxyphenolacetamide; paracetamolum"
+],
+[
+"Definition",
+"A member of the class of phenols that is 4-aminophenol in which one of the hydrogens attached to the amino group has been replaced by an acetyl group."
+],
+[
+"Formula",
+"C8H9NO2"
+],
+[
+"ChEBI",
+"CHEBI:46195"
+],
+[
+"KEGG",
+"C06804"
+],
+[
+"HMDB",
+"HMDB0001859"
+],
+[
+"InChI",
+"InChI=1S/C8H9NO2/c1-6(10)9-7-2-4-8(11)5-3-7/h2-5,11H,1H3,(H,9,10)"
+],
+[
+"InChIKey",
+"RZVAJINKPMORJF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Ketorolac",
+"class": "SimpleChemical",
+"box": [
+3931.0,
+231.0,
+48.0,
+48.0
+],
+"props": [
+[
+"Full name",
+"ketorolac"
+],
+[
+"Synonyms",
+"(+-)-5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid; (+-)-ketorolac; ketorolaco; ketorolacum; rac-5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid; rac-ketorolac"
+],
+[
+"Definition",
+"A racemate comprising equimolar amounts of (R)-(+)- and (S)-(−)-5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid. While only the (S)-(−) enantiomer is a COX1 and COX2 inhibitor, the (R)-(+) enantiomer exhibits potent analgesic activity. A non-steroidal anti-inflammatory drug, ketorolac is mainly used (generally as the tromethamine salt) for its potent analgesic properties in the short-term management of post-operative pain, and in eye drops to relieve the ocular itching associated with seasonal allergic conjunctivitis. It was withdrawn from the market in many countries in 1993 following association with haemorrhage and renal failure."
+],
+[
+"Formula",
+"C15H13NO3"
+],
+[
+"ChEBI",
+"CHEBI:6129"
+],
+[
+"KEGG",
+"C07062"
+],
+[
+"HMDB",
+"HMDB0014608"
+],
+[
+"InChI",
+"InChI=1S/C15H13NO3/c17-14(10-4-2-1-3-5-10)13-7-6-12-11(15(18)19)8-9-16(12)13/h1-7,11H,8-9H2,(H,18,19)"
+],
+[
+"InChIKey",
+"OZWKMVRBQXNZKK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Ketoprofen",
+"class": "SimpleChemical",
+"box": [
+3991.0,
+271.0,
+48.0,
+48.0
+],
+"props": [
+[
+"Full name",
+"ketoprofen"
+],
+[
+"Synonyms",
+"2-(3-Benzoylphenyl)propionic acid; 2-(3-benzoylphenyl)propanoic acid; 3-Benzoyl-alpha-methylbenzeneacetic acid; 3-Benzoylhydratropic acid; L'Acide (benzoyl-3-phenyl)-2-propionique; Orudis (TN); m-Benzoylhydratropic acid"
+],
+[
+"Definition",
+"An oxo monocarboxylic acid that consists of propionic acid substituted by a 3-benzoylphenyl group at position 2."
+],
+[
+"Formula",
+"C16H14O3"
+],
+[
+"ChEBI",
+"CHEBI:6128"
+],
+[
+"KEGG",
+"C01716"
+],
+[
+"HMDB",
+"HMDB0015144"
+],
+[
+"InChI",
+"InChI=1S/C16H14O3/c1-11(16(18)19)13-8-5-9-14(10-13)15(17)12-6-3-2-4-7-12/h2-11H,1H3,(H,18,19)"
+],
+[
+"InChIKey",
+"DKYWVDODHFEZIM-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Diclofenac",
+"class": "SimpleChemical",
+"box": [
+4051.0,
+311.0,
+48.0,
+48.0
+],
+"props": [
+[
+"Full name",
+"diclofenac"
+],
+[
+"Synonyms",
+"2-((2,6-dichlorophenyl)amino)benzeneacetic acid; 2-[(2,6-dichlorophenyl)amino]benzeneacetic acid; [2-(2,6-dichloroanilino)phenyl]acetic acid; diclofenac acid; diclofenaco; diclofenacum; diclofenamic acid; {2-[(2,6-dichlorophenyl)amino]phenyl}acetic acid"
+],
+[
+"Definition",
+"A monocarboxylic acid consisting of phenylacetic acid having a (2,6-dichlorophenyl)amino group at the 2-position."
+],
+[
+"Formula",
+"C14H11Cl2NO2"
+],
+[
+"ChEBI",
+"CHEBI:47381"
+],
+[
+"KEGG",
+"C01690"
+],
+[
+"HMDB",
+"HMDB0014724"
+],
+[
+"InChI",
+"InChI=1S/C14H11Cl2NO2/c15-10-5-3-6-11(16)14(10)17-12-7-2-1-4-9(12)8-13(18)19/h1-7,17H,8H2,(H,18,19)"
+],
+[
+"InChIKey",
+"DCOPUUMXTXDBNB-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Ibuprofen",
+"class": "SimpleChemical",
+"box": [
+4111.0,
+351.0,
+48.0,
+48.0
+],
+"props": [
+[
+"Full name",
+"ibuprofen"
+],
+[
+"Synonyms",
+"(+-)-2-(p-isobutylphenyl)propionic acid; (+-)-alpha-methyl-4-(2-methylpropyl)benzeneacetic acid; (+-)-ibuprofen; (+-)-p-isobutylhydratropic acid; (4-isobutylphenyl)-alpha-methylacetic acid; (RS)-ibuprofen; 2-(4-isobutylphenyl)propanoic acid; 2-[4-(2-methylpropyl)phenyl]propanoic acid; 4-isobutylhydratropic acid; Adran; Advil; Amibufen; Anco; Anflagen; Apsifen; Bluton; Brufen; Brufort; Buburone; Butylenin; Dolgin; Dolgirid; Dolgit; Dolo-Dolgit; Ebufac; Epobron; Femadon; Haltran; Ibu-Attritin; Ibumetin; Ibuprocin; Ibutid; Inabrin; Inoven; Lamidon; Lebrufen; Liptan; Medipren; Motrin; Mynosedin; Nobfen; Nobgen; Nuprin; Nurofen; Pediaprofen; Roidenin; Rufen; Seclodin; Suspren; Tabalon; Trendar; Urem; alpha-(4-isobutylphenyl)propionic acid; alpha-(p-isobutylphenyl)propionic acid"
+],
+[
+"Definition",
+"A monocarboxylic acid that is propionic acid in which one of the hydrogens at position 2 is substituted by a 4-(2-methylpropyl)phenyl group."
+],
+[
+"Formula",
+"C13H18O2"
+],
+[
+"ChEBI",
+"CHEBI:5855"
+],
+[
+"KEGG",
+"C01588"
+],
+[
+"HMDB",
+"HMDB0001925"
+],
+[
+"InChI",
+"InChI=1S/C13H18O2/c1-9(2)8-11-4-6-12(7-5-11)10(3)13(14)15/h4-7,9-10H,8H2,1-3H3,(H,14,15)"
+],
+[
+"InChIKey",
+"HEFNNWSXXWATRW-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Naproxen",
+"class": "SimpleChemical",
+"box": [
+4171.0,
+391.0,
+48.0,
+48.0
+],
+"props": [
+[
+"Full name",
+"naproxen"
+],
+[
+"Synonyms",
+"(+)-(S)-6-Methoxy-alpha-methyl-2-naphthaleneacetic acid; (+)-(S)-Naproxen; (+)-2-(6-Methoxy-2-naphthyl)propionic acid; (+)-2-(Methoxy-2-naphthyl)-propionic acid; (+)-2-(Methoxy-2-naphthyl)-propionsaeure; (+)-Naproxen; (2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid; (S)-(+)-2-(6-Methoxy-2-naphthyl)propionic acid; (S)-(+)-Naproxen; (S)-2-(6-Methoxy-2-naphthyl)propanoic acid; (S)-2-(6-Methoxy-2-naphthyl)propionic acid; (S)-6-Methoxy-alpha-methyl-2-naphthaleneacetic acid; (S)-Naproxen; naproxene; naproxeno; naproxenum"
+],
+[
+"Definition",
+"A methoxynaphthalene that is 2-methoxynaphthalene substituted by a carboxy ethyl group at position 6. Naproxen is a non-steroidal anti-inflammatory drug commonly used for the reduction of pain, fever, inflammation  and stiffness caused by conditions such as osteoarthritis, kidney stones, rheumatoid arthritis, psoriatic arthritis, gout, ankylosing spondylitis, menstrual cramps, tendinitis, bursitis, and for the treatment of primary dysmenorrhea. It works by inhibiting both the COX-1 and COX-2 enzymes."
+],
+[
+"Formula",
+"C14H14O3"
+],
+[
+"ChEBI",
+"CHEBI:7476"
+],
+[
+"HMDB",
+"HMDB0001923"
+],
+[
+"InChI",
+"InChI=1S/C14H14O3/c1-9(14(15)16)10-3-4-12-8-13(17-2)6-5-11(12)7-10/h3-9H,1-2H3,(H,15,16)/t9-/m0/s1"
+],
+[
+"InChIKey",
+"CMWTZPSULFXXJA-VIFPVBQESA-N"
+]
+]
+},
+{
+"label": "Celecoxib",
+"class": "SimpleChemical",
+"box": [
+4231.0,
+431.0,
+48.0,
+48.0
+],
+"props": [
+[
+"Full name",
+"celecoxib"
+],
+[
+"Synonyms",
+"4-[5-(4-methylphenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl]benzenesulfonamide; Celebrex; celecoxibum; p-(5-p-Tolyl-3-(trifluoromethyl)pyrazol-1-yl)benzenesulfonamide"
+],
+[
+"Definition",
+"A member of the class of pyrazoles that is 1H-pyrazole which is substituted at positions 1, 3 and 5 by 4-sulfamoylphenyl, trifluoromethyl and p-tolyl groups, respectively. A cyclooxygenase-2 inhibitor, it is used in the treatment of arthritis."
+],
+[
+"Formula",
+"C17H14F3N3O2S"
+],
+[
+"ChEBI",
+"CHEBI:41423"
+],
+[
+"KEGG",
+"C07589"
+],
+[
+"HMDB",
+"HMDB0005014"
+],
+[
+"InChI",
+"InChI=1S/C17H14F3N3O2S/c1-11-2-4-12(5-3-11)15-10-16(17(18,19)20)22-23(15)13-6-8-14(9-7-13)26(21,24)25/h2-10H,1H3,(H2,21,24,25)"
+],
+[
+"InChIKey",
+"RZEKVGVHFLEQIL-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Rofecoxib",
+"class": "SimpleChemical",
+"box": [
+4291.0,
+471.0,
+48.0,
+48.0
+],
+"props": [
+[
+"Full name",
+"rofecoxib"
+],
+[
+"Synonyms",
+"3-phenyl-4-[4-(methylsulfonyl)phenyl]-2(5H)-furanone; 4-[4-(methylsulfonyl)phenyl]-3-phenyl-2(5H)-furanone; 4-[4-(methylsulfonyl)phenyl]-3-phenylfuran-2(5H)-one; Ceoxx; Vioxx; rofecoxibum"
+],
+[
+"Definition",
+"A butenolide that is furan-2(5H)-one substituted by a phenyl group at position 3 and by a p-(methylsulfonyl)phenyl group at position 4. A selective cyclooxygenase 2 inhibitor, it was used from 1999 to 2004 for the treatment of ostoarthritis, but was withdrawn following concerns about an associated increased risk of heart attack and stroke."
+],
+[
+"Formula",
+"C17H14O4S"
+],
+[
+"ChEBI",
+"CHEBI:8887"
+],
+[
+"KEGG",
+"C07590"
+],
+[
+"InChI",
+"InChI=1S/C17H14O4S/c1-22(19,20)14-9-7-12(8-10-14)15-11-21-17(18)16(15)13-5-3-2-4-6-13/h2-10H,11H2,1H3"
+],
+[
+"InChIKey",
+"RZJQGNCSTQAWON-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "CALCA",
+"class": "Macromolecule",
+"box": [
+1495.0,
+3560.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcitonin"
+],
+[
+"Function",
+"Calcitonin is a peptide hormone that causes a rapid but short-lived drop in the level of calcium and phosphate in blood by promoting the incorporation of those ions in the bones. Calcitonin function is mediated by the calcitonin receptor/CALCR and the CALCR-RAMP2 (AMYR2) receptor complex"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1437"
+],
+[
+"HGNC symbol",
+"CALCA"
+],
+[
+"Previous symbols",
+"CALC1"
+],
+[
+"Alias symbols",
+"CGRP, CGRP-alpha"
+],
+[
+"Entrez",
+"796"
+],
+[
+"Ensembl",
+"ENSG00000110680"
+],
+[
+"RefSeq",
+"NM_001741"
+],
+[
+"UniProt",
+"P01258"
+]
+]
+},
+{
+"label": "CALCB",
+"class": "Macromolecule",
+"box": [
+1495.0,
+3610.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcitonin gene-related peptide 2"
+],
+[
+"Alternative names",
+"Beta-type CGRP; Calcitonin gene-related peptide II"
+],
+[
+"Function",
+"CALCB/CGRP2 is a peptide hormone that induces vasodilation mediated by the CALCRL-RAMP1 receptor complex. Dilates a variety of vessels including the coronary, cerebral and systemic vasculature."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1438"
+],
+[
+"HGNC symbol",
+"CALCB"
+],
+[
+"Previous symbols",
+"CALC2"
+],
+[
+"Alias symbols",
+"FLJ30166, CGRP-II"
+],
+[
+"Entrez",
+"797"
+],
+[
+"Ensembl",
+"ENSG00000175868"
+],
+[
+"RefSeq",
+"NM_000728"
+],
+[
+"UniProt",
+"P10092"
+]
+]
+},
+{
+"label": "LTB4",
+"class": "SimpleChemical",
+"box": [
+1115.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene B4"
+],
+[
+"Synonyms",
+"(5S,12R,6Z,8E,10E,14Z)-5,12-dihydroxy-6,8,10,14-eicosatetraenoic acid; (5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyeicosa-6,8,10,14-tetraenoic acid; (5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid; (S-(R*,S*-(E,Z,E,Z)))-5,12-Dihydroxy-6,8,10,14-eicosatetraenoic acid; 5(S),12(R)-dihydroxy-6(Z),8(E),10(E),14(Z)-eicosatetraenoic acid; 5(S),12(R)-dihydroxy-6(Z),8(E),10(E),14(Z)-icosatetraenoic acid; 5,12-Dihete; 5,12-Hete; 5S,12R-diHETE; 5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid; LTB4"
+],
+[
+"Definition",
+"A leukotriene composed of (6Z,8E,10E,14Z)-icosatetraenoic acid having (5S)- and (12R)-hydroxy substituents. It is a lipid mediator of inflammation that is generated from arachidonic acid via the 5-lipoxygenase pathway."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:15647"
+],
+[
+"KEGG",
+"C02165"
+],
+[
+"HMDB",
+"HMDB0001085"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-4-5-6-9-13-18(21)14-10-7-8-11-15-19(22)16-12-17-20(23)24/h6-11,14-15,18-19,21-22H,2-5,12-13,16-17H2,1H3,(H,23,24)/b8-7+,9-6-,14-10+,15-11-/t18-,19-/m1/s1"
+],
+[
+"InChIKey",
+"VNYSSYRCGWBHLG-AMOLWHMGSA-N"
+]
+]
+},
+{
+"label": "PGE2",
+"class": "SimpleChemical",
+"box": [
+1635.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin E2"
+],
+[
+"Synonyms",
+"(15S)-prostaglandin E2; (5Z,11alpha,13E,15S)-11,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprost-13-enoate; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate; (5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (E,Z)-(1R,2R,3R)-7-(3-Hydroxy-2-((3S)-(3-hydroxy-1-octenyl))-5-oxocyclopentyl)-5-heptenoic acid; (Z)-7-((1R,2R,3R)-3-hydroxy-2-((S,E)-3-hydroxyoct-1-enyl)-5-oxocyclopentyl)hept-5-enoic acid; Cervidil; Cerviprime; Cerviprost; Dinoproston; Enzaprost E; Glandin-E2; Minprositin E2; Minprostin E2; PGE2; Prepidil; Propess; Prostarmon E; Prostenone; Prostin; Prostin E2; U 12062; U-12,062; U-12062; dinoprostona; dinoprostone; dinoprostonum"
+],
+[
+"Definition",
+"Prostaglandin F2α in which the hydroxy group at position 9 has been oxidised to the corresponding ketone. Prostaglandin E2 is the most common and most biologically potent of mammalian prostaglandins."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15551"
+],
+[
+"KEGG",
+"C00584"
+],
+[
+"HMDB",
+"HMDB0001220"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-17,19,21,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,19+/m0/s1"
+],
+[
+"InChIKey",
+"XEYBRNLFEZDVAW-ARSRFYASSA-N"
+]
+]
+},
+{
+"label": "K+",
+"class": "SimpleChemical",
+"box": [
+3995.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"potassium(1+)"
+],
+[
+"Synonyms",
+"K(+); K+; POTASSIUM ION; potassium cation; potassium(1+) ion; potassium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from potassium."
+],
+[
+"Formula",
+"K"
+],
+[
+"ChEBI",
+"CHEBI:29103"
+],
+[
+"KEGG",
+"C00238"
+],
+[
+"InChI",
+"InChI=1S/K/q+1"
+],
+[
+"InChIKey",
+"NPYPAHLBTDXSSS-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+5495.0,
+3075.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+5495.0,
+3195.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Bradykinin",
+"class": "SimpleChemical",
+"box": [
+2366.0,
+2286.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"bradykinin"
+],
+[
+"Synonyms",
+"Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg; BK; L-Arg-L-Pro-L-Pro-Gly-L-Phe-L-Ser-L-Pro-L-Phe-L-Arg; L-arginyl-L-prolyl-L-prolylglycyl-L-phenylalanyl-L-seryl-L-prolyl-L-phenylalanyl-L-arginine; L-bradykinin; RPPGFSPFR"
+],
+[
+"Definition",
+"A linear nonapeptide messenger belonging to the kinin group of proteins, with amino acid sequence RPPGFSPFR. Enzymatically produced from kallidin in the blood, it is a powerful vasodilator that causes smooth muscle contraction, and may mediate inflammation."
+],
+[
+"Formula",
+"C50H73N15O11"
+],
+[
+"ChEBI",
+"CHEBI:3165"
+],
+[
+"InChI",
+"InChI=1S/C50H73N15O11/c51-32(16-7-21-56-49(52)53)45(72)65-25-11-20-39(65)47(74)64-24-9-18-37(64)43(70)58-28-40(67)59-34(26-30-12-3-1-4-13-30)41(68)62-36(29-66)46(73)63-23-10-19-38(63)44(71)61-35(27-31-14-5-2-6-15-31)42(69)60-33(48(75)76)17-8-22-57-50(54)55/h1-6,12-15,32-39,66H,7-11,16-29,51H2,(H,58,70)(H,59,67)(H,60,69)(H,61,71)(H,62,68)(H,75,76)(H4,52,53,56)(H4,54,55,57)/t32-,33-,34-,35-,36-,37-,38-,39-/m0/s1"
+],
+[
+"InChIKey",
+"QXZGBUJJYSLZLT-FDISYFBBSA-N"
+]
+]
+},
+{
+"label": "Histamine",
+"class": "SimpleChemical",
+"box": [
+2498.0,
+2284.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"histamine"
+],
+[
+"Synonyms",
+"1H-Imidazole-4-ethanamine; 2-(1H-imidazol-4-yl)ethanamine; 2-(4-Imidazolyl)ethylamine"
+],
+[
+"Definition",
+"A member of the class of imidazoles that is 1H-imidazole substituted at position C-4 by a 2-aminoethyl group."
+],
+[
+"Formula",
+"C5H9N3"
+],
+[
+"ChEBI",
+"CHEBI:18295"
+],
+[
+"KEGG",
+"C00388"
+],
+[
+"HMDB",
+"HMDB0000870"
+],
+[
+"InChI",
+"InChI=1S/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)"
+],
+[
+"InChIKey",
+"NTYJJOPFIAHURM-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "NGF",
+"class": "Macromolecule",
+"box": [
+3335.0,
+2275.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Beta-nerve growth factor"
+],
+[
+"Function",
+"Nerve growth factor is important for the development and maintenance of the sympathetic and sensory nervous systems. Extracellular ligand for the NTRK1 and NGFR receptors, activates cellular signaling cascades to regulate neuronal proliferation, differentiation and survival (Probable)."
+],
+[
+"Location",
+"Secreted, Endosome lumen"
+],
+[
+"HGNC",
+"HGNC:7808"
+],
+[
+"HGNC symbol",
+"NGF"
+],
+[
+"Previous symbols",
+"NGFB"
+],
+[
+"Entrez",
+"4803"
+],
+[
+"Ensembl",
+"ENSG00000134259"
+],
+[
+"RefSeq",
+"NM_002506"
+],
+[
+"UniProt",
+"P01138"
+]
+]
+},
+{
+"label": "Cannabinoid",
+"class": "SimpleChemical",
+"box": [
+3118.8,
+3604.5,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"cannabinoid"
+],
+[
+"Synonyms",
+"cannabinoids"
+],
+[
+"Definition",
+"A diverse group of pharmacologically active secondary metabolite characteristic to Cannabis plant as well as produced naturally in the body by humans and animals. Cannabinoids contain oxygen as a part of the heterocyclic ring or in the form of various functional groups. They are subdivided on the basis of their origin."
+],
+[
+"ChEBI",
+"CHEBI:67194"
+]
+]
+},
+{
+"label": "TAC1",
+"class": "Macromolecule",
+"box": [
+495.0,
+2315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protachykinin-1"
+],
+[
+"Alternative names",
+"PPT"
+],
+[
+"Function",
+"Tachykinins are active peptides which excite neurons, evoke behavioral responses, are potent vasodilators and secretagogues, and contract (directly or indirectly) many smooth muscles"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:11517"
+],
+[
+"HGNC symbol",
+"TAC1"
+],
+[
+"Previous symbols",
+"TAC2, NKNA"
+],
+[
+"Alias symbols",
+"NPK"
+],
+[
+"Entrez",
+"6863"
+],
+[
+"Ensembl",
+"ENSG00000006128"
+],
+[
+"RefSeq",
+"NM_003182"
+],
+[
+"UniProt",
+"P20366"
+]
+]
+},
+{
+"label": "TNF",
+"class": "Macromolecule",
+"box": [
+695.0,
+2295.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor"
+],
+[
+"Alternative names",
+"Cachectin; TNF-alpha; Tumor necrosis factor ligand superfamily member 2"
+],
+[
+"Function",
+"Cytokine that binds to TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. It is mainly secreted by macrophages and can induce cell death of certain tumor cell lines."
+],
+[
+"Location",
+"Cell membrane, Membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:11892"
+],
+[
+"HGNC symbol",
+"TNF"
+],
+[
+"Previous symbols",
+"TNFA"
+],
+[
+"Alias symbols",
+"TNFSF2, DIF, TNF-alpha"
+],
+[
+"Entrez",
+"7124"
+],
+[
+"Ensembl",
+"ENSG00000232810"
+],
+[
+"RefSeq",
+"NM_000594"
+],
+[
+"UniProt",
+"P01375"
+]
+]
+},
+{
+"label": "BDNF",
+"class": "Macromolecule",
+"box": [
+1695.0,
+3595.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Neurotrophic factor BDNF precursor form"
+],
+[
+"Alternative names",
+"Abrineurin; Brain-derived neurotrophic factor"
+],
+[
+"Function",
+"Important signaling molecule that activates signaling cascades downstream of NTRK2. During development, promotes the survival and differentiation of selected neuronal populations of the peripheral and central nervous systems."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1033"
+],
+[
+"HGNC symbol",
+"BDNF"
+],
+[
+"Entrez",
+"627"
+],
+[
+"Ensembl",
+"ENSG00000176697"
+],
+[
+"RefSeq",
+"NM_170735"
+],
+[
+"UniProt",
+"P23560"
+]
+]
+},
+{
+"label": "Pethidine",
+"class": "SimpleChemical",
+"box": [
+2915.0,
+2125.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"pethidine"
+],
+[
+"Synonyms",
+"1-methyl-4-phenyl-4-piperidinecarboxylic acid ethyl ester; 1-methyl-4-phenylisonipecotic acid ethyl ester; 1-methyl-4-phenylpiperidine-4-carboxylic acid ethyl ester; Demerol; IDS-NP-001; Meperidol; N-methyl-4-phenyl-4-carbethoxypiperidine; Nemerol; Pethanol; ethyl 1-methyl-4-phenylisonipecotate; ethyl 1-methyl-4-phenylpiperidine-4-carboxylate; isonipecaine; meperidina; meperidine; methyl phenylpiperidine carbonic acid ethyl ester; pethidin; pethidineter; pethidinum; petidina; petydyna; phetidine"
+],
+[
+"Definition",
+"A piperidinecarboxylate ester that is piperidine which is substituted by a methyl group at position 1 and by phenyl and ethoxycarbonyl groups at position 4. It is an analgesic which is used for the treatment of moderate to severe pain, including postoperative pain and labour pain."
+],
+[
+"Formula",
+"C15H21NO2"
+],
+[
+"ChEBI",
+"CHEBI:6754"
+],
+[
+"KEGG",
+"C07128"
+],
+[
+"HMDB",
+"HMDB0014597"
+],
+[
+"InChI",
+"InChI=1S/C15H21NO2/c1-3-18-14(17)15(9-11-16(2)12-10-15)13-7-5-4-6-8-13/h4-8H,3,9-12H2,1-2H3"
+],
+[
+"InChIKey",
+"XADCESSVHJOZHK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Hydromorphone",
+"class": "SimpleChemical",
+"box": [
+2845.0,
+2115.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"hydromorphone"
+],
+[
+"Synonyms",
+"(-)-(5R)-4,5-Epoxy-3-hydroxy-9alpha-methylmorphinan-6-one; 3-hydroxy-17-methyl-4,5alpha-epoxymorphinan-6-one; 4,5-Epoxy-3-hydroxy-17-methylmorphinan-6-one; 4,5alpha-Epoxy-3-hydroxy-17-methyl-6-morphinanone; 6-Deoxy-7,8-dihydro-6-oxomorphine; 7,8-Dihydromorphinone; Dihydromorfinon; Dihydromorphinone; Dimorphone; Hydromorfona; Idromorfone; hidromorfona; hydromorphonum"
+],
+[
+"Definition",
+"A  morphinane alkaloid that is a hydrogenated ketone derivative of morphine. A semi-synthetic drug, it is a centrally acting pain medication of the opioid class."
+],
+[
+"Formula",
+"C17H19NO3"
+],
+[
+"ChEBI",
+"CHEBI:5790"
+],
+[
+"KEGG",
+"C07042"
+],
+[
+"InChI",
+"InChI=1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2,4,10-11,16,19H,3,5-8H2,1H3/t10-,11+,16-,17-/m0/s1"
+],
+[
+"InChIKey",
+"WVLOADHCBXTIJK-YNHQPCIGSA-N"
+]
+]
+},
+{
+"label": "Buprenorphine",
+"class": "SimpleChemical",
+"box": [
+2755.0,
+2115.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"buprenorphine"
+],
+[
+"Synonyms",
+"(-)-buprenorphine; (5alpha,6beta,14beta,18R)-17-(cyclopropylmethyl)-18-[(2S)-2-hydroxy-3,3-dimethylbutan-2-yl]-6-methoxy-18,19-dihydro-4,5-epoxy-6,14-ethenomorphinan-3-ol; 17-cyclopropylmethyl-4,5alpha-epoxy-7alpha-((S)-1-hydroxy-1,2,2-trimethylpropyl)-6-methoxy-6,14-endo-ethanomorphinan-3-ol; 2-(N-cyclopropylmethyl-4,5alpha-epoxy-3-hydroxy-6-methoxy-6,14-endo-ethanomorphinan-6alpha-yl)-3,3-dimethyl-2-butanol; 2-[3-cyclopropylmethyl-11-hydroxy-15-methoxy-(14R)-13-oxa-3-azahexacyclo[13.2.2.12,8.01,6.06,14.07,12]icosa-7,9,11-trien-16-yl]-3,3-dimethyl-2-butanol; 21-cyclopropyl-7alpha-[(S)-1-hydroxy-1,2,2-trimethylpropyl]-6,14-endo-ethano-6,7,8,14-tetrahydrooripavine; buprenorfina; buprenorphinum"
+],
+[
+"Definition",
+"A morphinane alkaloid that is 7,8-dihydromorphine 6-O-methyl ether in which positions 6 and 14 are joined by a -CH2CH2- bridge, one of the hydrogens of the N-methyl group is substituted by cyclopropyl, and a hydrogen at position 7 is substituted by a 2-hydroxy-3,3-dimethylbutan-2-yl group. It is highly effective for the treatment of opioid use disorder and is also increasingly being used in the treatment of chronic pain."
+],
+[
+"Formula",
+"C29H41NO4"
+],
+[
+"ChEBI",
+"CHEBI:3216"
+],
+[
+"KEGG",
+"C08007"
+],
+[
+"HMDB",
+"HMDB0015057"
+],
+[
+"InChI",
+"InChI=1S/C29H41NO4/c1-25(2,3)26(4,32)20-15-27-10-11-29(20,33-5)24-28(27)12-13-30(16-17-6-7-17)21(27)14-18-8-9-19(31)23(34-24)22(18)28/h8-9,17,20-21,24,31-32H,6-7,10-16H2,1-5H3/t20-,21-,24-,26+,27-,28+,29-/m1/s1"
+],
+[
+"InChIKey",
+"RMRJXGBAOAMLHD-IHFGGWKQSA-N"
+]
+]
+},
+{
+"label": "Naloxone",
+"class": "SimpleChemical",
+"box": [
+2675.0,
+2125.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"naloxone"
+],
+[
+"Synonyms",
+"(-)-naloxone; 1-N-Allyl-14-hydroxynordihydromorphinone; 17-allyl-3,14-dihydroxy-4,5alpha-epoxymorphinan-6-one; 3,14-dihydroxy-17-(prop-2-en-1-yl)-4,5alpha-epoxymorphinan-6-one; naloxona; naloxonum"
+],
+[
+"Definition",
+"A synthetic morphinane alkaloid that is morphinone in which the enone double bond has been reduced to a single bond, the hydrogen at position 14 has been replaced by a hydroxy group, and the methyl group attached to the nitrogen has been replaced by an allyl group. A specific opioid antagonist, it is used (commonly as its hydrochloride salt) to reverse the effects of opioids, both following their use of opioids during surgery and in cases of known or suspected opioid overdose."
+],
+[
+"Formula",
+"C19H21NO4"
+],
+[
+"ChEBI",
+"CHEBI:7459"
+],
+[
+"KEGG",
+"C07252"
+],
+[
+"HMDB",
+"HMDB0015314"
+],
+[
+"InChI",
+"InChI=1S/C19H21NO4/c1-2-8-20-9-7-18-15-11-3-4-12(21)16(15)24-17(18)13(22)5-6-19(18,23)14(20)10-11/h2-4,14,17,21,23H,1,5-10H2/t14-,17+,18+,19-/m1/s1"
+],
+[
+"InChIKey",
+"UZHSEJADLWPNLE-GRGSLBFTSA-N"
+]
+]
+},
+{
+"label": "Naloxone",
+"class": "SimpleChemical",
+"box": [
+3295.0,
+3525.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"naloxone"
+],
+[
+"Synonyms",
+"(-)-naloxone; 1-N-Allyl-14-hydroxynordihydromorphinone; 17-allyl-3,14-dihydroxy-4,5alpha-epoxymorphinan-6-one; 3,14-dihydroxy-17-(prop-2-en-1-yl)-4,5alpha-epoxymorphinan-6-one; naloxona; naloxonum"
+],
+[
+"Definition",
+"A synthetic morphinane alkaloid that is morphinone in which the enone double bond has been reduced to a single bond, the hydrogen at position 14 has been replaced by a hydroxy group, and the methyl group attached to the nitrogen has been replaced by an allyl group. A specific opioid antagonist, it is used (commonly as its hydrochloride salt) to reverse the effects of opioids, both following their use of opioids during surgery and in cases of known or suspected opioid overdose."
+],
+[
+"Formula",
+"C19H21NO4"
+],
+[
+"ChEBI",
+"CHEBI:7459"
+],
+[
+"KEGG",
+"C07252"
+],
+[
+"HMDB",
+"HMDB0015314"
+],
+[
+"InChI",
+"InChI=1S/C19H21NO4/c1-2-8-20-9-7-18-15-11-3-4-12(21)16(15)24-17(18)13(22)5-6-19(18,23)14(20)10-11/h2-4,14,17,21,23H,1,5-10H2/t14-,17+,18+,19-/m1/s1"
+],
+[
+"InChIKey",
+"UZHSEJADLWPNLE-GRGSLBFTSA-N"
+]
+]
+},
+{
+"label": "Buprenorphine",
+"class": "SimpleChemical",
+"box": [
+3375.0,
+3515.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"buprenorphine"
+],
+[
+"Synonyms",
+"(-)-buprenorphine; (5alpha,6beta,14beta,18R)-17-(cyclopropylmethyl)-18-[(2S)-2-hydroxy-3,3-dimethylbutan-2-yl]-6-methoxy-18,19-dihydro-4,5-epoxy-6,14-ethenomorphinan-3-ol; 17-cyclopropylmethyl-4,5alpha-epoxy-7alpha-((S)-1-hydroxy-1,2,2-trimethylpropyl)-6-methoxy-6,14-endo-ethanomorphinan-3-ol; 2-(N-cyclopropylmethyl-4,5alpha-epoxy-3-hydroxy-6-methoxy-6,14-endo-ethanomorphinan-6alpha-yl)-3,3-dimethyl-2-butanol; 2-[3-cyclopropylmethyl-11-hydroxy-15-methoxy-(14R)-13-oxa-3-azahexacyclo[13.2.2.12,8.01,6.06,14.07,12]icosa-7,9,11-trien-16-yl]-3,3-dimethyl-2-butanol; 21-cyclopropyl-7alpha-[(S)-1-hydroxy-1,2,2-trimethylpropyl]-6,14-endo-ethano-6,7,8,14-tetrahydrooripavine; buprenorfina; buprenorphinum"
+],
+[
+"Definition",
+"A morphinane alkaloid that is 7,8-dihydromorphine 6-O-methyl ether in which positions 6 and 14 are joined by a -CH2CH2- bridge, one of the hydrogens of the N-methyl group is substituted by cyclopropyl, and a hydrogen at position 7 is substituted by a 2-hydroxy-3,3-dimethylbutan-2-yl group. It is highly effective for the treatment of opioid use disorder and is also increasingly being used in the treatment of chronic pain."
+],
+[
+"Formula",
+"C29H41NO4"
+],
+[
+"ChEBI",
+"CHEBI:3216"
+],
+[
+"KEGG",
+"C08007"
+],
+[
+"HMDB",
+"HMDB0015057"
+],
+[
+"InChI",
+"InChI=1S/C29H41NO4/c1-25(2,3)26(4,32)20-15-27-10-11-29(20,33-5)24-28(27)12-13-30(16-17-6-7-17)21(27)14-18-8-9-19(31)23(34-24)22(18)28/h8-9,17,20-21,24,31-32H,6-7,10-16H2,1-5H3/t20-,21-,24-,26+,27-,28+,29-/m1/s1"
+],
+[
+"InChIKey",
+"RMRJXGBAOAMLHD-IHFGGWKQSA-N"
+]
+]
+},
+{
+"label": "Hydromorphone",
+"class": "SimpleChemical",
+"box": [
+3465.0,
+3515.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"hydromorphone"
+],
+[
+"Synonyms",
+"(-)-(5R)-4,5-Epoxy-3-hydroxy-9alpha-methylmorphinan-6-one; 3-hydroxy-17-methyl-4,5alpha-epoxymorphinan-6-one; 4,5-Epoxy-3-hydroxy-17-methylmorphinan-6-one; 4,5alpha-Epoxy-3-hydroxy-17-methyl-6-morphinanone; 6-Deoxy-7,8-dihydro-6-oxomorphine; 7,8-Dihydromorphinone; Dihydromorfinon; Dihydromorphinone; Dimorphone; Hydromorfona; Idromorfone; hidromorfona; hydromorphonum"
+],
+[
+"Definition",
+"A  morphinane alkaloid that is a hydrogenated ketone derivative of morphine. A semi-synthetic drug, it is a centrally acting pain medication of the opioid class."
+],
+[
+"Formula",
+"C17H19NO3"
+],
+[
+"ChEBI",
+"CHEBI:5790"
+],
+[
+"KEGG",
+"C07042"
+],
+[
+"InChI",
+"InChI=1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2,4,10-11,16,19H,3,5-8H2,1H3/t10-,11+,16-,17-/m0/s1"
+],
+[
+"InChIKey",
+"WVLOADHCBXTIJK-YNHQPCIGSA-N"
+]
+]
+},
+{
+"label": "Pethidine",
+"class": "SimpleChemical",
+"box": [
+3535.0,
+3525.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"pethidine"
+],
+[
+"Synonyms",
+"1-methyl-4-phenyl-4-piperidinecarboxylic acid ethyl ester; 1-methyl-4-phenylisonipecotic acid ethyl ester; 1-methyl-4-phenylpiperidine-4-carboxylic acid ethyl ester; Demerol; IDS-NP-001; Meperidol; N-methyl-4-phenyl-4-carbethoxypiperidine; Nemerol; Pethanol; ethyl 1-methyl-4-phenylisonipecotate; ethyl 1-methyl-4-phenylpiperidine-4-carboxylate; isonipecaine; meperidina; meperidine; methyl phenylpiperidine carbonic acid ethyl ester; pethidin; pethidineter; pethidinum; petidina; petydyna; phetidine"
+],
+[
+"Definition",
+"A piperidinecarboxylate ester that is piperidine which is substituted by a methyl group at position 1 and by phenyl and ethoxycarbonyl groups at position 4. It is an analgesic which is used for the treatment of moderate to severe pain, including postoperative pain and labour pain."
+],
+[
+"Formula",
+"C15H21NO2"
+],
+[
+"ChEBI",
+"CHEBI:6754"
+],
+[
+"KEGG",
+"C07128"
+],
+[
+"HMDB",
+"HMDB0014597"
+],
+[
+"InChI",
+"InChI=1S/C15H21NO2/c1-3-18-14(17)15(9-11-16(2)12-10-15)13-7-5-4-6-8-13/h4-8H,3,9-12H2,1-2H3"
+],
+[
+"InChIKey",
+"XADCESSVHJOZHK-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Oxycodone",
+"class": "SimpleChemical",
+"box": [
+3485.0,
+3555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"oxycodone"
+],
+[
+"Synonyms",
+"(-)-14-Hydroxydihydrocodeinone; 14-hydroxy-3-methoxy-17-methyl-4,5alpha-epoxymorphinan-6-one; 4,5-Epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one; 4,5alpha-Epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one; Dihydro-14-hydroxycodeinone; Dihydrohydroxycodeinone; Dihydroxycodeinone; oxicodona; oxycodonum"
+],
+[
+"Definition",
+"A semisynthetic opioid of formula C18H21NO4 that is derived from thebaine.  It is a moderately potent opioid analgesic, generally used for relief of moderate to severe pain."
+],
+[
+"Formula",
+"C18H21NO4"
+],
+[
+"ChEBI",
+"CHEBI:7852"
+],
+[
+"KEGG",
+"C08018"
+],
+[
+"InChI",
+"InChI=1S/C18H21NO4/c1-19-8-7-17-14-10-3-4-12(22-2)15(14)23-16(17)11(20)5-6-18(17,21)13(19)9-10/h3-4,13,16,21H,5-9H2,1-2H3/t13-,16+,17+,18-/m1/s1"
+],
+[
+"InChIKey",
+"BRUQQQPBMZOVGD-XFKAJCMBSA-N"
+]
+]
+},
+{
+"label": "Morphine",
+"class": "SimpleChemical",
+"box": [
+3415.0,
+3555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"morphine"
+],
+[
+"Synonyms",
+"(-)-morphine; (5R,6S,9R,13S,14R)-4,5-epoxy-N-methyl-7-morphinen-3,6-diol; (5alpha,6alpha)-17-methyl-7,8-didehydro-4,5-epoxymorphinan-3,6-diol; (5alpha,6alpha)-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol; (7R,7AS,12BS)-3-METHYL-2,3,4,4A,7,7A-HEXAHYDRO-1H-4,12-METHANO[1]BENZOFURO[3,2-E]ISOQUINOLINE-7,9-DIOL; 17-methyl-7,8-didehydro-4,5alpha-epoxymorphinan-3,6alpha-diol; Morphia; Morphin; morfina; morphinum; morphium"
+],
+[
+"Definition",
+"A morphinane alkaloid that is a highly potent opiate analgesic psychoactive drug. Morphine acts directly on the central nervous system (CNS) to relieve pain but has a high potential for addiction, with tolerance and both physical and psychological dependence developing rapidly. Morphine is the most abundant opiate found in Papaver somniferum (the opium poppy)."
+],
+[
+"Formula",
+"C17H19NO3"
+],
+[
+"ChEBI",
+"CHEBI:17303"
+],
+[
+"KEGG",
+"C01516"
+],
+[
+"InChI",
+"InChI=1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2-5,10-11,13,16,19-20H,6-8H2,1H3/t10-,11+,13-,16-,17-/m0/s1"
+],
+[
+"InChIKey",
+"BQJCRHHNABKAKU-KBQPJGBKSA-N"
+]
+]
+},
+{
+"label": "Tramadol",
+"class": "SimpleChemical",
+"box": [
+3255.0,
+3555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"tramadol"
+],
+[
+"Synonyms",
+"(+-)-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol; CG-315E; E-265; U-26225A; rac-(1R,2R)-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol; tramadolum"
+],
+[
+"Definition",
+"A racemate consisting of equal amounts of (R,R)- and (S,S)-tramadol. A centrally acting synthetic opioid analgesic, used (as the hydrochloride salt) to treat moderately severe pain. The (R,R)-enantiomer exhibits ten-fold higher analgesic potency than the (S,S)-enantiomer. Originally developed by Grünenthal GmbH and launched in 1977, it was subsequently isolated from the root bark of the South African tree Nauclea latifolia."
+],
+[
+"Formula",
+"C16H25NO2"
+],
+[
+"ChEBI",
+"CHEBI:9648"
+],
+[
+"KEGG",
+"C07153"
+],
+[
+"HMDB",
+"HMDB0014339"
+]
+]
+},
+{
+"label": "Codein",
+"class": "SimpleChemical",
+"box": [
+3335.0,
+3555.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"codeine"
+],
+[
+"Synonyms",
+"(-)-Codeine; (1S,13R,14S,17R)-10-methoxy-4-methyl-12-oxa-4-azapentacyclo[9.6.1.0(1,13).0(5,17).0(7,18)]octadeca-7(18),8,10,15-tetraen-14-ol; (5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol; 3-methoxy-17-methyl-7,8-didehydro-4,5alpha-epoxymorphinan-6alpha-ol; 7,8-didehydro-4,5alpha-epoxy-3-methoxy-17-methylmorphinan-6alpha-ol; Codein; Codicept; Coducept; O(3)-methylmorphine; codeina; codeine anhydrous; l-codeine; methylmorphine; morphine 3-methyl ether; morphine monomethyl ether; morphine-3-methyl ether"
+],
+[
+"Definition",
+"A  morphinane alkaloid found in the opium poppy, Papaver somniferum var. album; has analgesic, anti-tussive and anti-diarrhoeal properties."
+],
+[
+"Formula",
+"C18H21NO3"
+],
+[
+"ChEBI",
+"CHEBI:16714"
+],
+[
+"KEGG",
+"C06174"
+],
+[
+"InChI",
+"InChI=1S/C18H21NO3/c1-19-8-7-18-11-4-5-13(20)17(18)22-16-14(21-2)6-3-10(15(16)18)9-12(11)19/h3-6,11-13,17,20H,7-9H2,1-2H3/t11-,12+,13-,17-,18-/m0/s1"
+],
+[
+"InChIKey",
+"OROGSEYTTFOCAN-DNJOTXNNSA-N"
+]
+]
+},
+{
+"label": "Fentanyl",
+"class": "SimpleChemical",
+"box": [
+3585.0,
+3565.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"fentanyl"
+],
+[
+"Synonyms",
+"1-phenethyl-4-(N-phenylpropionamido)piperidine; 1-phenethyl-4-N-propionylanilinopiperidine; Duragesic; N-(1-phenethyl-4-piperidinyl)-N-phenylpropionamide; N-(1-phenethyl-4-piperidyl)propionanilide; N-(1-phenethyl-piperidin-4-yl)-N-phenyl-propionamide; N-(1-phenethylpiperidin-4-yl)-N-phenylpropionamide; N-phenethyl-4-(N-propionylanilino)piperidine; N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)propanamide; N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide; fentanilo; fentanylum; phentanyl"
+],
+[
+"Definition",
+"A monocarboxylic acid amide resulting from the formal condensation of the aryl amino group of N-phenyl-1-(2-phenylethyl)piperidin-4-amine with propanoic acid."
+],
+[
+"Formula",
+"C22H28N2O"
+],
+[
+"ChEBI",
+"CHEBI:119915"
+],
+[
+"InChI",
+"InChI=1S/C22H28N2O/c1-2-22(25)24(20-11-7-4-8-12-20)21-14-17-23(18-15-21)16-13-19-9-5-3-6-10-19/h3-12,21H,2,13-18H2,1H3"
+],
+[
+"InChIKey",
+"PJMPHNIQZUBGLI-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Tapentadol",
+"class": "SimpleChemical",
+"box": [
+3583.0,
+3513.0,
+44.0,
+44.0
+],
+"props": [
+[
+"Full name",
+"tapentadol"
+],
+[
+"Formula",
+"C14H23NO"
+],
+[
+"ChEBI",
+"CHEBI:135935"
+],
+[
+"InChI",
+"InChI=1S/C14H23NO/c1-5-14(11(2)10-15(3)4)12-7-6-8-13(16)9-12/h6-9,11,14,16H,5,10H2,1-4H3/t11-,14+/m0/s1"
+],
+[
+"InChIKey",
+"KWTWDQCKEHXFFR-SMDDNHRTSA-N"
+]
+]
+},
+{
+"label": "Tapentadol",
+"class": "SimpleChemical",
+"box": [
+2963.0,
+2103.0,
+44.0,
+44.0
+],
+"props": [
+[
+"Full name",
+"tapentadol"
+],
+[
+"Formula",
+"C14H23NO"
+],
+[
+"ChEBI",
+"CHEBI:135935"
+],
+[
+"InChI",
+"InChI=1S/C14H23NO/c1-5-14(11(2)10-15(3)4)12-7-6-8-13(16)9-12/h6-9,11,14,16H,5,10H2,1-4H3/t11-,14+/m0/s1"
+],
+[
+"InChIKey",
+"KWTWDQCKEHXFFR-SMDDNHRTSA-N"
+]
+]
+},
+{
+"label": "CALCA",
+"class": "Macromolecule",
+"box": [
+185.0,
+2315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcitonin"
+],
+[
+"Function",
+"Calcitonin is a peptide hormone that causes a rapid but short-lived drop in the level of calcium and phosphate in blood by promoting the incorporation of those ions in the bones. Calcitonin function is mediated by the calcitonin receptor/CALCR and the CALCR-RAMP2 (AMYR2) receptor complex"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1437"
+],
+[
+"HGNC symbol",
+"CALCA"
+],
+[
+"Previous symbols",
+"CALC1"
+],
+[
+"Alias symbols",
+"CGRP, CGRP-alpha"
+],
+[
+"Entrez",
+"796"
+],
+[
+"Ensembl",
+"ENSG00000110680"
+],
+[
+"RefSeq",
+"NM_001741"
+],
+[
+"UniProt",
+"P01258"
+]
+]
+},
+{
+"label": "CALCB",
+"class": "Macromolecule",
+"box": [
+285.0,
+2315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Calcitonin gene-related peptide 2"
+],
+[
+"Alternative names",
+"Beta-type CGRP; Calcitonin gene-related peptide II"
+],
+[
+"Function",
+"CALCB/CGRP2 is a peptide hormone that induces vasodilation mediated by the CALCRL-RAMP1 receptor complex. Dilates a variety of vessels including the coronary, cerebral and systemic vasculature."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:1438"
+],
+[
+"HGNC symbol",
+"CALCB"
+],
+[
+"Previous symbols",
+"CALC2"
+],
+[
+"Alias symbols",
+"FLJ30166, CGRP-II"
+],
+[
+"Entrez",
+"797"
+],
+[
+"Ensembl",
+"ENSG00000175868"
+],
+[
+"RefSeq",
+"NM_000728"
+],
+[
+"UniProt",
+"P10092"
+]
+]
+},
+{
+"label": "Glutamate",
+"class": "SimpleChemical",
+"box": [
+2395.0,
+3595.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"glutamate(1-)"
+],
+[
+"Synonyms",
+"2-ammoniopentanedioate; glutamate; glutamic acid monoanion; hydrogen glutamate"
+],
+[
+"Definition",
+"An α-amino-acid anion that is the conjugate base of glutamic acid, having anionic carboxy groups and a cationic amino group"
+],
+[
+"Formula",
+"C5H8NO4"
+],
+[
+"ChEBI",
+"CHEBI:14321"
+],
+[
+"InChI",
+"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1"
+],
+[
+"InChIKey",
+"WHUUTDBJXJRKMK-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "TAC1",
+"class": "Macromolecule",
+"box": [
+1935.0,
+3595.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Protachykinin-1"
+],
+[
+"Alternative names",
+"PPT"
+],
+[
+"Function",
+"Tachykinins are active peptides which excite neurons, evoke behavioral responses, are potent vasodilators and secretagogues, and contract (directly or indirectly) many smooth muscles"
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:11517"
+],
+[
+"HGNC symbol",
+"TAC1"
+],
+[
+"Previous symbols",
+"TAC2, NKNA"
+],
+[
+"Alias symbols",
+"NPK"
+],
+[
+"Entrez",
+"6863"
+],
+[
+"Ensembl",
+"ENSG00000006128"
+],
+[
+"RefSeq",
+"NM_003182"
+],
+[
+"UniProt",
+"P20366"
+]
+]
+},
+{
+"label": "CCL2",
+"class": "Macromolecule",
+"box": [
+855.0,
+2295.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"C-C motif chemokine 2"
+],
+[
+"Alternative names",
+"HC11; Monocyte chemoattractant protein 1; Monocyte chemotactic and activating factor; Monocyte chemotactic protein 1; Monocyte secretory protein JE; Small-inducible cytokine A2"
+],
+[
+"Function",
+"Acts as a ligand for C-C chemokine receptor CCR2. Signals through binding and activation of CCR2 and induces a strong chemotactic response and mobilization of intracellular calcium ions."
+],
+[
+"Location",
+"Secreted"
+],
+[
+"HGNC",
+"HGNC:10618"
+],
+[
+"HGNC symbol",
+"CCL2"
+],
+[
+"Previous symbols",
+"SCYA2"
+],
+[
+"Alias symbols",
+"MCP1, MCP-1, MCAF, SMC-CF, GDCF-2, HC11, MGC9434"
+],
+[
+"Entrez",
+"6347"
+],
+[
+"Ensembl",
+"ENSG00000108691"
+],
+[
+"RefSeq",
+"NM_002982"
+],
+[
+"UniProt",
+"P13500"
+]
+]
+},
+{
+"label": "Noradrenaline",
+"class": "SimpleChemical",
+"box": [
+4695.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"noradrenaline"
+],
+[
+"Synonyms",
+"4-(2-amino-1-hydroxyethyl)benzene-1,2-diol; noradrenalina; norepinephrine"
+],
+[
+"Definition",
+"A catecholamine in which C-1 of the aminoethyl side-chain is hydroxy-substituted."
+],
+[
+"Formula",
+"C8H11NO3"
+],
+[
+"ChEBI",
+"CHEBI:33569"
+],
+[
+"InChI",
+"InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2"
+],
+[
+"InChIKey",
+"SFLSHLFXELFNJZ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Noradrenaline",
+"class": "SimpleChemical",
+"box": [
+3815.0,
+3635.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"noradrenaline"
+],
+[
+"Synonyms",
+"4-(2-amino-1-hydroxyethyl)benzene-1,2-diol; noradrenalina; norepinephrine"
+],
+[
+"Definition",
+"A catecholamine in which C-1 of the aminoethyl side-chain is hydroxy-substituted."
+],
+[
+"Formula",
+"C8H11NO3"
+],
+[
+"ChEBI",
+"CHEBI:33569"
+],
+[
+"InChI",
+"InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2"
+],
+[
+"InChIKey",
+"SFLSHLFXELFNJZ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Noradrenaline",
+"class": "SimpleChemical",
+"box": [
+4215.0,
+3635.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"noradrenaline"
+],
+[
+"Synonyms",
+"4-(2-amino-1-hydroxyethyl)benzene-1,2-diol; noradrenalina; norepinephrine"
+],
+[
+"Definition",
+"A catecholamine in which C-1 of the aminoethyl side-chain is hydroxy-substituted."
+],
+[
+"Formula",
+"C8H11NO3"
+],
+[
+"ChEBI",
+"CHEBI:33569"
+],
+[
+"InChI",
+"InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2"
+],
+[
+"InChIKey",
+"SFLSHLFXELFNJZ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Normetanephrine",
+"class": "SimpleChemical",
+"box": [
+4515.0,
+3635.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Normetanephrine"
+],
+[
+"Formula",
+"C9H13NO3"
+],
+[
+"ChEBI",
+"CHEBI:89951"
+],
+[
+"HMDB",
+"HMDB0000819"
+],
+[
+"InChI",
+"InChI=1S/C9H13NO3/c1-13-9-4-6(8(12)5-10)2-3-7(9)11/h2-4,8,11-12H,5,10H2,1H3"
+],
+[
+"InChIKey",
+"YNYAYWLBAHXHLL-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "COMT",
+"class": "Macromolecule",
+"box": [
+4615.0,
+3615.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Catechol O-methyltransferase"
+],
+[
+"Function",
+"Catalyzes the O-methylation, and thereby the inactivation, of catecholamine neurotransmitters and catechol hormones. Also shortens the biological half-lives of certain neuroactive drugs, like L-DOPA, alpha-methyl DOPA and isoproterenol"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2228"
+],
+[
+"HGNC symbol",
+"COMT"
+],
+[
+"Entrez",
+"1312"
+],
+[
+"Ensembl",
+"ENSG00000093010"
+],
+[
+"RefSeq",
+"NM_000754"
+],
+[
+"UniProt",
+"P21964"
+]
+]
+},
+{
+"label": "Normetanephrine",
+"class": "SimpleChemical",
+"box": [
+5095.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Normetanephrine"
+],
+[
+"Formula",
+"C9H13NO3"
+],
+[
+"ChEBI",
+"CHEBI:89951"
+],
+[
+"HMDB",
+"HMDB0000819"
+],
+[
+"InChI",
+"InChI=1S/C9H13NO3/c1-13-9-4-6(8(12)5-10)2-3-7(9)11/h2-4,8,11-12H,5,10H2,1H3"
+],
+[
+"InChIKey",
+"YNYAYWLBAHXHLL-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "COMT",
+"class": "Macromolecule",
+"box": [
+5175.0,
+2195.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Catechol O-methyltransferase"
+],
+[
+"Function",
+"Catalyzes the O-methylation, and thereby the inactivation, of catecholamine neurotransmitters and catechol hormones. Also shortens the biological half-lives of certain neuroactive drugs, like L-DOPA, alpha-methyl DOPA and isoproterenol"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2228"
+],
+[
+"HGNC symbol",
+"COMT"
+],
+[
+"Entrez",
+"1312"
+],
+[
+"Ensembl",
+"ENSG00000093010"
+],
+[
+"RefSeq",
+"NM_000754"
+],
+[
+"UniProt",
+"P21964"
+]
+]
+},
+{
+"label": "Noradrenaline",
+"class": "SimpleChemical",
+"box": [
+4015.0,
+3635.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"noradrenaline"
+],
+[
+"Synonyms",
+"4-(2-amino-1-hydroxyethyl)benzene-1,2-diol; noradrenalina; norepinephrine"
+],
+[
+"Definition",
+"A catecholamine in which C-1 of the aminoethyl side-chain is hydroxy-substituted."
+],
+[
+"Formula",
+"C8H11NO3"
+],
+[
+"ChEBI",
+"CHEBI:33569"
+],
+[
+"InChI",
+"InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2"
+],
+[
+"InChIKey",
+"SFLSHLFXELFNJZ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Codein",
+"class": "SimpleChemical",
+"box": [
+2715.0,
+2155.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"codeine"
+],
+[
+"Synonyms",
+"(-)-Codeine; (1S,13R,14S,17R)-10-methoxy-4-methyl-12-oxa-4-azapentacyclo[9.6.1.0(1,13).0(5,17).0(7,18)]octadeca-7(18),8,10,15-tetraen-14-ol; (5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol; 3-methoxy-17-methyl-7,8-didehydro-4,5alpha-epoxymorphinan-6alpha-ol; 7,8-didehydro-4,5alpha-epoxy-3-methoxy-17-methylmorphinan-6alpha-ol; Codein; Codicept; Coducept; O(3)-methylmorphine; codeina; codeine anhydrous; l-codeine; methylmorphine; morphine 3-methyl ether; morphine monomethyl ether; morphine-3-methyl ether"
+],
+[
+"Definition",
+"A  morphinane alkaloid found in the opium poppy, Papaver somniferum var. album; has analgesic, anti-tussive and anti-diarrhoeal properties."
+],
+[
+"Formula",
+"C18H21NO3"
+],
+[
+"ChEBI",
+"CHEBI:16714"
+],
+[
+"KEGG",
+"C06174"
+],
+[
+"InChI",
+"InChI=1S/C18H21NO3/c1-19-8-7-18-11-4-5-13(20)17(18)22-16-14(21-2)6-3-10(15(16)18)9-12(11)19/h3-6,11-13,17,20H,7-9H2,1-2H3/t11-,12+,13-,17-,18-/m0/s1"
+],
+[
+"InChIKey",
+"OROGSEYTTFOCAN-DNJOTXNNSA-N"
+]
+]
+},
+{
+"label": "Tramadol",
+"class": "SimpleChemical",
+"box": [
+2635.0,
+2155.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"tramadol"
+],
+[
+"Synonyms",
+"(+-)-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol; CG-315E; E-265; U-26225A; rac-(1R,2R)-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol; tramadolum"
+],
+[
+"Definition",
+"A racemate consisting of equal amounts of (R,R)- and (S,S)-tramadol. A centrally acting synthetic opioid analgesic, used (as the hydrochloride salt) to treat moderately severe pain. The (R,R)-enantiomer exhibits ten-fold higher analgesic potency than the (S,S)-enantiomer. Originally developed by Grünenthal GmbH and launched in 1977, it was subsequently isolated from the root bark of the South African tree Nauclea latifolia."
+],
+[
+"Formula",
+"C16H25NO2"
+],
+[
+"ChEBI",
+"CHEBI:9648"
+],
+[
+"KEGG",
+"C07153"
+],
+[
+"HMDB",
+"HMDB0014339"
+]
+]
+},
+{
+"label": "Morphine",
+"class": "SimpleChemical",
+"box": [
+2795.0,
+2155.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"morphine"
+],
+[
+"Synonyms",
+"(-)-morphine; (5R,6S,9R,13S,14R)-4,5-epoxy-N-methyl-7-morphinen-3,6-diol; (5alpha,6alpha)-17-methyl-7,8-didehydro-4,5-epoxymorphinan-3,6-diol; (5alpha,6alpha)-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol; (7R,7AS,12BS)-3-METHYL-2,3,4,4A,7,7A-HEXAHYDRO-1H-4,12-METHANO[1]BENZOFURO[3,2-E]ISOQUINOLINE-7,9-DIOL; 17-methyl-7,8-didehydro-4,5alpha-epoxymorphinan-3,6alpha-diol; Morphia; Morphin; morfina; morphinum; morphium"
+],
+[
+"Definition",
+"A morphinane alkaloid that is a highly potent opiate analgesic psychoactive drug. Morphine acts directly on the central nervous system (CNS) to relieve pain but has a high potential for addiction, with tolerance and both physical and psychological dependence developing rapidly. Morphine is the most abundant opiate found in Papaver somniferum (the opium poppy)."
+],
+[
+"Formula",
+"C17H19NO3"
+],
+[
+"ChEBI",
+"CHEBI:17303"
+],
+[
+"KEGG",
+"C01516"
+],
+[
+"InChI",
+"InChI=1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2-5,10-11,13,16,19-20H,6-8H2,1H3/t10-,11+,13-,16-,17-/m0/s1"
+],
+[
+"InChIKey",
+"BQJCRHHNABKAKU-KBQPJGBKSA-N"
+]
+]
+},
+{
+"label": "Oxycodone",
+"class": "SimpleChemical",
+"box": [
+2875.0,
+2155.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"oxycodone"
+],
+[
+"Synonyms",
+"(-)-14-Hydroxydihydrocodeinone; 14-hydroxy-3-methoxy-17-methyl-4,5alpha-epoxymorphinan-6-one; 4,5-Epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one; 4,5alpha-Epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one; Dihydro-14-hydroxycodeinone; Dihydrohydroxycodeinone; Dihydroxycodeinone; oxicodona; oxycodonum"
+],
+[
+"Definition",
+"A semisynthetic opioid of formula C18H21NO4 that is derived from thebaine.  It is a moderately potent opioid analgesic, generally used for relief of moderate to severe pain."
+],
+[
+"Formula",
+"C18H21NO4"
+],
+[
+"ChEBI",
+"CHEBI:7852"
+],
+[
+"KEGG",
+"C08018"
+],
+[
+"InChI",
+"InChI=1S/C18H21NO4/c1-19-8-7-17-14-10-3-4-12(22-2)15(14)23-16(17)11(20)5-6-18(17,21)13(19)9-10/h3-4,13,16,21H,5-9H2,1-2H3/t13-,16+,17+,18-/m1/s1"
+],
+[
+"InChIKey",
+"BRUQQQPBMZOVGD-XFKAJCMBSA-N"
+]
+]
+},
+{
+"label": "PGI2",
+"class": "SimpleChemical",
+"box": [
+1315.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin I2"
+],
+[
+"Synonyms",
+"(5Z,13E)-(15S)-6,9alpha-Epoxy-11alpha,15-dihydroxyprosta-5,13-dienoate; (5Z,13E,15S)-6,9alpha-epoxy-11alpha,15-dihydroxyprosta-5,13-dienoic acid; (5Z,9alpha,11alpha,13E,15S)-6,9-epoxy-11,15-dihydroxyprosta-5,13-dien-1-oic acid; Epoprostenol; Flolan; PGI2; PGX; Prostacyclin; Vasocyclin; prostaglandin X"
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15552"
+],
+[
+"KEGG",
+"C01312"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-4-7-14(21)10-11-16-17-12-15(8-5-6-9-20(23)24)25-19(17)13-18(16)22/h8,10-11,14,16-19,21-22H,2-7,9,12-13H2,1H3,(H,23,24)/b11-10+,15-8-/t14-,16+,17+,18+,19-/m0/s1"
+],
+[
+"InChIKey",
+"KAQKFAOMNZTLHT-OZUDYXHBSA-N"
+]
+]
+},
+{
+"label": "Fentanyl",
+"class": "SimpleChemical",
+"box": [
+2965.0,
+2155.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"fentanyl"
+],
+[
+"Synonyms",
+"1-phenethyl-4-(N-phenylpropionamido)piperidine; 1-phenethyl-4-N-propionylanilinopiperidine; Duragesic; N-(1-phenethyl-4-piperidinyl)-N-phenylpropionamide; N-(1-phenethyl-4-piperidyl)propionanilide; N-(1-phenethyl-piperidin-4-yl)-N-phenyl-propionamide; N-(1-phenethylpiperidin-4-yl)-N-phenylpropionamide; N-phenethyl-4-(N-propionylanilino)piperidine; N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)propanamide; N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide; fentanilo; fentanylum; phentanyl"
+],
+[
+"Definition",
+"A monocarboxylic acid amide resulting from the formal condensation of the aryl amino group of N-phenyl-1-(2-phenylethyl)piperidin-4-amine with propanoic acid."
+],
+[
+"Formula",
+"C22H28N2O"
+],
+[
+"ChEBI",
+"CHEBI:119915"
+],
+[
+"InChI",
+"InChI=1S/C22H28N2O/c1-2-22(25)24(20-11-7-4-8-12-20)21-14-17-23(18-15-21)16-13-19-9-5-3-6-10-19/h3-12,21H,2,13-18H2,1H3"
+],
+[
+"InChIKey",
+"PJMPHNIQZUBGLI-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Cannabinoid",
+"class": "SimpleChemical",
+"box": [
+3075.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"cannabinoid"
+],
+[
+"Synonyms",
+"cannabinoids"
+],
+[
+"Definition",
+"A diverse group of pharmacologically active secondary metabolite characteristic to Cannabis plant as well as produced naturally in the body by humans and animals. Cannabinoids contain oxygen as a part of the heterocyclic ring or in the form of various functional groups. They are subdivided on the basis of their origin."
+],
+[
+"ChEBI",
+"CHEBI:67194"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+3595.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+3835.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+4395.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+4275.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+3715.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "Na+",
+"class": "SimpleChemical",
+"box": [
+4155.0,
+2275.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"sodium(1+)"
+],
+[
+"Synonyms",
+"Na(+); Na+; SODIUM ION; sodium cation; sodium(1+) ion; sodium(I) cation"
+],
+[
+"Definition",
+"A monoatomic monocation obtained from sodium."
+],
+[
+"Formula",
+"Na"
+],
+[
+"ChEBI",
+"CHEBI:29101"
+],
+[
+"KEGG",
+"C01330"
+],
+[
+"InChI",
+"InChI=1S/Na/q+1"
+],
+[
+"InChIKey",
+"FKNQFGJONOIPTF-UHFFFAOYSA-N"
+]
+]
+}
+]
+}

@@ -1265,5 +1265,59 @@
 ],
 "data": null,
 "hasText": false
+},
+{
+"id": "af33",
+"title": "Activity Flow, original (af33 as on MINERVA)",
+"topic": "Activity Flow (original af33)",
+"group": "Activity Flow",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/af33.svg",
+"width": 5748.0,
+"height": 4898.0,
+"scale": 1,
+"annotation": "data/af33.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/af33.graphml"
+},
+{
+"label": "SVG",
+"url": "files/af33.svg"
+}
+],
+"data": "data/af33-text.json",
+"hasText": true
+},
+{
+"id": "af33-revised",
+"title": "Activity Flow, revised after the Process Description blocks",
+"topic": "Activity Flow (revised)",
+"group": "Activity Flow",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/af33-revised.svg",
+"width": 6394.0,
+"height": 5348.0,
+"scale": 1,
+"annotation": "data/af33-revised.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/af33-revised.graphml"
+},
+{
+"label": "SVG",
+"url": "files/af33-revised.svg"
+}
+],
+"data": "data/af33-revised-text.json",
+"hasText": true
 }
 ]
