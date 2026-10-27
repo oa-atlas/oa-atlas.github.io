@@ -14,14 +14,14 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="340.0" width="672.0" x="32.0" y="236.0"/>
+              <y:Geometry height="364.0" width="672.0" x="32.0" y="212.0"/>
               <y:Fill color="#99999908" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tr" textColor="#000000" verticalTextPosition="top" visible="true" width="237.5" x="6182.0" xml:space="preserve" y="1737.5" hasText="true">NOCICEPTOR</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
-              <y:Insets bottom="0" bottomF="0.0" left="15" leftF="15.0" right="15" rightF="15.0" top="13" topF="13.25"/>
-              <y:BorderInsets bottom="34" bottomF="33.75" left="17" leftF="17.0" right="17" rightF="17.0" top="6" topF="6.25"/>
+              <y:Insets bottom="0" bottomF="0.0" left="15" leftF="15.0" right="15" rightF="15.0" top="12" topF="11.5"/>
+              <y:BorderInsets bottom="34" bottomF="33.75" left="17" leftF="17.0" right="17" rightF="17.0" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="1762.0" width="6423.5" x="112.0" y="357.25"/>
@@ -31,7 +31,7 @@
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="3" bottomF="2.97265625" left="17" leftF="17.0" right="17" rightF="17.0" top="25" topF="25.0"/>
+              <y:BorderInsets bottom="3" bottomF="2.97265625" left="17" leftF="17.0" right="17" rightF="17.0" top="17" topF="17.0"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
@@ -52,7 +52,7 @@
       </data>
     </node><node id="cyslt2"><data key="d3">HGNC:18274</data><data key="d1">CYSLTR2</data><data key="d2">Q9NS75</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="64.0" y="276.0"/>
+              <y:Geometry height="40" width="80" x="64.0" y="244.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">CYSLTR2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -174,7 +174,7 @@
     <edge id="cyslt2_pB_consumption" source="cyslt2" target="pB">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0" sy="0" tx="0" ty="0"/>
+          <y:Path sx="0" sy="0" tx="0" ty="0"><y:Point x="232" y="264"/></y:Path>
           <y:LineStyle color="#CC0000" type="line" width="2.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
