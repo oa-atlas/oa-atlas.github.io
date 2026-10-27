@@ -864,33 +864,6 @@
 "hasText": true
 },
 {
-"id": "na-comt",
-"title": "Noradrenaline - COMT - normetanephrine",
-"topic": "Noradrenaline - COMT - normetanephrine",
-"group": "Spinal nociceptive neuron",
-"kind": null,
-"tag": null,
-"tab": null,
-"image": "files/na-comt.svg",
-"width": 396.0,
-"height": 160.0,
-"scale": 1,
-"annotation": "data/na-comt.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/na-comt.graphml"
-},
-{
-"label": "SVG",
-"url": "files/na-comt.svg"
-}
-],
-"data": "data/na-comt-text.json",
-"hasText": true
-},
-{
 "id": "na-comt-receptors",
 "title": "Noradrenaline - α2A, β2 and COMT",
 "topic": "Noradrenaline - α2A, β2 and COMT",
@@ -899,8 +872,8 @@
 "tag": "new",
 "tab": null,
 "image": "files/na-comt-receptors.svg",
-"width": 3481.0,
-"height": 1276.0,
+"width": 3318.0,
+"height": 1318.0,
 "scale": 1,
 "annotation": "data/na-comt-receptors.json",
 "imageError": null,
