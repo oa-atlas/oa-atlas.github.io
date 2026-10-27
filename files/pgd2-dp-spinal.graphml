@@ -32,7 +32,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="420.0" y="60.0"/>
           <y:Fill color="#E8E8DD" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="41.1943359375" x="-0.59716796875" xml:space="preserve" y="9.755859375">PGD2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -86,7 +86,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="271.0" y="247.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -111,7 +111,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="112.0" y="204.2228490832158"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="50.046875" x="14.9765625" xml:space="preserve" y="9.755859375">PTGDR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -134,7 +134,7 @@
                 <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
                   <y:Geometry height="140.5" width="104.0" x="228.0" y="313.75"/>
                   <y:Fill color="#F7F7F7" transparent="false"/>
-                  <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="91.6708984375" x="6.16455078125" xml:space="preserve" y="112.01171875">PGD2:PTGDR</y:NodeLabel>
                   <y:StyleProperties>
                     <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
@@ -174,7 +174,7 @@
                 <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
                   <y:Geometry height="40.0" width="40.0" x="260.0" y="329.75"/>
                   <y:Fill color="#E8E8DD" transparent="false"/>
-                  <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="41.1943359375" x="-0.59716796875" xml:space="preserve" y="9.755859375">PGD2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
                 </y:GenericNode>
               </data>
@@ -192,7 +192,7 @@
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
                   <y:Geometry height="40.0" width="80.0" x="240.0" y="377.75"/>
                   <y:Fill color="#B7CFDE" transparent="false"/>
-                  <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="50.046875" x="14.9765625" xml:space="preserve" y="9.755859375">PTGDR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
                   <y:StyleProperties>
                     <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -215,7 +215,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="591.0" y="247.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -240,7 +240,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="673.5796897038082" y="204.2228490832158"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="58.8994140625" x="10.55029296875" xml:space="preserve" y="9.755859375">PTGDR2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -263,7 +263,7 @@
                 <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
                   <y:Geometry height="140.5" width="104.0" x="548.0" y="313.75"/>
                   <y:Fill color="#F7F7F7" transparent="false"/>
-                  <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="100.5234375" x="1.73828125" xml:space="preserve" y="112.01171875">PGD2:PTGDR2</y:NodeLabel>
                   <y:StyleProperties>
                     <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
@@ -303,7 +303,7 @@
                 <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
                   <y:Geometry height="40.0" width="40.0" x="580.0" y="329.75"/>
                   <y:Fill color="#E8E8DD" transparent="false"/>
-                  <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="41.1943359375" x="-0.59716796875" xml:space="preserve" y="9.755859375">PGD2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
                 </y:GenericNode>
               </data>
@@ -321,7 +321,7 @@
                 <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
                   <y:Geometry height="40.0" width="80.0" x="560.0" y="377.75"/>
                   <y:Fill color="#E6B3AC" transparent="false"/>
-                  <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="58.8994140625" x="10.55029296875" xml:space="preserve" y="9.755859375">PTGDR2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
                   <y:StyleProperties>
                     <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -344,7 +344,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Phenotype">
               <y:Geometry height="60.0" width="160.0" x="360.0" y="530.0"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="144.5810546875" x="7.70947265625" xml:space="preserve" y="19.755859375">Mechanical allodynia<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -356,7 +356,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -367,7 +367,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -380,7 +380,7 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="280.0" y="80.0"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -393,7 +393,7 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="280.0" y="224.2228490832158"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -404,7 +404,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -417,7 +417,7 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="600.0" y="80.0"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -430,7 +430,7 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="600.0" y="224.2228490832158"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -441,7 +441,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -454,7 +454,7 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="280.0" y="560.0"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="t_shape"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -467,7 +467,7 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="600.0" y="560.0"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -486,7 +486,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Phenotype">
               <y:Geometry height="60.0" width="256.0" x="312.0" y="-174.0"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="221.5673828125" x="17.21630859375" xml:space="preserve" y="19.755859375">SPINAL MICROGLIA ACTIVATION<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -504,7 +504,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="431.0" y="-33.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>

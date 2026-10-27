@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!--Created by yEd 3.25.1-->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
@@ -68,7 +68,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Operator">
               <y:Geometry height="30.0" width="30.0" x="290.98667935299716" y="281.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="14.1328125" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="16.91015625" x="6.544921875" xml:space="preserve" y="7.93359375">OR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -86,7 +86,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="751.0" y="550.4291151284491"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -100,9 +100,9 @@
         </node>
         <node id="n0::n2">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[TRPA1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[O75762]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:497]]></data>
+          <data key="d4" xml:space="preserve">TRPA1</data>
+          <data key="d5" xml:space="preserve">O75762</data>
+          <data key="d6" xml:space="preserve">HGNC:497</data>
           <data key="d7"/>
           <data key="d8"/>
           <data key="d9"/>
@@ -111,7 +111,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="720.0" y="633.5642245480494"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.955078125" x="16.0224609375" xml:space="preserve" y="9.755859375">TRPA1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -120,7 +120,7 @@
           </data>
         </node>
         <node id="n0::n3">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:29108]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:29108</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -132,7 +132,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="580.0" y="539.4291151284491"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="41.3994140625" x="-0.69970703125" xml:space="preserve" y="9.755859375">Ca2+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -150,7 +150,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Operator">
               <y:Geometry height="30.0" width="30.0" x="745.0" y="233.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="14.1328125" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="16.91015625" x="6.544921875" xml:space="preserve" y="7.93359375">OR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -168,7 +168,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="751.0" y="328.5"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -181,7 +181,7 @@
           </data>
         </node>
         <node id="n0::n6">
-          <data key="d3" xml:space="preserve"><![CDATA[CHEBI:29108]]></data>
+          <data key="d3" xml:space="preserve">CHEBI:29108</data>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -193,16 +193,16 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="580.0" y="317.5"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="41.3994140625" x="-0.69970703125" xml:space="preserve" y="9.755859375">Ca2+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
         </node>
         <node id="n0::n7">
           <data key="d3"/>
-          <data key="d4" xml:space="preserve"><![CDATA[TRPV1]]></data>
-          <data key="d5" xml:space="preserve"><![CDATA[Q8NER1]]></data>
-          <data key="d6" xml:space="preserve"><![CDATA[HGNC:12716]]></data>
+          <data key="d4" xml:space="preserve">TRPV1</data>
+          <data key="d5" xml:space="preserve">Q8NER1</data>
+          <data key="d6" xml:space="preserve">HGNC:12716</data>
           <data key="d7"/>
           <data key="d8"/>
           <data key="d9"/>
@@ -211,7 +211,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="720.0" y="412.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.44921875" x="16.275390625" xml:space="preserve" y="9.755859375">TRPV1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -222,7 +222,7 @@
       </graph>
     </node>
     <node id="n1">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36190]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:36190</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -234,13 +234,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="93.98667935299716" y="84.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="91.85546875" x="-25.927734375" xml:space="preserve" y="9.755859375">Hepoxilin A3<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n2">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34450]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:34450</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -252,13 +252,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="189.98667935299716" y="84.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="58.263671875" x="-9.1318359375" xml:space="preserve" y="9.755859375">5,6-EET<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n3">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:27820]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:27820</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -270,13 +270,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="285.98667935299716" y="84.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="40.3671875" x="-0.18359375" xml:space="preserve" y="9.755859375">PGA2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n4">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:34159]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:34159</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -288,13 +288,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="381.98667935299716" y="84.0"/>
           <y:Fill color="#E8E8DD" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="69.6796875" x="-14.83984375" xml:space="preserve" y="9.755859375">15d-PGJ2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n5">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:29108]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:29108</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -306,13 +306,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="916.4338725023788" y="539.4291151284491"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="41.3994140625" x="-0.69970703125" xml:space="preserve" y="9.755859375">Ca2+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n6">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15626]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:15626</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -324,13 +324,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="532.0" y="84.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.5791015625" x="-24.78955078125" xml:space="preserve" y="9.755859375">12(S)-HpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n7">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15628]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:15628</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -342,13 +342,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="636.0" y="84.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.5791015625" x="-24.78955078125" xml:space="preserve" y="9.755859375">15(S)-HpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n8">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:28209]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:28209</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -360,13 +360,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="740.0" y="84.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="71.9150390625" x="-15.95751953125" xml:space="preserve" y="9.755859375">5(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n9">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15558]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:15558</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -378,13 +378,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="844.0" y="84.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="80.767578125" x="-20.3837890625" xml:space="preserve" y="9.755859375">15(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n10">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:15647]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:15647</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -396,13 +396,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="948.0" y="84.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="37.22265625" x="1.388671875" xml:space="preserve" y="9.755859375">LTB4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n11">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:36190]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:36190</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -414,13 +414,13 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1052.0" y="84.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="91.85546875" x="-25.927734375" xml:space="preserve" y="9.755859375">Hepoxilin A3<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
     <node id="n12">
-      <data key="d3" xml:space="preserve"><![CDATA[CHEBI:29108]]></data>
+      <data key="d3" xml:space="preserve">CHEBI:29108</data>
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
@@ -432,7 +432,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="916.4338725023788" y="317.5"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="41.3994140625" x="-0.69970703125" xml:space="preserve" y="9.755859375">Ca2+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -442,7 +442,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -453,7 +453,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -464,7 +464,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -478,7 +478,7 @@
             <y:Point x="305.98667935299716" y="487.1636536631779"/>
             <y:Point x="760.0" y="487.1636536631779"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -489,7 +489,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -500,7 +500,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -511,7 +511,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -522,7 +522,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -533,7 +533,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -544,7 +544,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -555,7 +555,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -566,7 +566,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -577,7 +577,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -588,7 +588,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -599,7 +599,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -610,7 +610,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -621,7 +621,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -632,7 +632,7 @@
       <data key="d16">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>

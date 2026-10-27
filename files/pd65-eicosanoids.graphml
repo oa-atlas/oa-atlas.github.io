@@ -429,7 +429,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="1708.0" y="965.0049681084031"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="93.3046875" x="-26.65234375" xml:space="preserve" y="9.755859375">15-epi-LXA4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -443,7 +443,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1495.0" y="324.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="58.46875" x="10.765625" xml:space="preserve" y="9.755859375">ALOX15<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -655,7 +655,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="324.0" y="1764.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="214.287109375" x="-87.1435546875" xml:space="preserve" y="9.755859375">Lipoxin C4 (LXC4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -686,7 +686,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1392.0" y="324.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="58.46875" x="10.765625" xml:space="preserve" y="9.755859375">ALOX12<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -852,7 +852,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="-60.0" y="1300.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="127.6279296875" x="-43.81396484375" xml:space="preserve" y="9.755859375">LTC4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -1139,7 +1139,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1800.0" y="812.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="49.6162109375" x="15.19189453125" xml:space="preserve" y="9.755859375">ALOX5<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -1170,7 +1170,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="1844.0" y="947.0024854261869"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="91.6982421875" x="-25.84912109375" xml:space="preserve" y="9.755859375">15-epi-LXB4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -1198,7 +1198,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="500.0" y="1132.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="123.9775390625" x="-41.98876953125" xml:space="preserve" y="9.755859375">LTC4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -1432,7 +1432,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1408.0" y="892.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="49.6162109375" x="15.19189453125" xml:space="preserve" y="9.755859375">ALOX5<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -1545,7 +1545,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="1708.0" y="828.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="90.8916015625" x="-25.44580078125" xml:space="preserve" y="9.755859375">15(R)-HpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -1798,7 +1798,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="324.0" y="1300.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="249.5810546875" x="-104.79052734375" xml:space="preserve" y="9.755859375">Eoxin C4 (14,15-LTC4)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -2101,7 +2101,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="1800.0" y="911.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -2437,7 +2437,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="1719.0" y="751.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -2794,7 +2794,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="1719.0" y="911.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3067,7 +3067,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="1305.0" y="903.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3543,7 +3543,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1488.0" y="540.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="67.013671875" x="6.4931640625" xml:space="preserve" y="9.755859375">ALOX5AP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -3560,7 +3560,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3032.0" y="740.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="52.20703125" x="13.896484375" xml:space="preserve" y="9.755859375">CYP2J2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -3577,7 +3577,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3544.0" y="740.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="52.20703125" x="13.896484375" xml:space="preserve" y="9.755859375">CYP2J2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -3594,7 +3594,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3032.0" y="916.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.23046875" x="16.384765625" xml:space="preserve" y="9.755859375">EPHX2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -3611,7 +3611,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3544.0" y="916.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.23046875" x="16.384765625" xml:space="preserve" y="9.755859375">EPHX2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -3628,7 +3628,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="2924.0" y="836.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="58.263671875" x="-9.1318359375" xml:space="preserve" y="9.755859375">5,6-EET<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -3642,7 +3642,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="2935.0" y="751.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3663,7 +3663,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3180.0" y="836.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="58.263671875" x="-9.1318359375" xml:space="preserve" y="9.755859375">8,9-EET<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -3677,7 +3677,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3191.0" y="751.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3698,7 +3698,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3180.0" y="996.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="71.4501953125" x="-15.72509765625" xml:space="preserve" y="9.755859375">8,9-DHET<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -3712,7 +3712,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3191.0" y="927.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3733,7 +3733,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3436.0" y="836.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="75.96875" x="-17.984375" xml:space="preserve" y="9.755859375">11,12-EET<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -3747,7 +3747,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3447.0" y="751.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3768,7 +3768,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3436.0" y="996.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.1552734375" x="-24.57763671875" xml:space="preserve" y="9.755859375">11,12-DHET<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -3782,7 +3782,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3447.0" y="927.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3803,7 +3803,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3692.0" y="836.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="75.96875" x="-17.984375" xml:space="preserve" y="9.755859375">14,15-EET<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -3817,7 +3817,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3703.0" y="751.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3838,7 +3838,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3692.0" y="996.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.1552734375" x="-24.57763671875" xml:space="preserve" y="9.755859375">14,15-DHET<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -3852,7 +3852,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3703.0" y="927.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3873,7 +3873,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="184.0" y="124.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.23046875" x="16.384765625" xml:space="preserve" y="9.755859375">EPHX2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -3890,7 +3890,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="184.0" y="356.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="47.23046875" x="16.384765625" xml:space="preserve" y="9.755859375">EPHX2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -3907,7 +3907,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3631.0" y="1391.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3928,7 +3928,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3620.0" y="1460.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="102.0205078125" x="-31.01025390625" xml:space="preserve" y="9.755859375">15-keto-PGE2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -3942,7 +3942,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3631.0" y="1551.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -3963,7 +3963,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="3620.0" y="1620.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="210.0625" x="-85.03125" xml:space="preserve" y="9.755859375">13,14-dihydro-15-keto-PGE2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -3977,7 +3977,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3504.0" y="1380.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="42.6298828125" x="18.68505859375" xml:space="preserve" y="9.755859375">HPGD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -3994,7 +3994,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="3504.0" y="1540.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="48.4130859375" x="15.79345703125" xml:space="preserve" y="9.755859375">PTGR2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
@@ -4011,7 +4011,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="2607.0" y="1639.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4032,7 +4032,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="2596.0" y="1708.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="94.494140625" x="-27.2470703125" xml:space="preserve" y="9.755859375">delta12-PGJ2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -4046,7 +4046,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="2607.0" y="1799.0"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4067,7 +4067,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
               <y:Geometry height="40.0" width="40.0" x="2596.0" y="1868.0"/>
               <y:Fill color="#E8E8DD" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="69.6796875" x="-14.83984375" xml:space="preserve" y="9.755859375">15d-PGJ2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
             </y:GenericNode>
           </data>
@@ -4081,7 +4081,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="-169.0" y="2074.5618331847436"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4102,7 +4102,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="16.78152739883228" y="2074.0618331847436"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4123,7 +4123,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="936.8959887369829" y="2074.5618331847436"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4144,7 +4144,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="1183.0" y="2074.5618331847436"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4165,7 +4165,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="2535.0" y="2074.5618331847436"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4186,7 +4186,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="2607.0" y="2074.5618331847436"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4207,7 +4207,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3439.0" y="2074.5618331847436"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4228,7 +4228,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="3790.94150061259" y="2074.5618331847436"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4249,7 +4249,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="1598.9346728669761" y="2074.5618331847436"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4270,7 +4270,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18.0" width="18.0" x="1477.2259437009893" y="2074.5618331847436"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -4293,7 +4293,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="-180.0" y="2263.5618331847436"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="91.85546875" x="-25.927734375" xml:space="preserve" y="9.755859375">Hepoxilin A3<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -4307,7 +4307,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="5.7815273988322815" y="2263.0618331847436"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="71.9150390625" x="-15.95751953125" xml:space="preserve" y="9.755859375">5(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -4321,7 +4321,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="927.0" y="2263.5618331847436"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="80.767578125" x="-20.3837890625" xml:space="preserve" y="9.755859375">15(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -4335,7 +4335,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1172.0" y="2263.5618331847436"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="125.4609375" x="-42.73046875" xml:space="preserve" y="9.755859375">Lipoxin A4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -4349,7 +4349,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="2524.0" y="2263.5618331847436"/>
           <y:Fill color="#E8E8DD" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="41.1943359375" x="-0.59716796875" xml:space="preserve" y="9.755859375">PGD2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -4363,7 +4363,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="2596.0" y="2263.5618331847436"/>
           <y:Fill color="#E8E8DD" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="69.6796875" x="-14.83984375" xml:space="preserve" y="9.755859375">15d-PGJ2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -4377,7 +4377,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="3428.0" y="2263.5618331847436"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="40.3671875" x="-0.18359375" xml:space="preserve" y="9.755859375">PGA2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -4391,7 +4391,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="3779.94150061259" y="2263.5618331847436"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="58.263671875" x="-9.1318359375" xml:space="preserve" y="9.755859375">5,6-EET<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -4405,7 +4405,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1587.9346728669761" y="2263.5618331847436"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.5791015625" x="-24.78955078125" xml:space="preserve" y="9.755859375">12(S)-HpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -4419,7 +4419,7 @@
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1466.2259437009893" y="2263.5618331847436"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
-          <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.5791015625" x="-24.78955078125" xml:space="preserve" y="9.755859375">15(S)-HpETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
@@ -4428,7 +4428,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4440,7 +4440,7 @@
           <y:Path sx="8.976785620833653" sy="19.5" tx="0.0" ty="0.0">
             <y:Point x="2944.0" y="682.5"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4450,7 +4450,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4460,7 +4460,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4472,7 +4472,7 @@
           <y:Path sx="8.976785620833653" sy="19.5" tx="0.0" ty="0.0">
             <y:Point x="3200.0" y="682.5"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4482,7 +4482,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4492,7 +4492,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4502,7 +4502,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4512,7 +4512,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4522,7 +4522,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4534,7 +4534,7 @@
           <y:Path sx="8.976785620833653" sy="19.5" tx="0.0" ty="0.0">
             <y:Point x="3456.0" y="682.5"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4544,7 +4544,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4554,7 +4554,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4564,7 +4564,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4574,7 +4574,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4584,7 +4584,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4596,7 +4596,7 @@
           <y:Path sx="8.976785620833653" sy="19.5" tx="0.0" ty="0.0">
             <y:Point x="3712.0" y="682.5"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4606,7 +4606,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4616,7 +4616,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4626,7 +4626,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4636,7 +4636,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4646,7 +4646,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4656,7 +4656,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4666,7 +4666,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4678,7 +4678,7 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="3640.0" y="1328.0"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4688,7 +4688,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4698,7 +4698,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4708,7 +4708,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4718,7 +4718,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4728,7 +4728,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_circle"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4738,7 +4738,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4748,7 +4748,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4758,7 +4758,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4768,7 +4768,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4781,7 +4781,7 @@
             <y:Point x="344.0" y="80.0"/>
             <y:Point x="-156.83611696644888" y="80.0"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4796,7 +4796,7 @@
             <y:Point x="-136.83611696644888" y="2041.7750066501853"/>
             <y:Point x="25.78152739883228" y="2041.7750066501853"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4809,7 +4809,7 @@
             <y:Point x="854.0" y="2043.0063227690503"/>
             <y:Point x="945.8959887369829" y="2043.0063227690503"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4819,7 +4819,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="10.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4831,7 +4831,7 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="2544.0" y="1337.0"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4841,7 +4841,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4851,7 +4851,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4864,7 +4864,7 @@
             <y:Point x="2944.0" y="1072.0"/>
             <y:Point x="3799.94150061259" y="1072.0"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4876,7 +4876,7 @@
           <y:Path sx="0.0" sy="10.0" tx="0.0" ty="0.0">
             <y:Point x="1607.9346728669761" y="434.0"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -4890,7 +4890,7 @@
             <y:Point x="1582.1040112630171" y="2045.4485942318947"/>
             <y:Point x="1486.2259437009893" y="2045.4485942318947"/>
           </y:Path>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -7293,7 +7293,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -7303,7 +7303,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -7313,7 +7313,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -7323,7 +7323,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -7333,7 +7333,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -7343,7 +7343,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -7353,7 +7353,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -7363,7 +7363,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -7373,7 +7373,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
@@ -7383,7 +7383,7 @@
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#CC0000" type="line" width="2.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
