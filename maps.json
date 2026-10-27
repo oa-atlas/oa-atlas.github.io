@@ -8,7 +8,7 @@
 "tag": null,
 "tab": null,
 "image": "files/pd65-eicosanoids.svg",
-"width": 3803.0,
+"width": 3968.0,
 "height": 2402.0,
 "scale": 1,
 "annotation": "data/pd65-eicosanoids.json",
@@ -429,6 +429,33 @@
 }
 ],
 "data": "data/channels-ap-nociceptor-vertical-text.json",
+"hasText": true
+},
+{
+"id": "eicosanoid-receptors",
+"title": "Eicosanoids - TRPV1, TRPA1, CysLT2, DP1, DP2, FPR2",
+"topic": "Eicosanoid receptors",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/eicosanoid-receptors.svg",
+"width": 1870.0,
+"height": 1074.0,
+"scale": 1,
+"annotation": "data/eicosanoid-receptors.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/eicosanoid-receptors.graphml"
+},
+{
+"label": "SVG",
+"url": "files/eicosanoid-receptors.svg"
+}
+],
+"data": "data/eicosanoid-receptors-text.json",
 "hasText": true
 },
 {

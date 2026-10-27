@@ -137,50 +137,6 @@
 ]
 },
 {
-"label": "11(R)-HETE",
-"class": "SimpleChemical",
-"box": [
-3309.0,
-891.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"11(R)-HETE"
-],
-[
-"Synonyms",
-"(11R)-hydroxy-(5Z),(8Z),(12E),(14Z)-eicosatetraenoic acid; (5Z,8Z,11R,12E,14Z)-11-hydroxyeicosa-5,8,12,14-tetraenoic acid; (5Z,8Z,11R,12E,14Z)-11-hydroxyicosa-5,8,12,14-tetraenoic acid; (5Z,8Z,12E,14Z)-(11R)-Hydroxyeicosa-5,8,12,14-tetraenoic acid; (5Z,8Z,12E,14Z)-(11R)-Hydroxyicosa-5,8,12,14-tetraenoic acid; (R)-(Z,E,Z,Z)-11-hydroxyeicosatetraenoic acid; (R)-11-hydroxy-eicosa-5,8,12,14-tetraenoic acid; 11(R)-hydroxyeicosatetraenoic acid; 11R-HETE"
-],
-[
-"Definition",
-"An 11-HETE in which the chiral centre at position 11 has R-configuration."
-],
-[
-"Formula",
-"C20H32O3"
-],
-[
-"ChEBI",
-"CHEBI:34126"
-],
-[
-"KEGG",
-"C14780"
-],
-[
-"InChI",
-"InChI=1S/C20H32O3/c1-2-3-4-5-7-10-13-16-19(21)17-14-11-8-6-9-12-15-18-20(22)23/h6-7,9-11,13-14,16,19,21H,2-5,8,12,15,17-18H2,1H3,(H,22,23)/b9-6-,10-7-,14-11-,16-13+/t19-/m0/s1"
-],
-[
-"InChIKey",
-"GCZRCCHPLVMMJE-WXMXURGXSA-N"
-]
-]
-},
-{
 "label": "12(S),20-diHETE",
 "class": "SimpleChemical",
 "box": [
@@ -1785,66 +1741,6 @@
 ]
 },
 {
-"label": "PTGES",
-"class": "Macromolecule",
-"box": [
-3169.0,
-875.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Prostaglandin E synthase"
-],
-[
-"Alternative names",
-"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
-],
-[
-"Function",
-"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
-],
-[
-"Location",
-"Membrane, Cytoplasm, perinuclear region"
-],
-[
-"HGNC",
-"HGNC:9599"
-],
-[
-"HGNC symbol",
-"PTGES"
-],
-[
-"Previous symbols",
-"MGST1L1"
-],
-[
-"Alias symbols",
-"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
-],
-[
-"Entrez",
-"9536"
-],
-[
-"Ensembl",
-"ENSG00000148344"
-],
-[
-"RefSeq",
-"NM_004878"
-],
-[
-"UniProt",
-"O14684"
-]
-]
-},
-{
 "label": "5(S),15(S)-diHpETE",
 "class": "SimpleChemical",
 "box": [
@@ -2265,50 +2161,6 @@
 [
 "InChIKey",
 "ZIOZYRSDNLNNNJ-LQWMCKPYSA-N"
-]
-]
-},
-{
-"label": "PGC2",
-"class": "SimpleChemical",
-"box": [
-3597.0,
-1555.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"prostaglandin C2"
-],
-[
-"Synonyms",
-"(5Z,13E,15S)-15-hydroxy-9-oxoprosta-5,11,13-trien-1-oic acid; PGC2"
-],
-[
-"Definition",
-"A member of the class of prostaglandins C that is prosta-5,11,13-trien-1-oic acid carrying oxo and hydroxy substituents at positions 9 and 15 respectively (the 5Z,13E,15S-stereoisomer)."
-],
-[
-"Formula",
-"C20H30O4"
-],
-[
-"ChEBI",
-"CHEBI:27555"
-],
-[
-"KEGG",
-"C05955"
-],
-[
-"InChI",
-"InChI=1S/C20H30O4/c1-2-3-6-9-17(21)14-12-16-13-15-19(22)18(16)10-7-4-5-8-11-20(23)24/h4,7,12-14,17-18,21H,2-3,5-6,8-11,15H2,1H3,(H,23,24)/b7-4-,14-12+/t17-,18+/m0/s1"
-],
-[
-"InChIKey",
-"CMBOTAQMTNMTBD-KLASNZEFSA-N"
 ]
 ]
 },
@@ -4457,54 +4309,6 @@
 ]
 },
 {
-"label": "8-iso-PGF2alpha",
-"class": "SimpleChemical",
-"box": [
-3485.0,
-891.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"8-epi-prostaglandin F2alpha"
-],
-[
-"Synonyms",
-"(5Z,13E,15S)-9alpha,11alpha,15-trihydroxy-8beta-prosta-5,13-dien-1-oic acid; 8-Epiprostaglandin F2alpha; 8-Iso-PGF2a; 8-Iso-PGF2alpha; 8-IsoP; 8-Isoprostaglandin F2alpha; 8-Isoprostane; 8-epi-PGF2alpha; 8-iso-PGF2alpha-III; 9,11,15-Trihydroxy-prosta-5,13-dien-1-oic acid"
-],
-[
-"Definition",
-"An isoprostane that is prostaglandin F2α having inverted stereochemistry at the 8-position."
-],
-[
-"Formula",
-"C20H34O5"
-],
-[
-"ChEBI",
-"CHEBI:34505"
-],
-[
-"KEGG",
-"C13809"
-],
-[
-"HMDB",
-"HMDB0005083"
-],
-[
-"InChI",
-"InChI=1S/C20H34O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-19,21-23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16-,17+,18-,19+/m0/s1"
-],
-[
-"InChIKey",
-"PXGPLTODNUVGFL-NAPLMKITSA-N"
-]
-]
-},
-{
 "label": "Arachidonic acid",
 "class": "SimpleChemical",
 "box": [
@@ -4545,46 +4349,6 @@
 [
 "InChIKey",
 "DEFJQIDDEAULHB-IMJSIDKUSA-N"
-]
-]
-},
-{
-"label": "PGB2",
-"class": "SimpleChemical",
-"box": [
-3597.0,
-1683.0,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"prostaglandin B2"
-],
-[
-"Synonyms",
-"(5Z,13E,15R)-15-hydroxy-9-oxoprosta-5,8(12),13-trien-1-oic acid; (5Z,13E,15S)-15-hydroxy-9-oxoprosta-5,8(12),13-trien-1-oic acid; PGB2"
-],
-[
-"Formula",
-"C20H30O4"
-],
-[
-"ChEBI",
-"CHEBI:28099"
-],
-[
-"KEGG",
-"C05954"
-],
-[
-"InChI",
-"InChI=1S/C20H30O4/c1-2-3-6-9-17(21)14-12-16-13-15-19(22)18(16)10-7-4-5-8-11-20(23)24/h4,7,12,14,17,21H,2-3,5-6,8-11,13,15H2,1H3,(H,23,24)/b7-4-,14-12+/t17-/m0/s1"
-],
-[
-"InChIKey",
-"PRFXRIUZNKLRHM-HKVRTXJWSA-N"
 ]
 ]
 },
@@ -5241,62 +5005,6 @@
 ]
 },
 {
-"label": "PTGES3",
-"class": "Macromolecule",
-"box": [
-3169.0,
-987.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Prostaglandin E synthase 3"
-],
-[
-"Alternative names",
-"Cytosolic prostaglandin E2 synthase; Hsp90 co-chaperone; Progesterone receptor complex p23; Telomerase-binding protein p23"
-],
-[
-"Function",
-"Cytosolic prostaglandin synthase that catalyzes the oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2). Molecular chaperone that localizes to genomic response elements in a hormone-dependent manner and disrupts receptor-mediated transcriptional activation, by promoting disassembly of transcriptional regulatory complexes."
-],
-[
-"Location",
-"Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:16049"
-],
-[
-"HGNC symbol",
-"PTGES3"
-],
-[
-"Alias symbols",
-"p23, TEBP, cPGES"
-],
-[
-"Entrez",
-"10728"
-],
-[
-"Ensembl",
-"ENSG00000110958"
-],
-[
-"RefSeq",
-"NM_006601"
-],
-[
-"UniProt",
-"Q15185"
-]
-]
-},
-{
 "label": "12(R)-HETE",
 "class": "SimpleChemical",
 "box": [
@@ -5521,66 +5229,6 @@
 [
 "InChIKey",
 "KVXVULITEYDTNN-HGCWDHQMSA-N"
-]
-]
-},
-{
-"label": "PTGES2",
-"class": "Macromolecule",
-"box": [
-3169.0,
-931.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Prostaglandin E synthase 2"
-],
-[
-"Alternative names",
-"Membrane-associated prostaglandin E synthase-2; Microsomal prostaglandin E synthase 2; Prostaglandin-H(2) E-isomerase"
-],
-[
-"Function",
-"Isomerase that catalyzes the conversion of PGH2 into the more stable prostaglandin E2 (PGE2) (in vitro). The biological function and the GSH-dependent property of PTGES2 is still under debate."
-],
-[
-"Location",
-"Golgi apparatus membrane, Cytoplasm, perinuclear region"
-],
-[
-"HGNC",
-"HGNC:17822"
-],
-[
-"HGNC symbol",
-"PTGES2"
-],
-[
-"Previous symbols",
-"C9orf15"
-],
-[
-"Alias symbols",
-"mPGES-2, FLJ14038"
-],
-[
-"Entrez",
-"80142"
-],
-[
-"Ensembl",
-"ENSG00000148334"
-],
-[
-"RefSeq",
-"NM_001256335"
-],
-[
-"UniProt",
-"Q9H7Z7"
 ]
 ]
 },
@@ -6561,6 +6209,962 @@
 [
 "InChIKey",
 "MLZJFLKEKVDNAZ-XPKTZJOPSA-N"
+]
+]
+},
+{
+"label": "ALOX5AP",
+"class": "Macromolecule",
+"box": [
+1681.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Arachidonate 5-lipoxygenase-activating protein"
+],
+[
+"Alternative names",
+"FLAP; MK-886-binding protein"
+],
+[
+"Function",
+"Required for leukotriene biosynthesis by ALOX5 (5-lipoxygenase). Anchors ALOX5 to the membrane."
+],
+[
+"Location",
+"Nucleus membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:436"
+],
+[
+"HGNC symbol",
+"ALOX5AP"
+],
+[
+"Alias symbols",
+"FLAP"
+],
+[
+"Entrez",
+"241"
+],
+[
+"Ensembl",
+"ENSG00000132965"
+],
+[
+"RefSeq",
+"NM_001629"
+],
+[
+"UniProt",
+"P20292"
+]
+]
+},
+{
+"label": "CYP2J2",
+"class": "Macromolecule",
+"box": [
+3201.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2J2"
+],
+[
+"Alternative names",
+"Albendazole monooxygenase (hydroxylating); Albendazole monooxygenase (sulfoxide-forming); Arachidonic acid epoxygenase; CYPIIJ2; Hydroperoxy icosatetraenoate isomerase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of polyunsaturated fatty acids (PUFA) in the cardiovascular system. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2634"
+],
+[
+"HGNC symbol",
+"CYP2J2"
+],
+[
+"Entrez",
+"1573"
+],
+[
+"Ensembl",
+"ENSG00000134716"
+],
+[
+"RefSeq",
+"NM_000775"
+],
+[
+"UniProt",
+"P51589"
+]
+]
+},
+{
+"label": "CYP2J2",
+"class": "Macromolecule",
+"box": [
+3713.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2J2"
+],
+[
+"Alternative names",
+"Albendazole monooxygenase (hydroxylating); Albendazole monooxygenase (sulfoxide-forming); Arachidonic acid epoxygenase; CYPIIJ2; Hydroperoxy icosatetraenoate isomerase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of polyunsaturated fatty acids (PUFA) in the cardiovascular system. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2634"
+],
+[
+"HGNC symbol",
+"CYP2J2"
+],
+[
+"Entrez",
+"1573"
+],
+[
+"Ensembl",
+"ENSG00000134716"
+],
+[
+"RefSeq",
+"NM_000775"
+],
+[
+"UniProt",
+"P51589"
+]
+]
+},
+{
+"label": "EPHX2",
+"class": "Macromolecule",
+"box": [
+3201.0,
+891.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Bifunctional epoxide hydrolase 2"
+],
+[
+"Function",
+"Bifunctional enzyme. The C-terminal domain has epoxide hydrolase activity and acts on epoxides (alkene oxides, oxiranes) and arene oxides."
+],
+[
+"Location",
+"Cytoplasm, Peroxisome"
+],
+[
+"HGNC",
+"HGNC:3402"
+],
+[
+"HGNC symbol",
+"EPHX2"
+],
+[
+"Alias symbols",
+"ABHD20, sEH"
+],
+[
+"Entrez",
+"2053"
+],
+[
+"Ensembl",
+"ENSG00000120915"
+],
+[
+"RefSeq",
+"NM_001979"
+],
+[
+"UniProt",
+"P34913"
+]
+]
+},
+{
+"label": "EPHX2",
+"class": "Macromolecule",
+"box": [
+3713.0,
+891.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Bifunctional epoxide hydrolase 2"
+],
+[
+"Function",
+"Bifunctional enzyme. The C-terminal domain has epoxide hydrolase activity and acts on epoxides (alkene oxides, oxiranes) and arene oxides."
+],
+[
+"Location",
+"Cytoplasm, Peroxisome"
+],
+[
+"HGNC",
+"HGNC:3402"
+],
+[
+"HGNC symbol",
+"EPHX2"
+],
+[
+"Alias symbols",
+"ABHD20, sEH"
+],
+[
+"Entrez",
+"2053"
+],
+[
+"Ensembl",
+"ENSG00000120915"
+],
+[
+"RefSeq",
+"NM_001979"
+],
+[
+"UniProt",
+"P34913"
+]
+]
+},
+{
+"label": "5,6-EET",
+"class": "SimpleChemical",
+"box": [
+3093.0,
+811.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5,6-EET"
+],
+[
+"Synonyms",
+"(+/-)5,6-EpETrE; (8Z,11Z,14Z)-5,6-Epoxyeicosa-8,11,14-trienoic acid; (8Z,11Z,14Z)-5,6-Epoxyicosa-8,11,14-trienoic acid; 4-{3-[(2Z,5Z,8Z)-tetradeca-2,5,8-trien-1-yl]oxiran-2-yl}butanoic acid; 5,6-EpETrE; 5,6-Epoxy-8,11,14-eicosatrienoic acid; 5,6-epoxy-8,11,14-icosatrienoic acid; 5,6-epoxy-8Z,11Z,14Z-eicosatrienoic acid; 5,6-epoxy-8Z,11Z,14Z-icosatrienoic acid"
+],
+[
+"Definition",
+"An EET obtained by formal epoxidation of the 5,6-double bond of arachidonic acid."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34450"
+],
+[
+"KEGG",
+"C14768"
+],
+[
+"HMDB",
+"HMDB0002190"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-15-18-19(23-18)16-14-17-20(21)22/h6-7,9-10,12-13,18-19H,2-5,8,11,14-17H2,1H3,(H,21,22)/b7-6-,10-9-,13-12-"
+],
+[
+"InChIKey",
+"VBQNSZQZRAGRIX-QNEBEIHSSA-N"
+]
+]
+},
+{
+"label": "8,9-EET",
+"class": "SimpleChemical",
+"box": [
+3349.0,
+811.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"8,9-EET"
+],
+[
+"Synonyms",
+"(+/-)8,9-EpETrE; (5Z)-7-{3-[(2Z,5Z)-undeca-2,5-dien-1-yl]oxiran-2-yl}hept-5-enoic acid; (5Z,11Z,14Z)-8,9-Epoxyeicosa-5,11,14-trienoic acid; (5Z,11Z,14Z)-8,9-Epoxyicosa-5,11,14-trienoic acid; 8,9-Epoxyeicosatrienoic acid; 8,9-epoxy-5Z,11Z,14Z-eicosatrienoic acid; 8,9-epoxy-5Z,11Z,14Z-icosatrienoic acid; 8,9-epoxyicosatrienoic acid"
+],
+[
+"Definition",
+"An EET obtained by formal epoxidation of the 8,9-double bond of arachidonic acid."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34490"
+],
+[
+"KEGG",
+"C14769"
+],
+[
+"HMDB",
+"HMDB0002232"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-6-7-8-9-12-15-18-19(23-18)16-13-10-11-14-17-20(21)22/h6-7,9-10,12-13,18-19H,2-5,8,11,14-17H2,1H3,(H,21,22)/b7-6-,12-9-,13-10-"
+],
+[
+"InChIKey",
+"DBWQSCSXHFNTMO-TYAUOURKSA-N"
+]
+]
+},
+{
+"label": "8,9-DHET",
+"class": "SimpleChemical",
+"box": [
+3349.0,
+971.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(5Z,11Z,14Z)-8,9-dihydroxyicosatrienoic acid"
+],
+[
+"Synonyms",
+"(5Z,11Z,14Z)-8,9-Dihydroxyeicosa-5,11,14-trienoic acid; (5Z,11Z,14Z)-8,9-Dihydroxyicosa-5,11,14-trienoic acid; 8,9-DHET; 8,9-DiHETrE; 8,9-dihydroxy-5Z,11Z,14Z-eicosatrienoic acid; 8,9-dihydroxy-5Z,11Z,14Z-icosatrienoic acid; 8,9-dihydroxyeicosatrienoic acid"
+],
+[
+"Definition",
+"A DHET obtained by formal dihydroxylation across the 8,9-double bond of arachidonic acid."
+],
+[
+"Formula",
+"C20H34O4"
+],
+[
+"ChEBI",
+"CHEBI:63970"
+],
+[
+"KEGG",
+"C14773"
+],
+[
+"HMDB",
+"HMDB0002311"
+],
+[
+"InChI",
+"InChI=1S/C20H34O4/c1-2-3-4-5-6-7-8-9-12-15-18(21)19(22)16-13-10-11-14-17-20(23)24/h6-7,9-10,12-13,18-19,21-22H,2-5,8,11,14-17H2,1H3,(H,23,24)/b7-6-,12-9-,13-10-"
+],
+[
+"InChIKey",
+"DCJBINATHQHPKO-TYAUOURKSA-N"
+]
+]
+},
+{
+"label": "11,12-EET",
+"class": "SimpleChemical",
+"box": [
+3605.0,
+811.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"11,12-EET"
+],
+[
+"Synonyms",
+"(+/-)11,12-EpETrE; (5Z,8Z)-10-{3-[(2Z)-oct-2-en-1-yl]oxiran-2-yl}deca-5,8-dienoic acid; (5Z,8Z,14Z)-11,12-Epoxyeicosa-5,8,14-trienoic acid; (5Z,8Z,14Z)-11,12-Epoxyicosa-5,8,14-trienoic acid; 11,12-EpETrE; 11,12-epoxy-5Z,8Z,11Z-icosatrienoic acid; 11,12-epoxy-5Z,8Z,14Z-eicosatrienoic acid; 11,12-epoxyarachidonic acid; all-cis-11,12-epoxyeicosa-5,8,11-trienoic acid"
+],
+[
+"Definition",
+"An EET obtained by formal epoxidation of the 11,12-double bond of arachidonic acid."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34130"
+],
+[
+"KEGG",
+"C14770"
+],
+[
+"HMDB",
+"HMDB0010409"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-9-12-15-18-19(23-18)16-13-10-7-6-8-11-14-17-20(21)22/h6,8-10,12-13,18-19H,2-5,7,11,14-17H2,1H3,(H,21,22)/b8-6-,12-9-,13-10-"
+],
+[
+"InChIKey",
+"DXOYQVHGIODESM-KROJNAHFSA-N"
+]
+]
+},
+{
+"label": "11,12-DHET",
+"class": "SimpleChemical",
+"box": [
+3605.0,
+971.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(5Z,8Z,14Z)-11,12-dihydroxyicosatrienoic acid"
+],
+[
+"Synonyms",
+"(+/-)11,12-DiHETrE; (5Z,8Z,14Z)-11,12-Dihydroxyeicosa-5,8,14-trienoic acid; (5Z,8Z,14Z)-11,12-Dihydroxyicosa-5,8,14-trienoic acid; 11,12-DHET; 11,12-DiHETrE; 11,12-Dihydroxyeicosatrienoic acid; 11,12-dihydroxy-5Z,8Z,14Z-eicosatrienoic acid"
+],
+[
+"Definition",
+"A DHET obtained by formal dihydroxylation across the 11,12-double bond of arachidonic acid."
+],
+[
+"Formula",
+"C20H34O4"
+],
+[
+"ChEBI",
+"CHEBI:63969"
+],
+[
+"KEGG",
+"C14774"
+],
+[
+"HMDB",
+"HMDB0002314"
+],
+[
+"InChI",
+"InChI=1S/C20H34O4/c1-2-3-4-5-9-12-15-18(21)19(22)16-13-10-7-6-8-11-14-17-20(23)24/h6,8-10,12-13,18-19,21-22H,2-5,7,11,14-17H2,1H3,(H,23,24)/b8-6-,12-9-,13-10-"
+],
+[
+"InChIKey",
+"LRPPQRCHCPFBPE-KROJNAHFSA-N"
+]
+]
+},
+{
+"label": "14,15-EET",
+"class": "SimpleChemical",
+"box": [
+3861.0,
+811.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"14,15-EET"
+],
+[
+"Synonyms",
+"(+/-)14,15-EpETrE; (5Z,8Z,11Z)-13-(3-pentyloxiran-2-yl)trideca-5,8,11-trienoic acid; (5Z,8Z,11Z)-14,15-Epoxyeicosa-5.8.11-trienoic acid; (5Z,8Z,11Z)-14,15-Epoxyicosa-5.8.11-trienoic acid; 14(15)-EpETrE; 14,15-EpETrE; 14,15-epoxy-5Z,8Z,11Z-eicosatrienoic acid; 14,15-epoxy-5Z,8Z,11Z-icosatrienoic acid; all-cis-14,15-epoxyeicosa-5,8,11-trienoic acid"
+],
+[
+"Definition",
+"An EET obtained by formal epoxidation of the 14,15-double bond of arachidonic acid."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34157"
+],
+[
+"KEGG",
+"C14771"
+],
+[
+"HMDB",
+"HMDB0004264"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-12-15-18-19(23-18)16-13-10-8-6-4-5-7-9-11-14-17-20(21)22/h4,6-7,9-10,13,18-19H,2-3,5,8,11-12,14-17H2,1H3,(H,21,22)/b6-4-,9-7-,13-10-"
+],
+[
+"InChIKey",
+"JBSCUHKPLGKXKH-ILYOTBPNSA-N"
+]
+]
+},
+{
+"label": "14,15-DHET",
+"class": "SimpleChemical",
+"box": [
+3861.0,
+971.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(5Z,8Z,11Z)-14,15-dihydroxyicosatrienoic acid"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z)-14,15-Dihydroxyeicosa-5,8,11-trienoic acid; (5Z,8Z,11Z)-14,15-Dihydroxyicosa-5,8,11-trienoic acid; 14,15-DiHETrE; 14,15-dihydroxy-5Z,8Z,11Z-eicosatrienoic acid; 14,15-dihydroxyeicosatrienoic acid"
+],
+[
+"Definition",
+"A DHET obtained by formal dihydroxylation across the 14,15-double bond of arachidonic acid."
+],
+[
+"Formula",
+"C20H34O4"
+],
+[
+"ChEBI",
+"CHEBI:63966"
+],
+[
+"KEGG",
+"C14775"
+],
+[
+"HMDB",
+"HMDB0002265"
+],
+[
+"InChI",
+"InChI=1S/C20H34O4/c1-2-3-12-15-18(21)19(22)16-13-10-8-6-4-5-7-9-11-14-17-20(23)24/h4,6-7,9-10,13,18-19,21-22H,2-3,5,8,11-12,14-17H2,1H3,(H,23,24)/b6-4-,9-7-,13-10-"
+],
+[
+"InChIKey",
+"SYAWGTIVOGUZMM-ILYOTBPNSA-N"
+]
+]
+},
+{
+"label": "EPHX2",
+"class": "Macromolecule",
+"box": [
+353.0,
+99.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Bifunctional epoxide hydrolase 2"
+],
+[
+"Function",
+"Bifunctional enzyme. The C-terminal domain has epoxide hydrolase activity and acts on epoxides (alkene oxides, oxiranes) and arene oxides."
+],
+[
+"Location",
+"Cytoplasm, Peroxisome"
+],
+[
+"HGNC",
+"HGNC:3402"
+],
+[
+"HGNC symbol",
+"EPHX2"
+],
+[
+"Alias symbols",
+"ABHD20, sEH"
+],
+[
+"Entrez",
+"2053"
+],
+[
+"Ensembl",
+"ENSG00000120915"
+],
+[
+"RefSeq",
+"NM_001979"
+],
+[
+"UniProt",
+"P34913"
+]
+]
+},
+{
+"label": "EPHX2",
+"class": "Macromolecule",
+"box": [
+353.0,
+331.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Bifunctional epoxide hydrolase 2"
+],
+[
+"Function",
+"Bifunctional enzyme. The C-terminal domain has epoxide hydrolase activity and acts on epoxides (alkene oxides, oxiranes) and arene oxides."
+],
+[
+"Location",
+"Cytoplasm, Peroxisome"
+],
+[
+"HGNC",
+"HGNC:3402"
+],
+[
+"HGNC symbol",
+"EPHX2"
+],
+[
+"Alias symbols",
+"ABHD20, sEH"
+],
+[
+"Entrez",
+"2053"
+],
+[
+"Ensembl",
+"ENSG00000120915"
+],
+[
+"RefSeq",
+"NM_001979"
+],
+[
+"UniProt",
+"P34913"
+]
+]
+},
+{
+"label": "15-keto-PGE2",
+"class": "SimpleChemical",
+"box": [
+3789.0,
+1435.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-dehydro-prostaglandin E2"
+],
+[
+"Synonyms",
+"(5Z)-(15S)-11alpha-Hydroxy-9,15-dioxoprosta-13-enoate; (5Z,13E)-11alpha-Hydroxy-9,15-dioxoprost-13-enoate; (5Z,13E)-11alpha-hydroxy-9,15-dioxoprosta-5,13-dienoic acid; 15-Keto-PGE2; 15-Keto-prostaglandin E2; 15-Ketoprostaglandin E2; 15-Oxo-PGE2; 15-deoxy-15-oxo-prostaglandin E2"
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:15547"
+],
+[
+"KEGG",
+"C04707"
+],
+[
+"HMDB",
+"HMDB0003175"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,16-17,19,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t16-,17-,19-/m1/s1"
+],
+[
+"InChIKey",
+"YRTJDWROBKPZNV-KMXMBPPJSA-N"
+]
+]
+},
+{
+"label": "13,14-dihydro-15-keto-PGE2",
+"class": "SimpleChemical",
+"box": [
+3789.0,
+1595.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"13,14-dihydro-15-oxo-prostaglandin E2"
+],
+[
+"Synonyms",
+"(5Z)-(15S)-11alpha-Hydroxy-9,15-dioxoprostanoate; (5Z)-11alpha-hydroxy-9,15-dioxoprost-5-enoic acid; 13,14-Dihydro-15-keto-PGE2; 13,14-Dihydro-15-ketoprostaglandin E2; 15-Keto-13,14-dihydro-PGE2; 15-Keto-13,14-dihydroprostaglandin E2; KH(2)PGE(2); PGEM; dhk-PGE2"
+],
+[
+"Definition",
+"The 13,14-dihydro derivative of 15-oxo-prostaglandin E2."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15550"
+],
+[
+"KEGG",
+"C04671"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,16-17,19,23H,2-3,5-6,8-14H2,1H3,(H,24,25)/b7-4-/t16-,17-,19-/m1/s1"
+],
+[
+"InChIKey",
+"CUJMXIQZWPZMNQ-XYYGWQPLSA-N"
+]
+]
+},
+{
+"label": "HPGD",
+"class": "Macromolecule",
+"box": [
+3673.0,
+1355.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-hydroxyprostaglandin dehydrogenase [NAD(+)]"
+],
+[
+"Alternative names",
+"Eicosanoid/docosanoid dehydrogenase [NAD(+)]; Prostaglandin dehydrogenase 1; Short chain dehydrogenase/reductase family 36C member 1"
+],
+[
+"Function",
+"Catalyzes the NAD-dependent dehydrogenation (oxidation) of a broad array of hydroxylated polyunsaturated fatty acids (mainly eicosanoids and docosanoids, including prostaglandins, lipoxins and resolvins), yielding their corresponding keto (oxo) metabolites. Decreases the levels of the pro-proliferative prostaglandins such as prostaglandin E2 (whose activity is increased in cancer because of an increase in the expression of cyclooxygenase 2) and generates oxo-fatty acid products that can profoundly influence cell function by abrogating pro-inflammatory cytokine expression."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:5154"
+],
+[
+"HGNC symbol",
+"HPGD"
+],
+[
+"Alias symbols",
+"SDR36C1"
+],
+[
+"Entrez",
+"3248"
+],
+[
+"Ensembl",
+"ENSG00000164120"
+],
+[
+"RefSeq",
+"NM_000860"
+],
+[
+"UniProt",
+"P15428"
+]
+]
+},
+{
+"label": "PTGR2",
+"class": "Macromolecule",
+"box": [
+3673.0,
+1515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin reductase 2"
+],
+[
+"Alternative names",
+"15-oxoprostaglandin 13-reductase; Zinc-binding alcohol dehydrogenase domain-containing protein 1"
+],
+[
+"Function",
+"Functions as 15-oxo-prostaglandin 13-reductase and acts on 15-keto-PGE1, 15-keto-PGE2, 15-keto-PGE1-alpha and 15-keto-PGE2-alpha with highest activity towards 15-keto-PGE2. Overexpression represses transcriptional activity of PPARG and inhibits adipocyte differentiation"
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:20149"
+],
+[
+"HGNC symbol",
+"PTGR2"
+],
+[
+"Previous symbols",
+"ZADH1"
+],
+[
+"Alias symbols",
+"FLJ39091"
+],
+[
+"Entrez",
+"145482"
+],
+[
+"Ensembl",
+"ENSG00000140043"
+],
+[
+"RefSeq",
+"NM_001146154"
+],
+[
+"UniProt",
+"Q8N8N7"
+]
+]
+},
+{
+"label": "15d-PGJ2",
+"class": "SimpleChemical",
+"box": [
+2765.0,
+1843.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-deoxy-Delta(12,14)-prostaglandin J2"
+],
+[
+"Synonyms",
+"(5Z,12E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid; 15-Deoxy-PGJ2; 15-Deoxy-delta-12,14-PGJ2; 15-Deoxy-delta-12,14-prostaglandin J2; delta-12,14-15-Deoxy-PGJ2"
+],
+[
+"Definition",
+"A prostaglandin J derivative comprising prostaglandin J2 lacking the 15-hydroxy group and having C=C double bonds at the 12- and 14-positions."
+],
+[
+"Formula",
+"C20H28O3"
+],
+[
+"ChEBI",
+"CHEBI:34159"
+],
+[
+"KEGG",
+"C14717"
+],
+[
+"HMDB",
+"HMDB0005079"
+],
+[
+"InChI",
+"InChI=1S/C20H28O3/c1-2-3-4-5-6-10-13-18-17(15-16-19(18)21)12-9-7-8-11-14-20(22)23/h6-7,9-10,13,15-17H,2-5,8,11-12,14H2,1H3,(H,22,23)/b9-7-,10-6+,18-13+/t17-/m0/s1"
+],
+[
+"InChIKey",
+"VHRUMKCAEVRUBK-GODQJPCRSA-N"
 ]
 ]
 }
