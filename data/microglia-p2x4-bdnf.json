@@ -197,6 +197,80 @@
 ]
 },
 {
+"id": "p1",
+"label": "",
+"class": "Process",
+"box": [
+195.0,
+235.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ATP",
+"P2RX4"
+],
+"out": [
+"P2RX4:ATP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Yang H et al.",
+"journal": "Toxicon",
+"title": "BoNT/A alleviates neuropathic pain in osteoarthritis by down-regulating the expression of P2X4R in spinal microglia.",
+"year": "2022",
+"db": "pubmed",
+"id": "34954133",
+"role": "OA",
+"note": "rat MIA OA: MIA raises P2X4R and BDNF in the spinal dorsal horn (P2X4R localised to microglia), both reversed by BoNT/A with pain relief; a toxin study, the only paper placing spinal P2X4 in OA"
+},
+{
+"authors": "Tran PB et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Spinal microglial activation in a murine surgical model of knee osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "27646532",
+"role": "OA",
+"note": "mouse knee OA (DMM): spinal microglia activated, the cell the receptor is drawn on"
+},
+{
+"authors": "Klein K et al.",
+"journal": "PLoS One",
+"title": "ATP induced brain-derived neurotrophic factor expression and release from osteoarthritis synovial fibroblasts is mediated by purinergic receptor P2X4.",
+"year": "2012",
+"db": "pubmed",
+"id": "22715356",
+"role": "OA",
+"note": "human OA synovial fibroblasts: ATP acts through P2X4 (siRNA) and p38 to raise and release BDNF; the whole chain in human OA cells, but not microglia"
+},
+{
+"authors": "Tsuda M et al.",
+"journal": "Nature",
+"title": "P2X4 receptors induced in spinal microglia gate tactile allodynia after nerve injury.",
+"year": "2003",
+"db": "pubmed",
+"id": "12917686",
+"role": "step",
+"note": "rat nerve injury: P2X4 induced in hyperactive spinal microglia, blocking it reverses allodynia"
+},
+{
+"authors": "Ase AR et al.",
+"journal": "Mol Pharmacol",
+"title": "Identification and characterization of a selective allosteric antagonist of human P2X4 receptor channels.",
+"year": "2015",
+"db": "pubmed",
+"id": "25597706",
+"role": "step",
+"note": "recombinant human P2X4 and native P2X4 of human THP-1 macrophages: ATP-gated, concentration-response to ATP measured"
+}
+]
+},
+{
 "label": "ATP",
 "class": "SimpleChemical",
 "box": [
@@ -298,6 +372,81 @@
 "UniProt",
 "Q99571"
 ]
+]
+},
+{
+"id": "p2",
+"label": "",
+"class": "Process",
+"box": [
+515.0,
+235.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+"
+],
+"out": [
+"Ca2+"
+],
+"by": [
+"P2RX4:ATP"
+]
+},
+"references": [
+{
+"authors": "Yang H et al.",
+"journal": "Toxicon",
+"title": "BoNT/A alleviates neuropathic pain in osteoarthritis by down-regulating the expression of P2X4R in spinal microglia.",
+"year": "2022",
+"db": "pubmed",
+"id": "34954133",
+"role": "OA",
+"note": "rat MIA OA: spinal microglial P2X4R drives BDNF, the step after the Ca2+ entry; the OA cover for the chain"
+},
+{
+"authors": "Klein K et al.",
+"journal": "PLoS One",
+"title": "ATP induced brain-derived neurotrophic factor expression and release from osteoarthritis synovial fibroblasts is mediated by purinergic receptor P2X4.",
+"year": "2012",
+"db": "pubmed",
+"id": "22715356",
+"role": "OA",
+"note": "human OA synovial fibroblasts: ATP through P2X4 and p38 to BDNF (calcium not measured there)"
+},
+{
+"authors": "Samways DS et al.",
+"journal": "J Gen Physiol",
+"title": "Acidic amino acids impart enhanced Ca2+ permeability and flux in two members of the ATP-gated P2X receptor family.",
+"year": "2007",
+"db": "pubmed",
+"id": "17325195",
+"role": "step",
+"note": "human (and rat) P2X4 in HEK-293 cells, patch-clamp photometry: P2X4 carries a large fraction of Ca2+ current"
+},
+{
+"authors": "Ase AR et al.",
+"journal": "Mol Pharmacol",
+"title": "Identification and characterization of a selective allosteric antagonist of human P2X4 receptor channels.",
+"year": "2015",
+"db": "pubmed",
+"id": "25597706",
+"role": "step",
+"note": "human P2X4: ATP-evoked calcium uptake in a cell line and in human THP-1 derived macrophages, blocked by the selective antagonist BX430"
+},
+{
+"authors": "Trang T et al.",
+"journal": "J Neurosci",
+"title": "P2X4-receptor-mediated synthesis and release of brain-derived neurotrophic factor in microglia is dependent on calcium and p38-mitogen-activated protein kinase activation.",
+"year": "2009",
+"db": "pubmed",
+"id": "19295157",
+"role": "step",
+"note": "rat cultured microglia: P2X4 activation raises intracellular Ca2+, the step as drawn in microglia"
+}
 ]
 },
 {
@@ -567,6 +716,61 @@
 "O15264"
 ]
 ]
+}
+]
+},
+{
+"id": "p3",
+"label": "",
+"class": "Process",
+"box": [
+515.0,
+463.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"P38 MAPK"
+],
+"out": [
+"P38 MAPK"
+],
+"by": [
+"Ca2+"
+]
+},
+"references": [
+{
+"authors": "Lee Y et al.",
+"journal": "Mol Pain",
+"title": "Monosodium iodoacetate-induced joint pain is associated with increased phosphorylation of mitogen activated protein kinases in the rat spinal cord.",
+"year": "2011",
+"db": "pubmed",
+"id": "21599960",
+"role": "OA",
+"note": "rat MIA OA: p38 phosphorylation raised in the spinal dorsal horn, in microglia and some neurons, with increased microglia"
+},
+{
+"authors": "Klein K et al.",
+"journal": "PLoS One",
+"title": "ATP induced brain-derived neurotrophic factor expression and release from osteoarthritis synovial fibroblasts is mediated by purinergic receptor P2X4.",
+"year": "2012",
+"db": "pubmed",
+"id": "22715356",
+"role": "OA",
+"note": "human OA synovial fibroblasts: blocking p38 (not p44/42) stops the ATP-driven BDNF induction, so p38 lies downstream of P2X4 in human OA cells"
+},
+{
+"authors": "Trang T et al.",
+"journal": "J Neurosci",
+"title": "P2X4-receptor-mediated synthesis and release of brain-derived neurotrophic factor in microglia is dependent on calcium and p38-mitogen-activated protein kinase activation.",
+"year": "2009",
+"db": "pubmed",
+"id": "19295157",
+"role": "step",
+"note": "rat cultured microglia: the P2X4-evoked Ca2+ rise is needed for p38 activation (calcium chelation and p38 inhibition tested)"
 }
 ]
 },
@@ -850,6 +1054,81 @@
 "UniProt",
 "P23560"
 ]
+]
+},
+{
+"id": "p4",
+"label": "",
+"class": "Process",
+"box": [
+755.0,
+235.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BDNF"
+],
+"out": [
+"BDNF"
+],
+"by": [
+"P38 MAPK"
+]
+},
+"references": [
+{
+"authors": "Yang H et al.",
+"journal": "Toxicon",
+"title": "BoNT/A alleviates neuropathic pain in osteoarthritis by down-regulating the expression of P2X4R in spinal microglia.",
+"year": "2022",
+"db": "pubmed",
+"id": "34954133",
+"role": "OA",
+"note": "rat MIA OA: spinal BDNF rises with P2X4R and falls with it under BoNT/A, with pain relief"
+},
+{
+"authors": "Klein K et al.",
+"journal": "PLoS One",
+"title": "ATP induced brain-derived neurotrophic factor expression and release from osteoarthritis synovial fibroblasts is mediated by purinergic receptor P2X4.",
+"year": "2012",
+"db": "pubmed",
+"id": "22715356",
+"role": "OA",
+"note": "human OA cells (synovial fibroblasts): ATP through P2X4 and p38 raises BDNF mRNA and releases BDNF protein"
+},
+{
+"authors": "Trang T et al.",
+"journal": "J Neurosci",
+"title": "P2X4-receptor-mediated synthesis and release of brain-derived neurotrophic factor in microglia is dependent on calcium and p38-mitogen-activated protein kinase activation.",
+"year": "2009",
+"db": "pubmed",
+"id": "19295157",
+"role": "step",
+"note": "rat cultured microglia: p38 inhibition blocks the synthesis and exocytotic release of BDNF after P2X4 activation"
+},
+{
+"authors": "Ulmann L et al.",
+"journal": "J Neurosci",
+"title": "Up-regulation of P2X4 receptors in spinal microglia after peripheral nerve injury mediates BDNF release and neuropathic pain.",
+"year": "2008",
+"db": "pubmed",
+"id": "18971468",
+"role": "step",
+"note": "mouse: no ATP-evoked BDNF release from P2X4-deficient microglia; the release is P2X4 dependent"
+},
+{
+"authors": "Coull JA et al.",
+"journal": "Nature",
+"title": "BDNF from microglia causes the shift in neuronal anion gradient underlying neuropathic pain.",
+"year": "2005",
+"db": "pubmed",
+"id": "16355225",
+"role": "step",
+"note": "rat: ATP-stimulated microglia release BDNF, which shifts the anion gradient of lamina I neurons (the block's outgoing BDNF)"
+}
 ]
 }
 ]

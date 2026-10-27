@@ -49,6 +49,90 @@
 ]
 },
 {
+"id": "n1::n0",
+"label": "",
+"class": "Process",
+"box": [
+203.0,
+183.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Lipoxin A4",
+"FPR2"
+],
+"out": [
+"LXA4:FPR2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Yang Y et al.",
+"journal": "Mol Immunol",
+"title": "The therapeutic effects of lipoxin A(4) during treadmill exercise on monosodium iodoacetate-induced osteoarthritis in rats.",
+"year": "2018",
+"db": "pubmed",
+"id": "30196232",
+"role": "OA",
+"note": "rat MIA knee OA: the benefit of moderate treadmill exercise, which raises LXA4, is suppressed by BOC-2, an antagonist of the LXA4 receptor; the only OA evidence that LXA4 works through its receptor (joint tissue, not spinal cord)"
+},
+{
+"authors": "Yang Y et al.",
+"journal": "PLoS One",
+"title": "The effects of different frequency treadmill exercise on lipoxin A4 and articular cartilage degeneration in an experimental model of monosodium iodoacetate-induced osteoarthritis in rats.",
+"year": "2017",
+"db": "pubmed",
+"id": "28594958",
+"role": "OA",
+"note": "rat MIA knee OA: LXA4 rises in serum and intra-articular lavage fluid with exercise and tracks the chondroprotective effect; places the ligand in OA, no receptor step"
+},
+{
+"authors": "Svensson CI et al.",
+"journal": "J Exp Med",
+"title": "Lipoxins and aspirin-triggered lipoxin inhibit inflammatory pain processing.",
+"year": "2007",
+"db": "pubmed",
+"id": "17242163",
+"role": "step",
+"note": "rat: the LXA4 receptor is on spinal astrocytes in vivo and in vitro, and intrathecal LXA4 and its analogues attenuate inflammation-induced pain and astrocytic ERK/JNK activation (the block's source paper)"
+},
+{
+"authors": "Fiore S et al.",
+"journal": "J Exp Med",
+"title": "Identification of a human cDNA encoding a functional high affinity lipoxin A4 receptor.",
+"year": "1994",
+"db": "pubmed",
+"id": "8006586",
+"role": "step",
+"note": "human cDNA (from HL-60 cells) expressed in CHO cells: high-affinity LXA4 binding and LXA4-driven, pertussis-toxin-sensitive signalling; the receptor-ligand step in human protein"
+},
+{
+"authors": "Decker Y et al.",
+"journal": "Am J Physiol Cell Physiol",
+"title": "Lipoxin A4 inhibits IL-1beta-induced IL-8 and ICAM-1 expression in 1321N1 human astrocytoma cells.",
+"year": "2009",
+"db": "pubmed",
+"id": "19357230",
+"role": "step",
+"note": "human astrocytoma cells (1321N1): LXA4 at 10 nM suppresses IL-1beta-driven IL-8 and ICAM-1 through NF-kB; a human astrocytic cell responding to LXA4, receptor not blocked"
+},
+{
+"authors": "Abdelmoaty S et al.",
+"journal": "PLoS One",
+"title": "Spinal actions of lipoxin A4 and 17(R)-resolvin D1 attenuate inflammation-induced mechanical hypersensitivity and spinal TNF release.",
+"year": "2013",
+"db": "pubmed",
+"id": "24086560",
+"role": "step",
+"note": "rat carrageenan inflammation: intrathecal LXA4 attenuates mechanical hypersensitivity and spinal TNF release, with primary spinal astrocytes tested in culture"
+}
+]
+},
+{
 "label": "FPR2",
 "class": "Macromolecule",
 "box": [

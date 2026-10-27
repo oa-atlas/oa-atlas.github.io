@@ -18,7 +18,7 @@
   <key attr.name="url" attr.type="string" for="edge" id="d14"/>
   <key attr.name="description" attr.type="string" for="edge" id="d15"/>
   <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><key for="edge" id="d16" yfiles.type="edgegraphics"/>
-  <graph edgedefault="directed" id="G">
+  <key attr.name="References" attr.type="string" for="node" id="d103"/><graph edgedefault="directed" id="G">
     <node id="n1">
       <data key="dev_node">n1</data><data key="d3" xml:space="preserve">CHEBI:15555</data>
       <data key="d4"/>
@@ -74,7 +74,7 @@
       </data>
       <graph edgedefault="directed" id="n2:">
         <node id="n2::n0">
-          <data key="dev_node">n2::n0</data><data key="d3"/>
+          <data key="d103">pubmed:28544596 pubmed:18975308 pubmed:7642548 pubmed:40440061 pubmed:18678231 pubmed:9375954</data><data key="dev_node">n2::n0</data><data key="d3"/>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -203,7 +203,7 @@
           </graph>
         </node>
         <node id="n2::n3">
-          <data key="dev_node">n2::n3</data><data key="d3"/>
+          <data key="d103">pubmed:33707464 pubmed:23505121 pubmed:11208866 pubmed:39665758 pubmed:34341104</data><data key="dev_node">n2::n3</data><data key="d3"/>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -492,7 +492,7 @@
           </data>
         </node>
         <node id="n0::n1">
-          <data key="dev_node">n0::n1</data><data key="d3"/>
+          <data key="d103">pubmed:27646532 pubmed:23169679 pubmed:22093915 pubmed:23505121 pubmed:17549007</data><data key="dev_node">n0::n1</data><data key="d3"/>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>

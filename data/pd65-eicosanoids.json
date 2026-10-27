@@ -6213,6 +6213,3792 @@
 ]
 },
 {
+"id": "n3::n125",
+"label": "",
+"class": "Process",
+"box": [
+572.0,
+1923.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Lipoxin D4 (LXD4)"
+],
+"out": [
+"Lipoxin E4 (LXE4)"
+],
+"by": [
+"DPEP2"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: cysteinyl-lipoxin resolution pathway active (terminal E4 step by extension)"
+},
+{
+"authors": "Habib GM et al.",
+"journal": "FASEB J",
+"title": "Identification of two additional members of the membrane-bound dipeptidase family.",
+"year": "2003",
+"db": "pubmed",
+"id": "12738806",
+"role": "step",
+"note": "DPEP2 removes glycine to make the E4 conjugate (shown for LTD4->LTE4; same dipeptidase step on cysteinyl lipoxin D4)"
+}
+]
+},
+{
+"id": "n3::n126",
+"label": "",
+"class": "Process",
+"box": [
+1435.0,
+395.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HpETE"
+],
+"out": [
+"12(S)-HETE"
+],
+"by": [
+"GPX4"
+]
+},
+"references": [
+{
+"authors": "Miao Y et al.",
+"journal": "EBioMedicine",
+"title": "Contribution of ferroptosis and GPX4's dual functions to osteoarthritis progression.",
+"year": "2022",
+"db": "pubmed",
+"id": "35101656",
+"role": "OA",
+"note": "human OA cartilage: GPX4 lower than in undamaged cartilage, knockdown worsens mouse OA"
+},
+{
+"authors": "Sutherland M et al.",
+"journal": "Biochem J",
+"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
+"year": "2001",
+"db": "pubmed",
+"id": "11115402",
+"role": "step",
+"note": "human platelets: GPX4 (PHGPx) present and part of the reduction route of the 12-lipoxygenase pathway, 12-HpETE to 12-HETE"
+},
+{
+"authors": "Imai H et al.",
+"journal": "J Biol Chem",
+"title": "Suppression of leukotriene formation in RBL-2H3 cells that overexpressed phospholipid hydroperoxide glutathione peroxidase.",
+"year": "1998",
+"db": "pubmed",
+"id": "9442035",
+"role": "step",
+"note": "RBL-2H3 mast cell line: overexpressed GPX4 lowers the cells' lipid hydroperoxide tone and eicosanoid output, and 12-HpETE restores it; GPX4 acting on hydroperoxides in a mast cell"
+},
+{
+"authors": "Wong A et al.",
+"journal": "J Lipid Res",
+"title": "Simultaneous tissue profiling of eicosanoid and endocannabinoid lipid families in a rat model of osteoarthritis.",
+"year": "2014",
+"db": "pubmed",
+"id": "25062663",
+"role": "OA",
+"note": "rat MIA OA: 12-HETE, this step's product, significantly raised in the OA knee joint, 15-HETE in the DRG"
+}
+]
+},
+{
+"id": "n3::n127",
+"label": "",
+"class": "Process",
+"box": [
+572.0,
+667.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HETE"
+],
+"out": [
+"5(S),20-diHETE"
+],
+"by": [
+"CYP4F2",
+"CYP4F3"
+]
+},
+"references": [
+{
+"authors": "Turnbull J et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Serum levels of hydroxylated metabolites of arachidonic acid cross-sectionally and longitudinally predict knee pain progression: an observational cohort study.",
+"year": "2024",
+"db": "pubmed",
+"id": "38648876",
+"role": "OA",
+"note": "human KPIC cohort (154): serum 5-HETE and other hydroxylated arachidonate metabolites associate with and longitudinally predict knee OA pain"
+},
+{
+"authors": "Kikuta Y et al.",
+"journal": "J Biol Chem",
+"title": "A novel form of cytochrome P-450 family 4 in human polymorphonuclear leukocytes. cDNA cloning and expression of leukotriene B4 omega-hydroxylase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8486631",
+"role": "step",
+"note": "human leukocyte CYP4F3: omega-hydroxylates LTB4 and the 5-HETE family"
+},
+{
+"authors": "Kikuta Y et al.",
+"journal": "J Biochem",
+"title": "Characterization of human liver leukotriene B(4) omega-hydroxylase P450 (CYP4F2).",
+"year": "2000",
+"db": "pubmed",
+"id": "10833273",
+"role": "step",
+"note": "human liver CYP4F2: LTB4 omega-hydroxylase, same 20-hydroxylation chemistry on 5-HETE family substrates"
+}
+]
+},
+{
+"id": "n3::n128",
+"label": "",
+"class": "Process",
+"box": [
+1532.0,
+563.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HpETE"
+],
+"out": [
+"5(S),12(S)-diHpETE"
+],
+"by": [
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 5-/12/15-LOX pathway active in OA joint"
+},
+{
+"authors": "MacMillan DK et al.",
+"journal": "J Biol Chem",
+"title": "Eosinophil 15-lipoxygenase is a leukotriene A4 synthase.",
+"year": "1994",
+"db": "pubmed",
+"id": "7929400",
+"role": "step",
+"note": "recombinant 15-LOX converts 5(S)-HPETE to 5(S),12(S)-diHPETE"
+}
+]
+},
+{
+"id": "n3::n129",
+"label": "",
+"class": "Process",
+"box": [
+2037.0,
+883.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(R)-HpETE"
+],
+"out": [
+"15-epi-LXB4"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Hashimoto A et al.",
+"journal": "J Rheumatol",
+"title": "Antiinflammatory mediator lipoxin A4 and its receptor in synovitis of patients with rheumatoid arthritis.",
+"year": "2007",
+"db": "pubmed",
+"id": "17918787",
+"role": "OA",
+"note": "human OA synovium: 15-epi-lipoxin/15-LOX pathway present in OA joint"
+},
+{
+"authors": "Clària J et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Aspirin triggers previously undescribed bioactive eicosanoids by human endothelial cell-leukocyte interactions.",
+"year": "1995",
+"db": "pubmed",
+"id": "7568157",
+"role": "step",
+"note": "human PMN: 5-LOX forms the 15R-epimer lipoxins (including the B-series) from 15R-HETE"
+}
+]
+},
+{
+"id": "n3::n130",
+"label": "",
+"class": "Process",
+"box": [
+884.0,
+1427.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTB4"
+],
+"out": [
+"12-oxo-LTB4"
+],
+"by": [
+"PTGR1"
+]
+},
+"references": [
+{
+"authors": "Maxis K et al.",
+"journal": "Arthritis Res Ther",
+"title": "The shunt from the cyclooxygenase to lipoxygenase pathway in human osteoarthritic subchondral osteoblasts is linked with a variable expression of the 5-lipoxygenase-activating protein.",
+"year": "2006",
+"db": "pubmed",
+"id": "17156456",
+"role": "OA",
+"note": "human OA subchondral osteoblasts make LTB4 (shunt from COX to 5-LOX via FLAP); places the LTB4 pathway in OA tissue"
+},
+{
+"authors": "Yokomizo T et al.",
+"journal": "J Biol Chem",
+"title": "Enzymatic inactivation of leukotriene B4 by a novel enzyme found in the porcine kidney. Purification and properties of leukotriene B4 12-hydroxydehydrogenase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8394361",
+"role": "step",
+"note": "porcine kidney enzyme (PTGR1/LTB4 12-hydroxydehydrogenase): inactivates LTB4 to 12-oxo-LTB4; the inactivation step drawn"
+}
+]
+},
+{
+"id": "n3::n131",
+"label": "",
+"class": "Process",
+"box": [
+852.0,
+1291.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Eoxin C4 (14,15-LTC4)"
+],
+"out": [
+"Eoxin C4 (14,15-LTC4)"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Feltenmark S et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Eoxins are proinflammatory arachidonic acid metabolites produced via the 15-lipoxygenase-1 pathway in human eosinophils and mast cells.",
+"year": "2008",
+"db": "pubmed",
+"id": "18184802",
+"role": "step",
+"note": "human mast cells produce and export eoxin C4 (14,15-LTC4)"
+},
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 15-LOX metabolites produced by OA synovial cells; no transporter drawn for this release"
+}
+]
+},
+{
+"id": "n3::n132",
+"label": "",
+"class": "Process",
+"box": [
+1276.0,
+1659.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HETE"
+],
+"out": [
+"Lipoxin A4"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human knee OA synovial fluid and tissue: 15-LOX and 5-LOX resolution pathway (lipoxin precursors) active"
+},
+{
+"authors": "Hashimoto A et al.",
+"journal": "J Rheumatol",
+"title": "Antiinflammatory mediator lipoxin A4 and its receptor in synovitis of patients with rheumatoid arthritis.",
+"year": "2007",
+"db": "pubmed",
+"id": "17918787",
+"role": "OA",
+"note": "human OA (and RA) synovium: LXA4 synthetase and 15-LOX mRNA, LXA4 measured in OA synovial fluid"
+},
+{
+"authors": "Serhan CN",
+"journal": "Biochim Biophys Acta",
+"title": "On the relationship between leukotriene and lipoxin production by human neutrophils: evidence for differential metabolism of 15-HETE and 5-HETE.",
+"year": "1989",
+"db": "pubmed",
+"id": "2546590",
+"role": "step",
+"note": "human neutrophils: exogenous 15-HETE rapidly transformed to 5,15-DHETE and tetraene lipoxins by 5-LOX"
+},
+{
+"authors": "Serhan CN et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Lipoxins: novel series of biologically active compounds formed from arachidonic acid in human leukocytes.",
+"year": "1984",
+"db": "pubmed",
+"id": "6089195",
+"role": "step",
+"note": "human leukocytes: lipoxin A4 formed by 5-/15-LOX interaction from arachidonic acid"
+}
+]
+},
+{
+"id": "n3::n133",
+"label": "",
+"class": "Process",
+"box": [
+1356.0,
+1707.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HETE"
+],
+"out": [
+"Lipoxin B4 (LXB4)"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human knee OA: 5-LOX/15-LOX resolution pathway (lipoxins) active in OA synovium and SF cells"
+},
+{
+"authors": "Serhan CN",
+"journal": "Biochim Biophys Acta",
+"title": "On the relationship between leukotriene and lipoxin production by human neutrophils: evidence for differential metabolism of 15-HETE and 5-HETE.",
+"year": "1989",
+"db": "pubmed",
+"id": "2546590",
+"role": "step",
+"note": "human neutrophils: 15-HETE converted to LXA4, LXB4 and related tetraenes via 5-LOX"
+},
+{
+"authors": "Serhan CN et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Lipoxins: novel series of biologically active compounds formed from arachidonic acid in human leukocytes.",
+"year": "1984",
+"db": "pubmed",
+"id": "6089195",
+"role": "step",
+"note": "human leukocytes: LXB4 (second trihydroxytetraene) formed from arachidonic acid by lipoxygenase interaction"
+}
+]
+},
+{
+"id": "n3::n134",
+"label": "",
+"class": "Process",
+"box": [
+1116.0,
+83.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(R)-HETE"
+],
+"out": [
+"12-oxo-ETE"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human severe knee OA synovial fluid: 12-oxo-ETE is among the 12/15-LOX products measured (full text, Results: higher in RA than OA, so detected in OA too)"
+},
+{
+"authors": "Antón R et al.",
+"journal": "J Invest Dermatol",
+"title": "Stereoselective biosynthesis of hepoxilin B3 in human epidermis.",
+"year": "2000",
+"db": "pubmed",
+"id": "10692117",
+"role": "step",
+"note": "human epidermis and recombinant platelet 12-LOX: 12-oxo-ETE is a major product, made by 12-lipoxygenase from arachidonic acid, not from the free hydroxy acid"
+},
+{
+"authors": "Yu Z et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "The lipoxygenase gene ALOXE3 implicated in skin differentiation encodes a hydroperoxide isomerase.",
+"year": "2003",
+"db": "pubmed",
+"id": "12881489",
+"role": "step",
+"note": "recombinant human eLOX3 (ALOXE3): 12(R)-HpETE gives a hepoxilin A3 isomer and 12-keto-ETE (12-oxo-ETE) in a 2:1 ratio, i.e. from the hydroperoxide, not from 12(R)-HETE"
+},
+{
+"authors": "Boeglin WE et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "A 12R-lipoxygenase in human skin: mechanistic evidence, molecular cloning, and expression.",
+"year": "1998",
+"db": "pubmed",
+"id": "9618483",
+"role": "step",
+"note": "human psoriatic scales: labelling shows 12(R)-HETE is NOT made through the 12-keto derivative, which argues against the drawn direction 12(R)-HETE to 12-oxo-ETE being the route in tissue"
+}
+]
+},
+{
+"id": "n3::n135",
+"label": "",
+"class": "Process",
+"box": [
+1108.0,
+395.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HETE"
+],
+"out": [
+"12(S),20-diHETE"
+],
+"by": [
+"CYP4F2",
+"CYP4F3"
+]
+},
+"references": [
+{
+"authors": "Kelly S et al.",
+"journal": "Ann Rheum Dis",
+"title": "Increased function of pronociceptive TRPV1 at the level of the joint in a rat model of osteoarthritis pain.",
+"year": "2015",
+"db": "pubmed",
+"id": "24152419",
+"role": "OA",
+"note": "rat MIA OA and human OA synovium: 12-HETE, the substrate of this step, is raised in the OA joint"
+},
+{
+"authors": "Kikuta Y et al.",
+"journal": "J Biochem",
+"title": "Characterization of human liver leukotriene B(4) omega-hydroxylase P450 (CYP4F2).",
+"year": "2000",
+"db": "pubmed",
+"id": "10833273",
+"role": "step",
+"note": "recombinant human CYP4F2 (yeast microsomes, purified): omega-hydroxylates 12-hydroxyeicosatetraenoate among other substrates"
+},
+{
+"authors": "Marcus AJ et al.",
+"journal": "J Clin Invest",
+"title": "Studies on the mechanism of omega-hydroxylation of platelet 12-hydroxyeicosatetraenoic acid (12-HETE) by unstimulated neutrophils.",
+"year": "1987",
+"db": "pubmed",
+"id": "3025259",
+"role": "step",
+"note": "human neutrophils with platelet 12-HETE: a microsomal, NADPH-dependent cytochrome P450 makes 12,20-diHETE; the step exists in human cells, the P450 not identified by gene"
+},
+{
+"authors": "Turnbull J et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Serum levels of hydroxylated metabolites of arachidonic acid cross-sectionally and longitudinally predict knee pain progression: an observational cohort study.",
+"year": "2024",
+"db": "pubmed",
+"id": "38648876",
+"role": "OA",
+"note": "human knee OA cohort (154 people): serum 12-HETE is associated with current knee pain, so this branch's substrate tracks OA pain"
+}
+]
+},
+{
+"id": "n3::n136",
+"label": "",
+"class": "Process",
+"box": [
+1332.0,
+83.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(R)-HpETE"
+],
+"out": [
+"12(R)-HETE"
+],
+"by": [
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Zhao Q et al.",
+"journal": "J Inflamm Res",
+"title": "Biological Functions of Selenoprotein Glutathione Peroxidases (GPXs) and their Expression in Osteoarthritis.",
+"year": "2023",
+"db": "pubmed",
+"id": "36686275",
+"role": "OA",
+"note": "human OA: GPX1 expression raised in peripheral blood mononuclear cells of OA patients (bioinformatics plus qPCR); places the enzyme, not the step, in OA"
+},
+{
+"authors": "Sutherland M et al.",
+"journal": "Biochem J",
+"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
+"year": "2001",
+"db": "pubmed",
+"id": "11115402",
+"role": "step",
+"note": "human platelets: inactivating GPX1 and GPX4 cuts 12-HETE by 80% and piles up 12-HpETE, so both peroxidases reduce the 12-hydroperoxide (shown for 12(S), not the R enantiomer)"
+},
+{
+"authors": "Boeglin WE et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "A 12R-lipoxygenase in human skin: mechanistic evidence, molecular cloning, and expression.",
+"year": "1998",
+"db": "pubmed",
+"id": "9618483",
+"role": "step",
+"note": "human psoriatic scales and keratinocytes: 12(R)-HETE accumulates downstream of the 12R-lipoxygenase, so the hydroperoxide is reduced in human tissue (the peroxidase is not named)"
+}
+]
+},
+{
+"id": "n3::n137",
+"label": "",
+"class": "Process",
+"box": [
+1532.0,
+1211.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Eoxin A4 (14,15-LTA4)"
+],
+"out": [
+"Eoxin C4 (14,15-LTC4)"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Feltenmark S et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Eoxins are proinflammatory arachidonic acid metabolites produced via the 15-lipoxygenase-1 pathway in human eosinophils and mast cells.",
+"year": "2008",
+"db": "pubmed",
+"id": "18184802",
+"role": "step",
+"note": "human eosinophils and mast cells conjugate eoxin A4 to eoxin C4 (via LTC4 synthase)"
+},
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 15-LOX pathway active (eoxin C4 branch by extension)"
+}
+]
+},
+{
+"id": "n3::n138",
+"label": "",
+"class": "Process",
+"box": [
+2844.0,
+1419.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGD2"
+],
+"out": [
+"PGJ2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): PGD2, the substrate quantified (lower than in RA)"
+},
+{
+"authors": "Fitzpatrick FA et al.",
+"journal": "J Biol Chem",
+"title": "Albumin-catalyzed metabolism of prostaglandin D2. Identification of products formed in vitro.",
+"year": "1983",
+"db": "pubmed",
+"id": "6578214",
+"role": "step",
+"note": "albumin-catalysed metabolism of PGD2 to the J series in vitro"
+},
+{
+"authors": "Shibata T et al.",
+"journal": "J Biol Chem",
+"title": "15-deoxy-delta 12,14-prostaglandin J2. A prostaglandin D2 metabolite generated during inflammatory processes.",
+"year": "2002",
+"db": "pubmed",
+"id": "11786541",
+"role": "step",
+"note": "15d-PGJ2 forms from PGD2 during inflammation, the J series by dehydration"
+}
+]
+},
+{
+"id": "n3::n139",
+"label": "",
+"class": "Process",
+"box": [
+452.0,
+187.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Hepoxilin A3"
+],
+"out": [
+"Trioxilin A3 (TrXA3)"
+],
+"by": [
+"EPHX2"
+]
+},
+"references": [
+{
+"authors": "Gowler PRW et al.",
+"journal": "Arthritis Rheumatol",
+"title": "Clinical and Preclinical Evidence for Roles of Soluble Epoxide Hydrolase in Osteoarthritis Knee Pain.",
+"year": "2022",
+"db": "pubmed",
+"id": "34672113",
+"role": "OA",
+"note": "human knee OA cohorts and mouse surgical OA: EPHX2 variants and its lipid products track OA pain, and inhibiting sEH reverses pain behaviour"
+},
+{
+"authors": "Cronin A et al.",
+"journal": "J Lipid Res",
+"title": "Mammalian soluble epoxide hydrolase is identical to liver hepoxilin hydrolase.",
+"year": "2011",
+"db": "pubmed",
+"id": "21217101",
+"role": "step",
+"note": "purified mammalian sEH and sEH-knockout mouse liver: sEH is the hepoxilin hydrolase, hydrolysing hepoxilin A3 and B3 to trioxilins"
+}
+]
+},
+{
+"id": "n3::n140",
+"label": "",
+"class": "Process",
+"box": [
+812.0,
+259.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HpETE"
+],
+"out": [
+"Hepoxilin B3 (HXB3)"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Antón R et al.",
+"journal": "J Invest Dermatol",
+"title": "Stereoselective biosynthesis of hepoxilin B3 in human epidermis.",
+"year": "2000",
+"db": "pubmed",
+"id": "10692117",
+"role": "step",
+"note": "human epidermis and recombinant platelet 12-LOX: only one 10-hydroxy epimer of hepoxilin B3 is made, and 12-LOX itself catalyses its formation, so the step is enzymatic"
+},
+{
+"authors": "Sutherland M et al.",
+"journal": "Biochem J",
+"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
+"year": "2001",
+"db": "pubmed",
+"id": "11115402",
+"role": "step",
+"note": "human platelets: adding 12-HpETE to platelets gives hepoxilins A3 and B3; a high hydroperoxide tone diverts the pathway from reduction to isomerisation"
+},
+{
+"authors": "Pace-Asciak CR",
+"journal": "Biochim Biophys Acta",
+"title": "Pathophysiology of the hepoxilins.",
+"year": "2015",
+"db": "pubmed",
+"id": "25240838",
+"role": "review",
+"note": "review of the hepoxilins: the pathway (12-LOX, hepoxilins, trioxilins) and its activation in inflamed tissue including arthritis"
+},
+{
+"authors": "Habouri L et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Deletion of 12/15-lipoxygenase accelerates the development of aging-associated and instability-induced osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "28694081",
+"role": "OA",
+"note": "mouse DMM and ageing OA: the 12/15-LOX pathway, source of the hepoxilins, is active in OA cartilage"
+}
+]
+},
+{
+"id": "n3::n141",
+"label": "",
+"class": "Process",
+"box": [
+948.0,
+619.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HpETE"
+],
+"out": [
+"5(S)-HETE"
+],
+"by": [
+"MGST3",
+"MGST2"
+]
+},
+"references": [
+{
+"authors": "Bonnet C et al.",
+"journal": "Prostaglandins",
+"title": "Lipoxygenase products and expression of 5-lipoxygenase and 5-lipoxygenase-activating protein in human cultured synovial cells.",
+"year": "1995",
+"db": "pubmed",
+"id": "8750209",
+"role": "OA",
+"note": "human OA and RA synoviocytes express 5-LOX and FLAP and make 5-LOX metabolites (5-HpETE/5-HETE); places the 5-LOX arm in OA synovium"
+},
+{
+"authors": "Jakobsson PJ et al.",
+"journal": "J Biol Chem",
+"title": "Identification and characterization of a novel microsomal enzyme with glutathione-dependent transferase and peroxidase activities.",
+"year": "1997",
+"db": "pubmed",
+"id": "9278457",
+"role": "step",
+"note": "recombinant human MGST3 (and MGST2) have glutathione-dependent peroxidase activity, reducing 5-HpETE to 5-HETE"
+}
+]
+},
+{
+"id": "n3::n142",
+"label": "",
+"class": "Process",
+"box": [
+1716.0,
+83.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Arachidonic acid"
+],
+"out": [
+"12(R)-HpETE"
+],
+"by": [
+"ALOX12B"
+]
+},
+"references": [
+{
+"authors": "Boeglin WE et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "A 12R-lipoxygenase in human skin: mechanistic evidence, molecular cloning, and expression.",
+"year": "1998",
+"db": "pubmed",
+"id": "9618483",
+"role": "step",
+"note": "human keratinocyte ALOX12B cloned, expressed in HeLa cells: arachidonic acid to 12-HpETE, over 98% in the R configuration; the route shown in human psoriatic tissue"
+},
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human severe knee OA synovial fluid: 12-LOX products including 12-HETE are detected (lower than in RA); the assay does not separate 12(R) from 12(S), so this places the pathway, not the R branch, in OA"
+}
+]
+},
+{
+"id": "n3::n143",
+"label": "",
+"class": "Process",
+"box": [
+1522.0,
+1007.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpETE"
+],
+"out": [
+"Eoxin A4 (14,15-LTA4)"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 15-LOX pathway active in OA synovium (covers eoxin precursor by extension)"
+},
+{
+"authors": "Feltenmark S et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Eoxins are proinflammatory arachidonic acid metabolites produced via the 15-lipoxygenase-1 pathway in human eosinophils and mast cells.",
+"year": "2008",
+"db": "pubmed",
+"id": "18184802",
+"role": "step",
+"note": "human eosinophils and mast cells: 15-LOX-1 forms eoxin A4 (14,15-LTA4) from arachidonic acid/15-HpETE"
+},
+{
+"authors": "Kühn H et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Overexpression, purification and characterization of human recombinant 15-lipoxygenase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8334154",
+"role": "step",
+"note": "human recombinant 15-LOX generates 14,15-LTA4 (eoxin A4)"
+}
+]
+},
+{
+"id": "n3::n144",
+"label": "",
+"class": "Process",
+"box": [
+1708.0,
+375.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Arachidonic acid"
+],
+"out": [
+"12(S)-HpETE"
+],
+"by": [
+"ALOX12",
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Habouri L et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Deletion of 12/15-lipoxygenase accelerates the development of aging-associated and instability-induced osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "28694081",
+"role": "OA",
+"note": "mouse DMM and ageing OA: 12/15-LOX (the ALOX12/ALOX15 pathway) rises in cartilage with OA progression and its deletion worsens cartilage degeneration"
+},
+{
+"authors": "Kelly S et al.",
+"journal": "Ann Rheum Dis",
+"title": "Increased function of pronociceptive TRPV1 at the level of the joint in a rat model of osteoarthritis pain.",
+"year": "2015",
+"db": "pubmed",
+"id": "24152419",
+"role": "OA",
+"note": "rat MIA OA: 12-HETE, the reduced product of this step, rises in the OA knee joint; human OA synovium also studied"
+},
+{
+"authors": "Funk CD et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Molecular cloning, primary structure, and expression of the human platelet/erythroleukemia cell 12-lipoxygenase.",
+"year": "1990",
+"db": "pubmed",
+"id": "2377602",
+"role": "step",
+"note": "human platelet/erythroleukaemia ALOX12 cloned and expressed in COS cells: makes 12-H(P)ETE from arachidonic acid"
+},
+{
+"authors": "Sigal E et al.",
+"journal": "J Biol Chem",
+"title": "Expression of cloned human reticulocyte 15-lipoxygenase and immunological evidence that 15-lipoxygenases of different cell types are related.",
+"year": "1990",
+"db": "pubmed",
+"id": "2318885",
+"role": "step",
+"note": "cloned human reticulocyte ALOX15 expressed in cells: makes 15-HETE and 12-HETE (8.6:1), so ALOX15 also 12-oxygenates"
+},
+{
+"authors": "Wang Q et al.",
+"journal": "Elife",
+"title": "IgE-mediated mast cell activation promotes inflammation and cartilage destruction in osteoarthritis.",
+"year": "2019",
+"db": "pubmed",
+"id": "31084709",
+"role": "OA",
+"note": "human and mouse OA joints: mast cells, the cell drawn here, are activated in OA and drive cartilage breakdown (the cell setting, not the step)"
+}
+]
+},
+{
+"id": "n3::n145",
+"label": "",
+"class": "Process",
+"box": [
+1956.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Arachidonic acid"
+],
+"out": [
+"15(R)-HpETE"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Rowlinson SW et al.",
+"journal": "J Biol Chem",
+"title": "Spatial requirements for 15-(R)-hydroxy-5Z,8Z,11Z, 13E-eicosatetraenoic acid synthesis within the cyclooxygenase active site of murine COX-2. Why acetylated COX-1 does not synthesize 15-(R)-hete.",
+"year": "2000",
+"db": "pubmed",
+"id": "10692466",
+"role": "step",
+"note": "mouse COX-2 structure-function: aspirin-acetylated COX-2 acts as a lipoxygenase making 15(R)-HETE (and 11(R)-HETE); the step needs acetylated PTGS2, not a free-radical reaction"
+},
+{
+"authors": "Clària J et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Aspirin triggers previously undescribed bioactive eicosanoids by human endothelial cell-leukocyte interactions.",
+"year": "1995",
+"db": "pubmed",
+"id": "7568157",
+"role": "step",
+"note": "human endothelial cells with neutrophils and aspirin: 15R products appear and feed the 15-epi-lipoxins; the human transcellular route of this branch"
+},
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human severe knee OA synovial fluid: 15-LOX-type products and lipoxins, the downstream of this branch, are detected (lower than in RA); no OA paper on the 15(R) branch itself"
+}
+]
+},
+{
+"id": "n3::n146",
+"label": "",
+"class": "Process",
+"box": [
+1732.0,
+635.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Arachidonic acid"
+],
+"out": [
+"5(S)-HpETE"
+],
+"by": [
+"ALOX5AP",
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Martel-Pelletier J et al.",
+"journal": "Arthritis Rheum",
+"title": "Regulation of the expression of 5-lipoxygenase-activating protein/5-lipoxygenase and the synthesis of leukotriene B(4) in osteoarthritic chondrocytes: role of transforming growth factor beta and eicosanoids.",
+"year": "2004",
+"db": "pubmed",
+"id": "15593193",
+"role": "OA",
+"note": "human OA chondrocytes express FLAP and 5-LOX and make LTB4; FLAP/5-LOX regulated by TGFbeta and eicosanoids in OA"
+},
+{
+"authors": "Rouzer CA et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Single protein from human leukocytes possesses 5-lipoxygenase and leukotriene A4 synthase activities.",
+"year": "1986",
+"db": "pubmed",
+"id": "3006030",
+"role": "step",
+"note": "single protein from human leukocytes has 5-lipoxygenase and LTA4 synthase activity; makes 5(S)-HpETE from arachidonic acid"
+},
+{
+"authors": "Dixon RA et al.",
+"journal": "Nature",
+"title": "Requirement of a 5-lipoxygenase-activating protein for leukotriene synthesis.",
+"year": "1990",
+"db": "pubmed",
+"id": "2300173",
+"role": "step",
+"note": "FLAP (ALOX5AP) is required for cellular leukotriene synthesis, i.e. for ALOX5 to act on arachidonic acid"
+}
+]
+},
+{
+"id": "n3::n147",
+"label": "",
+"class": "Process",
+"box": [
+812.0,
+187.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HpETE"
+],
+"out": [
+"Hepoxilin A3"
+],
+"by": [
+"ALOXE3"
+]
+},
+"references": [
+{
+"authors": "Yu Z et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "The lipoxygenase gene ALOXE3 implicated in skin differentiation encodes a hydroperoxide isomerase.",
+"year": "2003",
+"db": "pubmed",
+"id": "12881489",
+"role": "step",
+"note": "recombinant human eLOX3: a hydroperoxide isomerase making a hepoxilin A3 isomer, best from 12(R)-HpETE, 12(S)-HpETE converted less efficiently"
+},
+{
+"authors": "Sutherland M et al.",
+"journal": "Biochem J",
+"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
+"year": "2001",
+"db": "pubmed",
+"id": "11115402",
+"role": "step",
+"note": "human platelets: 12(S)-HpETE is the hepoxilin precursor; when the peroxidases are blocked the isomerisation route to hepoxilins A3 and B3 takes over"
+},
+{
+"authors": "Habouri L et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Deletion of 12/15-lipoxygenase accelerates the development of aging-associated and instability-induced osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "28694081",
+"role": "OA",
+"note": "mouse OA: the 12/15-LOX pathway that feeds the hepoxilins is active in OA cartilage and protective when present"
+},
+{
+"authors": "Gregus AM et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Spinal 12-lipoxygenase-derived hepoxilin A3 contributes to inflammatory hyperalgesia via activation of TRPV1 and TRPA1 receptors.",
+"year": "2012",
+"db": "pubmed",
+"id": "22493235",
+"role": "step",
+"note": "rat: spinal 12-lipoxygenase-derived hepoxilin A3 drives inflammatory hyperalgesia through TRPV1/TRPA1; places the product in pain"
+}
+]
+},
+{
+"id": "n3::n148",
+"label": "",
+"class": "Process",
+"box": [
+1276.0,
+843.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpETE"
+],
+"out": [
+"15-oxo-ETE"
+],
+"by": [
+"TBXAS1",
+"PTGIS"
+]
+},
+"references": [
+{
+"authors": "Gulliksson M et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Expression of 15-lipoxygenase type-1 in human mast cells.",
+"year": "2007",
+"db": "pubmed",
+"id": "17662651",
+"role": "OA",
+"note": "human mast cells: 15-oxo-ETE (15-KETE) is the major 15-LO pathway product released; places the product in the drawn cell (no OA-tissue paper for 15-oxo-ETE)"
+},
+{
+"authors": "Yeh HC et al.",
+"journal": "Arch Biochem Biophys",
+"title": "Reaction mechanisms of 15-hydroperoxyeicosatetraenoic acid catalyzed by human prostacyclin and thromboxane synthases.",
+"year": "2007",
+"db": "pubmed",
+"id": "17459323",
+"role": "step",
+"note": "human thromboxane synthase (TBXAS1) and prostacyclin synthase (PTGIS) convert 15-HPETE to 15-KETE (15-oxo-ETE)"
+}
+]
+},
+{
+"id": "n3::n149",
+"label": "",
+"class": "Process",
+"box": [
+1204.0,
+1123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTA4"
+],
+"out": [
+"5,6-Ep-15(S)-HETE"
+],
+"by": [
+"ALOX15",
+"ALOX12"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 5-/15-LOX pathway and its cross-products active in OA joint"
+},
+{
+"authors": "Kühn H et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Overexpression, purification and characterization of human recombinant 15-lipoxygenase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8334154",
+"role": "step",
+"note": "human recombinant 15-LOX makes double-oxygenation products (14R,15S- and 8,15-diHETE) acting on arachidonate-derived substrates"
+},
+{
+"authors": "Romano M et al.",
+"journal": "Biochem J",
+"title": "Lipoxin synthase activity of human platelet 12-lipoxygenase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8250832",
+"role": "step",
+"note": "human platelet 12-LOX acts on LTA4 and a non-allylic epoxide to generate lipoxin-type products"
+}
+]
+},
+{
+"id": "n3::n150",
+"label": "",
+"class": "Process",
+"box": [
+452.0,
+259.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Hepoxilin B3 (HXB3)"
+],
+"out": [
+"Trioxilin B3 (TrXB3)"
+],
+"by": [
+"EPHX2"
+]
+},
+"references": [
+{
+"authors": "Gowler PRW et al.",
+"journal": "Arthritis Rheumatol",
+"title": "Clinical and Preclinical Evidence for Roles of Soluble Epoxide Hydrolase in Osteoarthritis Knee Pain.",
+"year": "2022",
+"db": "pubmed",
+"id": "34672113",
+"role": "OA",
+"note": "human knee OA and mouse OA: EPHX2 gene variants and its products associate with OA pain; sEH inhibition reverses pain behaviour"
+},
+{
+"authors": "Cronin A et al.",
+"journal": "J Lipid Res",
+"title": "Mammalian soluble epoxide hydrolase is identical to liver hepoxilin hydrolase.",
+"year": "2011",
+"db": "pubmed",
+"id": "21217101",
+"role": "step",
+"note": "sEH knockout mice: hepoxilins accumulate and trioxilins fall, so sEH makes the trioxilins"
+},
+{
+"authors": "Pace-Asciak CR",
+"journal": "Biochim Biophys Acta",
+"title": "Pathophysiology of the hepoxilins.",
+"year": "2015",
+"db": "pubmed",
+"id": "25240838",
+"role": "review",
+"note": "review: hepoxilins and their trioxilin metabolites in inflamed tissue, arthritis included"
+}
+]
+},
+{
+"id": "n3::n151",
+"label": "",
+"class": "Process",
+"box": [
+1508.0,
+1603.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5,6-Ep-15(S)-HETE"
+],
+"out": [
+"Lipoxin B4 (LXB4)"
+],
+"by": [
+"ALOX12"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: lipoxin (15-LOX/5-LOX) resolution pathway active"
+},
+{
+"authors": "Romano M et al.",
+"journal": "Biochem J",
+"title": "Lipoxin synthase activity of human platelet 12-lipoxygenase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8250832",
+"role": "step",
+"note": "human platelet 12-LOX has LXB4 synthase activity on the epoxytetraene"
+}
+]
+},
+{
+"id": "n3::n152",
+"label": "",
+"class": "Process",
+"box": [
+1436.0,
+1379.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpETE"
+],
+"out": [
+"5,6-Ep-15(S)-HETE"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 5-/15-LOX lipoxin pathway active (covers the epoxytetraene intermediate step by extension)"
+},
+{
+"authors": "Chavis C et al.",
+"journal": "J Exp Med",
+"title": "5(S),15(S)-dihydroxyeicosatetraenoic acid and lipoxin generation in human polymorphonuclear cells: dual specificity of 5-lipoxygenase towards endogenous and exogenous precursors.",
+"year": "1996",
+"db": "pubmed",
+"id": "8666921",
+"role": "step",
+"note": "human PMN: 5-LOX forms lipoxins via 5,6- and/or 14,15-epoxytetraene intermediates from 15(S)-HETE/HpETE"
+}
+]
+},
+{
+"id": "n3::n153",
+"label": "",
+"class": "Process",
+"box": [
+2844.0,
+771.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Arachidonic acid"
+],
+"out": [
+"PGG2"
+],
+"by": [
+"PTGS1",
+"PTGS2",
+"OR"
+]
+},
+"references": [
+{
+"authors": "Amin AR et al.",
+"journal": "J Clin Invest",
+"title": "Superinduction of cyclooxygenase-2 activity in human osteoarthritis-affected cartilage. Influence of nitric oxide.",
+"year": "1997",
+"db": "pubmed",
+"id": "9077531",
+"role": "OA",
+"note": "human OA cartilage: COX-2 superinduced, PGE2 made"
+},
+{
+"authors": "Baothman BK et al.",
+"journal": "Eur J Pharmacol",
+"title": "Prostaglandin D(2) generation from human lung mast cells is catalysed exclusively by cyclooxygenase-1.",
+"year": "2018",
+"db": "pubmed",
+"id": "29225187",
+"role": "step",
+"note": "human lung mast cells: PGD2 made exclusively through COX-1"
+},
+{
+"authors": "Funk CD et al.",
+"year": "1991",
+"title": "Human platelet/erythroleukemia cell prostaglandin G/H synthase: cDNA cloning, expression, and gene chromosomal assignment.",
+"journal": "FASEB J",
+"db": "pubmed",
+"id": "1907252",
+"role": "step",
+"note": "human COX-1 (PTGS1) cloned and expressed: active prostaglandin G/H synthase"
+},
+{
+"authors": "Hla T et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Human cyclooxygenase-2 cDNA.",
+"year": "1992",
+"db": "pubmed",
+"id": "1380156",
+"role": "step",
+"note": "human COX-2 (PTGS2) cDNA cloned and expressed"
+}
+]
+},
+{
+"id": "n3::n154",
+"label": "",
+"class": "Process",
+"box": [
+3428.0,
+1195.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH2"
+],
+"out": [
+"PGE2"
+],
+"by": [
+"PTGES",
+"PTGES3",
+"PTGES2"
+]
+},
+"references": [
+{
+"authors": "Kojima F et al.",
+"journal": "Arthritis Res Ther",
+"title": "Membrane-associated prostaglandin E synthase-1 is upregulated by proinflammatory cytokines in chondrocytes from patients with osteoarthritis.",
+"year": "2004",
+"db": "pubmed",
+"id": "15225371",
+"role": "OA",
+"note": "human OA chondrocytes: mPGES-1 raised by inflammatory cytokines, with PGE2"
+},
+{
+"authors": "Jakobsson PJ et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Identification of human prostaglandin E synthase: a microsomal, glutathione-dependent, inducible enzyme, constituting a potential novel drug target.",
+"year": "1999",
+"db": "pubmed",
+"id": "10377395",
+"role": "step",
+"note": "human mPGES-1 (PTGES) identified: glutathione-dependent, inducible PGE2 synthase"
+},
+{
+"authors": "Tanioka T et al.",
+"journal": "J Biol Chem",
+"title": "Molecular identification of cytosolic prostaglandin E2 synthase that is functionally coupled with cyclooxygenase-1 in immediate prostaglandin E2 biosynthesis.",
+"year": "2000",
+"db": "pubmed",
+"id": "10922363",
+"role": "step",
+"note": "cytosolic PGE2 synthase (PTGES3) coupled with COX-1 for immediate PGE2"
+},
+{
+"authors": "Tanikawa N et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "Identification and characterization of a novel type of membrane-associated prostaglandin E synthase.",
+"year": "2002",
+"db": "pubmed",
+"id": "11866447",
+"role": "step",
+"note": "membrane-associated PGE synthase-2 (PTGES2) identified (monkey enzyme)"
+},
+{
+"authors": "Jania LA et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Microsomal prostaglandin E synthase-2 is not essential for in vivo prostaglandin E2 biosynthesis.",
+"year": "2009",
+"db": "pubmed",
+"id": "19010439",
+"role": "step",
+"note": "mouse: mPGES-2 is not essential for PGE2 in vivo (weakens PTGES2 on this step)"
+}
+]
+},
+{
+"id": "n3::n155",
+"label": "",
+"class": "Process",
+"box": [
+572.0,
+435.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5-oxo-ETE (5-KETE)"
+],
+"out": [
+"5-oxo-15S-HETE"
+],
+"by": [
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Turnbull J et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Serum levels of hydroxylated metabolites of arachidonic acid cross-sectionally and longitudinally predict knee pain progression: an observational cohort study.",
+"year": "2024",
+"db": "pubmed",
+"id": "38648876",
+"role": "OA",
+"note": "human OA cohort: 5-HETE and 5-LOX-derived oxylipins (the upstream of 5-oxo-ETE) predict knee OA pain; the 5-oxo-ETE arm lies in OA-relevant 5-LOX metabolism"
+},
+{
+"authors": "Powell WS et al.",
+"journal": "J Immunol",
+"title": "5-Oxo-6,8,11,14-eicosatetraenoic acid is a potent stimulator of human eosinophil migration.",
+"year": "1995",
+"db": "pubmed",
+"id": "7706749",
+"role": "step",
+"note": "human: 5-oxo-15-HETE characterised as a product and eosinophil stimulator, establishing the 15-oxygenation of 5-oxo-ETE; ALOX15 is the 15-lipoxygenase involved"
+}
+]
+},
+{
+"id": "n3::n156",
+"label": "",
+"class": "Process",
+"box": [
+563.0,
+1123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTC4"
+],
+"out": [
+"LTC4"
+],
+"by": [
+"ABCC1",
+"ABCC6"
+]
+},
+"references": [
+{
+"authors": "Kopicky-Burd JA et al.",
+"journal": "J Rheumatol",
+"title": "Characterization of human synovial mast cells.",
+"year": "1988",
+"db": "pubmed",
+"id": "2462048",
+"role": "OA",
+"note": "human synovial mast cells (RA and OA synovium) release LTC4 on anti-IgE; places LTC4 export by the OA synovial mast cell"
+},
+{
+"authors": "Leier I et al.",
+"journal": "J Biol Chem",
+"title": "The MRP gene encodes an ATP-dependent export pump for leukotriene C4 and structurally related conjugates.",
+"year": "1994",
+"db": "pubmed",
+"id": "7961706",
+"role": "step",
+"note": "MRP gene (ABCC1) encodes an ATP-dependent export pump for LTC4; the drawn transporter"
+}
+]
+},
+{
+"id": "n3::n157",
+"label": "",
+"class": "Process",
+"box": [
+2844.0,
+1195.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH2"
+],
+"out": [
+"PGD2"
+],
+"by": [
+"PTGDS",
+"HPGDS"
+]
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): PGD2 quantified (lower than in RA)"
+},
+{
+"authors": "Najar M et al.",
+"journal": "Arthritis Rheumatol",
+"title": "Role of Lipocalin-Type Prostaglandin D Synthase in Experimental Osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32336048",
+"role": "OA",
+"note": "mouse OA: lipocalin-type PGD synthase (PTGDS) in experimental OA, its loss worsens OA"
+},
+{
+"authors": "Lewis RA et al.",
+"journal": "J Immunol",
+"title": "Prostaglandin D2 generation after activation of rat and human mast cells with anti-IgE.",
+"year": "1982",
+"db": "pubmed",
+"id": "6809826",
+"role": "step",
+"note": "human mast cells make PGD2 after anti-IgE activation"
+},
+{
+"authors": "Kado Y et al.",
+"journal": "J Biochem",
+"title": "Human hematopoietic prostaglandin D synthase inhibitor complex structures.",
+"year": "2012",
+"db": "pubmed",
+"id": "22418579",
+"role": "step",
+"note": "human hematopoietic PGD synthase (HPGDS) structures with inhibitors"
+}
+]
+},
+{
+"id": "n3::n158",
+"label": "",
+"class": "Process",
+"box": [
+1028.0,
+1186.1,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTA4"
+],
+"out": [
+"LTB4"
+],
+"by": [
+"LTA4H"
+]
+},
+"references": [
+{
+"authors": "Wu X et al.",
+"journal": "Cartilage",
+"title": "Inhibition of Leukotriene A(4) Hydrolase Suppressed Cartilage Degradation and Synovial Inflammation in a Mouse Model of Experimental Osteoarthritis.",
+"year": "2024",
+"db": "pubmed",
+"id": "37086004",
+"role": "OA",
+"note": "human OA cartilage and mouse experimental OA: LTA4H and BLT1 high in OA, LTA4H inhibition suppresses cartilage damage and synovitis"
+},
+{
+"authors": "Makita N et al.",
+"journal": "FEBS Lett",
+"title": "Molecular cloning and functional expression of rat leukotriene A4 hydrolase using the polymerase chain reaction.",
+"year": "1992",
+"db": "pubmed",
+"id": "1544505",
+"role": "step",
+"note": "cloned rat LTA4 hydrolase: hydrolyses LTA4 to LTB4 (the enzyme, highly conserved with human)"
+}
+]
+},
+{
+"id": "n3::n159",
+"label": "",
+"class": "Process",
+"box": [
+572.0,
+619.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HETE"
+],
+"out": [
+"5(S),15(S)-diHETE"
+],
+"by": [
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 5-/15-LOX cross-products (diHETEs) in the active resolution pathway"
+},
+{
+"authors": "Serhan CN",
+"journal": "Biochim Biophys Acta",
+"title": "On the relationship between leukotriene and lipoxin production by human neutrophils: evidence for differential metabolism of 15-HETE and 5-HETE.",
+"year": "1989",
+"db": "pubmed",
+"id": "2546590",
+"role": "step",
+"note": "human neutrophils form 5,15-DHETE from 5-HETE on stimulation"
+},
+{
+"authors": "Chavis C et al.",
+"journal": "J Exp Med",
+"title": "5(S),15(S)-dihydroxyeicosatetraenoic acid and lipoxin generation in human polymorphonuclear cells: dual specificity of 5-lipoxygenase towards endogenous and exogenous precursors.",
+"year": "1996",
+"db": "pubmed",
+"id": "8666921",
+"role": "step",
+"note": "human PMN: 5(S),15(S)-diHETE generated (5-LOX acting on the 15-hydroxy substrate)"
+}
+]
+},
+{
+"id": "n3::n160",
+"label": "",
+"class": "Process",
+"box": [
+1276.0,
+939.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpETE"
+],
+"out": [
+"15(S)-HETE"
+],
+"by": [
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Tian Y et al.",
+"journal": "Life Sci",
+"title": "The anti-inflammatory effects of 15-HETE on osteoarthritis during treadmill exercise.",
+"year": "2021",
+"db": "pubmed",
+"id": "33636171",
+"role": "OA",
+"note": "rat MIA OA and human chondrocytes: 15-HETE anti-inflammatory, rises with exercise, protects cartilage"
+},
+{
+"authors": "Hill TD et al.",
+"journal": "Prostaglandins",
+"title": "Role of glutathione and glutathione peroxidase in human platelet arachidonic acid metabolism.",
+"year": "1989",
+"db": "pubmed",
+"id": "2501828",
+"role": "step",
+"note": "human platelet: glutathione peroxidase reduces 15-HPETE to 15-HETE (cytosolic GSH-Px activity)"
+}
+]
+},
+{
+"id": "n3::n161",
+"label": "",
+"class": "Process",
+"box": [
+2268.0,
+1275.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TXA2"
+],
+"out": [
+"TXB2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): TXB2 quantified (lower than in RA)"
+},
+{
+"authors": "Hamberg M et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Thromboxanes: a new group of biologically active compounds derived from prostaglandin endoperoxides.",
+"year": "1975",
+"db": "pubmed",
+"id": "1059088",
+"role": "step",
+"note": "thromboxanes: TXA2 unstable, hydrolysed to TXB2 (human platelets)"
+}
+]
+},
+{
+"id": "n3::n162",
+"label": "",
+"class": "Process",
+"box": [
+1956.0,
+883.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(R)-HpETE"
+],
+"out": [
+"15-epi-LXA4"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Hashimoto A et al.",
+"journal": "J Rheumatol",
+"title": "Antiinflammatory mediator lipoxin A4 and its receptor in synovitis of patients with rheumatoid arthritis.",
+"year": "2007",
+"db": "pubmed",
+"id": "17918787",
+"role": "OA",
+"note": "human OA synovial fluid: 15-epi-LXA4 measured alongside LXA4; 15-LOX in OA synovium"
+},
+{
+"authors": "Clària J et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Aspirin triggers previously undescribed bioactive eicosanoids by human endothelial cell-leukocyte interactions.",
+"year": "1995",
+"db": "pubmed",
+"id": "7568157",
+"role": "step",
+"note": "human PMN: 5-LOX converts 15R-HETE to 15-epi-LXA4 (aspirin-triggered lipoxin)"
+}
+]
+},
+{
+"id": "n3::n163",
+"label": "",
+"class": "Process",
+"box": [
+1996.0,
+1155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH2"
+],
+"out": [
+"12(S)-HHTrE"
+],
+"by": [
+"TBXAS1"
+]
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): 12-HHT quantified (lower than in RA)"
+},
+{
+"authors": "Wang LH et al.",
+"journal": "J Biol Chem",
+"title": "Substrate binding is the rate-limiting step in thromboxane synthase catalysis.",
+"year": "2001",
+"db": "pubmed",
+"id": "11297515",
+"role": "step",
+"note": "thromboxane synthase makes TXA2 and 12-HHT from PGH2"
+},
+{
+"authors": "Matsunobu T et al.",
+"journal": "J Lipid Res",
+"title": "Thromboxane A synthase-independent production of 12-hydroxyheptadecatrienoic acid, a BLT2 ligand.",
+"year": "2013",
+"db": "pubmed",
+"id": "24009185",
+"role": "step",
+"note": "12-HHT is also made without thromboxane synthase, through COX (TBXAS1-independent route)"
+}
+]
+},
+{
+"id": "n3::n164",
+"label": "",
+"class": "Process",
+"box": [
+1668.0,
+938.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Arachidonic acid"
+],
+"out": [
+"15(S)-HpETE"
+],
+"by": [
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Chen K et al.",
+"journal": "Cell Death Dis",
+"title": "Increased 15-lipoxygenase-1 expression in chondrocytes contributes to the pathogenesis of osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "29022900",
+"role": "OA",
+"note": "OA rat and human cartilage: 15-LO-1 (ALOX15) raised in OA chondrocytes and drives OA progression"
+},
+{
+"authors": "Chabane N et al.",
+"journal": "Arthritis Res Ther",
+"title": "Human articular chondrocytes express 15-lipoxygenase-1 and -2: potential role in osteoarthritis.",
+"year": "2009",
+"db": "pubmed",
+"id": "19296842",
+"role": "OA",
+"note": "human OA chondrocytes express ALOX15 (15-LOX-1/-2); its product 15(S)-HETE modulates MMP-1/MMP-13"
+},
+{
+"authors": "Kühn H et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Overexpression, purification and characterization of human recombinant 15-lipoxygenase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8334154",
+"role": "step",
+"note": "purified human recombinant 15-LOX oxygenates arachidonic acid to 15(S)- (and some 12(S)-) HpETE"
+}
+]
+},
+{
+"id": "n3::n165",
+"label": "",
+"class": "Process",
+"box": [
+1420.0,
+1571.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5,6-Ep-15(S)-HETE"
+],
+"out": [
+"Lipoxin A4"
+],
+"by": [
+"ALOX12"
+]
+},
+"references": [
+{
+"authors": "Hashimoto A et al.",
+"journal": "J Rheumatol",
+"title": "Antiinflammatory mediator lipoxin A4 and its receptor in synovitis of patients with rheumatoid arthritis.",
+"year": "2007",
+"db": "pubmed",
+"id": "17918787",
+"role": "OA",
+"note": "human OA synovium: LXA4 synthetase and LXA4 present in OA joints"
+},
+{
+"authors": "Romano M et al.",
+"journal": "Biochem J",
+"title": "Lipoxin synthase activity of human platelet 12-lipoxygenase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8250832",
+"role": "step",
+"note": "human platelet 12-LOX converts the LTA4-derived epoxide to LXA4 (lipoxin synthase activity on the epoxytetraene)"
+}
+]
+},
+{
+"id": "n3::n166",
+"label": "",
+"class": "Process",
+"box": [
+3676.0,
+1363.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGE2"
+],
+"out": [
+"PGA2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): PGE2, the substrate (PGA2 itself not measured in OA) quantified (lower than in RA)"
+},
+{
+"authors": "Still K et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Stimulation of CFU-f formation by prostaglandin E2 is mediated in part by its degradation product, prostaglandin A2.",
+"year": "2001",
+"db": "pubmed",
+"id": "11352224",
+"role": "step",
+"note": "PGA2 forms from PGE2 by degradation in culture medium"
+}
+]
+},
+{
+"id": "n3::n167",
+"label": "",
+"class": "Process",
+"box": [
+900.0,
+1123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTA4"
+],
+"out": [
+"LTC4"
+],
+"by": [
+"LTC4S",
+"MGST2"
+]
+},
+"references": [
+{
+"authors": "Kopicky-Burd JA et al.",
+"journal": "J Rheumatol",
+"title": "Characterization of human synovial mast cells.",
+"year": "1988",
+"db": "pubmed",
+"id": "2462048",
+"role": "OA",
+"note": "human OA/RA synovial mast cells release LTC4 on anti-IgE; LTC4 synthesis in the OA synovial mast cell"
+},
+{
+"authors": "Lam BK et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Expression cloning of a cDNA for human leukotriene C4 synthase, an integral membrane protein conjugating reduced glutathione to leukotriene A4.",
+"year": "1994",
+"db": "pubmed",
+"id": "8052639",
+"role": "step",
+"note": "human LTC4 synthase cloned: conjugates glutathione to LTA4 to make LTC4"
+},
+{
+"authors": "Jakobsson PJ et al.",
+"journal": "J Biol Chem",
+"title": "Identification and characterization of a novel human microsomal glutathione S-transferase with leukotriene C4 synthase activity and significant sequence identity to 5-lipoxygenase-activating protein and leukotriene C4 synthase.",
+"year": "1996",
+"db": "pubmed",
+"id": "8703034",
+"role": "step",
+"note": "recombinant human MGST2 catalyses LTC4 production from LTA4 and reduced glutathione"
+}
+]
+},
+{
+"id": "n3::n168",
+"label": "",
+"class": "Process",
+"box": [
+1532.0,
+699.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HpETE"
+],
+"out": [
+"5(S),15(S)-diHpETE"
+],
+"by": [
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 5-/15-LOX double-oxygenation branch active"
+},
+{
+"authors": "MacMillan DK et al.",
+"journal": "J Biol Chem",
+"title": "Eosinophil 15-lipoxygenase is a leukotriene A4 synthase.",
+"year": "1994",
+"db": "pubmed",
+"id": "7929400",
+"role": "step",
+"note": "15-LOX acts on 5(S)-HPETE to make 5(S),15(S)-dihydro(pero)xy products"
+}
+]
+},
+{
+"id": "n3::n169",
+"label": "",
+"class": "Process",
+"box": [
+2996.0,
+1300.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGD2"
+],
+"out": [
+"11-epi-PGF2alpha"
+],
+"by": [
+"AKR1C3"
+]
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): PGD2, the substrate quantified (lower than in RA)"
+},
+{
+"authors": "Matsuura K et al.",
+"journal": "J Biochem",
+"title": "Identification of a principal mRNA species for human 3alpha-hydroxysteroid dehydrogenase isoform (AKR1C3) that exhibits high prostaglandin D2 11-ketoreductase activity.",
+"year": "1998",
+"db": "pubmed",
+"id": "9792917",
+"role": "step",
+"note": "human AKR1C3 has high PGD2 11-ketoreductase activity"
+}
+]
+},
+{
+"id": "n3::n170",
+"label": "",
+"class": "Process",
+"box": [
+796.0,
+483.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HETE"
+],
+"out": [
+"5-oxo-ETE (5-KETE)"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Turnbull J et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Serum levels of hydroxylated metabolites of arachidonic acid cross-sectionally and longitudinally predict knee pain progression: an observational cohort study.",
+"year": "2024",
+"db": "pubmed",
+"id": "38648876",
+"role": "OA",
+"note": "human OA cohort: 5-HETE (the substrate) predicts knee OA pain; the 5-oxo-ETE step sits in OA-relevant 5-LOX metabolism"
+},
+{
+"authors": "Powell WS et al.",
+"journal": "Prog Lipid Res",
+"title": "The eosinophil chemoattractant 5-oxo-ETE and the OXE receptor.",
+"year": "2013",
+"db": "pubmed",
+"id": "24056189",
+"role": "step",
+"note": "5-oxo-ETE is formed from 5-HETE by 5-hydroxyeicosanoid dehydrogenase (5-HEDH, NADP+-dependent), widely expressed in human cells"
+}
+]
+},
+{
+"id": "n3::n171",
+"label": "",
+"class": "Process",
+"box": [
+3156.0,
+1195.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH2"
+],
+"out": [
+"PGF2alpha"
+],
+"by": [
+"FAM213B"
+]
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): PGF2alpha quantified (lower than in RA)"
+},
+{
+"authors": "Moriuchi H et al.",
+"journal": "J Biol Chem",
+"title": "Molecular characterization of a novel type of prostamide/prostaglandin F synthase, belonging to the thioredoxin-like superfamily.",
+"year": "2008",
+"db": "pubmed",
+"id": "18006499",
+"role": "step",
+"note": "prostamide/PGF synthase (FAM213B) characterised, thioredoxin-like (non-human enzyme)"
+}
+]
+},
+{
+"id": "n3::n172",
+"label": "",
+"class": "Process",
+"box": [
+572.0,
+1563.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Eoxin D4 (14,15-LTD4)"
+],
+"out": [
+"Eoxin E4 (14,15-LTE4)"
+],
+"by": [
+"DPEP2"
+]
+},
+"references": [
+{
+"authors": "Feltenmark S et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Eoxins are proinflammatory arachidonic acid metabolites produced via the 15-lipoxygenase-1 pathway in human eosinophils and mast cells.",
+"year": "2008",
+"db": "pubmed",
+"id": "18184802",
+"role": "step",
+"note": "human cells form eoxin E4 from eoxin D4 (terminal cysteinyl step)"
+},
+{
+"authors": "Habib GM et al.",
+"journal": "FASEB J",
+"title": "Identification of two additional members of the membrane-bound dipeptidase family.",
+"year": "2003",
+"db": "pubmed",
+"id": "12738806",
+"role": "step",
+"note": "DPEP2 cleaves glycine to make the E4 conjugate (shown for LTD4->LTE4; same dipeptidase step on eoxin D4)"
+}
+]
+},
+{
+"id": "n3::n173",
+"label": "",
+"class": "Process",
+"box": [
+1332.0,
+1011.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpETE"
+],
+"out": [
+"14(R),15(S)-diHpETE"
+],
+"by": [
+"ALOX15",
+"ALOX12"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 12/15-LOX double-oxygenation branch active in OA joint"
+},
+{
+"authors": "Kühn H et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Overexpression, purification and characterization of human recombinant 15-lipoxygenase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8334154",
+"role": "step",
+"note": "human recombinant 15-LOX makes 14R,15S-diHETE by double oxygenation of the 15-hydro(pero)xy substrate"
+},
+{
+"authors": "Dadaian M et al.",
+"journal": "J Lipid Res",
+"title": "Albumin modifies the metabolism of hydroxyeicosatetraenoic acids via 12-lipoxygenase in human platelets.",
+"year": "1999",
+"db": "pubmed",
+"id": "10224163",
+"role": "step",
+"note": "human platelet 12-LOX forms 14(R),15(S)-diHETE from 15(S)-HETE"
+}
+]
+},
+{
+"id": "n3::n174",
+"label": "",
+"class": "Process",
+"box": [
+1740.0,
+1579.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5,6-Ep-15(S)-HETE"
+],
+"out": [
+"Lipoxin C4 (LXC4)"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 15-LOX lipoxin pathway active (cysteinyl lipoxin by extension)"
+},
+{
+"authors": "Steinhilber D et al.",
+"journal": "FEBS Lett",
+"title": "New series of lipoxins isolated from human eosinophils.",
+"year": "1989",
+"db": "pubmed",
+"id": "2507350",
+"role": "step",
+"note": "human eosinophils: cysteinyl lipoxins (LXC4/D4/E4) formed from arachidonic acid/15-HETE via the 5-/15-LOX route, analogous to LTC4 (GSH conjugate)"
+}
+]
+},
+{
+"id": "n3::n175",
+"label": "",
+"class": "Process",
+"box": [
+1542.0,
+875.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpETE"
+],
+"out": [
+"5(S),15(S)-diHpETE"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 5-LOX acting on 15-LOX products (diHpETE/lipoxin precursors) active in OA"
+},
+{
+"authors": "Chavis C et al.",
+"journal": "J Exp Med",
+"title": "5(S),15(S)-dihydroxyeicosatetraenoic acid and lipoxin generation in human polymorphonuclear cells: dual specificity of 5-lipoxygenase towards endogenous and exogenous precursors.",
+"year": "1996",
+"db": "pubmed",
+"id": "8666921",
+"role": "step",
+"note": "human PMN: 5-LOX converts 15(S)-HETE/HpETE to 5(S),15(S)-diHETE (dual specificity)"
+}
+]
+},
+{
+"id": "n3::n176",
+"label": "",
+"class": "Process",
+"box": [
+2364.0,
+1155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH2"
+],
+"out": [
+"TXA2"
+],
+"by": [
+"TBXAS1"
+]
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): TXB2 (stable product of TXA2) quantified (lower than in RA)"
+},
+{
+"authors": "Ohashi K et al.",
+"journal": "J Biol Chem",
+"title": "Primary structure of human thromboxane synthase determined from the cDNA sequence.",
+"year": "1992",
+"db": "pubmed",
+"id": "1730669",
+"role": "step",
+"note": "human thromboxane synthase (TBXAS1) cDNA"
+},
+{
+"authors": "Wang LH et al.",
+"journal": "J Biol Chem",
+"title": "Substrate binding is the rate-limiting step in thromboxane synthase catalysis.",
+"year": "2001",
+"db": "pubmed",
+"id": "11297515",
+"role": "step",
+"note": "thromboxane synthase catalysis: TXA2 and 12-HHT from PGH2"
+}
+]
+},
+{
+"id": "n3::n177",
+"label": "",
+"class": "Process",
+"box": [
+188.0,
+1443.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTC4"
+],
+"out": [
+"LTD4"
+],
+"by": [
+"GGT5",
+"GGT1"
+]
+},
+"references": [
+{
+"authors": "Kopicky-Burd JA et al.",
+"journal": "J Rheumatol",
+"title": "Characterization of human synovial mast cells.",
+"year": "1988",
+"db": "pubmed",
+"id": "2462048",
+"role": "OA",
+"note": "human OA/RA synovial mast cells release LTC4, the substrate; places the cysteinyl-leukotriene cascade in the OA synovial mast cell"
+},
+{
+"authors": "Shi ZZ et al.",
+"journal": "Mol Cell Biol",
+"title": "Disruption of gamma-glutamyl leukotrienase results in disruption of leukotriene D(4) synthesis in vivo and attenuation of the acute inflammatory response.",
+"year": "2001",
+"db": "pubmed",
+"id": "11463821",
+"role": "step",
+"note": "mouse: gamma-glutamyl leukotrienase (GGT5) makes LTD4 from LTC4"
+},
+{
+"authors": "Carter BZ et al.",
+"journal": "J Biol Chem",
+"title": "Metabolism of leukotriene C4 in gamma-glutamyl transpeptidase-deficient mice.",
+"year": "1997",
+"db": "pubmed",
+"id": "9139674",
+"role": "step",
+"note": "mouse: GGT1 (gamma-glutamyl transpeptidase) converts LTC4 to LTD4"
+}
+]
+},
+{
+"id": "n3::n178",
+"label": "",
+"class": "Process",
+"box": [
+1532.0,
+444.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HpETE"
+],
+"out": [
+"5(S),12(S)-diHpETE"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Silva AA et al.",
+"journal": "Inflammopharmacology",
+"title": "5-lipoxygenase is critically involved in joint inflammation and damage in experimental osteoarthritis.",
+"year": "2025",
+"db": "pubmed",
+"id": "40581888",
+"role": "OA",
+"note": "mouse collagenase OA: 5-LOX protein rises in the joint and 5-Lox-deficient or zileuton-treated mice have less inflammation and cartilage damage"
+},
+{
+"authors": "Pinto ACMD et al.",
+"journal": "Adv Rheumatol",
+"title": "Glycosaminoglycans in osteoarthritis cartilage promote inflammation by preferential activation of the lipoxygenase rather than the cyclooxygenase pathway.",
+"year": "2025",
+"db": "pubmed",
+"id": "41013696",
+"role": "OA",
+"note": "glycosaminoglycans from human OA cartilage injected into mouse knees raise ALOX5, not COX2, and need ALOX5 for the cell influx"
+},
+{
+"authors": "Ueda N et al.",
+"journal": "J Biol Chem",
+"title": "Purification of arachidonate 5-lipoxygenase from porcine leukocytes and its reactivity with hydroperoxyeicosatetraenoic acids.",
+"year": "1986",
+"db": "pubmed",
+"id": "3086322",
+"role": "step",
+"note": "purified porcine leukocyte 5-lipoxygenase: active on 12-HpETE, giving (5S,12S)-dihydroperoxy acid at 22% of its rate on arachidonic acid"
+},
+{
+"authors": "Maclouf J et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Stimulation of leukotriene biosynthesis in human blood leukocytes by platelet-derived 12-hydroperoxy-icosatetraenoic acid.",
+"year": "1982",
+"db": "pubmed",
+"id": "6821131",
+"role": "step",
+"note": "human blood leukocytes: platelet-derived 12(S)-HpETE, not the hydroxy acid, activates the leukocyte 5-lipoxygenase, so the hydroperoxide is a 5-LOX substrate in human cells"
+}
+]
+},
+{
+"id": "n3::n179",
+"label": "",
+"class": "Process",
+"box": [
+3284.0,
+1291.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGE2"
+],
+"out": [
+"PGF2alpha"
+],
+"by": [
+"CBR1"
+]
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): PGE2 and PGF2alpha quantified (lower than in RA)"
+},
+{
+"authors": "Wermuth B",
+"journal": "J Biol Chem",
+"title": "Purification and properties of an NADPH-dependent carbonyl reductase from human brain. Relationship to prostaglandin 9-ketoreductase and xenobiotic ketone reductase.",
+"year": "1981",
+"db": "pubmed",
+"id": "7005231",
+"role": "step",
+"note": "human carbonyl reductase (CBR1): prostaglandin 9-ketoreductase activity"
+}
+]
+},
+{
+"id": "n3::n180",
+"label": "",
+"class": "Process",
+"box": [
+3124.0,
+1195.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH2"
+],
+"out": [
+"PGF2alpha"
+],
+"by": [
+"AKR1A1",
+"AKR1C3"
+]
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): PGF2alpha quantified (lower than in RA)"
+},
+{
+"authors": "Lacroix Pépin N et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Evaluation of the prostaglandin F synthase activity of human and bovine aldo-keto reductases: AKR1A1s complement AKR1B1s as potent PGF synthases.",
+"year": "2013",
+"db": "pubmed",
+"id": "23747692",
+"role": "step",
+"note": "human aldo-keto reductases: AKR1A1 has PGF synthase activity"
+},
+{
+"authors": "Suzuki-Yamamoto T et al.",
+"journal": "FEBS Lett",
+"title": "cDNA cloning, expression and characterization of human prostaglandin F synthase.",
+"year": "1999",
+"db": "pubmed",
+"id": "10622721",
+"role": "step",
+"note": "human PGF synthase (AKR1C3) cloned, expressed and characterised"
+}
+]
+},
+{
+"id": "n3::n181",
+"label": "",
+"class": "Process",
+"box": [
+2844.0,
+492.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Lecithin"
+],
+"out": [
+"Arachidonic acid"
+],
+"by": [
+"PLA2G4A",
+"PLA2G4C",
+"Corticosteroids"
+]
+},
+"references": [
+{
+"authors": "Leistad L et al.",
+"journal": "Scand J Rheumatol",
+"title": "Multiple phospholipase A2 enzymes participate in the inflammatory process in osteoarthritic cartilage.",
+"year": "2011",
+"db": "pubmed",
+"id": "21417548",
+"role": "OA",
+"note": "human OA chondrocytes: several PLA2 enzymes, cPLA2 among them, raised by inflammatory stimuli"
+},
+{
+"authors": "Clark JD et al.",
+"journal": "Cell",
+"title": "A novel arachidonic acid-selective cytosolic PLA2 contains a Ca(2+)-dependent translocation domain with homology to PKC and GAP.",
+"year": "1991",
+"db": "pubmed",
+"id": "1904318",
+"role": "step",
+"note": "cloned cPLA2 (PLA2G4A) cleaves arachidonic acid selectively from membrane phospholipids"
+},
+{
+"authors": "Underwood KW et al.",
+"journal": "J Biol Chem",
+"title": "A novel calcium-independent phospholipase A2, cPLA2-gamma, that is prenylated and contains homology to cPLA2.",
+"year": "1998",
+"db": "pubmed",
+"id": "9705332",
+"role": "step",
+"note": "cloned cPLA2-gamma (PLA2G4C) prefers arachidonic acid at sn-2 of phosphatidylcholine"
+},
+{
+"authors": "Ueno N et al.",
+"journal": "J Biol Chem",
+"title": "Analysis of two major intracellular phospholipases A(2) (PLA(2)) in mast cells reveals crucial contribution of cytosolic PLA(2)α, not Ca(2+)-independent PLA(2)β, to lipid mobilization in proximal mast cells and distal fibroblasts.",
+"year": "2011",
+"db": "pubmed",
+"id": "21880721",
+"role": "step",
+"note": "mouse mast cells: cPLA2alpha, not iPLA2beta, releases arachidonic acid on FcepsilonRI activation"
+},
+{
+"authors": "Nakatani Y et al.",
+"journal": "J Immunol",
+"title": "Dual regulation of cytosolic phospholipase A2 in mast cells after cross-linking of FC epsilon-receptor.",
+"year": "1994",
+"db": "pubmed",
+"id": "7517423",
+"role": "step",
+"note": "mouse mast cells: FcepsilonRI activates cPLA2, dexamethasone suppresses its induction (the corticosteroid arm)"
+}
+]
+},
+{
+"id": "n3::n182",
+"label": "",
+"class": "Process",
+"box": [
+444.0,
+483.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5-oxo-ETE (5-KETE)"
+],
+"out": [
+"5-oxo-12S-HETE"
+],
+"by": [
+"ALOX12"
+]
+},
+"references": [
+{
+"authors": "Powell WS et al.",
+"journal": "Blood",
+"title": "Biological inactivation of 5-oxo-6,8,11,14-eicosatetraenoic acid by human platelets.",
+"year": "1999",
+"db": "pubmed",
+"id": "9920859",
+"role": "step",
+"note": "human platelets (12-LOX is their lipoxygenase): stimulated platelets convert 5-oxo-ETE to 5-oxo-12-HETE and its 8-trans isomer, which antagonise 5-oxo-ETE on neutrophils"
+},
+{
+"authors": "Funk CD et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Molecular cloning, primary structure, and expression of the human platelet/erythroleukemia cell 12-lipoxygenase.",
+"year": "1990",
+"db": "pubmed",
+"id": "2377602",
+"role": "step",
+"note": "the enzyme: human platelet 12-lipoxygenase (ALOX12) cloned and shown to 12-oxygenate arachidonate"
+},
+{
+"authors": "Habouri L et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Deletion of 12/15-lipoxygenase accelerates the development of aging-associated and instability-induced osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "28694081",
+"role": "OA",
+"note": "mouse OA: the 12/15-LOX pathway is active in OA cartilage and protective; places ALOX12 in OA"
+},
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human severe knee OA synovial fluid: 5-LOX and 12/15-LOX products of this branch are detected (lower than in RA)"
+}
+]
+},
+{
+"id": "n3::n183",
+"label": "",
+"class": "Process",
+"box": [
+1542.0,
+1039.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpETE"
+],
+"out": [
+"Eoxin A4 (14,15-LTA4)"
+],
+"by": [
+"ALOX15",
+"ALOX12"
+]
+},
+"references": [
+{
+"authors": "Feltenmark S et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Eoxins are proinflammatory arachidonic acid metabolites produced via the 15-lipoxygenase-1 pathway in human eosinophils and mast cells.",
+"year": "2008",
+"db": "pubmed",
+"id": "18184802",
+"role": "step",
+"note": "human mast cells and eosinophils make eoxin A4 via ALOX15-1 (the mast cell pathway drawn)"
+},
+{
+"authors": "Kühn H et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Overexpression, purification and characterization of human recombinant 15-lipoxygenase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8334154",
+"role": "step",
+"note": "human recombinant 15-LOX makes 14,15-LTA4 (eoxin A4)"
+},
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: 15-LOX pathway active; eoxins are a 15-LOX branch (inflammation, not pain data)"
+}
+]
+},
+{
+"id": "n3::n184",
+"label": "",
+"class": "Process",
+"box": [
+572.0,
+1443.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Eoxin C4 (14,15-LTC4)"
+],
+"out": [
+"Eoxin D4 (14,15-LTD4)"
+],
+"by": [
+"GGT1",
+"GGT5"
+]
+},
+"references": [
+{
+"authors": "Feltenmark S et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Eoxins are proinflammatory arachidonic acid metabolites produced via the 15-lipoxygenase-1 pathway in human eosinophils and mast cells.",
+"year": "2008",
+"db": "pubmed",
+"id": "18184802",
+"role": "step",
+"note": "human cells convert eoxin C4 to eoxin D4 (cysteinyl conjugate series)"
+},
+{
+"authors": "Carter BZ et al.",
+"journal": "J Biol Chem",
+"title": "Metabolism of leukotriene C4 in gamma-glutamyl transpeptidase-deficient mice.",
+"year": "1997",
+"db": "pubmed",
+"id": "9139674",
+"role": "step",
+"note": "GGT1 makes the D4 conjugate from the C4 conjugate (shown for LTC4; same gamma-glutamyl step on eoxin C4)"
+},
+{
+"authors": "Shi ZZ et al.",
+"journal": "Mol Cell Biol",
+"title": "Disruption of gamma-glutamyl leukotrienase results in disruption of leukotriene D(4) synthesis in vivo and attenuation of the acute inflammatory response.",
+"year": "2001",
+"db": "pubmed",
+"id": "11463821",
+"role": "step",
+"note": "GGT5 makes the D4 conjugate from C4 (LTC4->LTD4; same chemistry)"
+}
+]
+},
+{
+"id": "n3::n185",
+"label": "",
+"class": "Process",
+"box": [
+2532.0,
+1155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH2"
+],
+"out": [
+"PGI2"
+],
+"by": [
+"PTGIS"
+]
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): 6-keto-PGF1alpha (stable product of PGI2) quantified (lower than in RA)"
+},
+{
+"authors": "Miyata A et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "Molecular cloning and expression of human prostacyclin synthase.",
+"year": "1994",
+"db": "pubmed",
+"id": "8185632",
+"role": "step",
+"note": "human prostacyclin synthase (PTGIS) cloned and expressed"
+}
+]
+},
+{
+"id": "n3::n186",
+"label": "",
+"class": "Process",
+"box": [
+2844.0,
+987.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGG2"
+],
+"out": [
+"PGH2"
+],
+"by": [
+"PTGS1",
+"PTGS2"
+]
+},
+"references": [
+{
+"authors": "Amin AR et al.",
+"journal": "J Clin Invest",
+"title": "Superinduction of cyclooxygenase-2 activity in human osteoarthritis-affected cartilage. Influence of nitric oxide.",
+"year": "1997",
+"db": "pubmed",
+"id": "9077531",
+"role": "OA",
+"note": "human OA cartilage: COX-2 activity raised (both activities of the enzyme)"
+},
+{
+"authors": "Eling TE et al.",
+"journal": "J Biol Chem",
+"title": "Studies on the reduction of endogenously generated prostaglandin G2 by prostaglandin H synthase.",
+"year": "1991",
+"db": "pubmed",
+"id": "1905721",
+"role": "step",
+"note": "prostaglandin H synthase reduces the PGG2 it makes to PGH2 (peroxidase step)"
+},
+{
+"authors": "Hla T et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Human cyclooxygenase-2 cDNA.",
+"year": "1992",
+"db": "pubmed",
+"id": "1380156",
+"role": "step",
+"note": "human COX-2 cloned: the prostaglandin G/H synthase"
+}
+]
+},
+{
+"id": "n3::n187",
+"label": "",
+"class": "Process",
+"box": [
+572.0,
+1803.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Lipoxin C4 (LXC4)"
+],
+"out": [
+"Lipoxin D4 (LXD4)"
+],
+"by": [
+"GGT5",
+"GGT1"
+]
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA: cysteinyl-lipoxin resolution pathway active in OA joint"
+},
+{
+"authors": "Shi ZZ et al.",
+"journal": "Mol Cell Biol",
+"title": "Disruption of gamma-glutamyl leukotrienase results in disruption of leukotriene D(4) synthesis in vivo and attenuation of the acute inflammatory response.",
+"year": "2001",
+"db": "pubmed",
+"id": "11463821",
+"role": "step",
+"note": "GGT5 (gamma-glutamyl leukotrienase) converts the cysteinyl conjugate C4 to D4 (shown for LTC4; applies to cysteinyl lipoxin C4 by the same chemistry)"
+},
+{
+"authors": "Carter BZ et al.",
+"journal": "J Biol Chem",
+"title": "Metabolism of leukotriene C4 in gamma-glutamyl transpeptidase-deficient mice.",
+"year": "1997",
+"db": "pubmed",
+"id": "9139674",
+"role": "step",
+"note": "GGT1 makes the D4 conjugate from C4 (shown for LTC4, same gamma-glutamyl step)"
+}
+]
+},
+{
+"id": "n3::n188",
+"label": "",
+"class": "Process",
+"box": [
+1164.0,
+1747.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Lipoxin C4 (LXC4)"
+],
+"out": [
+"Lipoxin C4 (LXC4)"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Jónasdóttir HS et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Targeted lipidomics reveals activation of resolution pathways in knee osteoarthritis in humans.",
+"year": "2017",
+"db": "pubmed",
+"id": "28189826",
+"role": "OA",
+"note": "human OA synovial fluid cells produce lipoxin-pathway (5-/15-LOX) mediators; no transporter drawn"
+},
+{
+"authors": "Steinhilber D et al.",
+"journal": "FEBS Lett",
+"title": "New series of lipoxins isolated from human eosinophils.",
+"year": "1989",
+"db": "pubmed",
+"id": "2507350",
+"role": "step",
+"note": "human eosinophils form and release cysteinyl lipoxin C4"
+}
+]
+},
+{
+"id": "n3::n189",
+"label": "",
+"class": "Process",
+"box": [
+1332.0,
+371.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HpETE"
+],
+"out": [
+"12(S)-HETE"
+],
+"by": [
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Zhao Q et al.",
+"journal": "J Inflamm Res",
+"title": "Biological Functions of Selenoprotein Glutathione Peroxidases (GPXs) and their Expression in Osteoarthritis.",
+"year": "2023",
+"db": "pubmed",
+"id": "36686275",
+"role": "OA",
+"note": "human OA: GPX1 raised in OA patients' blood mononuclear cells"
+},
+{
+"authors": "Sutherland M et al.",
+"journal": "Biochem J",
+"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
+"year": "2001",
+"db": "pubmed",
+"id": "11115402",
+"role": "step",
+"note": "human platelets: GPX1 is the main 12-HpETE-reducing peroxidase (activity ratio PHGPx:GPX1 about 1:60); blocking both stops 12-HETE formation"
+},
+{
+"authors": "Kelly S et al.",
+"journal": "Ann Rheum Dis",
+"title": "Increased function of pronociceptive TRPV1 at the level of the joint in a rat model of osteoarthritis pain.",
+"year": "2015",
+"db": "pubmed",
+"id": "24152419",
+"role": "OA",
+"note": "rat MIA OA: 12-HETE, the product of this step, is raised in the OA joint and sensitises joint afferents; TRPV1 raised in human OA synovium"
+}
+]
+},
+{
+"id": "n3::n190",
+"label": "",
+"class": "Process",
+"box": [
+1321.4,
+1824.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Lipoxin A4"
+],
+"out": [
+"15-oxo-LXA4"
+],
+"by": [
+"HPGD"
+]
+},
+"references": [
+{
+"authors": "Hashimoto A et al.",
+"journal": "J Rheumatol",
+"title": "Antiinflammatory mediator lipoxin A4 and its receptor in synovitis of patients with rheumatoid arthritis.",
+"year": "2007",
+"db": "pubmed",
+"id": "17918787",
+"role": "OA",
+"note": "human OA synovial fluid: LXA4 present and turned over in the joint (its catabolism by extension)"
+},
+{
+"authors": "Serhan CN et al.",
+"journal": "Biochemistry",
+"title": "Lipoxin A4 metabolism by differentiated HL-60 cells and human monocytes: conversion to novel 15-oxo and dihydro products.",
+"year": "1993",
+"db": "pubmed",
+"id": "8518275",
+"role": "step",
+"note": "human monocytes/HL-60: LXA4 oxidised to 15-oxo-LXA4 by 15-hydroxyprostaglandin dehydrogenase (HPGD)"
+}
+]
+},
+{
+"id": "n3::n191",
+"label": "",
+"class": "Process",
+"box": [
+188.0,
+1579.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTD4"
+],
+"out": [
+"LTE4"
+],
+"by": [
+"DPEP1",
+"DPEP2"
+]
+},
+"references": [
+{
+"authors": "Sahap Atik O",
+"journal": "Prostaglandins Leukot Essent Fatty Acids",
+"title": "Leukotriene B4 and prostaglandin E2-like activity in synovial fluid in osteoarthritis.",
+"year": "1990",
+"db": "pubmed",
+"id": "2162064",
+"role": "OA",
+"note": "human knee OA synovial fluid: LTB4 and PGE2-like activity raised; places leukotriene metabolism in OA joint fluid (cysteinyl LTs LTC4-LTE4 below detection in later OA SF study, see weak_points)"
+},
+{
+"authors": "Habib GM et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Leukotriene D4 and cystinyl-bis-glycine metabolism in membrane-bound dipeptidase-deficient mice.",
+"year": "1998",
+"db": "pubmed",
+"id": "9560193",
+"role": "step",
+"note": "membrane-bound dipeptidase (DPEP1) converts LTD4 to LTE4 (knockout mice)"
+},
+{
+"authors": "Habib GM et al.",
+"journal": "FASEB J",
+"title": "Identification of two additional members of the membrane-bound dipeptidase family.",
+"year": "2003",
+"db": "pubmed",
+"id": "12738806",
+"role": "step",
+"note": "human: DPEP2 identified, a dipeptidase that converts LTD4 to LTE4"
+}
+]
+},
+{
+"id": "n3::n192",
+"label": "",
+"class": "Process",
+"box": [
+1028.0,
+883.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HpETE"
+],
+"out": [
+"LTA4"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Martel-Pelletier J et al.",
+"journal": "Arthritis Rheum",
+"title": "Regulation of the expression of 5-lipoxygenase-activating protein/5-lipoxygenase and the synthesis of leukotriene B(4) in osteoarthritic chondrocytes: role of transforming growth factor beta and eicosanoids.",
+"year": "2004",
+"db": "pubmed",
+"id": "15593193",
+"role": "OA",
+"note": "human OA chondrocytes express 5-LOX and make LTB4 (downstream of LTA4), so the ALOX5 LTA4-synthase step runs in OA cells"
+},
+{
+"authors": "Shimizu T et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Characterization of leukotriene A4 synthase from murine mast cells: evidence for its identity to arachidonate 5-lipoxygenase.",
+"year": "1986",
+"db": "pubmed",
+"id": "3012557",
+"role": "step",
+"note": "murine mast cells: ALOX5 is the LTA4 synthase, converting 5-HpETE to LTA4; the mast cell step drawn"
+},
+{
+"authors": "Rouzer CA et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Single protein from human leukocytes possesses 5-lipoxygenase and leukotriene A4 synthase activities.",
+"year": "1986",
+"db": "pubmed",
+"id": "3006030",
+"role": "step",
+"note": "human leukocyte 5-lipoxygenase also has LTA4 synthase activity, dehydrating 5-HpETE to LTA4"
+}
+]
+},
+{
+"id": "n3::n193",
+"label": "",
+"class": "Process",
+"box": [
+1435.0,
+67.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(R)-HpETE"
+],
+"out": [
+"12(R)-HETE"
+],
+"by": [
+"GPX4"
+]
+},
+"references": [
+{
+"authors": "Miao Y et al.",
+"journal": "EBioMedicine",
+"title": "Contribution of ferroptosis and GPX4's dual functions to osteoarthritis progression.",
+"year": "2022",
+"db": "pubmed",
+"id": "35101656",
+"role": "OA",
+"note": "human OA cartilage (55 pairs) and mouse: GPX4 is lower in OA cartilage and its knockdown worsens OA in vivo; places the enzyme in OA"
+},
+{
+"authors": "Sutherland M et al.",
+"journal": "Biochem J",
+"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
+"year": "2001",
+"db": "pubmed",
+"id": "11115402",
+"role": "step",
+"note": "human platelets: GPX4 (PHGPx) protein and activity present and, with GPX1, reduces 12-HpETE to 12-HETE; shown for the 12(S) hydroperoxide"
+},
+{
+"authors": "Boeglin WE et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "A 12R-lipoxygenase in human skin: mechanistic evidence, molecular cloning, and expression.",
+"year": "1998",
+"db": "pubmed",
+"id": "9618483",
+"role": "step",
+"note": "human skin: 12(R)-HETE is the accumulating product of the 12R-lipoxygenase route, so 12(R)-HpETE is reduced in human tissue"
+}
+]
+},
+{
+"id": "n3::n194",
+"label": "",
+"class": "Process",
+"box": [
+3428.0,
+2038.1,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGE2"
+],
+"out": [
+"PGE2"
+],
+"by": [
+"ABCC4"
+]
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): PGE2 quantified (lower than in RA)"
+},
+{
+"authors": "Reid G et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "The human multidrug resistance protein MRP4 functions as a prostaglandin efflux transporter and is inhibited by nonsteroidal antiinflammatory drugs.",
+"year": "2003",
+"db": "pubmed",
+"id": "12835412",
+"role": "step",
+"note": "human MRP4 (ABCC4) is a prostaglandin efflux transporter, inhibited by NSAIDs"
+},
+{
+"authors": "Johnsson AK et al.",
+"journal": "Clin Exp Allergy",
+"title": "Selective inhibition of prostaglandin D(2) biosynthesis in human mast cells to overcome need for multiple receptor antagonists: Biochemical consequences.",
+"year": "2021",
+"db": "pubmed",
+"id": "33449404",
+"role": "step",
+"note": "human mast cells: PGE2 only from non-enzymatic degradation (weakens mast cell PGE2 export)"
+}
+]
+},
+{
+"id": "n3::n195",
+"label": "",
+"class": "Process",
+"box": [
+2532.0,
+2046.1,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGI2"
+],
+"out": [
+"PGI2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): 6-keto-PGF1alpha quantified (lower than in RA)"
+},
+{
+"authors": "Lewis RA et al.",
+"journal": "J Immunol",
+"title": "Prostaglandin D2 generation after activation of rat and human mast cells with anti-IgE.",
+"year": "1982",
+"db": "pubmed",
+"id": "6809826",
+"role": "step",
+"note": "rat and human mast cells: rat mast cells make PGI2, human mainly PGD2"
+}
+]
+},
+{
+"id": "n3::n196",
+"label": "",
+"class": "Process",
+"box": [
+1028.0,
+2046.1,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTB4"
+],
+"out": [
+"LTB4"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sahap Atik O",
+"journal": "Prostaglandins Leukot Essent Fatty Acids",
+"title": "Leukotriene B4 and prostaglandin E2-like activity in synovial fluid in osteoarthritis.",
+"year": "1990",
+"db": "pubmed",
+"id": "2162064",
+"role": "OA",
+"note": "human knee OA synovial fluid contains raised LTB4, so LTB4 is released into the OA joint"
+},
+{
+"authors": "Maxis K et al.",
+"journal": "Arthritis Res Ther",
+"title": "The shunt from the cyclooxygenase to lipoxygenase pathway in human osteoarthritic subchondral osteoblasts is linked with a variable expression of the 5-lipoxygenase-activating protein.",
+"year": "2006",
+"db": "pubmed",
+"id": "17156456",
+"role": "step",
+"note": "human OA subchondral osteoblasts produce and release LTB4 measured in conditioned medium"
+}
+]
+},
+{
 "label": "ALOX5AP",
 "class": "Macromolecule",
 "box": [
@@ -6525,6 +10311,61 @@
 ]
 },
 {
+"id": "n3::n204",
+"label": "",
+"class": "Process",
+"box": [
+3172.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Arachidonic acid"
+],
+"out": [
+"5,6-EET"
+],
+"by": [
+"CYP2J2"
+]
+},
+"references": [
+{
+"authors": "Hinata M et al.",
+"journal": "Pain",
+"title": "Sensitization of transient receptor potential vanilloid 4 and increasing its endogenous ligand 5,6-epoxyeicosatrienoic acid in rats with monoiodoacetate-induced osteoarthritis.",
+"year": "2018",
+"db": "pubmed",
+"id": "29438227",
+"role": "OA",
+"note": "rat MIA OA and human OA synovial fluid: 5,6-EET raised in the OA joint, sensitises TRPV4, drives OA pain"
+},
+{
+"authors": "Wu S et al.",
+"journal": "J Biol Chem",
+"title": "Molecular cloning and expression of CYP2J2, a human cytochrome P450 arachidonic acid epoxygenase highly expressed in heart.",
+"year": "1996",
+"db": "pubmed",
+"id": "8631948",
+"role": "step",
+"note": "recombinant human CYP2J2 epoxidises arachidonic acid to all four regioisomeric EETs including 5,6-EET"
+},
+{
+"authors": "Sisignano M et al.",
+"journal": "J Neurosci",
+"title": "5,6-EET is released upon neuronal activity and induces mechanical pain hypersensitivity via TRPA1 on central afferent terminals.",
+"year": "2012",
+"db": "pubmed",
+"id": "22553041",
+"role": "step",
+"note": "5,6-EET released on neuronal activity induces mechanical pain via TRPA1; supports 5,6-EET as the bioactive product"
+}
+]
+},
+{
 "label": "8,9-EET",
 "class": "SimpleChemical",
 "box": [
@@ -6570,6 +10411,51 @@
 "InChIKey",
 "DBWQSCSXHFNTMO-TYAUOURKSA-N"
 ]
+]
+},
+{
+"id": "n3::n206",
+"label": "",
+"class": "Process",
+"box": [
+3428.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Arachidonic acid"
+],
+"out": [
+"8,9-EET"
+],
+"by": [
+"CYP2J2"
+]
+},
+"references": [
+{
+"authors": "Valdes AM et al.",
+"journal": "J Lipid Res",
+"title": "Omega-6 oxylipins generated by soluble epoxide hydrolase are associated with knee osteoarthritis.",
+"year": "2018",
+"db": "pubmed",
+"id": "29986999",
+"role": "OA",
+"note": "human knee OA synovial fluid: omega-6 oxylipins of the EET/DHET pathway associate with OA; EET substrate pool present in OA joint"
+},
+{
+"authors": "Wu S et al.",
+"journal": "J Biol Chem",
+"title": "Molecular cloning and expression of CYP2J2, a human cytochrome P450 arachidonic acid epoxygenase highly expressed in heart.",
+"year": "1996",
+"db": "pubmed",
+"id": "8631948",
+"role": "step",
+"note": "recombinant human CYP2J2 makes all four regioisomeric EETs including 8,9-EET from arachidonic acid"
+}
 ]
 },
 {
@@ -6621,6 +10507,51 @@
 ]
 },
 {
+"id": "n3::n208",
+"label": "",
+"class": "Process",
+"box": [
+3428.0,
+899.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"8,9-EET"
+],
+"out": [
+"8,9-DHET"
+],
+"by": [
+"EPHX2"
+]
+},
+"references": [
+{
+"authors": "Gowler PRW et al.",
+"journal": "Arthritis Rheumatol",
+"title": "Clinical and Preclinical Evidence for Roles of Soluble Epoxide Hydrolase in Osteoarthritis Knee Pain.",
+"year": "2022",
+"db": "pubmed",
+"id": "34672113",
+"role": "OA",
+"note": "human OA (EPHX2 SNPs, circulating EET/DHET) and murine OA: soluble EH converts EETs to DHETs, sEH inhibition lowers 8,9-DHET and reverses OA pain"
+},
+{
+"authors": "Valdes AM et al.",
+"journal": "J Lipid Res",
+"title": "Omega-6 oxylipins generated by soluble epoxide hydrolase are associated with knee osteoarthritis.",
+"year": "2018",
+"db": "pubmed",
+"id": "29986999",
+"role": "step",
+"note": "human: 8,9-DHET and other DHETs are the sEH (EPHX2) products of EETs, associated with EPHX2 gene variants"
+}
+]
+},
+{
 "label": "11,12-EET",
 "class": "SimpleChemical",
 "box": [
@@ -6666,6 +10597,51 @@
 "InChIKey",
 "DXOYQVHGIODESM-KROJNAHFSA-N"
 ]
+]
+},
+{
+"id": "n3::n210",
+"label": "",
+"class": "Process",
+"box": [
+3684.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Arachidonic acid"
+],
+"out": [
+"11,12-EET"
+],
+"by": [
+"CYP2J2"
+]
+},
+"references": [
+{
+"authors": "Valdes AM et al.",
+"journal": "J Lipid Res",
+"title": "Omega-6 oxylipins generated by soluble epoxide hydrolase are associated with knee osteoarthritis.",
+"year": "2018",
+"db": "pubmed",
+"id": "29986999",
+"role": "OA",
+"note": "human knee OA synovial fluid: 11,12-DHET (the sEH product of 11,12-EET) associated with OA and higher in affected knees"
+},
+{
+"authors": "Wu S et al.",
+"journal": "J Biol Chem",
+"title": "Molecular cloning and expression of CYP2J2, a human cytochrome P450 arachidonic acid epoxygenase highly expressed in heart.",
+"year": "1996",
+"db": "pubmed",
+"id": "8631948",
+"role": "step",
+"note": "recombinant human CYP2J2 makes all four regioisomeric EETs including 11,12-EET"
+}
 ]
 },
 {
@@ -6717,6 +10693,51 @@
 ]
 },
 {
+"id": "n3::n212",
+"label": "",
+"class": "Process",
+"box": [
+3684.0,
+899.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"11,12-EET"
+],
+"out": [
+"11,12-DHET"
+],
+"by": [
+"EPHX2"
+]
+},
+"references": [
+{
+"authors": "Valdes AM et al.",
+"journal": "J Lipid Res",
+"title": "Omega-6 oxylipins generated by soluble epoxide hydrolase are associated with knee osteoarthritis.",
+"year": "2018",
+"db": "pubmed",
+"id": "29986999",
+"role": "OA",
+"note": "human OA synovial fluid: 11,12-DHET (sEH product) associated with OA and higher in the affected knee"
+},
+{
+"authors": "Gowler PRW et al.",
+"journal": "Arthritis Rheumatol",
+"title": "Clinical and Preclinical Evidence for Roles of Soluble Epoxide Hydrolase in Osteoarthritis Knee Pain.",
+"year": "2022",
+"db": "pubmed",
+"id": "34672113",
+"role": "step",
+"note": "soluble EH metabolises EETs to DHETs; the hydrolysis step, with OA relevance"
+}
+]
+},
+{
 "label": "14,15-EET",
 "class": "SimpleChemical",
 "box": [
@@ -6765,6 +10786,51 @@
 ]
 },
 {
+"id": "n3::n214",
+"label": "",
+"class": "Process",
+"box": [
+3940.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Arachidonic acid"
+],
+"out": [
+"14,15-EET"
+],
+"by": [
+"CYP2J2"
+]
+},
+"references": [
+{
+"authors": "Valdes AM et al.",
+"journal": "J Lipid Res",
+"title": "Omega-6 oxylipins generated by soluble epoxide hydrolase are associated with knee osteoarthritis.",
+"year": "2018",
+"db": "pubmed",
+"id": "29986999",
+"role": "OA",
+"note": "human knee OA synovial fluid: 14,15-DHET (the sEH product of 14,15-EET) associated with OA and higher in affected knees"
+},
+{
+"authors": "Wu S et al.",
+"journal": "J Biol Chem",
+"title": "Molecular cloning and expression of CYP2J2, a human cytochrome P450 arachidonic acid epoxygenase highly expressed in heart.",
+"year": "1996",
+"db": "pubmed",
+"id": "8631948",
+"role": "step",
+"note": "recombinant human CYP2J2 epoxidises arachidonic acid to 14,15-EET (highly enantioselective) among the four EETs"
+}
+]
+},
+{
 "label": "14,15-DHET",
 "class": "SimpleChemical",
 "box": [
@@ -6810,6 +10876,51 @@
 "InChIKey",
 "SYAWGTIVOGUZMM-ILYOTBPNSA-N"
 ]
+]
+},
+{
+"id": "n3::n216",
+"label": "",
+"class": "Process",
+"box": [
+3940.0,
+899.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"14,15-EET"
+],
+"out": [
+"14,15-DHET"
+],
+"by": [
+"EPHX2"
+]
+},
+"references": [
+{
+"authors": "Gowler PRW et al.",
+"journal": "Arthritis Rheumatol",
+"title": "Clinical and Preclinical Evidence for Roles of Soluble Epoxide Hydrolase in Osteoarthritis Knee Pain.",
+"year": "2022",
+"db": "pubmed",
+"id": "34672113",
+"role": "OA",
+"note": "human and murine OA: sEH converts EETs to DHETs; TPPU inhibition lowered 14,15-DHET and reversed OA pain behaviour"
+},
+{
+"authors": "Valdes AM et al.",
+"journal": "J Lipid Res",
+"title": "Omega-6 oxylipins generated by soluble epoxide hydrolase are associated with knee osteoarthritis.",
+"year": "2018",
+"db": "pubmed",
+"id": "29986999",
+"role": "step",
+"note": "human: 14,15-DHET is the sEH (EPHX2) product, associated with EPHX2 gene variants and OA"
+}
 ]
 },
 {
@@ -6917,6 +11028,51 @@
 ]
 },
 {
+"id": "n3::n219",
+"label": "",
+"class": "Process",
+"box": [
+3868.0,
+1363.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGE2"
+],
+"out": [
+"15-keto-PGE2"
+],
+"by": [
+"HPGD"
+]
+},
+"references": [
+{
+"authors": "Singla M et al.",
+"journal": "Science",
+"title": "Inhibition of 15-hydroxy prostaglandin dehydrogenase promotes cartilage regeneration.",
+"year": "2026",
+"db": "pubmed",
+"id": "41308124",
+"role": "OA",
+"note": "mouse: 15-PGDH inhibition promotes cartilage regeneration in OA"
+},
+{
+"authors": "Ensor CM et al.",
+"journal": "J Biol Chem",
+"title": "Cloning and sequence analysis of the cDNA for human placental NAD(+)-dependent 15-hydroxyprostaglandin dehydrogenase.",
+"year": "1990",
+"db": "pubmed",
+"id": "1697582",
+"role": "step",
+"note": "human placental NAD+-dependent 15-PGDH (HPGD) cloned"
+}
+]
+},
+{
 "label": "15-keto-PGE2",
 "class": "SimpleChemical",
 "box": [
@@ -6958,6 +11114,51 @@
 "InChIKey",
 "YRTJDWROBKPZNV-KMXMBPPJSA-N"
 ]
+]
+},
+{
+"id": "n3::n221",
+"label": "",
+"class": "Process",
+"box": [
+3868.0,
+1523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15-keto-PGE2"
+],
+"out": [
+"13,14-dihydro-15-keto-PGE2"
+],
+"by": [
+"PTGR2"
+]
+},
+"references": [
+{
+"authors": "Singla M et al.",
+"journal": "Science",
+"title": "Inhibition of 15-hydroxy prostaglandin dehydrogenase promotes cartilage regeneration.",
+"year": "2026",
+"db": "pubmed",
+"id": "41308124",
+"role": "OA",
+"note": "mouse OA: the PGE2 inactivation pathway (15-PGDH) in cartilage, by extension"
+},
+{
+"authors": "Chou WL et al.",
+"journal": "J Biol Chem",
+"title": "Identification of a novel prostaglandin reductase reveals the involvement of prostaglandin E2 catabolism in regulation of peroxisome proliferator-activated receptor gamma activation.",
+"year": "2007",
+"db": "pubmed",
+"id": "17449869",
+"role": "step",
+"note": "human prostaglandin reductase 2 (PTGR2) identified: 15-keto-PGE2 to its 13,14-dihydro form"
+}
 ]
 },
 {
@@ -7121,6 +11322,102 @@
 ]
 },
 {
+"id": "n3::n225",
+"label": "",
+"class": "Process",
+"box": [
+2844.0,
+1611.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGJ2"
+],
+"out": [
+"delta12-PGJ2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Fahmi H et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "15d-PGJ(2) is acting as a 'dual agent' on the regulation of COX-2 expression in human osteoarthritic chondrocytes.",
+"year": "2002",
+"db": "pubmed",
+"id": "12435328",
+"role": "OA",
+"note": "human OA chondrocytes: 15d-PGJ2 acts on COX-2 (added, not measured in OA)"
+},
+{
+"authors": "Yamaguchi S et al.",
+"journal": "J Am Chem Soc",
+"title": "Delta12-prostaglandin J2 as a product and ligand of human serum albumin: formation of an unusual covalent adduct at His146.",
+"year": "2010",
+"db": "pubmed",
+"id": "20014793",
+"role": "step",
+"note": "human serum albumin catalyses PGJ2 to delta12-PGJ2"
+}
+]
+},
+{
+"id": "n3::n227",
+"label": "",
+"class": "Process",
+"box": [
+2844.0,
+1771.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"delta12-PGJ2"
+],
+"out": [
+"15d-PGJ2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Fahmi H et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "15d-PGJ(2) is acting as a 'dual agent' on the regulation of COX-2 expression in human osteoarthritic chondrocytes.",
+"year": "2002",
+"db": "pubmed",
+"id": "12435328",
+"role": "OA",
+"note": "human OA chondrocytes: 15d-PGJ2 regulates COX-2 (added, not measured in OA)"
+},
+{
+"authors": "Farrajota K et al.",
+"journal": "Arthritis Rheum",
+"title": "Inhibition of interleukin-1beta-induced cyclooxygenase 2 expression in human synovial fibroblasts by 15-deoxy-Delta12,14-prostaglandin J2 through a histone deacetylase-independent mechanism.",
+"year": "2005",
+"db": "pubmed",
+"id": "15641079",
+"role": "OA",
+"note": "human OA synovial fibroblasts: 15d-PGJ2 inhibits IL-1beta-induced COX-2"
+},
+{
+"authors": "Shibata T et al.",
+"journal": "J Biol Chem",
+"title": "15-deoxy-delta 12,14-prostaglandin J2. A prostaglandin D2 metabolite generated during inflammatory processes.",
+"year": "2002",
+"db": "pubmed",
+"id": "11786541",
+"role": "step",
+"note": "15d-PGJ2 generated from PGD2 in inflammation"
+}
+]
+},
+{
 "label": "15d-PGJ2",
 "class": "SimpleChemical",
 "box": [
@@ -7166,6 +11463,433 @@
 "InChIKey",
 "VHRUMKCAEVRUBK-GODQJPCRSA-N"
 ]
+]
+},
+{
+"id": "n3::n229",
+"label": "",
+"class": "Process",
+"box": [
+68.0,
+2046.6,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Hepoxilin A3"
+],
+"out": [
+"Hepoxilin A3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Pazos M et al.",
+"year": "2008",
+"title": "Multidrug resistance-associated transporter 2 regulates mucosal inflammation by facilitating the synthesis of hepoxilin A3.",
+"journal": "J Immunol",
+"db": "pubmed",
+"id": "19017997",
+"role": "step",
+"note": "human intestinal epithelial cells and mouse models: hepoxilin A3 is a substrate of the apical ABC transporter MRP2 (ABCC2), and its secretion sets up a neutrophil gradient; human biopsies confirm MRP2"
+},
+{
+"authors": "McCormick BA",
+"journal": "FEBS J",
+"title": "Bacterial-induced hepoxilin A3 secretion as a pro-inflammatory mediator.",
+"year": "2007",
+"db": "pubmed",
+"id": "17608718",
+"role": "review",
+"note": "review: hepoxilin A3 is secreted from the apical surface of human intestinal and lung epithelial cells and acts outside the cell"
+},
+{
+"authors": "Gregus AM et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Spinal 12-lipoxygenase-derived hepoxilin A3 contributes to inflammatory hyperalgesia via activation of TRPV1 and TRPA1 receptors.",
+"year": "2012",
+"db": "pubmed",
+"id": "22493235",
+"role": "step",
+"note": "rat spinal cord: 12-LOX-derived hepoxilin A3 acts on TRPV1/TRPA1 of sensory neurons, so the mediator works outside the cell that makes it"
+},
+{
+"authors": "Habouri L et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Deletion of 12/15-lipoxygenase accelerates the development of aging-associated and instability-induced osteoarthritis.",
+"year": "2017",
+"db": "pubmed",
+"id": "28694081",
+"role": "OA",
+"note": "mouse OA: the 12/15-LOX pathway whose product this is, active in OA cartilage"
+}
+]
+},
+{
+"id": "n3::n230",
+"label": "",
+"class": "Process",
+"box": [
+253.8,
+2046.1,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HETE"
+],
+"out": [
+"5(S)-HETE"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Turnbull J et al.",
+"journal": "Osteoarthritis Cartilage",
+"title": "Serum levels of hydroxylated metabolites of arachidonic acid cross-sectionally and longitudinally predict knee pain progression: an observational cohort study.",
+"year": "2024",
+"db": "pubmed",
+"id": "38648876",
+"role": "OA",
+"note": "human OA cohort: serum 5-HETE cross-sectionally and longitudinally associates with knee OA pain, so released 5-HETE is present and OA-relevant"
+},
+{
+"authors": "Bonnet C et al.",
+"journal": "Prostaglandins",
+"title": "Lipoxygenase products and expression of 5-lipoxygenase and 5-lipoxygenase-activating protein in human cultured synovial cells.",
+"year": "1995",
+"db": "pubmed",
+"id": "8750209",
+"role": "step",
+"note": "human synovial cells express 5-LOX and make 5-LOX products (5-HETE); the cell releases the hydroxy acid"
+}
+]
+},
+{
+"id": "n3::n231",
+"label": "",
+"class": "Process",
+"box": [
+1173.9,
+2046.6,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HETE"
+],
+"out": [
+"15(S)-HETE"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid: 15-HETE among the 12/15-LO products detected (lower than in RA)"
+},
+{
+"authors": "Gulliksson M et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Expression of 15-lipoxygenase type-1 in human mast cells.",
+"year": "2007",
+"db": "pubmed",
+"id": "17662651",
+"role": "step",
+"note": "human mast cells form and release 15-LO-1 products (15-oxo-ETE, 15-HETE) on activation"
+}
+]
+},
+{
+"id": "n3::n234",
+"label": "",
+"class": "Process",
+"box": [
+2844.0,
+2046.6,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15d-PGJ2"
+],
+"out": [
+"15d-PGJ2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Farrajota K et al.",
+"journal": "Arthritis Rheum",
+"title": "Inhibition of interleukin-1beta-induced cyclooxygenase 2 expression in human synovial fibroblasts by 15-deoxy-Delta12,14-prostaglandin J2 through a histone deacetylase-independent mechanism.",
+"year": "2005",
+"db": "pubmed",
+"id": "15641079",
+"role": "OA",
+"note": "human OA synovial fibroblasts respond to 15d-PGJ2 from outside"
+},
+{
+"authors": "Shibata T et al.",
+"journal": "J Biol Chem",
+"title": "15-deoxy-delta 12,14-prostaglandin J2. A prostaglandin D2 metabolite generated during inflammatory processes.",
+"year": "2002",
+"db": "pubmed",
+"id": "11786541",
+"role": "step",
+"note": "15d-PGJ2 found outside cells in inflammation"
+}
+]
+},
+{
+"id": "n3::n235",
+"label": "",
+"class": "Process",
+"box": [
+3676.0,
+2046.6,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGA2"
+],
+"out": [
+"PGA2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): PGE2, its source (PGA2 not measured) quantified (lower than in RA)"
+},
+{
+"authors": "Still K et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Stimulation of CFU-f formation by prostaglandin E2 is mediated in part by its degradation product, prostaglandin A2.",
+"year": "2001",
+"db": "pubmed",
+"id": "11352224",
+"role": "step",
+"note": "PGA2 forms from PGE2 in the medium, outside the cell"
+}
+]
+},
+{
+"id": "n3::n236",
+"label": "",
+"class": "Process",
+"box": [
+4027.9,
+2046.6,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5,6-EET"
+],
+"out": [
+"5,6-EET"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Hinata M et al.",
+"journal": "Pain",
+"title": "Sensitization of transient receptor potential vanilloid 4 and increasing its endogenous ligand 5,6-epoxyeicosatrienoic acid in rats with monoiodoacetate-induced osteoarthritis.",
+"year": "2018",
+"db": "pubmed",
+"id": "29438227",
+"role": "OA",
+"note": "rat MIA OA and human OA synovial fluid: 5,6-EET raised in and detected in the OA joint, i.e. released, where it sensitises TRPV4"
+},
+{
+"authors": "Sisignano M et al.",
+"journal": "J Neurosci",
+"title": "5,6-EET is released upon neuronal activity and induces mechanical pain hypersensitivity via TRPA1 on central afferent terminals.",
+"year": "2012",
+"db": "pubmed",
+"id": "22553041",
+"role": "step",
+"note": "5,6-EET is released upon neuronal activity and acts extracellularly on TRPA1; supports 5,6-EET as a released, bioactive mediator"
+}
+]
+},
+{
+"id": "n3::n237",
+"label": "",
+"class": "Process",
+"box": [
+1835.9,
+2046.6,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HpETE"
+],
+"out": [
+"12(S)-HpETE"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Maclouf J et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Stimulation of leukotriene biosynthesis in human blood leukocytes by platelet-derived 12-hydroperoxy-icosatetraenoic acid.",
+"year": "1982",
+"db": "pubmed",
+"id": "6821131",
+"role": "step",
+"note": "human platelets and leukocytes: 12(S)-HpETE made by platelets reaches neighbouring leukocytes and activates their 5-lipoxygenase, so the hydroperoxide leaves the cell that makes it"
+},
+{
+"authors": "Sutherland M et al.",
+"journal": "Biochem J",
+"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
+"year": "2001",
+"db": "pubmed",
+"id": "11115402",
+"role": "step",
+"note": "human platelets: added 12-HpETE enters the cells' hepoxilin route, showing the hydroperoxide crosses the membrane in both directions"
+},
+{
+"authors": "Kelly S et al.",
+"journal": "Ann Rheum Dis",
+"title": "Increased function of pronociceptive TRPV1 at the level of the joint in a rat model of osteoarthritis pain.",
+"year": "2015",
+"db": "pubmed",
+"id": "24152419",
+"role": "OA",
+"note": "rat MIA OA: 12-LOX products are measurable in the OA joint outside the cells and sensitise joint afferents, which needs their release"
+}
+]
+},
+{
+"id": "n3::n238",
+"label": "",
+"class": "Process",
+"box": [
+1714.2,
+2046.6,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpETE"
+],
+"out": [
+"15(S)-HpETE"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA synovial fluid: hydroperoxy-15-HETE (5-Hp-15-HETE) and 12/15-LO products detected"
+},
+{
+"authors": "Gulliksson M et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Expression of 15-lipoxygenase type-1 in human mast cells.",
+"year": "2007",
+"db": "pubmed",
+"id": "17662651",
+"role": "step",
+"note": "human mast cells have an active 15-LO-1 pathway producing the hydroperoxy/hydroxy acids"
+}
+]
+},
+{
+"id": "n3::n233",
+"label": "",
+"class": "Process",
+"box": [
+2772.0,
+2046.6,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGD2"
+],
+"out": [
+"PGD2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sano Y et al.",
+"journal": "Asia Pac Allergy",
+"title": "Activation of inflammation and resolution pathways of lipid mediators in synovial fluid from patients with severe rheumatoid arthritis compared with severe osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32411586",
+"role": "OA",
+"note": "human OA knee synovial fluid (26 patients): PGD2 quantified (lower than in RA)"
+},
+{
+"authors": "Wang Q et al.",
+"journal": "Elife",
+"title": "IgE-mediated mast cell activation promotes inflammation and cartilage destruction in osteoarthritis.",
+"year": "2019",
+"db": "pubmed",
+"id": "31084709",
+"role": "OA",
+"note": "mouse OA models and human OA tissue: mast cells activated in OA (the mast cell setting)"
+},
+{
+"authors": "Lewis RA et al.",
+"journal": "J Immunol",
+"title": "Prostaglandin D2 generation after activation of rat and human mast cells with anti-IgE.",
+"year": "1982",
+"db": "pubmed",
+"id": "6809826",
+"role": "step",
+"note": "human mast cells release PGD2 after anti-IgE activation"
+}
 ]
 },
 {
