@@ -4,8 +4,8 @@
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [
-3459.0,
-2347.0,
+3420.0,
+2238.1,
 40.0,
 40.0
 ],
@@ -52,8 +52,8 @@
 "label": "PGI2",
 "class": "SimpleChemical",
 "box": [
-2563.0,
-2347.0,
+2524.0,
+2238.1,
 40.0,
 40.0
 ],
@@ -92,8 +92,8 @@
 "label": "LTB4",
 "class": "SimpleChemical",
 "box": [
-1059.0,
-2347.0,
+1020.0,
+2238.1,
 40.0,
 40.0
 ],
@@ -140,7 +140,7 @@
 "label": "12(S),20-diHETE",
 "class": "SimpleChemical",
 "box": [
-1019.0,
+980.0,
 379.0,
 40.0,
 40.0
@@ -184,7 +184,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-1711.0,
+1672.0,
 1099.0,
 80.0,
 40.0
@@ -240,7 +240,7 @@
 "label": "PGA2",
 "class": "SimpleChemical",
 "box": [
-3707.0,
+3668.0,
 1419.0,
 40.0,
 40.0
@@ -280,7 +280,7 @@
 "label": "PGD2",
 "class": "SimpleChemical",
 "box": [
-2875.0,
+2836.0,
 1292.0,
 40.0,
 40.0
@@ -328,7 +328,7 @@
 "label": "5-oxo-15S-HETE",
 "class": "SimpleChemical",
 "box": [
-475.0,
+436.0,
 411.0,
 40.0,
 40.0
@@ -368,7 +368,7 @@
 "label": "PTGES",
 "class": "Macromolecule",
 "box": [
-3559.0,
+3520.0,
 1131.0,
 80.0,
 40.0
@@ -428,7 +428,7 @@
 "label": "5(S),12(S)-diHpETE",
 "class": "SimpleChemical",
 "box": [
-1563.0,
+1524.0,
 491.0,
 40.0,
 40.0
@@ -460,7 +460,7 @@
 "label": "5-oxo-ETE (5-KETE)",
 "class": "SimpleChemical",
 "box": [
-707.0,
+668.0,
 467.0,
 40.0,
 40.0
@@ -508,7 +508,7 @@
 "label": "PGG2",
 "class": "SimpleChemical",
 "box": [
-2875.0,
+2836.0,
 899.0,
 40.0,
 40.0
@@ -548,7 +548,7 @@
 "label": "Eoxin A4 (14,15-LTA4)",
 "class": "SimpleChemical",
 "box": [
-1563.0,
+1524.0,
 1123.0,
 40.0,
 40.0
@@ -588,7 +588,7 @@
 "label": "PLA2G4A",
 "class": "Macromolecule",
 "box": [
-2727.0,
+2688.0,
 427.0,
 80.0,
 40.0
@@ -648,7 +648,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-1215.0,
+1176.0,
 1038.0,
 80.0,
 40.0
@@ -704,7 +704,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-455.0,
+416.0,
 539.0,
 80.0,
 40.0
@@ -760,7 +760,7 @@
 "label": "GGT1",
 "class": "Macromolecule",
 "box": [
-391.0,
+352.0,
 1379.0,
 80.0,
 40.0
@@ -820,7 +820,7 @@
 "label": "LTD4",
 "class": "SimpleChemical",
 "box": [
-219.0,
+180.0,
 1491.0,
 40.0,
 40.0
@@ -868,7 +868,7 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-895.0,
+856.0,
 1515.0,
 80.0,
 40.0
@@ -928,7 +928,7 @@
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-2967.0,
+2928.0,
 763.0,
 80.0,
 40.0
@@ -984,7 +984,7 @@
 "label": "FAM213B",
 "class": "Macromolecule",
 "box": [
-3239.0,
+3200.0,
 1147.0,
 80.0,
 40.0
@@ -1044,7 +1044,7 @@
 "label": "MGST3",
 "class": "Macromolecule",
 "box": [
-1019.0,
+980.0,
 531.0,
 80.0,
 40.0
@@ -1100,7 +1100,7 @@
 "label": "GPX1",
 "class": "Macromolecule",
 "box": [
-1199.0,
+1160.0,
 891.0,
 80.0,
 40.0
@@ -1152,7 +1152,7 @@
 "label": "15-epi-LXA4",
 "class": "SimpleChemical",
 "box": [
-1987.0,
+1948.0,
 940.0,
 40.0,
 40.0
@@ -1196,7 +1196,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-1774.0,
+1735.0,
 299.0,
 80.0,
 40.0
@@ -1252,7 +1252,7 @@
 "label": "TBXAS1",
 "class": "Macromolecule",
 "box": [
-2279.0,
+2240.0,
 1147.0,
 80.0,
 40.0
@@ -1308,7 +1308,7 @@
 "label": "AKR1A1",
 "class": "Macromolecule",
 "box": [
-3007.0,
+2968.0,
 1147.0,
 80.0,
 40.0
@@ -1364,7 +1364,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-1215.0,
+1176.0,
 1219.0,
 80.0,
 40.0
@@ -1420,7 +1420,7 @@
 "label": "PGJ2",
 "class": "SimpleChemical",
 "box": [
-2875.0,
+2836.0,
 1523.0,
 40.0,
 40.0
@@ -1468,7 +1468,7 @@
 "label": "CBR1",
 "class": "Macromolecule",
 "box": [
-3295.0,
+3256.0,
 1387.0,
 80.0,
 40.0
@@ -1528,7 +1528,7 @@
 "label": "LTA4H",
 "class": "Macromolecule",
 "box": [
-879.0,
+840.0,
 1178.1,
 80.0,
 40.0
@@ -1580,7 +1580,7 @@
 "label": "PTGIS",
 "class": "Macromolecule",
 "box": [
-1415.0,
+1376.0,
 747.0,
 80.0,
 40.0
@@ -1636,7 +1636,7 @@
 "label": "5(S)-HETE",
 "class": "SimpleChemical",
 "box": [
-875.0,
+836.0,
 603.0,
 40.0,
 40.0
@@ -1684,7 +1684,7 @@
 "label": "ABCC1",
 "class": "Macromolecule",
 "box": [
-535.0,
+496.0,
 1019.0,
 80.0,
 40.0
@@ -1744,7 +1744,7 @@
 "label": "5(S),15(S)-diHpETE",
 "class": "SimpleChemical",
 "box": [
-1563.0,
+1524.0,
 779.0,
 40.0,
 40.0
@@ -1784,7 +1784,7 @@
 "label": "CYP4F2",
 "class": "Macromolecule",
 "box": [
-1055.0,
+1016.0,
 307.0,
 80.0,
 40.0
@@ -1836,7 +1836,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-887.0,
+848.0,
 875.0,
 80.0,
 40.0
@@ -1892,7 +1892,7 @@
 "label": "Lipoxin C4 (LXC4) extracellular",
 "class": "SimpleChemical",
 "box": [
-603.0,
+564.0,
 1739.0,
 40.0,
 40.0
@@ -1928,7 +1928,7 @@
 "label": "DPEP1",
 "class": "Macromolecule",
 "box": [
-319.0,
+280.0,
 1544.0,
 80.0,
 40.0
@@ -1980,7 +1980,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-1671.0,
+1632.0,
 299.0,
 80.0,
 40.0
@@ -2036,7 +2036,7 @@
 "label": "Hepoxilin B3 (HXB3)",
 "class": "SimpleChemical",
 "box": [
-603.0,
+564.0,
 243.0,
 40.0,
 40.0
@@ -2080,7 +2080,7 @@
 "label": "12-oxo-LTB4",
 "class": "SimpleChemical",
 "box": [
-771.0,
+732.0,
 1411.0,
 40.0,
 40.0
@@ -2124,7 +2124,7 @@
 "label": "12(S)-HpETE",
 "class": "SimpleChemical",
 "box": [
-1563.0,
+1524.0,
 379.0,
 40.0,
 40.0
@@ -2168,7 +2168,7 @@
 "label": "PGF2alpha",
 "class": "SimpleChemical",
 "box": [
-3171.0,
+3132.0,
 1283.0,
 40.0,
 40.0
@@ -2216,7 +2216,7 @@
 "label": "11-epi-PGF2alpha",
 "class": "SimpleChemical",
 "box": [
-3067.0,
+3028.0,
 1419.0,
 40.0,
 40.0
@@ -2260,7 +2260,7 @@
 "label": "TBXAS1",
 "class": "Macromolecule",
 "box": [
-1319.0,
+1280.0,
 747.0,
 80.0,
 40.0
@@ -2316,7 +2316,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-1711.0,
+1672.0,
 1018.0,
 80.0,
 40.0
@@ -2372,7 +2372,7 @@
 "label": "15(S)-HpETE",
 "class": "SimpleChemical",
 "box": [
-1563.0,
+1524.0,
 940.0,
 40.0,
 40.0
@@ -2416,7 +2416,7 @@
 "label": "GPX1",
 "class": "Macromolecule",
 "box": [
-1343.0,
+1304.0,
 307.0,
 80.0,
 40.0
@@ -2468,7 +2468,7 @@
 "label": "Trioxilin B3 (TrXB3)",
 "class": "SimpleChemical",
 "box": [
-363.0,
+324.0,
 243.0,
 40.0,
 40.0
@@ -2512,7 +2512,7 @@
 "label": "LTC4 extracellular",
 "class": "SimpleChemical",
 "box": [
-219.0,
+180.0,
 1275.0,
 40.0,
 40.0
@@ -2560,7 +2560,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-1215.0,
+1176.0,
 979.0,
 80.0,
 40.0
@@ -2616,8 +2616,8 @@
 "label": "15-oxo-LXA4",
 "class": "SimpleChemical",
 "box": [
-1451.0,
-1987.0,
+1313.4,
+1917.3,
 40.0,
 40.0
 ],
@@ -2656,7 +2656,7 @@
 "label": "5,6-Ep-15(S)-HETE",
 "class": "SimpleChemical",
 "box": [
-1451.0,
+1412.0,
 1475.0,
 40.0,
 40.0
@@ -2700,7 +2700,7 @@
 "label": "Lipoxin C4 (LXC4)",
 "class": "SimpleChemical",
 "box": [
-1771.0,
+1732.0,
 1690.0,
 40.0,
 40.0
@@ -2736,7 +2736,7 @@
 "label": "12(R)-HpETE",
 "class": "SimpleChemical",
 "box": [
-1563.0,
+1524.0,
 67.0,
 40.0,
 40.0
@@ -2780,7 +2780,7 @@
 "label": "12(S)-HHTrE",
 "class": "SimpleChemical",
 "box": [
-2027.0,
+1988.0,
 1227.0,
 40.0,
 40.0
@@ -2820,7 +2820,7 @@
 "label": "5(S),20-diHETE",
 "class": "SimpleChemical",
 "box": [
-459.0,
+420.0,
 651.0,
 40.0,
 40.0
@@ -2860,7 +2860,7 @@
 "label": "Lecithin",
 "class": "SimpleChemical",
 "box": [
-2875.0,
+2836.0,
 355.0,
 40.0,
 40.0
@@ -2884,7 +2884,7 @@
 "label": "PTGIS",
 "class": "Macromolecule",
 "box": [
-2471.0,
+2432.0,
 1147.0,
 80.0,
 40.0
@@ -2940,7 +2940,7 @@
 "label": "TXB2",
 "class": "SimpleChemical",
 "box": [
-2227.0,
+2188.0,
 1267.0,
 40.0,
 40.0
@@ -2988,7 +2988,7 @@
 "label": "5(S)-HpETE",
 "class": "SimpleChemical",
 "box": [
-1563.0,
+1524.0,
 618.0,
 40.0,
 40.0
@@ -3036,7 +3036,7 @@
 "label": "PTGDS",
 "class": "Macromolecule",
 "box": [
-2727.0,
+2688.0,
 1147.0,
 80.0,
 40.0
@@ -3092,7 +3092,7 @@
 "label": "Trioxilin A3 (TrXA3)",
 "class": "SimpleChemical",
 "box": [
-363.0,
+324.0,
 171.0,
 40.0,
 40.0
@@ -3136,7 +3136,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-583.0,
+544.0,
 539.0,
 80.0,
 40.0
@@ -3192,7 +3192,7 @@
 "label": "GGT5",
 "class": "Macromolecule",
 "box": [
-463.0,
+424.0,
 1435.0,
 80.0,
 40.0
@@ -3252,7 +3252,7 @@
 "label": "GPX4",
 "class": "Macromolecule",
 "box": [
-1446.0,
+1407.0,
 307.0,
 80.0,
 40.0
@@ -3308,7 +3308,7 @@
 "label": "Hepoxilin A3",
 "class": "SimpleChemical",
 "box": [
-603.0,
+564.0,
 171.0,
 40.0,
 40.0
@@ -3352,7 +3352,7 @@
 "label": "HPGDS",
 "class": "Macromolecule",
 "box": [
-2727.0,
+2688.0,
 1209.3,
 80.0,
 40.0
@@ -3408,7 +3408,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-2079.0,
+2040.0,
 787.0,
 80.0,
 40.0
@@ -3464,7 +3464,7 @@
 "label": "LTE4",
 "class": "SimpleChemical",
 "box": [
-219.0,
+180.0,
 1651.0,
 40.0,
 40.0
@@ -3508,7 +3508,7 @@
 "label": "15-epi-LXB4",
 "class": "SimpleChemical",
 "box": [
-2123.0,
+2084.0,
 922.0,
 40.0,
 40.0
@@ -3548,7 +3548,7 @@
 "label": "15-oxo-ETE",
 "class": "SimpleChemical",
 "box": [
-1123.0,
+1084.0,
 819.0,
 40.0,
 40.0
@@ -3596,7 +3596,7 @@
 "label": "LTC4 intracellular",
 "class": "SimpleChemical",
 "box": [
-779.0,
+740.0,
 1107.0,
 40.0,
 40.0
@@ -3644,7 +3644,7 @@
 "label": "Eoxin E4 (14,15-LTE4)",
 "class": "SimpleChemical",
 "box": [
-603.0,
+564.0,
 1619.0,
 40.0,
 40.0
@@ -3684,7 +3684,7 @@
 "label": "PTGES3",
 "class": "Macromolecule",
 "box": [
-3559.0,
+3520.0,
 1243.0,
 80.0,
 40.0
@@ -3740,7 +3740,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-1631.0,
+1592.0,
 1563.0,
 80.0,
 40.0
@@ -3796,7 +3796,7 @@
 "label": "CYP4F2",
 "class": "Macromolecule",
 "box": [
-535.0,
+496.0,
 771.0,
 80.0,
 40.0
@@ -3848,7 +3848,7 @@
 "label": "ALOX12B",
 "class": "Macromolecule",
 "box": [
-1727.0,
+1688.0,
 147.0,
 80.0,
 40.0
@@ -3904,7 +3904,7 @@
 "label": "MGST2",
 "class": "Macromolecule",
 "box": [
-919.0,
+880.0,
 531.0,
 80.0,
 40.0
@@ -3960,7 +3960,7 @@
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
-3007.0,
+2968.0,
 843.0,
 80.0,
 40.0
@@ -4016,7 +4016,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-1687.0,
+1648.0,
 691.0,
 80.0,
 40.0
@@ -4072,7 +4072,7 @@
 "label": "15(S)-HETE",
 "class": "SimpleChemical",
 "box": [
-1123.0,
+1084.0,
 940.0,
 40.0,
 40.0
@@ -4120,7 +4120,7 @@
 "label": "PLA2G4C",
 "class": "Macromolecule",
 "box": [
-2727.0,
+2688.0,
 484.0,
 80.0,
 40.0
@@ -4176,7 +4176,7 @@
 "label": "PGH2",
 "class": "SimpleChemical",
 "box": [
-2875.0,
+2836.0,
 1075.0,
 40.0,
 40.0
@@ -4216,7 +4216,7 @@
 "label": "LTA4",
 "class": "SimpleChemical",
 "box": [
-1059.0,
+1020.0,
 1115.0,
 40.0,
 40.0
@@ -4264,7 +4264,7 @@
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [
-3459.0,
+3420.0,
 1283.0,
 40.0,
 40.0
@@ -4312,7 +4312,7 @@
 "label": "Arachidonic acid",
 "class": "SimpleChemical",
 "box": [
-2875.0,
+2836.0,
 618.0,
 40.0,
 40.0
@@ -4356,7 +4356,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-1687.0,
+1648.0,
 867.0,
 80.0,
 40.0
@@ -4412,7 +4412,7 @@
 "label": "ABCC6",
 "class": "Macromolecule",
 "box": [
-631.0,
+592.0,
 1019.0,
 80.0,
 40.0
@@ -4472,7 +4472,7 @@
 "label": "DPEP2",
 "class": "Macromolecule",
 "box": [
-319.0,
+280.0,
 1603.0,
 80.0,
 40.0
@@ -4520,7 +4520,7 @@
 "label": "12-oxo-ETE",
 "class": "SimpleChemical",
 "box": [
-1019.0,
+980.0,
 67.0,
 40.0,
 40.0
@@ -4564,7 +4564,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-1655.0,
+1616.0,
 436.0,
 80.0,
 40.0
@@ -4620,7 +4620,7 @@
 "label": "14(R),15(S)-diHpETE",
 "class": "SimpleChemical",
 "box": [
-1363.0,
+1324.0,
 1075.0,
 40.0,
 40.0
@@ -4660,7 +4660,7 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-1159.0,
+1120.0,
 307.0,
 80.0,
 40.0
@@ -4720,7 +4720,7 @@
 "label": "15(R)-HpETE",
 "class": "SimpleChemical",
 "box": [
-1987.0,
+1948.0,
 803.0,
 40.0,
 40.0
@@ -4760,7 +4760,7 @@
 "label": "Eoxin C4 (14,15-LTC4)",
 "class": "SimpleChemical",
 "box": [
-1563.0,
+1524.0,
 1275.0,
 40.0,
 40.0
@@ -4800,7 +4800,7 @@
 "label": "12(S)-HETE",
 "class": "SimpleChemical",
 "box": [
-1259.0,
+1220.0,
 379.0,
 40.0,
 40.0
@@ -4844,7 +4844,7 @@
 "label": "AKR1C3",
 "class": "Macromolecule",
 "box": [
-3007.0,
+2968.0,
 1209.3,
 80.0,
 40.0
@@ -4904,8 +4904,8 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-1295.0,
-1827.0,
+1187.7,
+1816.8,
 80.0,
 40.0
 ],
@@ -4960,7 +4960,7 @@
 "label": "Lipoxin A4 (LXA4)",
 "class": "SimpleChemical",
 "box": [
-1451.0,
+1412.0,
 1659.0,
 40.0,
 40.0
@@ -5008,7 +5008,7 @@
 "label": "12(R)-HETE",
 "class": "SimpleChemical",
 "box": [
-1259.0,
+1220.0,
 67.0,
 40.0,
 40.0
@@ -5052,7 +5052,7 @@
 "label": "LTB4",
 "class": "SimpleChemical",
 "box": [
-1059.0,
+1020.0,
 1419.0,
 40.0,
 40.0
@@ -5100,7 +5100,7 @@
 "label": "Eoxin D4 (14,15-LTD4)",
 "class": "SimpleChemical",
 "box": [
-603.0,
+564.0,
 1491.0,
 40.0,
 40.0
@@ -5140,7 +5140,7 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-631.0,
+592.0,
 771.0,
 80.0,
 40.0
@@ -5200,7 +5200,7 @@
 "label": "Lipoxin E4 (LXE4)",
 "class": "SimpleChemical",
 "box": [
-603.0,
+564.0,
 1971.0,
 40.0,
 40.0
@@ -5236,7 +5236,7 @@
 "label": "PTGES2",
 "class": "Macromolecule",
 "box": [
-3559.0,
+3520.0,
 1187.0,
 80.0,
 40.0
@@ -5296,7 +5296,7 @@
 "label": "5(S),15(S)-diHETE",
 "class": "SimpleChemical",
 "box": [
-323.0,
+284.0,
 603.0,
 40.0,
 40.0
@@ -5340,7 +5340,7 @@
 "label": "Lipoxin B4 (LXB4)",
 "class": "SimpleChemical",
 "box": [
-1611.0,
+1572.0,
 1690.0,
 40.0,
 40.0
@@ -5384,7 +5384,7 @@
 "label": "TXA2",
 "class": "SimpleChemical",
 "box": [
-2395.0,
+2356.0,
 1267.0,
 40.0,
 40.0
@@ -5428,7 +5428,7 @@
 "label": "MGST2",
 "class": "Macromolecule",
 "box": [
-951.0,
+912.0,
 1019.0,
 80.0,
 40.0
@@ -5484,7 +5484,7 @@
 "label": "PGI2",
 "class": "SimpleChemical",
 "box": [
-2563.0,
+2524.0,
 1267.0,
 40.0,
 40.0
@@ -5524,7 +5524,7 @@
 "label": "Eoxin C4 (14,15-LTC4) extracellular",
 "class": "SimpleChemical",
 "box": [
-603.0,
+564.0,
 1275.0,
 40.0,
 40.0
@@ -5564,7 +5564,7 @@
 "label": "Lipoxin D4 (LXD4)",
 "class": "SimpleChemical",
 "box": [
-603.0,
+564.0,
 1859.0,
 40.0,
 40.0
@@ -5600,7 +5600,7 @@
 "label": "LTC4S",
 "class": "Macromolecule",
 "box": [
-855.0,
+816.0,
 1019.0,
 80.0,
 40.0
@@ -5656,7 +5656,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-1287.0,
+1248.0,
 1563.0,
 80.0,
 40.0
@@ -5712,8 +5712,8 @@
 "label": "ABCC4",
 "class": "Macromolecule",
 "box": [
-3559.0,
-2139.0,
+3520.0,
+2030.1,
 80.0,
 40.0
 ],
@@ -5768,7 +5768,7 @@
 "label": "Corticosteroids",
 "class": "SimpleChemical",
 "box": [
-2995.0,
+2956.0,
 475.0,
 40.0,
 40.0
@@ -5796,7 +5796,7 @@
 "label": "Paracetamol",
 "class": "SimpleChemical",
 "box": [
-2683.0,
+2644.0,
 683.0,
 40.0,
 40.0
@@ -5844,7 +5844,7 @@
 "label": "Ketorolac",
 "class": "SimpleChemical",
 "box": [
-2571.0,
+2532.0,
 683.0,
 40.0,
 40.0
@@ -5892,7 +5892,7 @@
 "label": "Ketoprofen",
 "class": "SimpleChemical",
 "box": [
-2467.0,
+2428.0,
 683.0,
 40.0,
 40.0
@@ -5940,7 +5940,7 @@
 "label": "Diclofenac",
 "class": "SimpleChemical",
 "box": [
-2395.0,
+2356.0,
 731.0,
 40.0,
 40.0
@@ -5988,7 +5988,7 @@
 "label": "Ibuprofen",
 "class": "SimpleChemical",
 "box": [
-2395.0,
+2356.0,
 803.0,
 40.0,
 40.0
@@ -6036,7 +6036,7 @@
 "label": "Naproxen",
 "class": "SimpleChemical",
 "box": [
-2571.0,
+2532.0,
 843.0,
 40.0,
 40.0
@@ -6080,7 +6080,7 @@
 "label": "Celecoxib",
 "class": "SimpleChemical",
 "box": [
-2683.0,
+2644.0,
 843.0,
 40.0,
 40.0
@@ -6128,7 +6128,7 @@
 "label": "Rofecoxib",
 "class": "SimpleChemical",
 "box": [
-2467.0,
+2428.0,
 843.0,
 40.0,
 40.0
@@ -6172,7 +6172,7 @@
 "label": "5-oxo-12S-HETE",
 "class": "SimpleChemical",
 "box": [
-395.0,
+356.0,
 467.0,
 40.0,
 40.0
@@ -6216,7 +6216,7 @@
 "label": "ALOX5AP",
 "class": "Macromolecule",
 "box": [
-1767.0,
+1728.0,
 515.0,
 80.0,
 40.0
@@ -6272,7 +6272,7 @@
 "label": "CYP2J2",
 "class": "Macromolecule",
 "box": [
-3311.0,
+3272.0,
 715.0,
 80.0,
 40.0
@@ -6324,7 +6324,7 @@
 "label": "CYP2J2",
 "class": "Macromolecule",
 "box": [
-3823.0,
+3784.0,
 715.0,
 80.0,
 40.0
@@ -6376,7 +6376,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-3311.0,
+3272.0,
 891.0,
 80.0,
 40.0
@@ -6428,7 +6428,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-3823.0,
+3784.0,
 891.0,
 80.0,
 40.0
@@ -6480,7 +6480,7 @@
 "label": "5,6-EET",
 "class": "SimpleChemical",
 "box": [
-3203.0,
+3164.0,
 811.0,
 40.0,
 40.0
@@ -6528,7 +6528,7 @@
 "label": "8,9-EET",
 "class": "SimpleChemical",
 "box": [
-3459.0,
+3420.0,
 811.0,
 40.0,
 40.0
@@ -6576,7 +6576,7 @@
 "label": "8,9-DHET",
 "class": "SimpleChemical",
 "box": [
-3459.0,
+3420.0,
 971.0,
 40.0,
 40.0
@@ -6624,7 +6624,7 @@
 "label": "11,12-EET",
 "class": "SimpleChemical",
 "box": [
-3715.0,
+3676.0,
 811.0,
 40.0,
 40.0
@@ -6672,7 +6672,7 @@
 "label": "11,12-DHET",
 "class": "SimpleChemical",
 "box": [
-3715.0,
+3676.0,
 971.0,
 40.0,
 40.0
@@ -6720,7 +6720,7 @@
 "label": "14,15-EET",
 "class": "SimpleChemical",
 "box": [
-3971.0,
+3932.0,
 811.0,
 40.0,
 40.0
@@ -6768,7 +6768,7 @@
 "label": "14,15-DHET",
 "class": "SimpleChemical",
 "box": [
-3971.0,
+3932.0,
 971.0,
 40.0,
 40.0
@@ -6816,7 +6816,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-463.0,
+424.0,
 99.0,
 80.0,
 40.0
@@ -6868,7 +6868,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-463.0,
+424.0,
 331.0,
 80.0,
 40.0
@@ -6920,7 +6920,7 @@
 "label": "15-keto-PGE2",
 "class": "SimpleChemical",
 "box": [
-3899.0,
+3860.0,
 1435.0,
 40.0,
 40.0
@@ -6964,7 +6964,7 @@
 "label": "13,14-dihydro-15-keto-PGE2",
 "class": "SimpleChemical",
 "box": [
-3899.0,
+3860.0,
 1595.0,
 40.0,
 40.0
@@ -7008,7 +7008,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-3783.0,
+3744.0,
 1355.0,
 80.0,
 40.0
@@ -7064,7 +7064,7 @@
 "label": "PTGR2",
 "class": "Macromolecule",
 "box": [
-3783.0,
+3744.0,
 1515.0,
 80.0,
 40.0
@@ -7124,7 +7124,7 @@
 "label": "15d-PGJ2",
 "class": "SimpleChemical",
 "box": [
-2875.0,
+2836.0,
 1843.0,
 40.0,
 40.0
@@ -7172,8 +7172,8 @@
 "label": "Hepoxilin A3",
 "class": "SimpleChemical",
 "box": [
-419.0,
-2347.5,
+60.0,
+2238.6,
 40.0,
 40.0
 ],
@@ -7216,8 +7216,8 @@
 "label": "5(S)-HETE",
 "class": "SimpleChemical",
 "box": [
-579.0,
-2347.5,
+245.8,
+2238.1,
 40.0,
 40.0
 ],
@@ -7264,8 +7264,8 @@
 "label": "15(S)-HETE",
 "class": "SimpleChemical",
 "box": [
-739.0,
-2347.5,
+1167.0,
+2238.6,
 40.0,
 40.0
 ],
@@ -7312,8 +7312,8 @@
 "label": "Lipoxin A4 (LXA4)",
 "class": "SimpleChemical",
 "box": [
-1523.0,
-2347.5,
+1412.0,
+2238.6,
 40.0,
 40.0
 ],
@@ -7360,8 +7360,8 @@
 "label": "PGD2",
 "class": "SimpleChemical",
 "box": [
-2803.0,
-2347.5,
+2764.0,
+2238.6,
 40.0,
 40.0
 ],
@@ -7408,8 +7408,8 @@
 "label": "15d-PGJ2",
 "class": "SimpleChemical",
 "box": [
-2875.0,
-2347.5,
+2836.0,
+2238.6,
 40.0,
 40.0
 ],
@@ -7456,8 +7456,8 @@
 "label": "PGA2",
 "class": "SimpleChemical",
 "box": [
-3707.0,
-2347.5,
+3668.0,
+2238.6,
 40.0,
 40.0
 ],
@@ -7496,8 +7496,8 @@
 "label": "5,6-EET",
 "class": "SimpleChemical",
 "box": [
-4159.0,
-1027.0,
+4019.9,
+2238.6,
 40.0,
 40.0
 ],
@@ -7544,8 +7544,8 @@
 "label": "12(S)-HpETE",
 "class": "SimpleChemical",
 "box": [
-1859.0,
-2347.5,
+1827.9,
+2238.6,
 40.0,
 40.0
 ],
@@ -7588,8 +7588,8 @@
 "label": "15(S)-HpETE",
 "class": "SimpleChemical",
 "box": [
-2019.0,
-2347.5,
+1706.2,
+2238.6,
 40.0,
 40.0
 ],
