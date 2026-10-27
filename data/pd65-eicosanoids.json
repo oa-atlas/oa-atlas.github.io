@@ -11657,59 +11657,6 @@
 ]
 },
 {
-"id": "n3::n237",
-"label": "",
-"class": "Process",
-"box": [
-1835.9,
-2046.6,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"12(S)-HpETE"
-],
-"out": [
-"12(S)-HpETE"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Maclouf J et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "Stimulation of leukotriene biosynthesis in human blood leukocytes by platelet-derived 12-hydroperoxy-icosatetraenoic acid.",
-"year": "1982",
-"db": "pubmed",
-"id": "6821131",
-"role": "step",
-"note": "human platelets and leukocytes: 12(S)-HpETE made by platelets reaches neighbouring leukocytes and activates their 5-lipoxygenase, so the hydroperoxide leaves the cell that makes it"
-},
-{
-"authors": "Sutherland M et al.",
-"journal": "Biochem J",
-"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
-"year": "2001",
-"db": "pubmed",
-"id": "11115402",
-"role": "step",
-"note": "human platelets: added 12-HpETE enters the cells' hepoxilin route, showing the hydroperoxide crosses the membrane in both directions"
-},
-{
-"authors": "Kelly S et al.",
-"journal": "Ann Rheum Dis",
-"title": "Increased function of pronociceptive TRPV1 at the level of the joint in a rat model of osteoarthritis pain.",
-"year": "2015",
-"db": "pubmed",
-"id": "24152419",
-"role": "OA",
-"note": "rat MIA OA: 12-LOX products are measurable in the OA joint outside the cells and sensitise joint afferents, which needs their release"
-}
-]
-},
-{
 "id": "n3::n233",
 "label": "",
 "class": "Process",
@@ -12083,50 +12030,6 @@
 [
 "InChIKey",
 "VBQNSZQZRAGRIX-QNEBEIHSSA-N"
-]
-]
-},
-{
-"label": "12(S)-HpETE",
-"class": "SimpleChemical",
-"box": [
-1827.9,
-2238.6,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"12(S)-HPETE"
-],
-[
-"Synonyms",
-"(5Z,8Z,10E,12S,14Z)-12-hydroperoxyicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyeicosa-5,8,10,14-tetraenoate; (5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyicosa-5,8,10,14-tetraenoate; (5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyicosa-5,8,10,14-tetraenoic acid; 12-HpETE; 12-Hydroperoxyeicosatetraenoate; 12-Hydroperoxyeicosatetraenoic acid; 12-Hydroperoxyicosatetraenoate; 12-Hydroperoxyicosatetraenoic acid; 12-Oohete; Arachidonic acid omega-9 hydroperoxide; omega-9 Hpaa; omega-9-Hydroperoxyarachidonic acid"
-],
-[
-"Definition",
-"The (S)-enantiomer of 12-HPETE."
-],
-[
-"Formula",
-"C20H32O4"
-],
-[
-"ChEBI",
-"CHEBI:15626"
-],
-[
-"KEGG",
-"C05965"
-],
-[
-"InChI",
-"InChI=1S/C20H32O4/c1-2-3-4-5-10-13-16-19(24-23)17-14-11-8-6-7-9-12-15-18-20(21)22/h7-11,13-14,17,19,23H,2-6,12,15-16,18H2,1H3,(H,21,22)/b9-7-,11-8-,13-10-,17-14+/t19-/m0/s1"
-],
-[
-"InChIKey",
-"ZIOZYRSDNLNNNJ-LQWMCKPYSA-N"
 ]
 ]
 }
