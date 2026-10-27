@@ -1051,5 +1051,32 @@
 ],
 "data": null,
 "hasText": false
+},
+{
+"id": "pd65-assembled-whole",
+"title": "pd65, the whole map assembled from the blocks: mast cell, nociceptor, spinal cord",
+"topic": "Whole map",
+"group": "Assembled",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/pd65-assembled-whole.svg",
+"width": 23790.0,
+"height": 7231.0,
+"scale": 1,
+"annotation": "data/pd65-assembled-whole.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-assembled-whole.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-assembled-whole.svg"
+}
+],
+"data": null,
+"hasText": false
 }
 ]
