@@ -997,5 +997,86 @@
 ],
 "data": null,
 "hasText": false
+},
+{
+"id": "pd65-assembled-spinal",
+"title": "Spinal nociceptive neuron, assembled from the blocks",
+"topic": "Spinal nociceptive neuron",
+"group": "Assembled",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/pd65-assembled-spinal.svg",
+"width": 15454.0,
+"height": 1469.0,
+"scale": 1,
+"annotation": "data/pd65-assembled-spinal.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-assembled-spinal.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-assembled-spinal.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "pd65-assembled-spinal-glia",
+"title": "Spinal cord: astrocyte, microglia and nociceptive neuron, assembled from the blocks",
+"topic": "Spinal cord",
+"group": "Assembled",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/pd65-assembled-spinal-glia.svg",
+"width": 17230.0,
+"height": 1469.0,
+"scale": 1,
+"annotation": "data/pd65-assembled-spinal-glia.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-assembled-spinal-glia.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-assembled-spinal-glia.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "pd65-assembled-mast-cell",
+"title": "Mast cell: eicosanoids and osteopontin, assembled from the blocks",
+"topic": "Mast cell",
+"group": "Assembled",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/pd65-assembled-mast-cell.svg",
+"width": 5176.0,
+"height": 2672.0,
+"scale": 1,
+"annotation": "data/pd65-assembled-mast-cell.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-assembled-mast-cell.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-assembled-mast-cell.svg"
+}
+],
+"data": null,
+"hasText": false
 }
 ]
