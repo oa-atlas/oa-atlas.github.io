@@ -10,7 +10,7 @@
   <key attr.name="Family" attr.type="string" for="node" id="d100"/>
   <key attr.name="Members" attr.type="string" for="node" id="d101"/>
   <key attr.name="Member annotation" attr.type="string" for="node" id="d102"/>
-  <graph edgedefault="directed" id="G"><node id="ca2" yfiles.foldertype="group"><data key="ng">
+  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><graph edgedefault="directed" id="G"><node id="ca2" yfiles.foldertype="group"><data key="dev_node">ca2</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
@@ -36,7 +36,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="ca2:"><node id="sa1240"><data key="d100">Calcitonin gene-related peptides</data><data key="d101">CALCA; CALCB</data><data key="d102">[{"symbol": "CALCA", "props": [["HGNC", "HGNC:1437"], ["HGNC symbol", "CALCA"], ["UniProt", "P01258"]]}, {"symbol": "CALCB", "props": [["HGNC", "HGNC:1438"], ["HGNC symbol", "CALCB"], ["UniProt", "P10092"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="ca2:"><node id="sa1240"><data key="dev_node">sa1240</data><data key="d100">Calcitonin gene-related peptides</data><data key="d101">CALCA; CALCB</data><data key="d102">[{"symbol": "CALCA", "props": [["HGNC", "HGNC:1437"], ["HGNC symbol", "CALCA"], ["UniProt", "P01258"]]}, {"symbol": "CALCB", "props": [["HGNC", "HGNC:1438"], ["HGNC symbol", "CALCB"], ["UniProt", "P10092"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="454.5" y="-422.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -47,7 +47,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa477"><data key="ng">
+        </node><node id="sa477"><data key="dev_node">sa477</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Phenotype">
           <y:Geometry height="75.0" width="180.0" x="272.25" y="-199.5"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
@@ -55,7 +55,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="152.0" x="14.0" xml:space="preserve" y="27.25" hasText="true">Action potential<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa478"><data key="d0">CHEBI:14321</data><data key="ng">
+    </node><node id="sa478"><data key="dev_node">sa478</data><data key="d0">CHEBI:14321</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="80.0" y="-442.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
@@ -63,7 +63,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="85.5" x="-22.75" xml:space="preserve" y="9.75" hasText="true">glutamate<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa1001"><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
+    </node><node id="sa1001"><data key="dev_node">sa1001</data><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="190.0" y="-422.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -73,7 +73,7 @@
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
                 </y:StyleProperties>
             </y:GenericNode>
-          </data></node><node id="sa1038"><data key="d3">HGNC:1033</data><data key="d1">BDNF</data><data key="d2">P23560</data><data key="ng">
+          </data></node><node id="sa1038"><data key="dev_node">sa1038</data><data key="d3">HGNC:1033</data><data key="d1">BDNF</data><data key="d2">P23560</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="584.5" y="-422.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -84,7 +84,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="re179"><data key="ng">
+        </node><node id="re179"><data key="dev_node">re179</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="91.0" y="-501.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -98,7 +98,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re305"><data key="ng">
+    </node><node id="re305"><data key="dev_node">re305</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="221.0" y="-501.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -112,7 +112,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re321"><data key="ng">
+    </node><node id="re321"><data key="dev_node">re321</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="615.5" y="-501.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -126,7 +126,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re368"><data key="ng">
+    </node><node id="re368"><data key="dev_node">re368</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="485.5" y="-501.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -140,7 +140,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node></graph></node><node id="ca3" yfiles.foldertype="group"><data key="ng">
+    </node></graph></node><node id="ca3" yfiles.foldertype="group"><data key="dev_node">ca3</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
@@ -166,7 +166,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="ca3:"><node id="csa143" yfiles.foldertype="group"><data key="ng">
+      <graph edgedefault="directed" id="ca3:"><node id="csa143" yfiles.foldertype="group"><data key="dev_node">csa143</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -198,7 +198,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa143:"><node id="sa1242"><data key="d3">HGNC:16709</data><data key="d1">CALCRL</data><data key="d2">Q16602</data><data key="ng">
+      <graph edgedefault="directed" id="csa143:"><node id="sa1242"><data key="dev_node">sa1242</data><data key="d3">HGNC:16709</data><data key="d1">CALCRL</data><data key="d2">Q16602</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="605.5" y="-1026.25"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -209,7 +209,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa1243"><data key="d3">HGNC:9843</data><data key="d1">RAMP1</data><data key="d2">O60894</data><data key="ng">
+        </node><node id="sa1243"><data key="dev_node">sa1243</data><data key="d3">HGNC:9843</data><data key="d1">RAMP1</data><data key="d2">O60894</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="605.5" y="-978.25"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -220,7 +220,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node><node id="sa1000"><data key="d3">HGNC:17983</data><data key="d1">MRGPRX2</data><data key="d2">Q96LB1</data><data key="ng">
+        </node></graph></node><node id="sa1000"><data key="dev_node">sa1000</data><data key="d3">HGNC:17983</data><data key="d1">MRGPRX2</data><data key="d2">Q96LB1</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="81.0" y="-992.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -231,7 +231,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa1041"><data key="ng">
+        </node><node id="sa1041"><data key="dev_node">sa1041</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Phenotype">
           <y:Geometry height="75.0" width="200.0" x="394.5" y="-1414.859375"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
@@ -239,7 +239,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="190.0" x="5.0" xml:space="preserve" y="27.25" hasText="true">MAST CELL ACTIVATION<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="csa_tac_mrgprx2" yfiles.foldertype="group"><data key="ng">
+    </node><node id="csa_tac_mrgprx2" yfiles.foldertype="group"><data key="dev_node">csa_tac_mrgprx2</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -271,7 +271,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa_tac_mrgprx2:"><node id="sa1002_csa_tac_mrgprx2"><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
+      <graph edgedefault="directed" id="csa_tac_mrgprx2:"><node id="sa1002_csa_tac_mrgprx2"><data key="dev_node">sa1002_csa_tac_mrgprx2</data><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="190.0" y="-1145.5"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -282,7 +282,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa1000_csa_tac_mrgprx2"><data key="d3">HGNC:17983</data><data key="d1">MRGPRX2</data><data key="d2">Q96LB1</data><data key="ng">
+        </node><node id="sa1000_csa_tac_mrgprx2"><data key="dev_node">sa1000_csa_tac_mrgprx2</data><data key="d3">HGNC:17983</data><data key="d1">MRGPRX2</data><data key="d2">Q96LB1</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="190.0" y="-1097.5"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -293,7 +293,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node><node id="csa_cgrp_r" yfiles.foldertype="group"><data key="ng">
+        </node></graph></node><node id="csa_cgrp_r" yfiles.foldertype="group"><data key="dev_node">csa_cgrp_r</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -325,7 +325,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa_cgrp_r:"><node id="sa1238_csa_cgrp_r"><data key="d100">Calcitonin gene-related peptides</data><data key="d101">CALCA; CALCB</data><data key="d102">[{"symbol": "CALCA", "props": [["HGNC", "HGNC:1437"], ["HGNC symbol", "CALCA"], ["UniProt", "P01258"]]}, {"symbol": "CALCB", "props": [["HGNC", "HGNC:1438"], ["HGNC symbol", "CALCB"], ["UniProt", "P10092"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="csa_cgrp_r:"><node id="sa1238_csa_cgrp_r"><data key="dev_node">sa1238_csa_cgrp_r</data><data key="d100">Calcitonin gene-related peptides</data><data key="d101">CALCA; CALCB</data><data key="d102">[{"symbol": "CALCA", "props": [["HGNC", "HGNC:1437"], ["HGNC symbol", "CALCA"], ["UniProt", "P01258"]]}, {"symbol": "CALCB", "props": [["HGNC", "HGNC:1438"], ["HGNC symbol", "CALCB"], ["UniProt", "P10092"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="454.5" y="-1248.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -336,7 +336,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="csa143_csa_cgrp_r" yfiles.foldertype="group"><data key="ng">
+        </node><node id="csa143_csa_cgrp_r" yfiles.foldertype="group"><data key="dev_node">csa143_csa_cgrp_r</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -368,7 +368,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa143_csa_cgrp_r:"><node id="sa1242_csa_cgrp_r"><data key="d3">HGNC:16709</data><data key="d1">CALCRL</data><data key="d2">Q16602</data><data key="ng">
+      <graph edgedefault="directed" id="csa143_csa_cgrp_r:"><node id="sa1242_csa_cgrp_r"><data key="dev_node">sa1242_csa_cgrp_r</data><data key="d3">HGNC:16709</data><data key="d1">CALCRL</data><data key="d2">Q16602</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="454.5" y="-1182.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -379,7 +379,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa1243_csa_cgrp_r"><data key="d3">HGNC:9843</data><data key="d1">RAMP1</data><data key="d2">O60894</data><data key="ng">
+        </node><node id="sa1243_csa_cgrp_r"><data key="dev_node">sa1243_csa_cgrp_r</data><data key="d3">HGNC:9843</data><data key="d1">RAMP1</data><data key="d2">O60894</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="454.5" y="-1134.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -390,7 +390,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node></graph></node><node id="re306"><data key="ng">
+        </node></graph></node></graph></node><node id="re306"><data key="dev_node">re306</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="221.0" y="-981.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -404,7 +404,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re369"><data key="ng">
+    </node><node id="re369"><data key="dev_node">re369</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="485.5" y="-981.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -418,7 +418,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node></graph></node><node id="sa1238"><data key="d100">Calcitonin gene-related peptides</data><data key="d101">CALCA; CALCB</data><data key="d102">[{"symbol": "CALCA", "props": [["HGNC", "HGNC:1437"], ["HGNC symbol", "CALCA"], ["UniProt", "P01258"]]}, {"symbol": "CALCB", "props": [["HGNC", "HGNC:1438"], ["HGNC symbol", "CALCB"], ["UniProt", "P10092"]]}]</data><data key="ng">
+    </node></graph></node><node id="sa1238"><data key="dev_node">sa1238</data><data key="d100">Calcitonin gene-related peptides</data><data key="d101">CALCA; CALCB</data><data key="d102">[{"symbol": "CALCA", "props": [["HGNC", "HGNC:1437"], ["HGNC symbol", "CALCA"], ["UniProt", "P01258"]]}, {"symbol": "CALCB", "props": [["HGNC", "HGNC:1438"], ["HGNC symbol", "CALCB"], ["UniProt", "P10092"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="454.5" y="-732.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -429,7 +429,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa479"><data key="d0">CHEBI:14321</data><data key="ng">
+        </node><node id="sa479"><data key="dev_node">sa479</data><data key="d0">CHEBI:14321</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="80.0" y="-732.0"/>
           <y:Fill color="#E6B3AC" transparent="false"/>
@@ -437,7 +437,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="85.5" x="-22.75" xml:space="preserve" y="9.75" hasText="true">glutamate<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa1002"><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
+    </node><node id="sa1002"><data key="dev_node">sa1002</data><data key="d3">HGNC:11517</data><data key="d1">TAC1</data><data key="d2">P20366</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="190.0" y="-732.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -448,7 +448,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa1026"><data key="d3">HGNC:1033</data><data key="d1">BDNF</data><data key="d2">P23560</data><data key="ng">
+        </node><node id="sa1026"><data key="dev_node">sa1026</data><data key="d3">HGNC:1033</data><data key="d1">BDNF</data><data key="d2">P23560</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="46.0" width="86.0" x="581.5" y="-735.0"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
@@ -468,7 +468,7 @@
             </y:GenericNode>
           </data>
         </node><edge id="re179_sa478" source="sa478" target="re179">
-      <data key="eg">
+      <data key="dev_edge">re179_sa478</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -478,7 +478,7 @@
       </data>
     </edge>
     <edge id="re179_sa479" source="re179" target="sa479">
-      <data key="eg">
+      <data key="dev_edge">re179_sa479</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -488,7 +488,7 @@
       </data>
     </edge>
     <edge id="re179_sa477_physical_stimulation" source="sa477" target="re179">
-      <data key="eg">
+      <data key="dev_edge">re179_sa477_physical_stimulation</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="362.25" y="-234.0"/><y:Point x="60.0" y="-234.0"/><y:Point x="60.0" y="-492.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -498,7 +498,7 @@
       </data>
     </edge>
     <edge id="re305_sa1001" source="sa1001" target="re305">
-      <data key="eg">
+      <data key="dev_edge">re305_sa1001</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -508,7 +508,7 @@
       </data>
     </edge>
     <edge id="re305_sa1002" source="re305" target="sa1002">
-      <data key="eg">
+      <data key="dev_edge">re305_sa1002</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -518,7 +518,7 @@
       </data>
     </edge>
     <edge id="re369_csa_cgrp_r" source="re369" target="csa_cgrp_r">
-      <data key="eg">
+      <data key="dev_edge">re369_csa_cgrp_r</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -528,7 +528,7 @@
       </data>
     </edge>
     <edge id="re306_csa_tac_mrgprx2" source="re306" target="csa_tac_mrgprx2">
-      <data key="eg">
+      <data key="dev_edge">re306_csa_tac_mrgprx2</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -538,7 +538,7 @@
       </data>
     </edge>
     <edge id="re305_sa477_physical_stimulation" source="sa477" target="re305">
-      <data key="eg">
+      <data key="dev_edge">re305_sa477_physical_stimulation</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="362.25" y="-234.0"/><y:Point x="170.0" y="-234.0"/><y:Point x="170.0" y="-492.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -548,7 +548,7 @@
       </data>
     </edge>
     <edge id="re306_sa1002" source="sa1002" target="re306">
-      <data key="eg">
+      <data key="dev_edge">re306_sa1002</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -558,7 +558,7 @@
       </data>
     </edge>
     <edge id="re306_sa1000" source="sa1000" target="re306">
-      <data key="eg">
+      <data key="dev_edge">re306_sa1000</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -568,7 +568,7 @@
       </data>
     </edge>
     <edge id="re321_sa1038" source="sa1038" target="re321">
-      <data key="eg">
+      <data key="dev_edge">re321_sa1038</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -578,7 +578,7 @@
       </data>
     </edge>
     <edge id="re321_sa1026" source="re321" target="sa1026">
-      <data key="eg">
+      <data key="dev_edge">re321_sa1026</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -588,7 +588,7 @@
       </data>
     </edge>
     <edge id="re321_sa477_physical_stimulation" source="sa477" target="re321">
-      <data key="eg">
+      <data key="dev_edge">re321_sa477_physical_stimulation</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="362.25" y="-234.0"/><y:Point x="564.5" y="-234.0"/><y:Point x="564.5" y="-492.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -598,7 +598,7 @@
       </data>
     </edge>
     <edge id="re368_csa142" source="sa1240" target="re368">
-      <data key="eg">
+      <data key="dev_edge">re368_csa142</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -608,7 +608,7 @@
       </data>
     </edge>
     <edge id="re368_csa141" source="re368" target="sa1238">
-      <data key="eg">
+      <data key="dev_edge">re368_csa141</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -618,7 +618,7 @@
       </data>
     </edge>
     <edge id="re368_sa477_physical_stimulation" source="sa477" target="re368">
-      <data key="eg">
+      <data key="dev_edge">re368_sa477_physical_stimulation</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="362.25" y="-234.0"/><y:Point x="434.5" y="-234.0"/><y:Point x="434.5" y="-492.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -628,7 +628,7 @@
       </data>
     </edge>
     <edge id="re369_csa141" source="sa1238" target="re369">
-      <data key="eg">
+      <data key="dev_edge">re369_csa141</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -638,7 +638,7 @@
       </data>
     </edge>
     <edge id="re369_csa143" source="csa143" target="re369">
-      <data key="eg">
+      <data key="dev_edge">re369_csa143</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -648,7 +648,7 @@
       </data>
     </edge>
     <edge id="re370" source="csa_cgrp_r" target="sa1041">
-      <data key="eg">
+      <data key="dev_edge">re370</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -658,7 +658,7 @@
       </data>
     </edge>
     <edge id="re371" source="csa_tac_mrgprx2" target="sa1041">
-      <data key="eg">
+      <data key="dev_edge">re371</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="230.0" y="-1377.359375"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>

@@ -10,7 +10,7 @@
   <key attr.name="Family" attr.type="string" for="node" id="d100"/>
   <key attr.name="Members" attr.type="string" for="node" id="d101"/>
   <key attr.name="Member annotation" attr.type="string" for="node" id="d102"/>
-  <graph edgedefault="directed" id="G"><node id="ca1" yfiles.foldertype="group"><data key="ng">
+  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><graph edgedefault="directed" id="G"><node id="ca1" yfiles.foldertype="group"><data key="dev_node">ca1</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
@@ -36,7 +36,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="ca1:"><node id="csa101" yfiles.foldertype="group"><data key="ng">
+      <graph edgedefault="directed" id="ca1:"><node id="csa101" yfiles.foldertype="group"><data key="dev_node">csa101</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -68,7 +68,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa101:"><node id="sa928_c" yfiles.foldertype="group"><data key="ng">
+      <graph edgedefault="directed" id="csa101:"><node id="sa928_c" yfiles.foldertype="group"><data key="dev_node">sa928_c</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -100,7 +100,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="sa928_c:"><node id="sa928"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="sa928_c:"><node id="sa928"><data key="dev_node">sa928</data><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="504.75" y="270.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -111,7 +111,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa928_GDP"><data key="d0">CHEBI:17552</data><data key="ng">
+        </node><node id="sa928_GDP"><data key="dev_node">sa928_GDP</data><data key="d0">CHEBI:17552</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="524.75" y="318.0"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -119,7 +119,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GDP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node></graph></node><node id="csa101_bg" yfiles.foldertype="group"><data key="ng">
+    </node></graph></node><node id="csa101_bg" yfiles.foldertype="group"><data key="dev_node">csa101_bg</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -151,7 +151,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa101_bg:"><node id="sa929"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="csa101_bg:"><node id="sa929"><data key="dev_node">sa929</data><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="616.75" y="270.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -162,7 +162,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa930"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
+        </node><node id="sa930"><data key="dev_node">sa930</data><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="616.75" y="318.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -173,7 +173,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node><node id="sa932"><data key="d0">CHEBI:67194</data><data key="ng">
+        </node></graph></node><node id="sa932"><data key="dev_node">sa932</data><data key="d0">CHEBI:67194</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="524.75" y="204.0"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -181,7 +181,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="104.5" x="-32.25" xml:space="preserve" y="9.75" hasText="true">cannabinoid<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa944"><data key="d3">HGNC:2159</data><data key="d1">CNR1</data><data key="d2">P21554</data><data key="ng">
+    </node><node id="sa944"><data key="dev_node">sa944</data><data key="d3">HGNC:2159</data><data key="d1">CNR1</data><data key="d2">P21554</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="616.75" y="204.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -192,7 +192,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node><node id="csa100" yfiles.foldertype="group"><data key="ng">
+        </node></graph></node><node id="csa100" yfiles.foldertype="group"><data key="dev_node">csa100</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -224,7 +224,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa100:"><node id="sa926"><data key="d0">CHEBI:67194</data><data key="ng">
+      <graph edgedefault="directed" id="csa100:"><node id="sa926"><data key="dev_node">sa926</data><data key="d0">CHEBI:67194</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="296.25" y="255.25"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -232,7 +232,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="104.5" x="-32.25" xml:space="preserve" y="9.75" hasText="true">cannabinoid<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa943"><data key="d3">HGNC:2159</data><data key="d1">CNR1</data><data key="d2">P21554</data><data key="ng">
+    </node><node id="sa943"><data key="dev_node">sa943</data><data key="d3">HGNC:2159</data><data key="d1">CNR1</data><data key="d2">P21554</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="276.25" y="303.25"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -243,7 +243,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node><node id="csa102" yfiles.foldertype="group"><data key="ng">
+        </node></graph></node><node id="csa102" yfiles.foldertype="group"><data key="dev_node">csa102</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -275,7 +275,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa102:"><node id="sa933_c" yfiles.foldertype="group"><data key="ng">
+      <graph edgedefault="directed" id="csa102:"><node id="sa933_c" yfiles.foldertype="group"><data key="dev_node">sa933_c</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -307,7 +307,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="sa933_c:"><node id="sa933"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="sa933_c:"><node id="sa933"><data key="dev_node">sa933</data><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="361.5" y="582.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -318,7 +318,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa933_GDP"><data key="d0">CHEBI:17552</data><data key="ng">
+        </node><node id="sa933_GDP"><data key="dev_node">sa933_GDP</data><data key="d0">CHEBI:17552</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="381.5" y="630.0"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -326,7 +326,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GDP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node></graph></node><node id="csa102_bg" yfiles.foldertype="group"><data key="ng">
+    </node></graph></node><node id="csa102_bg" yfiles.foldertype="group"><data key="dev_node">csa102_bg</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -358,7 +358,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa102_bg:"><node id="sa934"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="csa102_bg:"><node id="sa934"><data key="dev_node">sa934</data><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="361.5" y="732.5"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -369,7 +369,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa935"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
+        </node><node id="sa935"><data key="dev_node">sa935</data><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="361.5" y="780.5"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -380,7 +380,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node></graph></node><node id="csa104" yfiles.foldertype="group"><data key="ng">
+        </node></graph></node></graph></node><node id="csa104" yfiles.foldertype="group"><data key="dev_node">csa104</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -412,7 +412,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa104:"><node id="csa104_bg" yfiles.foldertype="group"><data key="ng">
+      <graph edgedefault="directed" id="csa104:"><node id="csa104_bg" yfiles.foldertype="group"><data key="dev_node">csa104_bg</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -444,7 +444,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa104_bg:"><node id="sa938"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="csa104_bg:"><node id="sa938"><data key="dev_node">sa938</data><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1015.0" y="270.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -455,7 +455,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa939"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
+        </node><node id="sa939"><data key="dev_node">sa939</data><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1015.0" y="318.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -466,7 +466,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node><node id="sa940_c" yfiles.foldertype="group"><data key="ng">
+        </node></graph></node><node id="sa940_c" yfiles.foldertype="group"><data key="dev_node">sa940_c</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -498,7 +498,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="sa940_c:"><node id="sa940"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="sa940_c:"><node id="sa940"><data key="dev_node">sa940</data><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="903.0" y="270.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -509,7 +509,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa940_GTP"><data key="d0">CHEBI:15996</data><data key="ng">
+        </node><node id="sa940_GTP"><data key="dev_node">sa940_GTP</data><data key="d0">CHEBI:15996</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="923.0" y="318.0"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -517,7 +517,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node></graph></node><node id="sa942"><data key="d0">CHEBI:67194</data><data key="ng">
+    </node></graph></node><node id="sa942"><data key="dev_node">sa942</data><data key="d0">CHEBI:67194</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="923.0" y="204.0"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -525,7 +525,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="104.5" x="-32.25" xml:space="preserve" y="9.75" hasText="true">cannabinoid<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa945"><data key="d3">HGNC:2159</data><data key="d1">CNR1</data><data key="d2">P21554</data><data key="ng">
+    </node><node id="sa945"><data key="dev_node">sa945</data><data key="d3">HGNC:2159</data><data key="d1">CNR1</data><data key="d2">P21554</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1015.0" y="204.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -536,7 +536,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node><node id="csa103" yfiles.foldertype="group"><data key="ng">
+        </node></graph></node><node id="csa103" yfiles.foldertype="group"><data key="dev_node">csa103</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -568,7 +568,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa103:"><node id="sa936"><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="csa103:"><node id="sa936"><data key="dev_node">sa936</data><data key="d100">G protein subunits gamma</data><data key="d101">GNG2; GNG3; GNG4; GNG5; GNG7; GNG8; GNG10; GNG11; GNG12; GNG13</data><data key="d102">[{"symbol": "GNG2", "props": [["HGNC", "HGNC:4404"], ["HGNC symbol", "GNG2"], ["UniProt", "P59768"]]}, {"symbol": "GNG3", "props": [["HGNC", "HGNC:4405"], ["HGNC symbol", "GNG3"], ["UniProt", "P63215"]]}, {"symbol": "GNG4", "props": [["HGNC", "HGNC:4407"], ["HGNC symbol", "GNG4"], ["UniProt", "P50150"]]}, {"symbol": "GNG5", "props": [["HGNC", "HGNC:4408"], ["HGNC symbol", "GNG5"], ["UniProt", "P63218"]]}, {"symbol": "GNG7", "props": [["HGNC", "HGNC:4410"], ["HGNC symbol", "GNG7"], ["UniProt", "O60262"]]}, {"symbol": "GNG8", "props": [["HGNC", "HGNC:19664"], ["HGNC symbol", "GNG8"], ["UniProt", "Q9UK08"]]}, {"symbol": "GNG10", "props": [["HGNC", "HGNC:4402"], ["HGNC symbol", "GNG10"], ["UniProt", "P50151"]]}, {"symbol": "GNG11", "props": [["HGNC", "HGNC:4403"], ["HGNC symbol", "GNG11"], ["UniProt", "P61952"]]}, {"symbol": "GNG12", "props": [["HGNC", "HGNC:19663"], ["HGNC symbol", "GNG12"], ["UniProt", "Q9UBI6"]]}, {"symbol": "GNG13", "props": [["HGNC", "HGNC:14131"], ["HGNC symbol", "GNG13"], ["UniProt", "Q9P2W3"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="541.59375" y="535.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -579,7 +579,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa937"><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
+        </node><node id="sa937"><data key="dev_node">sa937</data><data key="d100">G protein subunits beta</data><data key="d101">GNB1; GNB2; GNB3; GNB4</data><data key="d102">[{"symbol": "GNB1", "props": [["HGNC", "HGNC:4396"], ["HGNC symbol", "GNB1"], ["UniProt", "P62873"]]}, {"symbol": "GNB2", "props": [["HGNC", "HGNC:4398"], ["HGNC symbol", "GNB2"], ["UniProt", "P62879"]]}, {"symbol": "GNB3", "props": [["HGNC", "HGNC:4400"], ["HGNC symbol", "GNB3"], ["UniProt", "P16520"]]}, {"symbol": "GNB4", "props": [["HGNC", "HGNC:20731"], ["HGNC symbol", "GNB4"], ["UniProt", "Q9HAV0"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="541.59375" y="487.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -590,7 +590,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node><node id="csa105" yfiles.foldertype="group"><data key="ng">
+        </node></graph></node><node id="csa105" yfiles.foldertype="group"><data key="dev_node">csa105</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -622,7 +622,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="csa105:"><node id="sa946"><data key="d100">Adenylate cyclases</data><data key="d101">ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9</data><data key="d102">[{"symbol": "ADCY1", "props": [["HGNC", "HGNC:232"], ["HGNC symbol", "ADCY1"], ["UniProt", "Q08828"]]}, {"symbol": "ADCY2", "props": [["HGNC", "HGNC:233"], ["HGNC symbol", "ADCY2"], ["UniProt", "Q08462"]]}, {"symbol": "ADCY3", "props": [["HGNC", "HGNC:234"], ["HGNC symbol", "ADCY3"], ["UniProt", "O60266"]]}, {"symbol": "ADCY4", "props": [["HGNC", "HGNC:235"], ["HGNC symbol", "ADCY4"], ["UniProt", "Q8NFM4"]]}, {"symbol": "ADCY5", "props": [["HGNC", "HGNC:236"], ["HGNC symbol", "ADCY5"], ["UniProt", "O95622"]]}, {"symbol": "ADCY6", "props": [["HGNC", "HGNC:237"], ["HGNC symbol", "ADCY6"], ["UniProt", "O43306"]]}, {"symbol": "ADCY7", "props": [["HGNC", "HGNC:238"], ["HGNC symbol", "ADCY7"], ["UniProt", "P51828"]]}, {"symbol": "ADCY8", "props": [["HGNC", "HGNC:239"], ["HGNC symbol", "ADCY8"], ["UniProt", "P40145"]]}, {"symbol": "ADCY9", "props": [["HGNC", "HGNC:240"], ["HGNC symbol", "ADCY9"], ["UniProt", "O60503"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="csa105:"><node id="sa946"><data key="dev_node">sa946</data><data key="d100">Adenylate cyclases</data><data key="d101">ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9</data><data key="d102">[{"symbol": "ADCY1", "props": [["HGNC", "HGNC:232"], ["HGNC symbol", "ADCY1"], ["UniProt", "Q08828"]]}, {"symbol": "ADCY2", "props": [["HGNC", "HGNC:233"], ["HGNC symbol", "ADCY2"], ["UniProt", "Q08462"]]}, {"symbol": "ADCY3", "props": [["HGNC", "HGNC:234"], ["HGNC symbol", "ADCY3"], ["UniProt", "O60266"]]}, {"symbol": "ADCY4", "props": [["HGNC", "HGNC:235"], ["HGNC symbol", "ADCY4"], ["UniProt", "Q8NFM4"]]}, {"symbol": "ADCY5", "props": [["HGNC", "HGNC:236"], ["HGNC symbol", "ADCY5"], ["UniProt", "O95622"]]}, {"symbol": "ADCY6", "props": [["HGNC", "HGNC:237"], ["HGNC symbol", "ADCY6"], ["UniProt", "O43306"]]}, {"symbol": "ADCY7", "props": [["HGNC", "HGNC:238"], ["HGNC symbol", "ADCY7"], ["UniProt", "P51828"]]}, {"symbol": "ADCY8", "props": [["HGNC", "HGNC:239"], ["HGNC symbol", "ADCY8"], ["UniProt", "P40145"]]}, {"symbol": "ADCY9", "props": [["HGNC", "HGNC:240"], ["HGNC symbol", "ADCY9"], ["UniProt", "O60503"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="958.875" y="1096.5"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -633,7 +633,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa947_c" yfiles.foldertype="group"><data key="ng">
+        </node><node id="sa947_c" yfiles.foldertype="group"><data key="dev_node">sa947_c</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -665,7 +665,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="sa947_c:"><node id="sa947"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="sa947_c:"><node id="sa947"><data key="dev_node">sa947</data><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="958.875" y="962.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -676,7 +676,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa947_GTP"><data key="d0">CHEBI:15996</data><data key="ng">
+        </node><node id="sa947_GTP"><data key="dev_node">sa947_GTP</data><data key="d0">CHEBI:15996</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="978.875" y="1010.0"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -684,7 +684,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node></graph></node></graph></node><node id="sa914"><data key="d3">HGNC:2159</data><data key="d1">CNR1</data><data key="d2">P21554</data><data key="ng">
+    </node></graph></node></graph></node><node id="sa914"><data key="dev_node">sa914</data><data key="d3">HGNC:2159</data><data key="d1">CNR1</data><data key="d2">P21554</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="72.0" y="289.5"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -695,7 +695,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa916"><data key="d0">CHEBI:15996</data><data key="ng">
+        </node><node id="sa916"><data key="dev_node">sa916</data><data key="d0">CHEBI:15996</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="750.75" y="353.5"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -703,7 +703,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa917"><data key="d0">CHEBI:24838</data><data key="ng">
+    </node><node id="sa917"><data key="dev_node">sa917</data><data key="d0">CHEBI:24838</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="810.78125" y="641.75"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -711,7 +711,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="19.0" x="10.5" xml:space="preserve" y="9.75" hasText="true">Pi<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa918"><data key="d0">CHEBI:17552</data><data key="ng">
+    </node><node id="sa918"><data key="dev_node">sa918</data><data key="d0">CHEBI:17552</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="808.75" y="353.5"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -719,7 +719,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GDP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="sa919_c" yfiles.foldertype="group"><data key="ng">
+    </node><node id="sa919_c" yfiles.foldertype="group"><data key="dev_node">sa919_c</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -751,7 +751,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="sa919_c:"><node id="sa919"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="sa919_c:"><node id="sa919"><data key="dev_node">sa919</data><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="651.6875" y="667.5"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -762,7 +762,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa919_GDP"><data key="d0">CHEBI:17552</data><data key="ng">
+        </node><node id="sa919_GDP"><data key="dev_node">sa919_GDP</data><data key="d0">CHEBI:17552</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="671.6875" y="715.5"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -770,7 +770,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GDP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node></graph></node><node id="sa920_c" yfiles.foldertype="group"><data key="ng">
+    </node></graph></node><node id="sa920_c" yfiles.foldertype="group"><data key="dev_node">sa920_c</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -802,7 +802,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="sa920_c:"><node id="sa920"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
+      <graph edgedefault="directed" id="sa920_c:"><node id="sa920"><data key="dev_node">sa920</data><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="958.875" y="667.5"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -813,7 +813,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa920_GTP"><data key="d0">CHEBI:15996</data><data key="ng">
+        </node><node id="sa920_GTP"><data key="dev_node">sa920_GTP</data><data key="d0">CHEBI:15996</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="978.875" y="715.5"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -821,7 +821,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node></graph></node><node id="sa922"><data key="ng">
+    </node></graph></node><node id="sa922"><data key="dev_node">sa922</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="819.78125" y="800.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -832,7 +832,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa923"><data key="d100">Adenylate cyclases</data><data key="d101">ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9</data><data key="d102">[{"symbol": "ADCY1", "props": [["HGNC", "HGNC:232"], ["HGNC symbol", "ADCY1"], ["UniProt", "Q08828"]]}, {"symbol": "ADCY2", "props": [["HGNC", "HGNC:233"], ["HGNC symbol", "ADCY2"], ["UniProt", "Q08462"]]}, {"symbol": "ADCY3", "props": [["HGNC", "HGNC:234"], ["HGNC symbol", "ADCY3"], ["UniProt", "O60266"]]}, {"symbol": "ADCY4", "props": [["HGNC", "HGNC:235"], ["HGNC symbol", "ADCY4"], ["UniProt", "Q8NFM4"]]}, {"symbol": "ADCY5", "props": [["HGNC", "HGNC:236"], ["HGNC symbol", "ADCY5"], ["UniProt", "O95622"]]}, {"symbol": "ADCY6", "props": [["HGNC", "HGNC:237"], ["HGNC symbol", "ADCY6"], ["UniProt", "O43306"]]}, {"symbol": "ADCY7", "props": [["HGNC", "HGNC:238"], ["HGNC symbol", "ADCY7"], ["UniProt", "P51828"]]}, {"symbol": "ADCY8", "props": [["HGNC", "HGNC:239"], ["HGNC symbol", "ADCY8"], ["UniProt", "P40145"]]}, {"symbol": "ADCY9", "props": [["HGNC", "HGNC:240"], ["HGNC symbol", "ADCY9"], ["UniProt", "O60503"]]}]</data><data key="ng">
+        </node><node id="sa923"><data key="dev_node">sa923</data><data key="d100">Adenylate cyclases</data><data key="d101">ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9</data><data key="d102">[{"symbol": "ADCY1", "props": [["HGNC", "HGNC:232"], ["HGNC symbol", "ADCY1"], ["UniProt", "Q08828"]]}, {"symbol": "ADCY2", "props": [["HGNC", "HGNC:233"], ["HGNC symbol", "ADCY2"], ["UniProt", "Q08462"]]}, {"symbol": "ADCY3", "props": [["HGNC", "HGNC:234"], ["HGNC symbol", "ADCY3"], ["UniProt", "O60266"]]}, {"symbol": "ADCY4", "props": [["HGNC", "HGNC:235"], ["HGNC symbol", "ADCY4"], ["UniProt", "Q8NFM4"]]}, {"symbol": "ADCY5", "props": [["HGNC", "HGNC:236"], ["HGNC symbol", "ADCY5"], ["UniProt", "O95622"]]}, {"symbol": "ADCY6", "props": [["HGNC", "HGNC:237"], ["HGNC symbol", "ADCY6"], ["UniProt", "O43306"]]}, {"symbol": "ADCY7", "props": [["HGNC", "HGNC:238"], ["HGNC symbol", "ADCY7"], ["UniProt", "P51828"]]}, {"symbol": "ADCY8", "props": [["HGNC", "HGNC:239"], ["HGNC symbol", "ADCY8"], ["UniProt", "P40145"]]}, {"symbol": "ADCY9", "props": [["HGNC", "HGNC:240"], ["HGNC symbol", "ADCY9"], ["UniProt", "O60503"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1068.875" y="831.0"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -843,7 +843,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="sa925"><data key="d3">HGNC:2159</data><data key="d1">CNR1</data><data key="d2">P21554</data><data key="ng">
+        </node><node id="sa925"><data key="dev_node">sa925</data><data key="d3">HGNC:2159</data><data key="d1">CNR1</data><data key="d2">P21554</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="1068.875" y="577.25"/>
               <y:Fill color="#B7CFDE" transparent="false"/>
@@ -854,7 +854,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="re282"><data key="ng">
+        </node><node id="re282"><data key="dev_node">re282</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="421.5" y="300.5"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -868,7 +868,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re283"><data key="ng">
+    </node><node id="re283"><data key="dev_node">re283</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="790.75" y="300.5"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -882,7 +882,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re284"><data key="ng">
+    </node><node id="re284"><data key="dev_node">re284</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="193.0" y="300.5"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -896,7 +896,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re285"><data key="ng">
+    </node><node id="re285"><data key="dev_node">re285</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="989.875" y="503.25"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -910,7 +910,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re286"><data key="ng">
+    </node><node id="re286"><data key="dev_node">re286</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="850.78125" y="712.75"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -924,7 +924,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re287"><data key="ng">
+    </node><node id="re287"><data key="dev_node">re287</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="543.59375" y="712.75"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -938,7 +938,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re293"><data key="ng">
+    </node><node id="re293"><data key="dev_node">re293</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="989.875" y="871.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -952,7 +952,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node></graph></node><node id="sa913"><data key="d0">CHEBI:67194</data><data key="ng">
+    </node></graph></node><node id="sa913"><data key="dev_node">sa913</data><data key="d0">CHEBI:67194</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="153.0" y="40.0"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -961,7 +961,7 @@
         </y:GenericNode>
       </data>
     </node><edge id="re282_csa100" source="csa100" target="re282">
-      <data key="eg">
+      <data key="dev_edge">re282_csa100</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -971,7 +971,7 @@
       </data>
     </edge>
     <edge id="re282_csa101" source="re282" target="csa101">
-      <data key="eg">
+      <data key="dev_edge">re282_csa101</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -981,7 +981,7 @@
       </data>
     </edge>
     <edge id="re282_csa102" source="csa102" target="re282">
-      <data key="eg">
+      <data key="dev_edge">re282_csa102</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="401.5" y="309.5"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -991,7 +991,7 @@
       </data>
     </edge>
     <edge id="re283_csa101" source="csa101" target="re283">
-      <data key="eg">
+      <data key="dev_edge">re283_csa101</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1001,7 +1001,7 @@
       </data>
     </edge>
     <edge id="re283_csa104" source="re283" target="csa104">
-      <data key="eg">
+      <data key="dev_edge">re283_csa104</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1011,7 +1011,7 @@
       </data>
     </edge>
     <edge id="re283_sa916" source="sa916" target="re283">
-      <data key="eg">
+      <data key="dev_edge">re283_sa916</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="770.75" y="309.5"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1021,7 +1021,7 @@
       </data>
     </edge>
     <edge id="re283_sa918" source="re283" target="sa918">
-      <data key="eg">
+      <data key="dev_edge">re283_sa918</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="828.75" y="309.5"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1031,7 +1031,7 @@
       </data>
     </edge>
     <edge id="re284_sa914" source="sa914" target="re284">
-      <data key="eg">
+      <data key="dev_edge">re284_sa914</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1041,7 +1041,7 @@
       </data>
     </edge>
     <edge id="re284_csa100" source="re284" target="csa100">
-      <data key="eg">
+      <data key="dev_edge">re284_csa100</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1051,7 +1051,7 @@
       </data>
     </edge>
     <edge id="re284_sa913" source="sa913" target="re284">
-      <data key="eg">
+      <data key="dev_edge">re284_sa913</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="173.0" y="309.5"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1061,7 +1061,7 @@
       </data>
     </edge>
     <edge id="re285_csa104" source="csa104" target="re285">
-      <data key="eg">
+      <data key="dev_edge">re285_csa104</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1071,7 +1071,7 @@
       </data>
     </edge>
     <edge id="re285_sa920" source="re285" target="sa920_c">
-      <data key="eg">
+      <data key="dev_edge">re285_sa920</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1081,7 +1081,7 @@
       </data>
     </edge>
     <edge id="re285_sa924" source="re285" target="sa924">
-      <data key="eg">
+      <data key="dev_edge">re285_sa924</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="998.875" y="541.25"/><y:Point x="1159.0" y="541.25"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1091,7 +1091,7 @@
       </data>
     </edge>
     <edge id="re285_csa103" source="re285" target="csa103">
-      <data key="eg">
+      <data key="dev_edge">re285_csa103</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="998.875" y="541.25"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1101,7 +1101,7 @@
       </data>
     </edge>
     <edge id="re285_sa925" source="re285" target="sa925">
-      <data key="eg">
+      <data key="dev_edge">re285_sa925</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="998.875" y="597.25"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1111,7 +1111,7 @@
       </data>
     </edge>
     <edge id="re286_sa920" source="sa920_c" target="re286">
-      <data key="eg">
+      <data key="dev_edge">re286_sa920</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1121,7 +1121,7 @@
       </data>
     </edge>
     <edge id="re286_sa919" source="re286" target="sa919_c">
-      <data key="eg">
+      <data key="dev_edge">re286_sa919</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1131,7 +1131,7 @@
       </data>
     </edge>
     <edge id="re286_sa917" source="re286" target="sa917">
-      <data key="eg">
+      <data key="dev_edge">re286_sa917</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="830.78125" y="721.75"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1141,7 +1141,7 @@
       </data>
     </edge>
     <edge id="re286_sa922_catalysis" source="sa922" target="re286">
-      <data key="eg">
+      <data key="dev_edge">re286_sa922_catalysis</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1151,7 +1151,7 @@
       </data>
     </edge>
     <edge id="re287_sa919" source="sa919_c" target="re287">
-      <data key="eg">
+      <data key="dev_edge">re287_sa919</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1161,7 +1161,7 @@
       </data>
     </edge>
     <edge id="re287_csa102" source="re287" target="csa102">
-      <data key="eg">
+      <data key="dev_edge">re287_csa102</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1171,7 +1171,7 @@
       </data>
     </edge>
     <edge id="re287_csa103" source="csa103" target="re287">
-      <data key="eg">
+      <data key="dev_edge">re287_csa103</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="581.59375" y="721.75"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1181,7 +1181,7 @@
       </data>
     </edge>
     <edge id="re293_sa920" source="sa920_c" target="re293">
-      <data key="eg">
+      <data key="dev_edge">re293_sa920</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1191,7 +1191,7 @@
       </data>
     </edge>
     <edge id="re293_csa105" source="re293" target="csa105">
-      <data key="eg">
+      <data key="dev_edge">re293_csa105</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1201,7 +1201,7 @@
       </data>
     </edge>
     <edge id="re293_sa923" source="sa923" target="re293">
-      <data key="eg">
+      <data key="dev_edge">re293_sa923</data><data key="eg">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="998.875" y="851.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1210,7 +1210,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <node id="sa924"><data key="d0">CHEBI:67194</data><data key="ng">
+    <node id="sa924"><data key="dev_node">sa924</data><data key="d0">CHEBI:67194</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="1139.0" y="40.0"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
