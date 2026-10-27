@@ -2465,6 +2465,191 @@
 "ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
 ]
 ]
+},
+{
+"id": "re288",
+"label": "",
+"class": "Process",
+"box": [
+325.0,
+815.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PKA",
+"cAMP"
+],
+"out": [
+"PKA:cAMP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"year": "2021",
+"title": "5-HT(7) Receptor Is Involved in Electroacupuncture Inhibition of Chronic Pain in the Spinal Cord.",
+"journal": "Front Neurosci",
+"db": "pubmed",
+"id": "34602973",
+"role": "OA",
+"note": "mouse MIA knee OA, dorsal spinal cord: intrathecal PKA inhibitor H89 (and AC inhibitor SQ22536) abolish electroacupuncture analgesia, so the spinal Gs-cAMP-PKA pathway operates in OA (here in GABAergic neurons, antinociceptive); covers the pathway's steps by extension (pharmacology only, cAMP and PKA not measured; full text read)"
+},
+{
+"authors": "Taylor SS et al.",
+"year": "2013",
+"title": "PKA: lessons learned after twenty years.",
+"journal": "Biochim Biophys Acta",
+"db": "pubmed",
+"id": "23535202",
+"role": "step",
+"note": "PKA mechanism review (reused from the nociceptor block): the catalytic subunit is held in a holoenzyme with cAMP-binding regulatory subunits, PKA regulated by cAMP"
+},
+{
+"authors": "Kim C et al.",
+"year": "2007",
+"title": "PKA-I holoenzyme structure reveals a mechanism for cAMP-dependent activation.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "17889648",
+"role": "step",
+"note": "crystal structure of the RIalpha:C holoenzyme (recombinant, not human-specified) with both cAMP-binding domains; mechanism of cooperative cAMP activation"
+}
+]
+},
+{
+"id": "re289",
+"label": "",
+"class": "Process",
+"box": [
+173.0,
+352.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ATP"
+],
+"out": [
+"cAMP",
+"PPi"
+],
+"by": [
+"Giα:ADCY",
+"Adenylate cyclase"
+]
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"year": "2021",
+"title": "5-HT(7) Receptor Is Involved in Electroacupuncture Inhibition of Chronic Pain in the Spinal Cord.",
+"journal": "Front Neurosci",
+"db": "pubmed",
+"id": "34602973",
+"role": "OA",
+"note": "mouse MIA knee OA: intrathecal adenylyl cyclase inhibitor SQ22536 reverses the analgesia that depends on spinal Gs-AC-cAMP (antinociceptive direction, GABAergic neurons; pharmacology only)"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "crystal structure of the adenylyl cyclase catalytic domains with Gsα (reused from the nociceptor block; chimeric soluble construct, generic transmembrane AC)"
+},
+{
+"authors": "Taussig R et al.",
+"year": "1993",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "the Giα:ADCY inhibitor of this process: purified activated Giα inhibits adenylyl cyclases in vitro (classic biochemistry, no human paper)"
+}
+]
+},
+{
+"id": "re290",
+"label": "",
+"class": "Process",
+"box": [
+538.0,
+815.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PKA:cAMP"
+],
+"out": [
+"PKA reg:cAMP",
+"PKA cat"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"year": "2021",
+"title": "5-HT(7) Receptor Is Involved in Electroacupuncture Inhibition of Chronic Pain in the Spinal Cord.",
+"journal": "Front Neurosci",
+"db": "pubmed",
+"id": "34602973",
+"role": "OA",
+"note": "mouse MIA knee OA: spinal PKA activity required (intrathecal H89), the freed catalytic subunit being the active kinase (by extension; pharmacology only)"
+},
+{
+"authors": "Taylor SS et al.",
+"year": "2013",
+"title": "PKA: lessons learned after twenty years.",
+"journal": "Biochim Biophys Acta",
+"db": "pubmed",
+"id": "23535202",
+"role": "step",
+"note": "PKA review (reused from the nociceptor block): cAMP binding to R subunits regulates the release of active C subunit"
+},
+{
+"authors": "Kim C et al.",
+"year": "2007",
+"title": "PKA-I holoenzyme structure reveals a mechanism for cAMP-dependent activation.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "17889648",
+"role": "step",
+"note": "RIalpha:C holoenzyme structure and mutagenesis: ordered, cooperative activation of PKA by cAMP (recombinant, not human-specified)"
+},
+{
+"authors": "Hu HJ et al.",
+"year": "2003",
+"title": "ERK integrates PKA and PKC signaling in superficial dorsal horn neurons. II. Modulation of neuronal excitability.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "12750418",
+"role": "step",
+"note": "cultured mouse superficial dorsal horn neurons: activating PKA increases action potential firing (active PKA in the spinal neuron; supports the block's PKA cat -> action potential)"
+},
+{
+"authors": "Yang HB et al.",
+"year": "2011",
+"title": "cAMP-dependent protein kinase activated Fyn in spinal dorsal horn to regulate NMDA receptor function during inflammatory pain.",
+"journal": "J Neurochem",
+"db": "pubmed",
+"id": "21054385",
+"role": "step",
+"note": "mouse CFA inflammatory pain, spinal dorsal horn: PKA activity needed for GluN2B synaptic recruitment; direct PKA stimulation evokes pain sensitisation (not OA)"
+}
+]
 }
 ]
 }

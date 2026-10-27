@@ -201,6 +201,135 @@
 ]
 },
 {
+"id": "re236",
+"label": "",
+"class": "Process",
+"box": [
+1508.7,
+601.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ITPR1",
+"I(1,4,5)P3"
+],
+"out": [
+"ITPR1:IP3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"year": "2023",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Bosanac I et al.",
+"year": "2002",
+"title": "Structure of the inositol 1,4,5-trisphosphate receptor binding core in complex with its ligand.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "12442173",
+"role": "step",
+"note": "2.2 A crystal structure of the IP3-binding core of mouse ITPR1 with IP3"
+},
+{
+"authors": "Schmitz EA et al.",
+"year": "2022",
+"title": "Structural basis for activation and gating of IP(3) receptors.",
+"journal": "Nat Commun",
+"db": "pubmed",
+"id": "35301323",
+"role": "step",
+"note": "cryo-EM of human IP3 receptor type 3 (not type 1) with IP3: IP3 binding primes the channel"
+},
+{
+"authors": "Groth RD et al.",
+"year": "2003",
+"title": "Brain-derived neurotrophic factor activation of NFAT (nuclear factor of activated T-cells)-dependent transcription: a role for the transcription factor NFATc4 in neurotrophin-mediated gene expression.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "12954875",
+"role": "step",
+"note": "rat hippocampal neurons: BDNF through TrkB and PLC acts by IP3-mediated store Ca2+ release and raises ITPR1 expression (the BDNF arm to the IP3 receptor)"
+}
+]
+},
+{
+"id": "re237",
+"label": "",
+"class": "Process",
+"box": [
+1618.9,
+761.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CA2+"
+],
+"out": [
+"CA2+"
+],
+"by": [
+"ITPR1:IP3"
+]
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"year": "2023",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Streb H et al.",
+"year": "1983",
+"title": "Release of Ca2+ from a nonmitochondrial intracellular store in pancreatic acinar cells by inositol-1,4,5-trisphosphate.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "6605482",
+"role": "step",
+"note": "rat pancreatic acinar cells (classic biochemistry): IP3 releases Ca2+ from a nonmitochondrial (ER) store"
+},
+{
+"authors": "Groth RD et al.",
+"year": "2003",
+"title": "Brain-derived neurotrophic factor activation of NFAT (nuclear factor of activated T-cells)-dependent transcription: a role for the transcription factor NFATc4 in neurotrophin-mediated gene expression.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "12954875",
+"role": "step",
+"note": "rat hippocampal neurons: BDNF-TrkB-PLC signalling releases Ca2+ from intracellular stores through IP3"
+},
+{
+"authors": "Schmitz EA et al.",
+"year": "2022",
+"title": "Structural basis for activation and gating of IP(3) receptors.",
+"journal": "Nat Commun",
+"db": "pubmed",
+"id": "35301323",
+"role": "step",
+"note": "cryo-EM of human IP3 receptor type 3: the IP3 receptor releases Ca2+ from the ER (type 3, not type 1)"
+}
+]
+},
+{
 "label": "PLCB",
 "class": "Macromolecule",
 "box": [
@@ -1562,6 +1691,427 @@
 "UniProt",
 "P19174"
 ]
+]
+},
+{
+"id": "re235",
+"label": "",
+"class": "Process",
+"box": [
+1249.7,
+419.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PI(4,5)P2",
+"H2O"
+],
+"out": [
+"DAG",
+"I(1,4,5)P3"
+],
+"by": [
+"PLCB:Gqα",
+"PLCG1"
+]
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"year": "2023",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Bellucci F et al.",
+"year": "2009",
+"title": "Novel effects mediated by bradykinin and pharmacological characterization of bradykinin B2 receptor antagonism in human synovial fibroblasts.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "20050188",
+"role": "OA",
+"note": "human synovial fibroblasts (OA synovitis study): bradykinin raises inositol phosphates, PLC (U73122) dependent; joint cells, the PLCB arm"
+},
+{
+"authors": "Hicks SN et al.",
+"year": "2008",
+"title": "General and versatile autoinhibition of PLC isozymes.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "18691970",
+"role": "step",
+"note": "crystal structure and assays of human PLC-beta2: PLC isozymes hydrolyse PI(4,5)P2 into DAG and IP3"
+},
+{
+"authors": "Carpenter G et al.",
+"year": "1999",
+"title": "Phospholipase C-gamma as a signal-transducing element.",
+"journal": "Exp Cell Res",
+"db": "pubmed",
+"id": "10579907",
+"role": "step",
+"note": "review: in tyrosine kinase pathways PLC-gamma hydrolyses PI(4,5)P2 to IP3 and DAG (the PLCG1 arm)"
+},
+{
+"authors": "Chuang HH et al.",
+"year": "2001",
+"title": "Bradykinin and nerve growth factor release the capsaicin receptor from PtdIns(4,5)P2-mediated inhibition.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "11418861",
+"role": "step",
+"note": "rat DRG neurons: bradykinin (Gq) and NGF (Trk) stimulate PLC signalling in primary afferent neurons (both arms drawn)"
+}
+]
+},
+{
+"id": "re313",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+280.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NTRK2",
+"BDNF"
+],
+"out": [
+"BDNF:NTRK2 dimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"year": "2023",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Gowler PRW et al.",
+"year": "2020",
+"title": "Peripheral brain-derived neurotrophic factor contributes to chronic osteoarthritis joint pain.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: sequestering BDNF with TrkB-Fc reverses pain (joint, peripheral)"
+},
+{
+"db": "pubmed",
+"id": "24399456",
+"role": "OA",
+"note": "human knee OA (27 patients): plasma BDNF higher than controls and correlates with WOMAC pain"
+},
+{
+"authors": "Ahmed F et al.",
+"year": "2018",
+"title": "Dimerization of the Trk receptors in the plasma membrane: effects of their cognate ligands.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "30366959",
+"role": "step",
+"note": "FRET in cell plasma membranes, human TrkB with human BDNF: ligand binding stabilises the TrkB dimer"
+},
+{
+"authors": "Haniu M et al.",
+"year": "1997",
+"title": "Interactions between brain-derived neurotrophic factor and the TRKB receptor. Identification of two ligand binding domains in soluble TRKB by affinity separation and chemical cross-linking.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "9312147",
+"role": "step",
+"note": "extracellular domain of human TRKB binds BDNF; two binding domains mapped"
+}
+]
+},
+{
+"id": "re314",
+"label": "",
+"class": "Process",
+"box": [
+395.8,
+280.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BDNF:NTRK2 dimer"
+],
+"out": [
+"BDNF:p-NTRK2 dimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"year": "2023",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Gowler PRW et al.",
+"year": "2020",
+"title": "Peripheral brain-derived neurotrophic factor contributes to chronic osteoarthritis joint pain.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: sequestering BDNF with TrkB-Fc reverses pain (joint, peripheral)"
+},
+{
+"authors": "Artim SC et al.",
+"year": "2020",
+"title": "Comparison of tyrosine kinase domain properties for the neurotrophin receptors TrkA and TrkB.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "33043964",
+"role": "step",
+"note": "human TrkB tyrosine kinase domain (residues 526-822, full text) autophosphorylates in vitro"
+},
+{
+"authors": "Sugimoto T et al.",
+"year": "2001",
+"title": "Signal transduction pathways through TRK-A and TRK-B receptors in human neuroblastoma cells.",
+"journal": "Jpn J Cancer Res",
+"db": "pubmed",
+"id": "11223544",
+"role": "step",
+"note": "human neuroblastoma cell line: BDNF induces TrkB tyrosine phosphorylation, blocked by K252a"
+},
+{
+"authors": "Middlemas DS et al.",
+"year": "1994",
+"title": "Identification of TrkB autophosphorylation sites and evidence that phospholipase C-gamma 1 is a substrate of the TrkB receptor.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "8106527",
+"role": "step",
+"note": "TrkB in Rat-2 cells: BDNF and NT-3 induce TrkB autophosphorylation (Y670/674/675 activation loop, Y785 = human Y817)"
+}
+]
+},
+{
+"id": "re315",
+"label": "",
+"class": "Process",
+"box": [
+639.0,
+280.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BDNF:p-NTRK2 dimer",
+"PLCG1"
+],
+"out": [
+"BDNF:p-NTRK2:PLCG1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"year": "2023",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Gowler PRW et al.",
+"year": "2020",
+"title": "Peripheral brain-derived neurotrophic factor contributes to chronic osteoarthritis joint pain.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: sequestering BDNF with TrkB-Fc reverses pain (joint, peripheral)"
+},
+{
+"authors": "Middlemas DS et al.",
+"year": "1994",
+"title": "Identification of TrkB autophosphorylation sites and evidence that phospholipase C-gamma 1 is a substrate of the TrkB receptor.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "8106527",
+"role": "step",
+"note": "Rat-2 cells: PLC-gamma1 forms a complex with activated TrkB; pY785 (human Y817) fits the PLC-gamma1 SH2 consensus"
+},
+{
+"authors": "Minichiello L et al.",
+"year": "2002",
+"title": "Mechanism of TrkB-mediated hippocampal long-term potentiation.",
+"journal": "Neuron",
+"db": "pubmed",
+"id": "12367511",
+"role": "step",
+"note": "mice with the TrkB PLC-gamma docking site mutated: BDNF signalling to CaMKIV and CREB lost; TrkB recruits PLC-gamma through this site"
+}
+]
+},
+{
+"id": "re316",
+"label": "",
+"class": "Process",
+"box": [
+893.1,
+280.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BDNF:p-NTRK2:PLCG1"
+],
+"out": [
+"BDNF:p-NTRK2:p-PLCG1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"year": "2023",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Gowler PRW et al.",
+"year": "2020",
+"title": "Peripheral brain-derived neurotrophic factor contributes to chronic osteoarthritis joint pain.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: sequestering BDNF with TrkB-Fc reverses pain (joint, peripheral)"
+},
+{
+"authors": "Middlemas DS et al.",
+"year": "1994",
+"title": "Identification of TrkB autophosphorylation sites and evidence that phospholipase C-gamma 1 is a substrate of the TrkB receptor.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "8106527",
+"role": "step",
+"note": "Rat-2 cells: activated TrkB phosphorylates PLC-gamma1 on Y783, Y771 and Y1254"
+},
+{
+"authors": "Sugimoto T et al.",
+"year": "2001",
+"title": "Signal transduction pathways through TRK-A and TRK-B receptors in human neuroblastoma cells.",
+"journal": "Jpn J Cancer Res",
+"db": "pubmed",
+"id": "11223544",
+"role": "step",
+"note": "human neuroblastoma cells (TrkA and TrkB): BDNF raises PLC-gamma1 tyrosine phosphorylation, blocked by the Trk inhibitor K252a"
+},
+{
+"authors": "Hajicek N et al.",
+"year": "2019",
+"title": "Structural basis for the activation of PLC-γ isozymes by phosphorylation and cancer-associated mutations.",
+"journal": "Elife",
+"db": "pubmed",
+"id": "31889510",
+"role": "step",
+"note": "structure of rat PLC-gamma1 (96% identical to human): tyrosine phosphorylation releases autoinhibition and activates the enzyme"
+}
+]
+},
+{
+"id": "re318",
+"label": "",
+"class": "Process",
+"box": [
+1159.7,
+280.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BDNF:p-NTRK2:p-PLCG1"
+],
+"out": [
+"PLCG1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ye Y et al.",
+"year": "2023",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat MIA knee OA: BDNF and TrkB raised along the PAG-RVM-spinal dorsal horn axis; the TrkB inhibitor ANA-12 reverses allodynia (the drawn spinal cell, the pathway by extension)"
+},
+{
+"authors": "Gowler PRW et al.",
+"year": "2020",
+"title": "Peripheral brain-derived neurotrophic factor contributes to chronic osteoarthritis joint pain.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: sequestering BDNF with TrkB-Fc reverses pain (joint, peripheral)"
+},
+{
+"authors": "Carpenter G et al.",
+"year": "1999",
+"title": "Phospholipase C-gamma as a signal-transducing element.",
+"journal": "Exp Cell Res",
+"db": "pubmed",
+"id": "10579907",
+"role": "step",
+"note": "review: PLC-gamma associates with and is phosphorylated by receptor tyrosine kinases (Reactome's only reference for the release step, which is not tested for TrkB)"
+},
+{
+"authors": "Poulin B et al.",
+"year": "2005",
+"title": "Intramolecular interaction between phosphorylated tyrosine-783 and the C-terminal Src homology 2 domain activates phospholipase C-gamma1.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "15764700",
+"role": "step",
+"note": "biochemistry: phosphorylated Y783 binds PLC-gamma1's own C-terminal SH2 domain, which activates it, while the N-terminal SH2 holds the receptor (two roles; release not shown)"
+}
 ]
 },
 {

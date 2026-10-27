@@ -1209,6 +1209,339 @@
 ]
 },
 {
+"id": "re307",
+"label": "",
+"class": "Process",
+"box": [
+390.0,
+306.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TNFRSF1A",
+"TNF"
+],
+"out": [
+"TNF:TNFR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ohtori S et al.",
+"year": "2015",
+"title": "Efficacy of Direct Injection of Etanercept into Knee Joints for Pain in Moderate and Severe Knee Osteoarthritis.",
+"journal": "Yonsei Med J",
+"db": "pubmed",
+"id": "26256983",
+"role": "OA",
+"note": "human knee OA (n=39, single intra-articular injection, etanercept vs hyaluronic acid, not placebo-controlled): TNF blockade relieves OA knee pain"
+},
+{
+"authors": "Schaible HG",
+"year": "2014",
+"title": "Nociceptive neurons detect cytokines in arthritis.",
+"journal": "Arthritis Res Ther",
+"db": "pubmed",
+"id": "25606597",
+"role": "OA",
+"note": "review of cytokines in arthritis (RA and OA): nociceptive neurons express TNF and IL-1 receptors; cytokines act directly on them"
+},
+{
+"authors": "Loetscher H et al.",
+"year": "1990",
+"title": "Molecular cloning and expression of the human 55 kd tumor necrosis factor receptor.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "2158862",
+"role": "step",
+"note": "human TNFR1 (55 kd receptor) cloned; expressed cDNA binds TNF"
+},
+{
+"authors": "Jin X et al.",
+"year": "2006",
+"title": "Acute p38-mediated modulation of tetrodotoxin-resistant sodium channels in mouse sensory neurons by tumor necrosis factor-alpha.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "16399694",
+"role": "step",
+"note": "mouse DRG neurons: TNF potentiation of TTX-resistant Na+ current needs TNFR1 and p38"
+},
+{
+"authors": "Richter F et al.",
+"year": "2010",
+"title": "Tumor necrosis factor causes persistent sensitization of joint nociceptors to mechanical stimuli in rats.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "20722011",
+"role": "step",
+"note": "rat normal knee (not an OA model): intra-articular TNF sensitises joint nociceptors, prevented by etanercept or a p38 inhibitor"
+}
+]
+},
+{
+"id": "re308",
+"label": "",
+"class": "Process",
+"box": [
+635.0,
+306.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TRAF2",
+"RIPK1",
+"TRADD"
+],
+"out": [
+"TRADD:TRAF2:RIPK1"
+],
+"by": [
+"TNF:TNFR1"
+]
+},
+"references": [
+{
+"authors": "Wang Y et al.",
+"year": "2025",
+"title": "Anti-Inflammatory Modified Fuzi Decoction Antagonizes Synovial TNF-α/TRAF2/NF-κB Signaling to Remedy Osteoarthritis.",
+"journal": "Drug Des Devel Ther",
+"db": "pubmed",
+"id": "40918953",
+"role": "OA",
+"note": "rat MIA OA, primary synovial fibroblasts (not neurons; herbal-drug study): TNF induces TRAF2 (with p-MKK3/6 and p-p38)"
+},
+{
+"authors": "Micheau O et al.",
+"year": "2003",
+"title": "Induction of TNF receptor I-mediated apoptosis via two sequential signaling complexes.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "12887920",
+"role": "step",
+"note": "human cell lines: TNFR1 complex I holds TRADD, RIP1 and TRAF2"
+},
+{
+"authors": "Park YC et al.",
+"year": "2000",
+"title": "A novel mechanism of TRAF signaling revealed by structural and functional analyses of the TRADD-TRAF2 interaction.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "10892748",
+"role": "step",
+"note": "crystal structure of the human TRADD-TRAF2 complex"
+},
+{
+"authors": "Hsu H et al.",
+"year": "1996",
+"title": "TNF-dependent recruitment of the protein kinase RIP to the TNF receptor-1 signaling complex.",
+"journal": "Immunity",
+"db": "pubmed",
+"id": "8612133",
+"role": "step",
+"note": "transfected cells: TRADD recruits RIP to TNFR1 only with TNF"
+}
+]
+},
+{
+"id": "re310",
+"label": "",
+"class": "Process",
+"box": [
+635.0,
+623.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAP3K5"
+],
+"out": [
+"MAP3K5"
+],
+"by": [
+"TRADD:TRAF2:RIPK1"
+]
+},
+"references": [
+{
+"authors": "Zhang QS et al.",
+"year": "2016",
+"title": "Stress-Induced Activation of Apoptosis Signal-Regulating Kinase 1 Promotes Osteoarthritis.",
+"journal": "J Cell Physiol",
+"db": "pubmed",
+"id": "26405834",
+"role": "OA",
+"note": "human OA cartilage (ASK1 rises with severity) and mouse surgical OA (ASK1 KO protected); TNF and IL-1β activate ASK1 signalling in fibroblasts; chondrocytes, not neurons"
+},
+{
+"authors": "Liu H et al.",
+"year": "2000",
+"title": "Activation of apoptosis signal-regulating kinase 1 (ASK1) by tumor necrosis factor receptor-associated factor 2 requires prior dissociation of the ASK1 inhibitor thioredoxin.",
+"journal": "Mol Cell Biol",
+"db": "pubmed",
+"id": "10688666",
+"role": "step",
+"note": "transfected mammalian cell lines (species not named in the abstract): TRAF2 binds and activates ASK1"
+},
+{
+"authors": "Nishitoh H et al.",
+"year": "1998",
+"title": "ASK1 is essential for JNK/SAPK activation by TRAF2.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "9774977",
+"role": "step",
+"note": "mammalian cells: ASK1 associates with TRAF2 on TNF and is activated by TRAF2 (readout JNK)"
+},
+{
+"authors": "Tobiume K et al.",
+"year": "2001",
+"title": "ASK1 is required for sustained activations of JNK/p38 MAP kinases and apoptosis.",
+"journal": "EMBO Rep",
+"db": "pubmed",
+"id": "11266364",
+"role": "step",
+"note": "mouse ASK1-/- embryonic fibroblasts: TNF-induced sustained p38 activation needs ASK1"
+}
+]
+},
+{
+"id": "re311",
+"label": "",
+"class": "Process",
+"box": [
+725.0,
+722.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAP2K3"
+],
+"out": [
+"MAP2K3"
+],
+"by": [
+"MAP3K5"
+]
+},
+"references": [
+{
+"authors": "Jiang X et al.",
+"year": "2024",
+"title": "Suppression of CGRP and TRPV1 Expression in Dorsal Root Ganglia of Knee Osteoarthritis Rats by Huojing Decoction via TrkA/MKK3/6/p38 Pathway.",
+"journal": "J Inflamm Res",
+"db": "pubmed",
+"id": "39157588",
+"role": "OA",
+"note": "rat MIA knee OA DRG (herbal-drug study, Western blot): MKK3/6 and p38 in OA DRG fall with analgesia"
+},
+{
+"authors": "Wang Y et al.",
+"year": "2025",
+"title": "Anti-Inflammatory Modified Fuzi Decoction Antagonizes Synovial TNF-α/TRAF2/NF-κB Signaling to Remedy Osteoarthritis.",
+"journal": "Drug Des Devel Ther",
+"db": "pubmed",
+"id": "40918953",
+"role": "OA",
+"note": "rat MIA OA, primary synovial fibroblasts (not neurons; herbal-drug study): TNF induces phosphorylation of MKK3/MKK6"
+},
+{
+"authors": "Ichijo H et al.",
+"year": "1997",
+"title": "Induction of apoptosis by ASK1, a mammalian MAPKKK that activates SAPK/JNK and p38 signaling pathways.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8974401",
+"role": "step",
+"note": "ASK1 (MAP3K) cloned; activates MKK3/MKK6 and p38; activated by TNF in cells"
+}
+]
+},
+{
+"id": "re312",
+"label": "",
+"class": "Process",
+"box": [
+815.0,
+821.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"P38 MAPK"
+],
+"out": [
+"P38 MAPK"
+],
+"by": [
+"MAP2K3",
+"IL1B:IL1R1:IL1RAP"
+]
+},
+"references": [
+{
+"db": "pubmed",
+"id": "29430715",
+"role": "OA",
+"note": "rat MIA and medial meniscal tear OA: p38 activated in the knee-innervating L3 DRG"
+},
+{
+"authors": "Dérijard B et al.",
+"year": "1995",
+"title": "Independent human MAP-kinase signal transduction pathways defined by MEK and MKK isoforms.",
+"journal": "Science",
+"db": "pubmed",
+"id": "7839144",
+"role": "step",
+"note": "human MKK3 cloned; phosphorylates and activates p38"
+},
+{
+"authors": "Raingeaud J et al.",
+"year": "1995",
+"title": "Pro-inflammatory cytokines and environmental stress cause p38 mitogen-activated protein kinase activation by dual phosphorylation on tyrosine and threonine.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "7535770",
+"role": "step",
+"note": "cultured cells: pro-inflammatory cytokines activate p38 by dual phosphorylation Thr180/Tyr182"
+},
+{
+"authors": "Binshtok AM et al.",
+"year": "2008",
+"title": "Nociceptors are interleukin-1beta sensors.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "19109489",
+"role": "step",
+"note": "rodent nociceptors: IL-1β excites them through p38, acting on TTX-resistant Na+ channels"
+},
+{
+"authors": "Richter F et al.",
+"year": "2010",
+"title": "Tumor necrosis factor causes persistent sensitization of joint nociceptors to mechanical stimuli in rats.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "20722011",
+"role": "step",
+"note": "rat normal knee (not an OA model): intra-articular TNF sensitises joint nociceptors, prevented by etanercept or a p38 inhibitor"
+}
+]
+},
+{
 "label": "IL1R1",
 "class": "Macromolecule",
 "box": [
@@ -1266,6 +1599,71 @@
 "UniProt",
 "P14778"
 ]
+]
+},
+{
+"id": "p_il1",
+"label": "",
+"class": "Process",
+"box": [
+195.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IL1B",
+"IL1R1",
+"IL1RAP"
+],
+"out": [
+"IL1B:IL1R1:IL1RAP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mailhot B et al.",
+"year": "2020",
+"title": "Neuronal interleukin-1 receptors mediate pain in chronic inflammatory diseases.",
+"journal": "J Exp Med",
+"db": "pubmed",
+"id": "32573694",
+"role": "OA",
+"note": "mouse MIA OA: IL-1R1 in TRPV1+ nociceptors is enough for pain behaviour; IL-1R1 also in human TRPV1+ DRG neurons"
+},
+{
+"authors": "Stover JD et al.",
+"year": "2026",
+"title": "CRISPR Epigenome Editing of IL1R1 Expression of Neurons that Innervate the Temporomandibular Joint or Knee Causes Reduced Sensitization to Osteoarthritic Environment.",
+"journal": "Ann Biomed Eng",
+"db": "pubmed",
+"id": "41949727",
+"role": "OA",
+"note": "human OA knee cartilage on rat DRG neurons: sensitisation abolished by silencing IL1R1 (in vitro, calcium imaging)"
+},
+{
+"authors": "Thomas C et al.",
+"year": "2012",
+"title": "Structure of the activating IL-1 receptor signaling complex.",
+"journal": "Nat Struct Mol Biol",
+"db": "pubmed",
+"id": "22426547",
+"role": "step",
+"note": "crystal structure of human IL-1β bound to IL-1RI and IL-1RAcP"
+},
+{
+"authors": "Cullinan EB et al.",
+"year": "1998",
+"title": "IL-1 receptor accessory protein is an essential component of the IL-1 receptor.",
+"journal": "J Immunol",
+"db": "pubmed",
+"id": "9820540",
+"role": "step",
+"note": "mouse IL-1RAcP knockout: IL1R1 with IL1RAP forms the signalling receptor"
+}
 ]
 },
 {
@@ -1550,6 +1948,77 @@
 "UniProt",
 "Q9Y5Y9"
 ]
+]
+},
+{
+"id": "p_scn",
+"label": "",
+"class": "Process",
+"box": [
+905.0,
+963.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"SCN10A"
+],
+"out": [
+"SCN10A"
+],
+"by": [
+"P38 MAPK"
+]
+},
+"references": [
+{
+"authors": "Schuelert N et al.",
+"year": "2012",
+"title": "Involvement of Nav 1.8 sodium ion channels in the transduction of mechanical pain in a rodent model of osteoarthritis.",
+"journal": "Arthritis Res Ther",
+"db": "pubmed",
+"id": "22225591",
+"role": "OA",
+"note": "rat MIA OA: NaV1.8 blocker reduces knee afferent firing to noxious rotation and pain behaviour (NaV1.8 in OA joint nociceptors; p38 not tested)"
+},
+{
+"authors": "Brederson JD et al.",
+"year": "2018",
+"title": "Characterization and comparison of rat monosodium iodoacetate and medial meniscal tear models of osteoarthritic pain.",
+"journal": "J Orthop Res",
+"db": "pubmed",
+"id": "29430715",
+"role": "OA",
+"note": "rat MIA and medial meniscal tear OA: p38 activated in the knee-innervating L3 DRG"
+},
+{
+"db": "pubmed",
+"id": "18354022",
+"role": "step",
+"note": "rodent DRG neurons: p38 phosphorylates NaV1.8 at S551 and S556, raising current density"
+},
+{
+"authors": "Jin X et al.",
+"year": "2006",
+"title": "Acute p38-mediated modulation of tetrodotoxin-resistant sodium channels in mouse sensory neurons by tumor necrosis factor-alpha.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "16399694",
+"role": "step",
+"note": "mouse DRG neurons: TNF potentiation of TTX-resistant Na+ current needs TNFR1 and p38"
+},
+{
+"authors": "Binshtok AM et al.",
+"year": "2008",
+"title": "Nociceptors are interleukin-1beta sensors.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "19109489",
+"role": "step",
+"note": "rodent nociceptors: IL-1β excites them through p38, acting on TTX-resistant Na+ channels"
+}
 ]
 },
 {

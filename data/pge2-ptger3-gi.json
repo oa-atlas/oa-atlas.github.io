@@ -5599,6 +5599,429 @@
 ]
 },
 {
+"id": "re181",
+"label": "",
+"class": "Process",
+"box": [
+369.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGE2:PTGER3",
+"Gi heterotrimer"
+],
+"out": [
+"PTGER3:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Natura G et al.",
+"year": "2013",
+"title": "Neuronal prostaglandin E2 receptor subtype EP3 mediates antinociception during inflammation.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23904482",
+"role": "OA",
+"note": "NOT an OA model: rat inflamed joint (inflammation model, not named in the abstract; full text not open) shows EP3 on DRG and spinal neurons antinociceptive via Gi; the OA part is human: EP3 in joint nerves of patients with painful OA (covers the pathway's steps by extension)"
+},
+{
+"authors": "Suno R et al.",
+"year": "2022",
+"title": "Structural insights into the G protein selectivity revealed by the human EP3-G(i) signaling complex.",
+"journal": "Cell Rep",
+"db": "pubmed",
+"id": "36103815",
+"role": "step",
+"note": "cryo-EM of the human EP3-Gi signalling complex; Gi selectivity residues in ICL2 and TM5"
+},
+{
+"authors": "Huang SM et al.",
+"year": "2023",
+"title": "Single hormone or synthetic agonist induces G(s)/G(i) coupling selectivity of EP receptors via distinct binding modes and propagating paths.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "37478163",
+"role": "step",
+"note": "cryo-EM of EP3-Gi with the endogenous agonist PGE2; full text: human EP3 selectively couples Gi"
+}
+]
+},
+{
+"id": "re182",
+"label": "",
+"class": "Process",
+"box": [
+738.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGER3:Gi",
+"GTP"
+],
+"out": [
+"PTGER3:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Natura G et al.",
+"year": "2013",
+"title": "Neuronal prostaglandin E2 receptor subtype EP3 mediates antinociception during inflammation.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23904482",
+"role": "OA",
+"note": "NOT an OA model: rat inflamed joint (inflammation model, not named in the abstract; full text not open) shows EP3 on DRG and spinal neurons antinociceptive via Gi; the OA part is human: EP3 in joint nerves of patients with painful OA (covers the pathway's steps by extension)"
+},
+{
+"authors": "Oldham WM et al.",
+"year": "2007",
+"title": "Mapping allosteric connections from the receptor to the nucleotide-binding pocket of heterotrimeric G proteins.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "17463080",
+"role": "step",
+"note": "EPR on Gi alpha with activated rhodopsin: receptor binding empties the nucleotide pocket (receptor-catalysed exchange)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data"
+}
+]
+},
+{
+"id": "re183",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGER3",
+"PGE2"
+],
+"out": [
+"PGE2:PTGER3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Natura G et al.",
+"year": "2013",
+"title": "Neuronal prostaglandin E2 receptor subtype EP3 mediates antinociception during inflammation.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23904482",
+"role": "OA",
+"note": "NOT an OA model: rat inflamed joint (inflammation model, not named in the abstract; full text not open) shows EP3 on DRG and spinal neurons antinociceptive via Gi; the OA part is human: EP3 in joint nerves of patients with painful OA (covers the pathway's steps by extension)"
+},
+{
+"authors": "Al-Madol MA et al.",
+"year": "2020",
+"title": "Prostanoid Receptor Subtypes and Its Endogenous Ligands with Processing Enzymes within Various Types of Inflammatory Joint Diseases.",
+"journal": "Mediators Inflamm",
+"db": "pubmed",
+"id": "33273889",
+"role": "OA",
+"note": "human OA synovium: EP3 expressed, mainly in synovial macrophages and fibroblasts (not neurons; RA and joint trauma also studied)"
+},
+{
+"authors": "Morimoto K et al.",
+"year": "2019",
+"title": "Crystal structure of the endogenous agonist-bound prostanoid receptor EP3.",
+"journal": "Nat Chem Biol",
+"db": "pubmed",
+"id": "30510192",
+"role": "step",
+"note": "crystal structure of human EP3 bound to PGE2"
+},
+{
+"authors": "Kunapuli SP et al.",
+"year": "1994",
+"title": "Cloning and expression of a prostaglandin E receptor EP3 subtype from human erythroleukaemia cells.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "8135729",
+"role": "step",
+"note": "human EP3 cloned (HEL cells): binds PGE2 with Kd 3.2 nM"
+}
+]
+},
+{
+"id": "re229",
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGER3:Gi"
+],
+"out": [
+"Giα:GTP",
+"PGE2",
+"PTGER3",
+"Giβ:Giγ"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Natura G et al.",
+"year": "2013",
+"title": "Neuronal prostaglandin E2 receptor subtype EP3 mediates antinociception during inflammation.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23904482",
+"role": "OA",
+"note": "NOT an OA model: rat inflamed joint (inflammation model, not named in the abstract; full text not open) shows EP3 on DRG and spinal neurons antinociceptive via Gi; the OA part is human: EP3 in joint nerves of patients with painful OA (covers the pathway's steps by extension)"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "Gi alpha1 beta1 gamma2 heterotrimer structure: GTP rearranges switch II, which causes subunit dissociation (non-human recombinant proteins)"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "GTPgammaS-Gi alpha1 structure: disordered N-terminus suggests how beta-gamma is released on activation (rat recombinant)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data"
+}
+]
+},
+{
+"id": "re230",
+"label": "",
+"class": "Process",
+"box": [
+798.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Natura G et al.",
+"year": "2013",
+"title": "Neuronal prostaglandin E2 receptor subtype EP3 mediates antinociception during inflammation.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23904482",
+"role": "OA",
+"note": "NOT an OA model: rat inflamed joint (inflammation model, not named in the abstract; full text not open) shows EP3 on DRG and spinal neurons antinociceptive via Gi; the OA part is human: EP3 in joint nerves of patients with painful OA (covers the pathway's steps by extension)"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "Gi alpha1 GTPgammaS and GDP.AlF4 structures: Gln204 and Arg178 in the intrinsic GTP hydrolysis (rat recombinant)"
+},
+{
+"authors": "Berman DM et al.",
+"year": "1996",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "GAIP (human) and RGS4 are GAPs for Gi-family alpha, not Gs alpha (purified proteins)"
+},
+{
+"authors": "Tesmer JJ et al.",
+"year": "1997",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "RGS4 bound to AlF4-activated Gi alpha1: RGS stabilises the switch regions in the transition state (rat recombinant)"
+}
+]
+},
+{
+"id": "re231",
+"label": "",
+"class": "Process",
+"box": [
+491.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Natura G et al.",
+"year": "2013",
+"title": "Neuronal prostaglandin E2 receptor subtype EP3 mediates antinociception during inflammation.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23904482",
+"role": "OA",
+"note": "NOT an OA model: rat inflamed joint (inflammation model, not named in the abstract; full text not open) shows EP3 on DRG and spinal neurons antinociceptive via Gi; the OA part is human: EP3 in joint nerves of patients with painful OA (covers the pathway's steps by extension)"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Gi alpha1(GDP) beta1 gamma2 heterotrimer (recombinant, non-human proteins)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data"
+}
+]
+},
+{
+"id": "re232",
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+843.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Natura G et al.",
+"year": "2013",
+"title": "Neuronal prostaglandin E2 receptor subtype EP3 mediates antinociception during inflammation.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23904482",
+"role": "OA",
+"note": "NOT an OA model: rat inflamed joint (inflammation model, not named in the abstract; full text not open) shows EP3 on DRG and spinal neurons antinociceptive via Gi; the OA part is human: EP3 in joint nerves of patients with painful OA (covers the pathway's steps by extension)"
+},
+{
+"authors": "Wang P et al.",
+"year": "2010",
+"title": "Shear-induced interleukin-6 synthesis in chondrocytes: roles of E prostanoid (EP) 2 and EP3 in cAMP/protein kinase A- and PI3-K/Akt-dependent NF-kappaB activation.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "20516073",
+"role": "OA",
+"note": "human T/C-28a2 chondrocytes under high shear (an in vitro OA-like model, cartilage not neurons): EP3 down-regulation raises cAMP, ectopic EP3 blocks the PKA pathway"
+},
+{
+"authors": "Taussig R et al.",
+"year": "1993",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "purified activated Gi alpha inhibits adenylyl cyclases directly (myristoylation needed; recombinant)"
+},
+{
+"authors": "Kunapuli SP et al.",
+"year": "1994",
+"title": "Cloning and expression of a prostaglandin E receptor EP3 subtype from human erythroleukaemia cells.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "8135729",
+"role": "step",
+"note": "human EP3 in COS-1 cells: PGE2 inhibits forskolin-stimulated cAMP formation (receptor level, Gi not shown directly)"
+}
+]
+},
+{
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [

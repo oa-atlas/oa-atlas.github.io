@@ -1121,6 +1121,362 @@
 ]
 },
 {
+"id": "re217",
+"label": "",
+"class": "Process",
+"box": [
+786.0,
+704.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ITPR1",
+"I(1,4,5)P3"
+],
+"out": [
+"ITPR1:IP3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Bellucci F et al.",
+"year": "2009",
+"title": "Novel effects mediated by bradykinin and pharmacological characterization of bradykinin B2 receptor antagonism in human synovial fibroblasts.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "20050188",
+"role": "OA",
+"note": "human synovial fibroblasts (OA synovitis study): inositol phosphates made through PLC in OA joint cells; shows IP3 production, not its binding to ITPR1 (weak OA link)"
+},
+{
+"authors": "Bosanac I et al.",
+"year": "2002",
+"title": "Structure of the inositol 1,4,5-trisphosphate receptor binding core in complex with its ligand.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "12442173",
+"role": "step",
+"note": "2.2 A crystal structure of the IP3-binding core of mouse ITPR1 with IP3"
+},
+{
+"authors": "Schmitz EA et al.",
+"year": "2022",
+"title": "Structural basis for activation and gating of IP(3) receptors.",
+"journal": "Nat Commun",
+"db": "pubmed",
+"id": "35301323",
+"role": "step",
+"note": "cryo-EM of human IP3 receptor type 3 (not type 1) with IP3: IP3 binding primes the channel for opening"
+},
+{
+"authors": "Zhuang GZ et al.",
+"year": "2015",
+"title": "Carbonic anhydrase-8 regulates inflammatory pain by inhibiting the ITPR1-cytosolic free calcium pathway.",
+"journal": "PLoS One",
+"db": "pubmed",
+"id": "25734498",
+"role": "step",
+"note": "mouse DRG nociceptors: ITPR1 and its Ca2+ release regulate nociception and inflammatory pain (the drawn cell type, not OA)"
+}
+]
+},
+{
+"id": "re218",
+"label": "",
+"class": "Process",
+"box": [
+896.2,
+864.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CA2+"
+],
+"out": [
+"CA2+"
+],
+"by": [
+"ITPR1:IP3"
+]
+},
+"references": [
+{
+"authors": "Miller RE et al.",
+"year": "2018",
+"title": "Visualization of Peripheral Neuron Sensitization in a Surgical Mouse Model of Osteoarthritis by In Vivo Calcium Imaging.",
+"journal": "Arthritis Rheumatol",
+"db": "pubmed",
+"id": "28992367",
+"role": "OA",
+"note": "mouse OA (DMM), in vivo Ca2+ imaging of L4 DRG: more small-medium (nociceptor) neurons show Ca2+ responses; cytosolic Ca2+ in OA nociceptors, source (ER or influx) not resolved (weak OA link)"
+},
+{
+"authors": "Streb H et al.",
+"year": "1983",
+"title": "Release of Ca2+ from a nonmitochondrial intracellular store in pancreatic acinar cells by inositol-1,4,5-trisphosphate.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "6605482",
+"role": "step",
+"note": "rat pancreatic acinar cells (classic biochemistry): IP3 releases Ca2+ from a nonmitochondrial (ER) store"
+},
+{
+"authors": "Liu B et al.",
+"year": "2010",
+"title": "The acute nociceptive signals induced by bradykinin in rat sensory neurons are mediated by inhibition of M-type K+ channels and activation of Ca2+-activated Cl- channels.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "20335661",
+"role": "step",
+"note": "rat DRG nociceptors: bradykinin through B2 and PLC releases Ca2+ from intracellular stores, opening ANO1"
+},
+{
+"authors": "Zhuang GZ et al.",
+"year": "2018",
+"title": "Human carbonic anhydrase-8 AAV8 gene therapy inhibits nerve growth factor signaling producing prolonged analgesia and anti-hyperalgesia in mice.",
+"journal": "Gene Ther",
+"db": "pubmed",
+"id": "29789638",
+"role": "step",
+"note": "human cell lines (HEK293, neuroblastoma) and mouse DRG: NGF induces TrkA and ITPR1 phosphorylation and ITPR1-mediated cytosolic Ca2+ release (links the NGF arm to ITPR1)"
+},
+{
+"authors": "Schmitz EA et al.",
+"year": "2022",
+"title": "Structural basis for activation and gating of IP(3) receptors.",
+"journal": "Nat Commun",
+"db": "pubmed",
+"id": "35301323",
+"role": "step",
+"note": "cryo-EM of human IP3 receptor type 3: the IP3-ATP-Ca2+ bound open channel that releases ER Ca2+ (type 3, not type 1)"
+}
+]
+},
+{
+"id": "re201",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+522.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NTRK1",
+"NGF"
+],
+"out": [
+"NGF:NTRK1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lane NE et al.",
+"year": "2010",
+"title": "Tanezumab for the treatment of pain from osteoarthritis of the knee.",
+"journal": "N Engl J Med",
+"db": "pubmed",
+"id": "20942668",
+"role": "OA",
+"note": "human knee OA RCT (450 patients): anti-NGF tanezumab met both primary endpoints (knee pain while walking, global assessment)"
+},
+{
+"authors": "Schnitzer TJ et al.",
+"year": "2019",
+"title": "Effect of Tanezumab on Joint Pain, Physical Function, and Patient Global Assessment of Osteoarthritis Among Patients With Osteoarthritis of the Hip or Knee: A Randomized Clinical Trial.",
+"journal": "JAMA",
+"db": "pubmed",
+"id": "31265100",
+"role": "OA",
+"note": "human hip/knee OA phase 3 RCT (696 patients): subcutaneous tanezumab met all three co-primary endpoints at week 16, modest effect, more joint safety events"
+},
+{
+"authors": "O-Sullivan I et al.",
+"year": "2022",
+"title": "Sensory Neuron-Specific Deletion of Tropomyosin Receptor Kinase A (TrkA) in Mice Abolishes Osteoarthritis (OA) Pain via NGF/TrkA Intervention of Peripheral Sensitization.",
+"journal": "Int J Mol Sci",
+"db": "pubmed",
+"id": "36292950",
+"role": "OA",
+"note": "mouse OA (partial medial meniscectomy): TrkA deleted in NaV1.8 sensory neurons markedly improves OA joint pain; NGF/TrkA in the drawn cell type"
+},
+{
+"authors": "Wiesmann C et al.",
+"year": "1999",
+"title": "Crystal structure of nerve growth factor in complex with the ligand-binding domain of the TrkA receptor.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "10490030",
+"role": "step",
+"note": "2.2 A crystal structure of human NGF homodimer bound to the human TrkA ligand-binding domain (d5)"
+},
+{
+"authors": "Wehrman T et al.",
+"year": "2007",
+"title": "Structural and mechanistic insights into nerve growth factor interactions with the TrkA and p75 receptors.",
+"journal": "Neuron",
+"db": "pubmed",
+"id": "17196528",
+"role": "step",
+"note": "structure of NGF with the complete TrkA extracellular domain, and cell assays: NGF dimerises TrkA; no direct TrkA/p75 complex (supports NTRK1, not NGFR, as the receptor)"
+}
+]
+},
+{
+"id": "re207",
+"label": "",
+"class": "Process",
+"box": [
+519.0,
+522.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PI(4,5)P2",
+"H2O"
+],
+"out": [
+"DAG",
+"I(1,4,5)P3"
+],
+"by": [
+"PLCB:Gqα",
+"PLCG1"
+]
+},
+"references": [
+{
+"authors": "Bellucci F et al.",
+"year": "2009",
+"title": "Novel effects mediated by bradykinin and pharmacological characterization of bradykinin B2 receptor antagonism in human synovial fibroblasts.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "20050188",
+"role": "OA",
+"note": "human synovial fibroblasts (OA synovitis study): bradykinin through B2 raises inositol phosphates, a PLC (U73122) dependent response; joint cells, not neurons"
+},
+{
+"authors": "Chuang HH et al.",
+"year": "2001",
+"title": "Bradykinin and nerve growth factor release the capsaicin receptor from PtdIns(4,5)P2-mediated inhibition.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "11418861",
+"role": "step",
+"note": "rat DRG neurons: bradykinin (B2, Gq) and NGF (TrkA) stimulate PLC, whose hydrolysis of PI(4,5)P2 sensitises TRPV1; both PLC arms drawn"
+},
+{
+"authors": "Hicks SN et al.",
+"year": "2008",
+"title": "General and versatile autoinhibition of PLC isozymes.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "18691970",
+"role": "step",
+"note": "crystal structure and assays of human PLC-beta2: PLC isozymes, activated by G proteins, hydrolyse PI(4,5)P2 into DAG and IP3"
+},
+{
+"authors": "Baxter RM et al.",
+"year": "1995",
+"title": "Phosphotyrosine residues in the nerve-growth-factor receptor (Trk-A). Their role in the activation of inositolphospholipid metabolism and protein kinase cascades in phaeochromocytoma (PC12) cells.",
+"journal": "Eur J Biochem",
+"db": "pubmed",
+"id": "8529673",
+"role": "step",
+"note": "rat PC12 cells with a TrkA chimera: TrkA Y785, the PLC-gamma1 site, is needed for PI(4,5)P2 hydrolysis (the PLCG1 arm)"
+}
+]
+},
+{
+"id": "re234",
+"label": "",
+"class": "Process",
+"box": [
+519.0,
+682.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PLCG1"
+],
+"out": [
+"PLCG1"
+],
+"by": [
+"NGF:NTRK1"
+]
+},
+"references": [
+{
+"authors": "Nwosu LN et al.",
+"year": "2016",
+"title": "Blocking the tropomyosin receptor kinase A (TrkA) receptor inhibits pain behaviour in two rat models of osteoarthritis.",
+"journal": "Ann Rheum Dis",
+"db": "pubmed",
+"id": "26286016",
+"role": "OA",
+"note": "rat OA (MIA, meniscal transection): TrkA inhibitor reduces pain behaviour; TrkA mediates NGF sensitisation of nociceptors (covers the TrkA arm by extension)"
+},
+{
+"authors": "Chuang HH et al.",
+"year": "2001",
+"title": "Bradykinin and nerve growth factor release the capsaicin receptor from PtdIns(4,5)P2-mediated inhibition.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "11418861",
+"role": "step",
+"note": "rat DRG neurons and HEK293 cells: PLC-gamma recruited to TrkA is needed for NGF to sensitise TRPV1"
+},
+{
+"authors": "Vetter ML et al.",
+"year": "1991",
+"title": "Nerve growth factor rapidly stimulates tyrosine phosphorylation of phospholipase C-gamma 1 by a kinase activity associated with the product of the trk protooncogene.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "1712104",
+"role": "step",
+"note": "rat PC12 cells: NGF rapidly induces tyrosine phosphorylation of PLC-gamma1 by the trk kinase"
+},
+{
+"authors": "Obermeier A et al.",
+"year": "1993",
+"title": "Tyrosine 785 is a major determinant of Trk--substrate interaction.",
+"journal": "EMBO J",
+"db": "pubmed",
+"id": "8384556",
+"role": "step",
+"note": "human 293 cells with an EGFR/Trk chimera: phosphorylated Trk Y785 is the binding site through which Trk phosphorylates PLC-gamma"
+},
+{
+"authors": "Hajicek N et al.",
+"year": "2019",
+"title": "Structural basis for the activation of PLC-γ isozymes by phosphorylation and cancer-associated mutations.",
+"journal": "Elife",
+"db": "pubmed",
+"id": "31889510",
+"role": "step",
+"note": "crystal structure of near full-length rat PLC-gamma1 (96% identical to human): tyrosine phosphorylation releases autoinhibition and activates the enzyme"
+}
+]
+},
+{
 "label": "NGF",
 "class": "Macromolecule",
 "box": [

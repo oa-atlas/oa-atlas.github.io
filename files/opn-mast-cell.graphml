@@ -18,7 +18,7 @@
   <key attr.name="url" attr.type="string" for="edge" id="d14"/>
   <key attr.name="description" attr.type="string" for="edge" id="d15"/>
   <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><key for="edge" id="d16" yfiles.type="edgegraphics"/>
-  <graph edgedefault="directed" id="G">
+  <key attr.name="References" attr.type="string" for="node" id="d103"/><graph edgedefault="directed" id="G">
     <node id="n0">
       <data key="dev_node">n0</data><data key="d3"/>
       <data key="d4" xml:space="preserve">SPP1</data>
@@ -137,7 +137,7 @@
           </data>
         </node>
         <node id="n2::n2">
-          <data key="dev_node">n2::n2</data><data key="d3"/>
+          <data key="d103">pubmed:40102843 pubmed:18200503 pubmed:8560266</data><data key="dev_node">n2::n2</data><data key="d3"/>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -162,7 +162,7 @@
           </data>
         </node>
         <node id="n2::n3">
-          <data key="dev_node">n2::n3</data><data key="d3"/>
+          <data key="d103">pubmed:40102843 pubmed:18200503 pubmed:29872439 pubmed:10535747</data><data key="dev_node">n2::n3</data><data key="d3"/>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -523,7 +523,7 @@
           </data>
         </node>
         <node id="n2::n9">
-          <data key="dev_node">n2::n9</data><data key="d3"/>
+          <data key="d103">pubmed:9404229 pubmed:8895218 pubmed:31084709 pubmed:12550104</data><data key="dev_node">n2::n9</data><data key="d3"/>
           <data key="d4"/>
           <data key="d5"/>
           <data key="d6"/>
@@ -703,7 +703,7 @@
       </data>
     </node>
     <node id="re_opn_made">
-          <data key="dev_node">re_opn_made</data><data key="d12">
+          <data key="d103">pubmed:18240211 pubmed:10936449 pubmed:22218639 pubmed:19217889 pubmed:18200503</data><data key="dev_node">re_opn_made</data><data key="d12">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
               <y:Geometry height="18" width="18" x="245.0" y="47.0"/>
               <y:Fill hasColor="false" transparent="false"/>

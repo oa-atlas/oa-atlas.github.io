@@ -5595,6 +5595,439 @@
 ]
 },
 {
+"id": "n0::n15",
+"label": "",
+"class": "Process",
+"box": [
+412.5,
+445.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Noradrenaline:ADRA2A",
+"Gi heterotrimer"
+],
+"out": [
+"ADRA2A:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Burnham LJ et al.",
+"year": "2013",
+"title": "The antinociceptive effect of milnacipran in the monosodium iodoacetate model of osteoarthritis pain and its relation to changes in descending inhibition.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "23297162",
+"role": "OA",
+"note": "rat MIA OA, dorsal horn neurons (spinal neuron; site of spinal α2 not separated): spinal α2 antagonist reverses SNRI inhibition; endogenous noradrenergic inhibition reduced late"
+},
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "OA review of noradrenaline and adrenoceptor signalling pathways in joint tissues (not neurons; neither cell of this block)"
+},
+{
+"authors": "Fink EA et al.",
+"year": "2022",
+"title": "Structure-based discovery of nonopioid analgesics acting through the α(2A)-adrenergic receptor.",
+"journal": "Science",
+"db": "pubmed",
+"id": "36173843",
+"role": "step",
+"note": "human α2A in HEK293T cells, BRET with Gαi1β1γ2: norepinephrine is the reference full agonist of α2A-mediated Gi activation (full text); α2A a validated pain target in mice (not OA)"
+},
+{
+"authors": "Nikolaev VO et al.",
+"year": "2006",
+"title": "Molecular basis of partial agonism at the neurotransmitter alpha2A-adrenergic receptor and Gi-protein heterotrimer.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "16787921",
+"role": "step",
+"note": "FRET in living cells: α2A agonists activate the receptor and its Gi heterotrimer (receptor species not stated in the abstract)"
+}
+]
+},
+{
+"id": "n0::n16",
+"label": "",
+"class": "Process",
+"box": [
+791.2,
+445.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRA2A:Gi",
+"GTP"
+],
+"out": [
+"ADRA2A:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Oldham WM et al.",
+"year": "2007",
+"title": "Mapping allosteric connections from the receptor to the nucleotide-binding pocket of heterotrimeric G proteins.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "17463080",
+"role": "step",
+"note": "EPR on Gi alpha with activated rhodopsin: receptor binding empties the nucleotide pocket (receptor-catalysed exchange); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data; neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "n0::n17",
+"label": "",
+"class": "Process",
+"box": [
+995.1,
+647.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRA2A:Gi"
+],
+"out": [
+"Giα:GTP",
+"Giβ:Giγ",
+"ADRA2A",
+"noradrenaline"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "Gi alpha1 beta1 gamma2 heterotrimer structure: GTP rearranges switch II, which causes subunit dissociation (non-human recombinant proteins); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "GTPgammaS-Gi alpha1 structure: disordered N-terminus suggests how beta-gamma is released on activation (rat recombinant); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data; neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "n0::n18",
+"label": "",
+"class": "Process",
+"box": [
+852.5,
+857.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "Gi alpha1 GTPgammaS and GDP.AlF4 structures: Gln204 and Arg178 in the intrinsic GTP hydrolysis (rat recombinant); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Berman DM et al.",
+"year": "1996",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "GAIP (human) and RGS4 are GAPs for Gi-family alpha, not Gs alpha (purified proteins); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Tesmer JJ et al.",
+"year": "1997",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "RGS4 bound to AlF4-activated Gi alpha1: RGS stabilises the switch regions in the transition state (rat recombinant); neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "n0::n19",
+"label": "",
+"class": "Process",
+"box": [
+538.2,
+857.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Gi alpha1(GDP) beta1 gamma2 heterotrimer (recombinant, non-human proteins); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data; neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "n0::n20",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+445.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRA2A",
+"noradrenaline"
+],
+"out": [
+"Noradrenaline:ADRA2A"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Chappell AS et al.",
+"year": "2009",
+"title": "Duloxetine, a centrally acting analgesic, in the treatment of patients with osteoarthritis knee pain: a 13-week, randomized, placebo-controlled trial.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "19625125",
+"role": "OA",
+"note": "RCT, human knee OA: the SNRI duloxetine (raises synaptic noradrenaline and serotonin, central action) reduces pain; receptor not identified; cell neither nociceptor nor spinal neuron in particular"
+},
+{
+"authors": "Xu J et al.",
+"year": "2022",
+"title": "Structural insights into ligand recognition, activation, and signaling of the α(2A) adrenergic receptor.",
+"journal": "Sci Adv",
+"db": "pubmed",
+"id": "35245122",
+"role": "step",
+"note": "cryo-EM of human α2A bound to norepinephrine (in complex with GoA, a Gi/o-family G protein, not Gi)"
+},
+{
+"authors": "Stone LS et al.",
+"year": "1998",
+"title": "Differential distribution of alpha2A and alpha2C adrenergic receptor immunoreactivity in the rat spinal cord.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "9671679",
+"role": "step",
+"note": "rat spinal cord: α2A on the central terminals of peptidergic primary afferents (nociceptor); α2C on interneurons (spinal neuron, other subtype)"
+},
+{
+"authors": "Pertovaara A",
+"year": "2006",
+"title": "Noradrenergic pain modulation.",
+"journal": "Prog Neurobiol",
+"db": "pubmed",
+"id": "17030082",
+"role": "step",
+"note": "review: descending noradrenaline acts on α2A at nociceptor central terminals (nociceptor) and on α2 receptors of pain relay neurons (spinal neuron)"
+}
+]
+},
+{
+"id": "n0::n21",
+"label": "",
+"class": "Process",
+"box": [
+995.1,
+1015.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Taussig R et al.",
+"year": "1993",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "purified activated Gi alpha inhibits adenylyl cyclases directly (myristoylation needed; recombinant); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Proudman RGW et al.",
+"year": "2022",
+"title": "The signaling and selectivity of α-adrenoceptor agonists for the human α2A, α2B and α2C-adrenoceptors and comparison with human α1 and β-adrenoceptors.",
+"journal": "Pharmacol Res Perspect",
+"db": "pubmed",
+"id": "36101495",
+"role": "step",
+"note": "human α2A in CHO cells: Gi-coupled, agonist Gi-IC50 (cAMP inhibition) measured; high-efficacy agonists also give a Gs phase"
+}
+]
+},
+{
 "label": "ADCY",
 "class": "Macromolecule",
 "box": [
@@ -10262,6 +10695,397 @@
 "UniProt",
 "P07550"
 ]
+]
+},
+{
+"id": "n0::n36",
+"label": "",
+"class": "Process",
+"box": [
+1967.2,
+445.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2:Gs",
+"GTP"
+],
+"out": [
+"ADRB2:Gs",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Chung KY et al.",
+"year": "2011",
+"title": "Conformational changes in the G protein Gs induced by the β2 adrenergic receptor.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "21956331",
+"role": "step",
+"note": "both cells: HDX-MS of bovine Gs bound to agonist-bound human β2AR: the receptor alters the P-loop and drives GDP release"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "both cells: human β2AR-Gs complex is nucleotide-free, the change reaching the nucleotide pocket"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): the receptor catalyses GDP for GTP exchange"
+}
+]
+},
+{
+"id": "n0::n37",
+"label": "",
+"class": "Process",
+"box": [
+2171.1,
+647.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2:Gs"
+],
+"out": [
+"Gsα:GTP",
+"Gsβ:Gsγ",
+"noradrenaline",
+"ADRB2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed): GTP-bound α and βγ separate from the receptor"
+}
+]
+},
+{
+"id": "n0::n38",
+"label": "",
+"class": "Process",
+"box": [
+2028.5,
+857.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP"
+],
+"out": [
+"Gsα:GDP",
+"Pi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "both cells: human pituitary tumours: mutations that block the GTPase of Gsα show its intrinsic GTP hydrolysis"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed): Gsα hydrolyses its GTP by itself"
+}
+]
+},
+{
+"id": "n0::n39",
+"label": "",
+"class": "Process",
+"box": [
+1714.2,
+857.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GDP",
+"Gsβ:Gsγ"
+],
+"out": [
+"Gs heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed): GDP-bound α reassociates with βγ"
+}
+]
+},
+{
+"id": "n0::n40",
+"label": "",
+"class": "Process",
+"box": [
+1588.5,
+445.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Noradrenaline:ADRB2",
+"Gs heterotrimer"
+],
+"out": [
+"ADRB2:Gs"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension; joint tissues, not neurons)"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "both cells: crystal structure of agonist-bound human β2AR with the Gs heterotrimer (agonist BI-167107, not noradrenaline)"
+}
+]
+},
+{
+"id": "n0::n41",
+"label": "",
+"class": "Process",
+"box": [
+1341.0,
+445.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2",
+"noradrenaline"
+],
+"out": [
+"Noradrenaline:ADRB2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA (both cells by extension): sympathetic fibres release noradrenaline in the OA joint, joint cells carry adrenoceptors; joint tissues, not neurons"
+},
+{
+"authors": "Ma Z et al.",
+"year": "2025",
+"title": "Effect of regional crosstalk between sympathetic nerves and sensory nerves on temporomandibular joint osteoarthritic pain.",
+"journal": "Int J Oral Sci",
+"db": "pubmed",
+"id": "39762209",
+"role": "OA",
+"note": "nociceptor: mouse TMJ OA (abnormal loading): sympathetic noradrenaline raises OA pain; in co-culture propranolol (non-selective β blocker) stops its effect on trigeminal sensory neurons (full text); TMJ, not knee, β not β2"
+},
+{
+"authors": "Xu X et al.",
+"year": "2021",
+"title": "Binding pathway determines norepinephrine selectivity for the human β(1)AR over β(2)AR.",
+"journal": "Cell Res",
+"db": "pubmed",
+"id": "33093660",
+"role": "step",
+"note": "both cells: human β1AR structures with noradrenaline; the catecholamine pocket is identical in human β2AR, which binds noradrenaline with about tenfold lower affinity"
+},
+{
+"authors": "Khasar SG et al.",
+"year": "1999",
+"title": "Epinephrine produces a beta-adrenergic receptor-mediated mechanical hyperalgesia and in vitro sensitization of rat nociceptors.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "10085337",
+"role": "step",
+"note": "nociceptor: rat paw and cultured small DRG neurons: adrenaline acts on a β-adrenergic receptor of nociceptors (subtype not resolved)"
+},
+{
+"authors": "Nicholson R et al.",
+"year": "2005",
+"title": "Noradrenergic receptor mRNA expression in adult rat superficial dorsal horn and dorsal root ganglion neurons.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "15862909",
+"role": "step",
+"note": "spinal neuron: rat in situ hybridisation: β2 mRNA in superficial dorsal horn neurons (none found in DRG neurons)"
+}
+]
+},
+{
+"id": "n0::n42",
+"label": "",
+"class": "Process",
+"box": [
+2171.1,
+1006.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP",
+"ADCY"
+],
+"out": [
+"Adenylate cyclase"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "both cells: structure of Gsα·GTPγS bound to the catalytic domains of adenylyl cyclase"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "both cells: human pituitary tumours: GTP-bound (GTPase-dead) Gsα activates adenylyl cyclase"
+},
+{
+"authors": "Khasar SG et al.",
+"year": "1999",
+"title": "Epinephrine produces a beta-adrenergic receptor-mediated mechanical hyperalgesia and in vitro sensitization of rat nociceptors.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "10085337",
+"role": "step",
+"note": "nociceptor: rat: β-adrenergic hyperalgesia needs adenylyl cyclase and PKA (cAMP pathway in nociceptors)"
+}
 ]
 },
 {
@@ -15699,6 +16523,405 @@
 ]
 },
 {
+"id": "n0::n56",
+"label": "",
+"class": "Process",
+"box": [
+2524.5,
+445.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Noradrenaline:ADRB2",
+"Gi heterotrimer"
+],
+"out": [
+"ADRB2:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, the receptors and their signalling pathways; no Gi coupling in joint neurons shown"
+},
+{
+"authors": "Zamah AM et al.",
+"year": "2002",
+"title": "Protein kinase A-mediated phosphorylation of the beta 2-adrenergic receptor regulates its coupling to Gs and Gi. Demonstration in a reconstituted system.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "12063255",
+"role": "step",
+"note": "both cells: purified recombinant beta2AR with purified heterotrimeric Gs and Gi; PKA phosphorylation of the receptor raises Gi coupling measured as receptor-stimulated GTPgammaS binding - the cleanest biochemical evidence for the step, in no neuron"
+},
+{
+"authors": "Daaka Y et al.",
+"year": "1997",
+"title": "Switching of the coupling of the beta2-adrenergic receptor to different G proteins by protein kinase A.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "9363896",
+"role": "step",
+"note": "both cells: human HEK293 cells; beta2AR signals through pertussis-toxin-sensitive G protein betagamma and needs PKA sites - the key step paper, but Gi coupling is inferred from pertussis toxin and ERK, not measured directly, and it is contradicted by Friedman 2002 (see weak_points)"
+},
+{
+"authors": "Khasar SG et al.",
+"year": "2008",
+"title": "Stress induces a switch of intracellular signaling in sensory neurons in a model of generalized pain.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "18509033",
+"role": "step",
+"note": "nociceptor: rat sensory afferents after sound stress; adrenaline receptor coupling switches from Gs to Gi, giving prolonged hyperalgesia (the block's own rationale; a generalized pain model, not OA)"
+},
+{
+"authors": "Liu R et al.",
+"year": "2009",
+"title": "Agonist dose-dependent phosphorylation by protein kinase A and G protein-coupled receptor kinase regulates beta2 adrenoceptor coupling to G(i) proteins in cardiomyocytes.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "19706594",
+"role": "step",
+"note": "both cells: mouse cardiac myocytes; beta2AR-Gi coupling needs the PKA sites and only occurs at high agonist concentrations (and also needs GRK phosphorylation)"
+}
+]
+},
+{
+"id": "n0::n57",
+"label": "",
+"class": "Process",
+"box": [
+2903.2,
+445.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2:Gi",
+"GTP"
+],
+"out": [
+"ADRB2:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, receptors and their signalling pathways"
+},
+{
+"authors": "Zamah AM et al.",
+"year": "2002",
+"title": "Protein kinase A-mediated phosphorylation of the beta 2-adrenergic receptor regulates its coupling to Gs and Gi. Demonstration in a reconstituted system.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "12063255",
+"role": "step",
+"note": "both cells: the PKA-phosphorylated beta2AR catalyses GTPgammaS binding to purified Gi - receptor-catalysed nucleotide exchange for this very receptor pair"
+},
+{
+"authors": "Oldham WM et al.",
+"year": "2007",
+"title": "Mapping allosteric connections from the receptor to the nucleotide-binding pocket of heterotrimeric G proteins.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "17463080",
+"role": "step",
+"note": "both cells: EPR on Gi alpha with activated rhodopsin; receptor binding empties the nucleotide pocket"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "both cells: classic G protein review (no abstract on PubMed), the receptor-catalysed GDP-GTP exchange of the cycle; accepted here as nothing human covers the isolated step"
+}
+]
+},
+{
+"id": "n0::n58",
+"label": "",
+"class": "Process",
+"box": [
+3107.1,
+647.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2:Gi"
+],
+"out": [
+"Giα:GTP",
+"Giβ:Giγ",
+"noradrenaline",
+"ADRB2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, receptors and their signalling pathways"
+},
+{
+"authors": "Daaka Y et al.",
+"year": "1997",
+"title": "Switching of the coupling of the beta2-adrenergic receptor to different G proteins by protein kinase A.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "9363896",
+"role": "step",
+"note": "both cells: human HEK293; the released betagamma of the pertussis-toxin-sensitive G protein carries the beta2AR signal, so alpha and betagamma separate after activation"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "both cells: Gi alpha1 beta1 gamma2 heterotrimer structure; GTP rearranges switch II, which drives subunit dissociation (recombinant, non-human)"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "both cells: GTPgammaS-Gi alpha1 structure; the disordered N-terminus suggests how betagamma is released (rat recombinant)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "both cells: classic G protein review (no abstract on PubMed): GTP-bound alpha and betagamma separate from the receptor"
+}
+]
+},
+{
+"id": "n0::n59",
+"label": "",
+"class": "Process",
+"box": [
+2964.5,
+857.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, receptors and their signalling pathways"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "both cells: Gi alpha1 GTPgammaS and GDP.AlF4 structures; Gln204 and Arg178 in the intrinsic hydrolysis (rat recombinant)"
+},
+{
+"authors": "Berman DM et al.",
+"year": "1996",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "both cells: GAIP (human) and RGS4 accelerate GTP hydrolysis by Gi-family alpha at least 40-fold (purified proteins) - the RGS modifier"
+},
+{
+"authors": "Tesmer JJ et al.",
+"year": "1997",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "both cells: RGS4 bound to AlF4-activated Gi alpha1; RGS stabilises the switch regions in the transition state (rat recombinant)"
+}
+]
+},
+{
+"id": "n0::n60",
+"label": "",
+"class": "Process",
+"box": [
+2650.2,
+857.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, receptors and their signalling pathways"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "both cells: structure of the Gi alpha1(GDP) beta1 gamma2 heterotrimer; betagamma stabilises the inactive GDP-bound alpha (recombinant, non-human)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "both cells: classic G protein review (no abstract on PubMed): GDP-bound alpha reassociates with betagamma"
+}
+]
+},
+{
+"id": "n0::n61",
+"label": "",
+"class": "Process",
+"box": [
+3107.1,
+1015.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "both cells (by extension): review of adrenergic signalling in OA, receptors and their signalling pathways including the cAMP arm"
+},
+{
+"authors": "Taussig R et al.",
+"year": "1993",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "both cells: purified activated Gi alpha inhibits adenylyl cyclases directly, myristoylation required (recombinant)"
+},
+{
+"authors": "Xiao RP et al.",
+"year": "1999",
+"title": "Coupling of beta2-adrenoceptor to Gi proteins and its physiological relevance in murine cardiac myocytes.",
+"journal": "Circ Res",
+"db": "pubmed",
+"id": "9915773",
+"role": "step",
+"note": "both cells: mouse cardiac myocytes (with human beta2AR in the transgenics); beta2AR stimulation labels Gi2 and Gi3 alpha, and pertussis toxin restores the cAMP response - beta2-driven Gi opposing the cyclase in a cell"
+},
+{
+"authors": "Khasar SG et al.",
+"year": "2008",
+"title": "Stress induces a switch of intracellular signaling in sensory neurons in a model of generalized pain.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "18509033",
+"role": "step",
+"note": "nociceptor: rat; after stress the switch to Gi changes the cAMP-dependent response of sensory neurons to adrenaline (effect on the cyclase arm in the drawn cell type)"
+}
+]
+},
+{
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
@@ -15772,6 +16995,81 @@
 "InChIKey",
 "YNYAYWLBAHXHLL-UHFFFAOYSA-N"
 ]
+]
+},
+{
+"id": "n3",
+"label": "",
+"class": "Process",
+"box": [
+1418.8,
+134.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"noradrenaline"
+],
+"out": [
+"normetanephrine"
+],
+"by": [
+"COMT"
+]
+},
+"references": [
+{
+"authors": "van Meurs JB et al.",
+"year": "2009",
+"title": "A functional polymorphism in the catechol-O-methyltransferase gene is associated with osteoarthritis-related pain.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "19180497",
+"role": "OA",
+"note": "human, Rotterdam Study (letter, no abstract): the hypofunctional COMT Val158Met allele raises the risk of hip pain in women, not men, with radiographic hip OA (OR 4.9; 171 women, 288 men), as summarised by Thakur 2013"
+},
+{
+"authors": "Thakur M et al.",
+"year": "2013",
+"title": "Genomics of pain in osteoarthritis.",
+"journal": "Osteoarthritis Cartilage",
+"db": "pubmed",
+"id": "23973152",
+"role": "OA",
+"note": "OA pain genetics review: COMT, the catecholamine-degrading enzyme, among the first genes linked to OA pain"
+},
+{
+"authors": "Martire LM et al.",
+"year": "2016",
+"title": "COMT and OPRM1 Genotype Associations with Daily Knee Pain Variability and Activity Induced Pain.",
+"journal": "Scand J Pain",
+"db": "pubmed",
+"id": "26322144",
+"role": "OA",
+"note": "human knee OA, 120 patients, 22 days of diary: COMT rs4680 Val/Val with the most day-to-day pain variability and most activity-induced pain; no between-person difference in mean pain"
+},
+{
+"authors": "Lotta T et al.",
+"year": "1995",
+"title": "Kinetics of human soluble and membrane-bound catechol O-methyltransferase: a revised mechanism and description of the thermolabile variant of the enzyme.",
+"journal": "Biochemistry",
+"db": "pubmed",
+"id": "7703232",
+"role": "step",
+"note": "recombinant human soluble and membrane-bound COMT: kinetics of the methylation of (-)-noradrenaline, AdoMet as methyl donor"
+},
+{
+"authors": "Masuda M et al.",
+"year": "2002",
+"title": "Assay of catechol-O-methyltransferase activity in human erythrocytes using norepinephrine as a natural substrate.",
+"journal": "Ann Clin Biochem",
+"db": "pubmed",
+"id": "12564841",
+"role": "step",
+"note": "human erythrocytes (n = 54): COMT activity measured with noradrenaline as substrate and normetanephrine as product; Km for noradrenaline 91 uM (S-COMT) and 12 uM (MB-COMT)"
+}
 ]
 },
 {

@@ -444,6 +444,66 @@
 ]
 },
 {
+"id": "p1",
+"label": "",
+"class": "Process",
+"box": [
+231.0,
+235.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GABA",
+"GABA-A receptor"
+],
+"out": [
+"GABA:GABA-A receptor"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"year": "2022",
+"title": "Spinal 5-HT(2A) receptor is involved in electroacupuncture inhibition of chronic pain.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "35240891",
+"role": "OA",
+"note": "mouse knee OA (MIA): GABA-A receptor expression reduced in the dorsal spinal cord, restored by electroacupuncture"
+},
+{
+"authors": "Yuan XC et al.",
+"year": "2021",
+"title": "5-HT(7) Receptor Is Involved in Electroacupuncture Inhibition of Chronic Pain in the Spinal Cord.",
+"journal": "Front Neurosci",
+"db": "pubmed",
+"id": "34602973",
+"role": "OA",
+"note": "mouse knee OA (MIA): the GABA-A receptor antagonist bicuculline given intrathecally blocks the analgesia, so spinal GABA-A receptors carry inhibition in KOA"
+},
+{
+"db": "pubmed",
+"id": "30602790",
+"role": "step",
+"note": "cryo-EM of the full-length human alpha1beta3gamma2L GABA-A receptor with the agonist GABA bound"
+},
+{
+"authors": "Zeilhofer HU et al.",
+"year": "2012",
+"title": "Fast synaptic inhibition in spinal sensory processing and pain control.",
+"journal": "Physiol Rev",
+"db": "pubmed",
+"id": "22298656",
+"role": "step",
+"note": "review: GABA mediates fast inhibitory neurotransmission in spinal sensory processing"
+}
+]
+},
+{
 "label": "GABA",
 "class": "SimpleChemical",
 "box": [
@@ -791,6 +851,70 @@
 ]
 },
 {
+"id": "p2",
+"label": "",
+"class": "Process",
+"box": [
+507.0,
+235.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"glycine",
+"GLRA3"
+],
+"out": [
+"glycine:GLRA3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Bai F et al.",
+"year": "2019",
+"title": "Spinal Cord Glycine Transporter 2 Mediates Bilateral ST35 Acupoints Sensitization in Rats with Knee Osteoarthritis.",
+"journal": "Evid Based Complement Alternat Med",
+"db": "pubmed",
+"id": "30881475",
+"role": "OA",
+"note": "rat knee OA (MIA): extracellular glycine falls in the dorsal horn (GlyT2 up), and intrathecal glycine relieves the sensitisation"
+},
+{
+"authors": "Huang X et al.",
+"year": "2017",
+"title": "Crystal structures of human glycine receptor α3 bound to a novel class of analgesic potentiators.",
+"journal": "Nat Struct Mol Biol",
+"db": "pubmed",
+"id": "27991902",
+"role": "step",
+"note": "X-ray structure of human homopentameric GlyR alpha3 with the agonist glycine in its orthosteric site"
+},
+{
+"authors": "Harvey RJ et al.",
+"year": "2004",
+"title": "GlyR alpha3: an essential target for spinal PGE2-mediated inflammatory pain sensitization.",
+"journal": "Science",
+"db": "pubmed",
+"id": "15131310",
+"role": "step",
+"note": "mouse: GlyR alpha3 is the glycine receptor subtype of the superficial dorsal horn that carries inflammatory pain sensitisation"
+},
+{
+"authors": "Zeilhofer HU et al.",
+"year": "2012",
+"title": "Fast synaptic inhibition in spinal sensory processing and pain control.",
+"journal": "Physiol Rev",
+"db": "pubmed",
+"id": "22298656",
+"role": "step",
+"note": "review: glycine mediates fast inhibitory neurotransmission in spinal sensory processing"
+}
+]
+},
+{
 "label": "glycine",
 "class": "SimpleChemical",
 "box": [
@@ -887,6 +1011,136 @@
 ]
 },
 {
+"id": "p3a",
+"label": "",
+"class": "Process",
+"box": [
+355.0,
+383.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Cl-"
+],
+"out": [
+"Cl-"
+],
+"by": [
+"GABA:GABA-A receptor"
+]
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"year": "2022",
+"title": "Spinal 5-HT(2A) receptor is involved in electroacupuncture inhibition of chronic pain.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "35240891",
+"role": "OA",
+"note": "mouse knee OA (MIA): GABA-A receptor and KCC2, the two parts of the chloride-mediated inhibition, both reduced in the dorsal spinal cord"
+},
+{
+"authors": "Masiulis S et al.",
+"year": "2019",
+"title": "GABA(A) receptor signalling mechanisms revealed by structural pharmacology.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "30602790",
+"role": "step",
+"note": "human GABA-A receptor structures: the receptor is a ligand-gated chloride channel, with the agonist-bound and pore states of its gating cycle"
+},
+{
+"authors": "Lee HH et al.",
+"year": "2007",
+"title": "Direct protein kinase C-dependent phosphorylation regulates the cell surface stability and activity of the potassium chloride cotransporter KCC2.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "17693402",
+"role": "step",
+"note": "rat/heterologous cells: the chloride currents through GABA-A and glycine receptors are hyperpolarizing only while KCC2 keeps internal Cl- low"
+},
+{
+"authors": "Rivera C et al.",
+"year": "1999",
+"title": "The K+/Cl- co-transporter KCC2 renders GABA hyperpolarizing during neuronal maturation.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "9930699",
+"role": "step",
+"note": "rat hippocampus: the Cl- gradient set by KCC2 is what makes the GABA-A current hyperpolarizing"
+}
+]
+},
+{
+"id": "p3b",
+"label": "",
+"class": "Process",
+"box": [
+379.0,
+383.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Cl-"
+],
+"out": [
+"Cl-"
+],
+"by": [
+"glycine:GLRA3"
+]
+},
+"references": [
+{
+"authors": "Bai F et al.",
+"year": "2019",
+"title": "Spinal Cord Glycine Transporter 2 Mediates Bilateral ST35 Acupoints Sensitization in Rats with Knee Osteoarthritis.",
+"journal": "Evid Based Complement Alternat Med",
+"db": "pubmed",
+"id": "30881475",
+"role": "OA",
+"note": "rat knee OA (MIA): less glycine in the dorsal horn, and giving glycine back relieves the sensitisation, so glycinergic inhibition is lost in KOA"
+},
+{
+"authors": "Liu X et al.",
+"year": "2025",
+"title": "Mechanism of human α3β GlyR regulation by intracellular M3/M4 loop phosphorylation and 2,6-di-tert-butylphenol interaction.",
+"journal": "Nat Commun",
+"db": "pubmed",
+"id": "40473619",
+"role": "step",
+"note": "cryo-EM and smFRET of the human alpha3beta glycine receptor: ion conduction through the pore of the dorsal horn subtype, and its block by phosphorylation"
+},
+{
+"authors": "Lee HH et al.",
+"year": "2007",
+"title": "Direct protein kinase C-dependent phosphorylation regulates the cell surface stability and activity of the potassium chloride cotransporter KCC2.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "17693402",
+"role": "step",
+"note": "rat/heterologous cells: the glycine receptor current is hyperpolarizing only while KCC2 keeps internal Cl- low"
+},
+{
+"authors": "Zeilhofer HU et al.",
+"year": "2012",
+"title": "Fast synaptic inhibition in spinal sensory processing and pain control.",
+"journal": "Physiol Rev",
+"db": "pubmed",
+"id": "22298656",
+"role": "step",
+"note": "review: glycinergic currents are the fast inhibition of the dorsal horn and control pain"
+}
+]
+},
+{
 "label": "Cl-",
 "class": "SimpleChemical",
 "box": [
@@ -932,6 +1186,71 @@
 "InChIKey",
 "VEXZGXHMUGYJMC-UHFFFAOYSA-M"
 ]
+]
+},
+{
+"id": "p5",
+"label": "",
+"class": "Process",
+"box": [
+507.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"glycine:GLRA3"
+],
+"out": [
+"glycine:GLRA3"
+],
+"by": [
+"PKA cat"
+]
+},
+"references": [
+{
+"authors": "Sung CS et al.",
+"year": "2025",
+"title": "Varying Analgesic Effectiveness of Systemic and Central Intrathecal Administration of Cyclooxygenase-2 Inhibitors in Different Phases of Osteoarthritic Pain in Rats.",
+"journal": "Eur J Pain",
+"db": "pubmed",
+"id": "40616299",
+"role": "OA",
+"note": "rat OA (ACLT): spinal COX-2 rises with the glia in the late phase and intrathecal COX-2 inhibitors relieve allodynia, so spinal PGE2 drives OA pain (the upstream of this step; GlyR not measured)"
+},
+{
+"authors": "Harvey RJ et al.",
+"year": "2004",
+"title": "GlyR alpha3: an essential target for spinal PGE2-mediated inflammatory pain sensitization.",
+"journal": "Science",
+"db": "pubmed",
+"id": "15131310",
+"role": "step",
+"note": "mouse, spinal cord: PGE2-induced phosphorylation of GlyR alpha3 inhibits the receptor and sensitises to inflammatory pain; GlyR alpha3-null mice lose it"
+},
+{
+"authors": "Ahmadi S et al.",
+"year": "2002",
+"title": "PGE(2) selectively blocks inhibitory glycinergic neurotransmission onto rat superficial dorsal horn neurons.",
+"journal": "Nat Neurosci",
+"db": "pubmed",
+"id": "11740501",
+"role": "step",
+"note": "rat superficial dorsal horn neurons: PGE2 blocks glycinergic currents through EP2, Gs and cAMP-dependent protein kinase (PKA)"
+},
+{
+"authors": "Liu X et al.",
+"year": "2025",
+"title": "Mechanism of human α3β GlyR regulation by intracellular M3/M4 loop phosphorylation and 2,6-di-tert-butylphenol interaction.",
+"journal": "Nat Commun",
+"db": "pubmed",
+"id": "40473619",
+"role": "step",
+"note": "human alpha3beta GlyR: phosphorylation of the alpha3 M3/M4 loop compacts it towards the pore and inhibits ion conduction"
+}
 ]
 },
 {
@@ -1196,6 +1515,82 @@
 "UniProt",
 "Q9H2X9"
 ]
+]
+},
+{
+"id": "p6",
+"label": "",
+"class": "Process",
+"box": [
+859.0,
+267.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Cl-"
+],
+"out": [
+"Cl-"
+],
+"by": [
+"SLC12A5",
+"BDNF:p-NTRK2 dimer"
+]
+},
+"references": [
+{
+"authors": "Yuan XC et al.",
+"year": "2022",
+"title": "Spinal 5-HT(2A) receptor is involved in electroacupuncture inhibition of chronic pain.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "35240891",
+"role": "OA",
+"note": "mouse knee OA (MIA): KCC2 expression reduced in the dorsal spinal cord"
+},
+{
+"authors": "Ye Y et al.",
+"year": "2023",
+"title": "Transcranial direct current stimulation attenuates chronic pain in knee osteoarthritis by modulating BDNF/TrkB signaling in the descending pain modulation system.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "37295640",
+"role": "OA",
+"note": "rat knee OA (MIA): BDNF and TrkB rise in the spinal dorsal horn and the TrkB inhibitor ANA-12 reverses the allodynia (KCC2 not measured)"
+},
+{
+"authors": "Xie Y et al.",
+"year": "2020",
+"title": "Structures and an activation mechanism of human potassium-chloride cotransporters.",
+"journal": "Sci Adv",
+"db": "pubmed",
+"id": "33310850",
+"role": "step",
+"note": "cryo-EM structures of full-length human KCC2: coupled K+ and Cl- export, and its autoinhibition"
+},
+{
+"authors": "Puskarjov M et al.",
+"year": "2014",
+"title": "A variant of KCC2 from patients with febrile seizures impairs neuronal Cl- extrusion and dendritic spine formation.",
+"journal": "EMBO Rep",
+"db": "pubmed",
+"id": "24668262",
+"role": "step",
+"note": "human genetics: the KCC2-R952H variant from a family with febrile seizures reduces neuronal Cl- extrusion"
+},
+{
+"authors": "Rivera C et al.",
+"year": "2002",
+"title": "BDNF-induced TrkB activation down-regulates the K+-Cl- cotransporter KCC2 and impairs neuronal Cl- extrusion.",
+"journal": "J Cell Biol",
+"db": "pubmed",
+"id": "12473684",
+"role": "step",
+"note": "rat hippocampal slices: BDNF through TrkB lowers KCC2 mRNA and protein and impairs Cl- extrusion"
+}
 ]
 },
 {

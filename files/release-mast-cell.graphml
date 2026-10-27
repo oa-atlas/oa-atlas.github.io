@@ -10,7 +10,7 @@
   <key attr.name="Family" attr.type="string" for="node" id="d100"/>
   <key attr.name="Members" attr.type="string" for="node" id="d101"/>
   <key attr.name="Member annotation" attr.type="string" for="node" id="d102"/>
-  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><graph edgedefault="directed" id="G"><node id="ca2" yfiles.foldertype="group"><data key="dev_node">ca2</data><data key="ng">
+  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><key attr.name="References" attr.type="string" for="node" id="d103"/><graph edgedefault="directed" id="G"><node id="ca2" yfiles.foldertype="group"><data key="dev_node">ca2</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
@@ -84,7 +84,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="re179"><data key="dev_node">re179</data><data key="ng">
+        </node><node id="re179"><data key="d103">pubmed:32544091 pubmed:11404434</data><data key="dev_node">re179</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="91.0" y="-501.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -98,7 +98,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re305"><data key="dev_node">re305</data><data key="ng">
+    </node><node id="re305"><data key="d103">pubmed:40613647 pubmed:28452955 pubmed:11404434 pubmed:11118507</data><data key="dev_node">re305</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="221.0" y="-501.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -112,7 +112,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re321"><data key="dev_node">re321</data><data key="ng">
+    </node><node id="re321"><data key="d103">pubmed:31479064 pubmed:11404434 pubmed:32944867</data><data key="dev_node">re321</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="615.5" y="-501.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -126,7 +126,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re368"><data key="dev_node">re368</data><data key="ng">
+    </node><node id="re368"><data key="d103">pubmed:24719311 pubmed:25923821 pubmed:11118507</data><data key="dev_node">re368</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="485.5" y="-501.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -390,7 +390,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node></graph></node><node id="re306"><data key="dev_node">re306</data><data key="ng">
+        </node></graph></node></graph></node><node id="re306"><data key="d103">pubmed:28366675 pubmed:31084709 pubmed:30686732 pubmed:16979137 pubmed:35904495</data><data key="dev_node">re306</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="221.0" y="-981.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -404,7 +404,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re369"><data key="dev_node">re369</data><data key="ng">
+    </node><node id="re369"><data key="d103">pubmed:24719311 pubmed:30209400 pubmed:9620797 pubmed:42751103</data><data key="dev_node">re369</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="485.5" y="-981.0"/>
           <y:Fill transparent="false" hasColor="false"/>

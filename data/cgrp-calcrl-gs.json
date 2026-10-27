@@ -5055,6 +5055,393 @@
 ]
 },
 {
+"id": "re329",
+"label": "",
+"class": "Process",
+"box": [
+842.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CALCRL:RAMP1:Gs",
+"GTP"
+],
+"out": [
+"CALCRL:RAMP1:Gs",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"year": "2013",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"journal": "Eur J Pain",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Chung KY et al.",
+"year": "2011",
+"title": "Conformational changes in the G protein Gs induced by the β2 adrenergic receptor.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "21956331",
+"role": "step",
+"note": "HDX-MS of bovine Gs bound to agonist-bound human β2AR: the receptor alters the P-loop and drives GDP release (generic for receptor-catalysed exchange, not the CGRP receptor)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): the receptor catalyses GDP for GTP exchange"
+}
+]
+},
+{
+"id": "re330",
+"label": "",
+"class": "Process",
+"box": [
+1079.0,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CALCRL:RAMP1:Gs"
+],
+"out": [
+"Gsα:GTP",
+"CALCRL:RAMP1",
+"Gsβ:Gsγ",
+"CGRP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"year": "2013",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"journal": "Eur J Pain",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): GTP-bound α and βγ separate from the receptor"
+}
+]
+},
+{
+"id": "re331",
+"label": "",
+"class": "Process",
+"box": [
+911.5,
+696.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP"
+],
+"out": [
+"Gsα:GDP",
+"Pi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"year": "2013",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"journal": "Eur J Pain",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: mutations that block the GTPase of Gsα show its intrinsic GTP hydrolysis"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): Gsα hydrolyses its GTP by itself"
+}
+]
+},
+{
+"id": "re332",
+"label": "",
+"class": "Process",
+"box": [
+547.5,
+696.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GDP",
+"Gsβ:Gsγ"
+],
+"out": [
+"Gs heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"year": "2013",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"journal": "Eur J Pain",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): GDP-bound α reassociates with βγ"
+}
+]
+},
+{
+"id": "re333",
+"label": "",
+"class": "Process",
+"box": [
+193.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CALCRL:RAMP1",
+"CGRP"
+],
+"out": [
+"CGRP:CALCRL:RAMP1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"year": "2013",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"journal": "Eur J Pain",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Bullock CM et al.",
+"year": "2014",
+"title": "Peripheral calcitonin gene-related peptide receptor activation and mechanical sensitization of the joint in rat models of osteoarthritis pain.",
+"journal": "Arthritis Rheumatol",
+"db": "pubmed",
+"id": "24719311",
+"role": "OA",
+"note": "rat MIA and MMT knee OA: CGRP receptor (CLR) on joint afferents, up in OA; CGRP8-37 reverses nociceptor sensitisation (periphery, not dorsal horn)"
+},
+{
+"authors": "Liang YL et al.",
+"year": "2018",
+"title": "Cryo-EM structure of the active, G(s)-protein complexed, human CGRP receptor.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "30209400",
+"role": "step",
+"note": "cryo-EM of human CGRP receptor (CLR:RAMP1) bound to CGRP"
+},
+{
+"authors": "McLatchie LM et al.",
+"year": "1998",
+"title": "RAMPs regulate the transport and ligand specificity of the calcitonin-receptor-like receptor.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "9620797",
+"role": "step",
+"note": "cell lines: CLR with RAMP1 is the CGRP receptor (RAMP1 cloned from human SK-N-MC cells, species not in the abstract)"
+},
+{
+"db": "pubmed",
+"id": "17614212",
+"role": "step",
+"note": "rat dorsal horn: CLR and RAMP1 in laminae I-II, mainly presynaptic glutamatergic terminals, RAMP1 also in cell bodies"
+}
+]
+},
+{
+"id": "re334",
+"label": "",
+"class": "Process",
+"box": [
+397.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CGRP:CALCRL:RAMP1",
+"Gs heterotrimer"
+],
+"out": [
+"CALCRL:RAMP1:Gs"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"year": "2013",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"journal": "Eur J Pain",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Liang YL et al.",
+"year": "2018",
+"title": "Cryo-EM structure of the active, G(s)-protein complexed, human CGRP receptor.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "30209400",
+"role": "step",
+"note": "cryo-EM of human CGRP:CLR:RAMP1 with the Gs heterotrimer (complex formed with CGRP and apyrase, nucleotide-free, full text methods)"
+},
+{
+"authors": "Weston C et al.",
+"year": "2016",
+"title": "Receptor Activity-modifying Protein-directed G Protein Signaling Specificity for the Calcitonin Gene-related Peptide Family of Receptors.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "27566546",
+"role": "step",
+"note": "yeast and HEK-293 cells with CLR and RAMPs: CGRP receptor couples to Gαs (also Gαi and Gαq); erratum on Crossref, not a retraction"
+}
+]
+},
+{
+"id": "re335",
+"label": "",
+"class": "Process",
+"box": [
+1079.0,
+846.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP",
+"ADCY"
+],
+"out": [
+"Adenylate cyclase"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogbonna AC et al.",
+"year": "2013",
+"title": "Pain-like behaviour and spinal changes in the monosodium iodoacetate model of osteoarthritis in C57Bl/6 mice.",
+"journal": "Eur J Pain",
+"db": "pubmed",
+"id": "23169679",
+"role": "OA",
+"note": "spinal: mouse MIA knee OA: more evoked CGRP release in dorsal horn slices; intrathecal CGRP receptor antagonist CGRP8-37 relieves established hypersensitivity (spinal CGRP receptor signalling in OA pain, each step by extension)"
+},
+{
+"authors": "Van Valen F et al.",
+"year": "1990",
+"title": "Calcitonin gene-related peptide (CGRP) receptors are linked to cyclic adenosine monophosphate production in SK-N-MC human neuroblastoma cells.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "2177866",
+"role": "step",
+"note": "human SK-N-MC neuroblastoma cells: CGRP receptors raise cAMP (adenylyl cyclase via Gs)"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "structure of Gsα·GTPγS bound to the catalytic domains of adenylyl cyclase"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: GTP-bound (GTPase-dead) Gsα activates adenylyl cyclase"
+}
+]
+},
+{
 "label": "CALCRL",
 "class": "Macromolecule",
 "box": [

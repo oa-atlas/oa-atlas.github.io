@@ -48,6 +48,10 @@
 {
 "label": "SVG",
 "url": "files/opn-mast-cell.svg"
+},
+{
+"label": "References",
+"url": "files/opn-mast-cell-references.csv"
 }
 ],
 "data": "data/opn-mast-cell-text.json",
@@ -75,6 +79,10 @@
 {
 "label": "SVG",
 "url": "files/release-mast-cell.svg"
+},
+{
+"label": "References",
+"url": "files/release-mast-cell-references.csv"
 }
 ],
 "data": "data/release-mast-cell-text.json",
@@ -102,6 +110,10 @@
 {
 "label": "SVG",
 "url": "files/ltb4-ltb4r-gq.svg"
+},
+{
+"label": "References",
+"url": "files/ltb4-ltb4r-gq-references.csv"
 }
 ],
 "data": "data/ltb4-ltb4r-gq-text.json",
@@ -129,6 +141,10 @@
 {
 "label": "SVG",
 "url": "files/pge2-ptger2-gs.svg"
+},
+{
+"label": "References",
+"url": "files/pge2-ptger2-gs-references.csv"
 }
 ],
 "data": "data/pge2-ptger2-gs-text.json",
@@ -187,6 +203,10 @@
 {
 "label": "SVG",
 "url": "files/pgi2-ptgir-gs.svg"
+},
+{
+"label": "References",
+"url": "files/pgi2-ptgir-gs-references.csv"
 }
 ],
 "data": "data/pgi2-ptgir-gs-text.json",
@@ -214,6 +234,10 @@
 {
 "label": "SVG",
 "url": "files/pgd2-ptgdr-gs.svg"
+},
+{
+"label": "References",
+"url": "files/pgd2-ptgdr-gs-references.csv"
 }
 ],
 "data": "data/pgd2-ptgdr-gs-text.json",
@@ -241,6 +265,10 @@
 {
 "label": "SVG",
 "url": "files/bk-bdkrb2-gq.svg"
+},
+{
+"label": "References",
+"url": "files/bk-bdkrb2-gq-references.csv"
 }
 ],
 "data": "data/bk-bdkrb2-gq-text.json",
@@ -268,6 +296,10 @@
 {
 "label": "SVG",
 "url": "files/pge2-ptger1-gq.svg"
+},
+{
+"label": "References",
+"url": "files/pge2-ptger1-gq-references.csv"
 }
 ],
 "data": "data/pge2-ptger1-gq-text.json",
@@ -295,6 +327,10 @@
 {
 "label": "SVG",
 "url": "files/histamine-hrh1-gq.svg"
+},
+{
+"label": "References",
+"url": "files/histamine-hrh1-gq-references.csv"
 }
 ],
 "data": "data/histamine-hrh1-gq-text.json",
@@ -322,6 +358,10 @@
 {
 "label": "SVG",
 "url": "files/pge2-ptger3-gi.svg"
+},
+{
+"label": "References",
+"url": "files/pge2-ptger3-gi-references.csv"
 }
 ],
 "data": "data/pge2-ptger3-gi-text.json",
@@ -349,6 +389,10 @@
 {
 "label": "SVG",
 "url": "files/cannabinoid-cnr2-gi.svg"
+},
+{
+"label": "References",
+"url": "files/cannabinoid-cnr2-gi-references.csv"
 }
 ],
 "data": "data/cannabinoid-cnr2-gi-text.json",
@@ -376,6 +420,10 @@
 {
 "label": "SVG",
 "url": "files/camp-pka-nociceptor.svg"
+},
+{
+"label": "References",
+"url": "files/camp-pka-nociceptor-references.csv"
 }
 ],
 "data": "data/camp-pka-nociceptor-text.json",
@@ -403,6 +451,10 @@
 {
 "label": "SVG",
 "url": "files/plc-ip3-ca-nociceptor.svg"
+},
+{
+"label": "References",
+"url": "files/plc-ip3-ca-nociceptor-references.csv"
 }
 ],
 "data": "data/plc-ip3-ca-nociceptor-text.json",
@@ -430,6 +482,10 @@
 {
 "label": "SVG",
 "url": "files/channels-ap-nociceptor.svg"
+},
+{
+"label": "References",
+"url": "files/channels-ap-nociceptor-references.csv"
 }
 ],
 "data": "data/channels-ap-nociceptor-text.json",
@@ -457,6 +513,10 @@
 {
 "label": "SVG",
 "url": "files/channels-ap-nociceptor-vertical.svg"
+},
+{
+"label": "References",
+"url": "files/channels-ap-nociceptor-vertical-references.csv"
 }
 ],
 "data": "data/channels-ap-nociceptor-vertical-text.json",
@@ -484,6 +544,10 @@
 {
 "label": "SVG",
 "url": "files/eicosanoids-trp-nociceptor.svg"
+},
+{
+"label": "References",
+"url": "files/eicosanoids-trp-nociceptor-references.csv"
 }
 ],
 "data": "data/eicosanoids-trp-nociceptor-text.json",
@@ -511,6 +575,10 @@
 {
 "label": "SVG",
 "url": "files/ltc4-cysltr2-nociceptor.svg"
+},
+{
+"label": "References",
+"url": "files/ltc4-cysltr2-nociceptor-references.csv"
 }
 ],
 "data": "data/ltc4-cysltr2-nociceptor-text.json",
@@ -538,6 +606,10 @@
 {
 "label": "SVG",
 "url": "files/tnf-ccl2-p38.svg"
+},
+{
+"label": "References",
+"url": "files/tnf-ccl2-p38-references.csv"
 }
 ],
 "data": "data/tnf-ccl2-p38-text.json",
@@ -565,6 +637,10 @@
 {
 "label": "SVG",
 "url": "files/ccl2-ccr2-gi.svg"
+},
+{
+"label": "References",
+"url": "files/ccl2-ccr2-gi-references.csv"
 }
 ],
 "data": "data/ccl2-ccr2-gi-text.json",
@@ -592,6 +668,10 @@
 {
 "label": "SVG",
 "url": "files/il6-gp130-nociceptor.svg"
+},
+{
+"label": "References",
+"url": "files/il6-gp130-nociceptor-references.csv"
 }
 ],
 "data": "data/il6-gp130-nociceptor-text.json",
@@ -619,6 +699,10 @@
 {
 "label": "SVG",
 "url": "files/opioid-oprm1-gi.svg"
+},
+{
+"label": "References",
+"url": "files/opioid-oprm1-gi-references.csv"
 }
 ],
 "data": "data/opioid-oprm1-gi-text.json",
@@ -646,6 +730,10 @@
 {
 "label": "SVG",
 "url": "files/na-adra2a-gi.svg"
+},
+{
+"label": "References",
+"url": "files/na-adra2a-gi-references.csv"
 }
 ],
 "data": "data/na-adra2a-gi-text.json",
@@ -673,6 +761,10 @@
 {
 "label": "SVG",
 "url": "files/na-adrb2-gs.svg"
+},
+{
+"label": "References",
+"url": "files/na-adrb2-gs-references.csv"
 }
 ],
 "data": "data/na-adrb2-gs-text.json",
@@ -700,6 +792,10 @@
 {
 "label": "SVG",
 "url": "files/na-adrb2-gi.svg"
+},
+{
+"label": "References",
+"url": "files/na-adrb2-gi-references.csv"
 }
 ],
 "data": "data/na-adrb2-gi-text.json",
@@ -727,6 +823,10 @@
 {
 "label": "SVG",
 "url": "files/na-comt-receptors.svg"
+},
+{
+"label": "References",
+"url": "files/na-comt-receptors-references.csv"
 }
 ],
 "data": "data/na-comt-receptors-text.json",
@@ -754,6 +854,10 @@
 {
 "label": "SVG",
 "url": "files/tac1-tacr1-gq.svg"
+},
+{
+"label": "References",
+"url": "files/tac1-tacr1-gq-references.csv"
 }
 ],
 "data": "data/tac1-tacr1-gq-text.json",
@@ -781,6 +885,10 @@
 {
 "label": "SVG",
 "url": "files/cgrp-calcrl-gs.svg"
+},
+{
+"label": "References",
+"url": "files/cgrp-calcrl-gs-references.csv"
 }
 ],
 "data": "data/cgrp-calcrl-gs-text.json",
@@ -808,6 +916,10 @@
 {
 "label": "SVG",
 "url": "files/cannabinoid-cnr1-gi.svg"
+},
+{
+"label": "References",
+"url": "files/cannabinoid-cnr1-gi-references.csv"
 }
 ],
 "data": "data/cannabinoid-cnr1-gi-text.json",
@@ -835,6 +947,10 @@
 {
 "label": "SVG",
 "url": "files/glutamate-nmda-ampa.svg"
+},
+{
+"label": "References",
+"url": "files/glutamate-nmda-ampa-references.csv"
 }
 ],
 "data": "data/glutamate-nmda-ampa-text.json",
@@ -862,6 +978,10 @@
 {
 "label": "SVG",
 "url": "files/bdnf-ntrk2-plcg1.svg"
+},
+{
+"label": "References",
+"url": "files/bdnf-ntrk2-plcg1-references.csv"
 }
 ],
 "data": "data/bdnf-ntrk2-plcg1-text.json",
@@ -889,6 +1009,10 @@
 {
 "label": "SVG",
 "url": "files/kcc2-gaba-glycine-spinal.svg"
+},
+{
+"label": "References",
+"url": "files/kcc2-gaba-glycine-spinal-references.csv"
 }
 ],
 "data": "data/kcc2-gaba-glycine-spinal-text.json",
@@ -916,6 +1040,10 @@
 {
 "label": "SVG",
 "url": "files/camp-pka-spinal.svg"
+},
+{
+"label": "References",
+"url": "files/camp-pka-spinal-references.csv"
 }
 ],
 "data": "data/camp-pka-spinal-text.json",

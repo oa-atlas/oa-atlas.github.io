@@ -5483,6 +5483,439 @@
 ]
 },
 {
+"id": "re250",
+"label": "",
+"class": "Process",
+"box": [
+393.5,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Cannabinoid:CNR2",
+"Gi heterotrimer"
+],
+"out": [
+"CNR2:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mlost J et al.",
+"year": "2021",
+"title": "CB2 agonism controls pain and subchondral bone degeneration induced by mono-iodoacetate: Implications GPCR functional bias and tolerance development.",
+"journal": "Biomed Pharmacother",
+"db": "pubmed",
+"id": "33482616",
+"role": "OA",
+"note": "rat knee OA (MIA): the cAMP-biased CB2 agonist JWH133 gives lasting analgesia, the beta-arrestin-biased one loses efficacy: the CB2-G protein-cAMP pathway acts in OA pain, its G protein steps by extension (behaviour, not the nociceptor itself)"
+},
+{
+"authors": "Burston JJ et al.",
+"year": "2013",
+"title": "Cannabinoid CB2 receptors regulate central sensitization and pain responses associated with osteoarthritis of the knee joint.",
+"journal": "PLoS One",
+"db": "pubmed",
+"id": "24282543",
+"role": "OA",
+"note": "rat knee OA (MIA): CB2 agonist JWH133 attenuates OA pain behaviour and spinal neuron responses; CB2 up in spinal neurons and microglia; human spinal cord CB2 mRNA correlates with chondropathy"
+},
+{
+"authors": "Xing C et al.",
+"year": "2020",
+"title": "Cryo-EM Structure of the Human Cannabinoid Receptor CB2-G(i) Signaling Complex.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "32004460",
+"role": "step",
+"note": "cryo-EM of human CB2 bound to the agonist WIN 55,212-2 in complex with Gi"
+},
+{
+"authors": "Hua T et al.",
+"year": "2020",
+"title": "Activation and Signaling Mechanism Revealed by Cannabinoid Receptor-G(i) Complex Structures.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "32004463",
+"role": "step",
+"note": "cryo-EM of agonist-bound human CB2 (and CB1) in complex with the Gi heterotrimer"
+},
+{
+"authors": "Felder CC et al.",
+"year": "1995",
+"title": "Comparison of the pharmacology and signal transduction of the human cannabinoid CB1 and CB2 receptors.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "7565624",
+"role": "step",
+"note": "human CB2 in CHO and AtT-20 cells: agonist inhibition of cAMP accumulation is pertussis toxin sensitive (Gi/o)"
+}
+]
+},
+{
+"id": "re251",
+"label": "",
+"class": "Process",
+"box": [
+762.8,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CNR2:Gi",
+"GTP"
+],
+"out": [
+"CNR2:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mlost J et al.",
+"year": "2021",
+"title": "CB2 agonism controls pain and subchondral bone degeneration induced by mono-iodoacetate: Implications GPCR functional bias and tolerance development.",
+"journal": "Biomed Pharmacother",
+"db": "pubmed",
+"id": "33482616",
+"role": "OA",
+"note": "rat knee OA (MIA): the cAMP-biased CB2 agonist JWH133 gives lasting analgesia, the beta-arrestin-biased one loses efficacy: the CB2-G protein-cAMP pathway acts in OA pain, its G protein steps by extension (behaviour, not the nociceptor itself)"
+},
+{
+"authors": "Glass M et al.",
+"year": "1999",
+"title": "Agonist selective regulation of G proteins by cannabinoid CB(1) and CB(2) receptors.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "10570066",
+"role": "step",
+"note": "human CB2 in insect cell membranes reconstituted with purified bovine brain Gi: the agonist-bound receptor catalyses GDP-GTP exchange on Gi (not Go)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review: the activated receptor catalyses GDP for GTP exchange on the alpha subunit (no abstract in PubMed)"
+}
+]
+},
+{
+"id": "re252",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CNR2",
+"cannabinoid"
+],
+"out": [
+"Cannabinoid:CNR2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Burston JJ et al.",
+"year": "2013",
+"title": "Cannabinoid CB2 receptors regulate central sensitization and pain responses associated with osteoarthritis of the knee joint.",
+"journal": "PLoS One",
+"db": "pubmed",
+"id": "24282543",
+"role": "OA",
+"note": "rat knee OA (MIA): CB2 agonist JWH133 attenuates OA pain behaviour and spinal neuron responses; CB2 up in spinal neurons and microglia; human spinal cord CB2 mRNA correlates with chondropathy"
+},
+{
+"authors": "Schuelert N et al.",
+"year": "2010",
+"title": "Paradoxical effects of the cannabinoid CB2 receptor agonist GW405833 on rat osteoarthritic knee joint pain.",
+"journal": "Osteoarthritis Cartilage",
+"db": "pubmed",
+"id": "20863899",
+"role": "OA",
+"note": "rat knee OA (MIA): CB2 in DRG neurons with TRPV1; the CB2 agonist GW405833 acts on joint afferents (but sensitises OA joints, via TRPV1)"
+},
+{
+"authors": "Felder CC et al.",
+"year": "1995",
+"title": "Comparison of the pharmacology and signal transduction of the human cannabinoid CB1 and CB2 receptors.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "7565624",
+"role": "step",
+"note": "human CB2 expressed in CHO and AtT-20 cells: binds cannabinoids and the endocannabinoid anandamide with high affinity"
+},
+{
+"authors": "Sugiura T et al.",
+"year": "2000",
+"title": "Evidence that 2-arachidonoylglycerol but not N-palmitoylethanolamine or anandamide is the physiological ligand for the cannabinoid CB2 receptor. Comparison of the agonistic activities of various cannabinoid receptor ligands in HL-60 cells.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "10617657",
+"role": "step",
+"note": "human HL-60 cells with endogenous CB2: 2-AG is the most potent natural agonist, blocked by the CB2 antagonist SR144528, pertussis toxin sensitive"
+},
+{
+"authors": "Xing C et al.",
+"year": "2020",
+"title": "Cryo-EM Structure of the Human Cannabinoid Receptor CB2-G(i) Signaling Complex.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "32004460",
+"role": "step",
+"note": "cryo-EM of human CB2 bound to the agonist WIN 55,212-2 in complex with Gi"
+}
+]
+},
+{
+"id": "re253",
+"label": "",
+"class": "Process",
+"box": [
+961.9,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CNR2:Gi"
+],
+"out": [
+"Giα:GTP",
+"cannabinoid",
+"CNR2",
+"Giβ:Giγ"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mlost J et al.",
+"year": "2021",
+"title": "CB2 agonism controls pain and subchondral bone degeneration induced by mono-iodoacetate: Implications GPCR functional bias and tolerance development.",
+"journal": "Biomed Pharmacother",
+"db": "pubmed",
+"id": "33482616",
+"role": "OA",
+"note": "rat knee OA (MIA): the cAMP-biased CB2 agonist JWH133 gives lasting analgesia, the beta-arrestin-biased one loses efficacy: the CB2-G protein-cAMP pathway acts in OA pain, its G protein steps by extension (behaviour, not the nociceptor itself)"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Gi alpha1(GDP)beta1gamma2 heterotrimer: GTP rearranges switch II of Gi alpha, which separates it from beta-gamma"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review: the GTP-bound alpha subunit separates from the beta-gamma dimer (no abstract in PubMed)"
+}
+]
+},
+{
+"id": "re254",
+"label": "",
+"class": "Process",
+"box": [
+822.8,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Mlost J et al.",
+"year": "2021",
+"title": "CB2 agonism controls pain and subchondral bone degeneration induced by mono-iodoacetate: Implications GPCR functional bias and tolerance development.",
+"journal": "Biomed Pharmacother",
+"db": "pubmed",
+"id": "33482616",
+"role": "OA",
+"note": "rat knee OA (MIA): the cAMP-biased CB2 agonist JWH133 gives lasting analgesia, the beta-arrestin-biased one loses efficacy: the CB2-G protein-cAMP pathway acts in OA pain, its G protein steps by extension (behaviour, not the nociceptor itself)"
+},
+{
+"authors": "Berman DM et al.",
+"year": "1996",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "purified proteins: RGS4 and GAIP (cloned from human) are GAPs for Gi subfamily alpha subunits, at least 40-fold faster GTP hydrolysis; Gs alpha is not a substrate"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review: the alpha subunit hydrolyses its bound GTP to GDP and Pi, ending the active state (no abstract in PubMed)"
+}
+]
+},
+{
+"id": "re255",
+"label": "",
+"class": "Process",
+"box": [
+515.6,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mlost J et al.",
+"year": "2021",
+"title": "CB2 agonism controls pain and subchondral bone degeneration induced by mono-iodoacetate: Implications GPCR functional bias and tolerance development.",
+"journal": "Biomed Pharmacother",
+"db": "pubmed",
+"id": "33482616",
+"role": "OA",
+"note": "rat knee OA (MIA): the cAMP-biased CB2 agonist JWH133 gives lasting analgesia, the beta-arrestin-biased one loses efficacy: the CB2-G protein-cAMP pathway acts in OA pain, its G protein steps by extension (behaviour, not the nociceptor itself)"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure: GDP-bound Gi alpha1 sits with beta1gamma2 as the inactive heterotrimer"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review: the GDP-bound alpha subunit reassociates with beta-gamma (no abstract in PubMed)"
+}
+]
+},
+{
+"id": "re257",
+"label": "",
+"class": "Process",
+"box": [
+961.9,
+843.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mlost J et al.",
+"year": "2021",
+"title": "CB2 agonism controls pain and subchondral bone degeneration induced by mono-iodoacetate: Implications GPCR functional bias and tolerance development.",
+"journal": "Biomed Pharmacother",
+"db": "pubmed",
+"id": "33482616",
+"role": "OA",
+"note": "rat knee OA (MIA): the cAMP-biased CB2 agonist JWH133 gives lasting analgesia, the beta-arrestin-biased one loses efficacy: the CB2-G protein-cAMP pathway acts in OA pain, its G protein steps by extension (behaviour, not the nociceptor itself)"
+},
+{
+"authors": "Taussig R et al.",
+"year": "1993",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "purified proteins: activated, myristoylated Gi alpha (not Go alpha) directly inhibits adenylyl cyclases, depending on isoform and activator"
+},
+{
+"authors": "Shoemaker JL et al.",
+"year": "2005",
+"title": "The endocannabinoid noladin ether acts as a full agonist at human CB2 cannabinoid receptors.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "15901805",
+"role": "step",
+"note": "human CB2 in CHO cells and human HL-60 cells with endogenous CB2: 2-AG and other agonists inhibit adenylyl cyclase, pertussis toxin sensitive"
+},
+{
+"authors": "Felder CC et al.",
+"year": "1995",
+"title": "Comparison of the pharmacology and signal transduction of the human cannabinoid CB1 and CB2 receptors.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "7565624",
+"role": "step",
+"note": "human CB2 in CHO and AtT-20 cells: agonist inhibition of cAMP accumulation is pertussis toxin sensitive (Gi/o)"
+}
+]
+},
+{
 "label": "CNR2",
 "class": "Macromolecule",
 "box": [

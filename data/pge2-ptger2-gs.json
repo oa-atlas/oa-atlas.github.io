@@ -4675,6 +4675,373 @@
 ]
 },
 {
+"id": "n0::n14",
+"label": "",
+"class": "Process",
+"box": [
+727.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGER2:Gs",
+"GTP"
+],
+"out": [
+"PTGER2:Gs",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sato T et al.",
+"year": "2011",
+"title": "Prostaglandin EP2 receptor signalling inhibits the expression of matrix metalloproteinase 13 in human osteoarthritic chondrocytes.",
+"journal": "Ann Rheum Dis",
+"db": "pubmed",
+"id": "20870807",
+"role": "OA",
+"note": "human OA chondrocytes: EP2 signals through cAMP-PKA (pathway by extension)"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "β2AR-Gs: Gs is nucleotide-free in the active receptor complex, the change propagating to the nucleotide pocket"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review: the receptor catalyses GDP for GTP exchange (no abstract on PubMed)"
+}
+]
+},
+{
+"id": "n0::n15",
+"label": "",
+"class": "Process",
+"box": [
+926.0,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGER2:Gs"
+],
+"out": [
+"Gsα:GTP",
+"PTGER2",
+"PGE2",
+"Gsβ:Gsγ"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sato T et al.",
+"year": "2011",
+"title": "Prostaglandin EP2 receptor signalling inhibits the expression of matrix metalloproteinase 13 in human osteoarthritic chondrocytes.",
+"journal": "Ann Rheum Dis",
+"db": "pubmed",
+"id": "20870807",
+"role": "OA",
+"note": "human OA chondrocytes: EP2 signals through cAMP-PKA (pathway by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review: GTP-bound α and βγ separate from the receptor (no abstract on PubMed)"
+}
+]
+},
+{
+"id": "n0::n16",
+"label": "",
+"class": "Process",
+"box": [
+926.0,
+834.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP",
+"ADCY"
+],
+"out": [
+"Adenylate cyclase"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sato T et al.",
+"year": "2011",
+"title": "Prostaglandin EP2 receptor signalling inhibits the expression of matrix metalloproteinase 13 in human osteoarthritic chondrocytes.",
+"journal": "Ann Rheum Dis",
+"db": "pubmed",
+"id": "20870807",
+"role": "OA",
+"note": "human OA chondrocytes: EP2 acts through cAMP-PKA"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "structure of Gsα·GTPγS bound to the catalytic domains of adenylyl cyclase"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: GTP-bound (GTPase-dead) Gsα activates adenylyl cyclase"
+}
+]
+},
+{
+"id": "n0::n17",
+"label": "",
+"class": "Process",
+"box": [
+787.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP"
+],
+"out": [
+"Gsα:GDP",
+"Pi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sato T et al.",
+"year": "2011",
+"title": "Prostaglandin EP2 receptor signalling inhibits the expression of matrix metalloproteinase 13 in human osteoarthritic chondrocytes.",
+"journal": "Ann Rheum Dis",
+"db": "pubmed",
+"id": "20870807",
+"role": "OA",
+"note": "human OA chondrocytes: EP2 signals through cAMP-PKA (pathway by extension)"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: mutations that block the GTPase of Gsα show its intrinsic GTP hydrolysis"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review: Gsα hydrolyses its GTP by itself (no abstract on PubMed)"
+}
+]
+},
+{
+"id": "n0::n18",
+"label": "",
+"class": "Process",
+"box": [
+480.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GDP",
+"Gsβ:Gsγ"
+],
+"out": [
+"Gs heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sato T et al.",
+"year": "2011",
+"title": "Prostaglandin EP2 receptor signalling inhibits the expression of matrix metalloproteinase 13 in human osteoarthritic chondrocytes.",
+"journal": "Ann Rheum Dis",
+"db": "pubmed",
+"id": "20870807",
+"role": "OA",
+"note": "human OA chondrocytes: EP2 signals through cAMP-PKA (pathway by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review: GDP-bound α reassociates with βγ (no abstract on PubMed)"
+}
+]
+},
+{
+"id": "n0::n19",
+"label": "",
+"class": "Process",
+"box": [
+358.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGE2:PTGER2",
+"Gs heterotrimer"
+],
+"out": [
+"PTGER2:Gs"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sato T et al.",
+"year": "2011",
+"title": "Prostaglandin EP2 receptor signalling inhibits the expression of matrix metalloproteinase 13 in human osteoarthritic chondrocytes.",
+"journal": "Ann Rheum Dis",
+"db": "pubmed",
+"id": "20870807",
+"role": "OA",
+"note": "human OA chondrocytes: EP2 signals through cAMP-PKA (the Gs pathway; cartilage, not neurons)"
+},
+{
+"authors": "Qu C et al.",
+"year": "2021",
+"title": "Ligand recognition, unconventional activation, and G protein coupling of the prostaglandin E(2) receptor EP2 subtype.",
+"journal": "Sci Adv",
+"db": "pubmed",
+"id": "33811074",
+"role": "step",
+"note": "human EP2-Gs heterotrimer complex with PGE2 (cryo-EM); Gs coupled via helix 8"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "β2-adrenergic receptor: agonist-bound receptor with the Gs heterotrimer (general mechanism)"
+}
+]
+},
+{
+"id": "n0::n20",
+"label": "",
+"class": "Process",
+"box": [
+154.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGER2",
+"PGE2"
+],
+"out": [
+"PGE2:PTGER2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ma X et al.",
+"year": "2025",
+"title": "EP2 Modulates Satellite Glial Cell Activation in Temporomandibular Joint Osteoarthritis Chronic Pain via p-ERK1/2 Signaling.",
+"journal": "J Dent Res",
+"db": "pubmed",
+"id": "40254785",
+"role": "OA",
+"note": "mouse TMJ OA (MIA): EP2 on activated satellite glial cells of the trigeminal ganglion; EP2 antagonist or knockdown limits their activation in OA chronic pain (glia, not neurons; TMJ, not knee)"
+},
+{
+"authors": "Sato T et al.",
+"year": "2011",
+"title": "Prostaglandin EP2 receptor signalling inhibits the expression of matrix metalloproteinase 13 in human osteoarthritic chondrocytes.",
+"journal": "Ann Rheum Dis",
+"db": "pubmed",
+"id": "20870807",
+"role": "OA",
+"note": "human OA cartilage and chondrocytes: EP2 is the main EP receptor; butaprost acts through it (cartilage, not neurons)"
+},
+{
+"db": "pubmed",
+"id": "8078484",
+"role": "step",
+"note": "human EP2 cloned: binds [3H]PGE2, PGE2 raises cAMP in transfected cells"
+},
+{
+"authors": "Qu C et al.",
+"year": "2021",
+"title": "Ligand recognition, unconventional activation, and G protein coupling of the prostaglandin E(2) receptor EP2 subtype.",
+"journal": "Sci Adv",
+"db": "pubmed",
+"id": "33811074",
+"role": "step",
+"note": "cryo-EM of human EP2-Gs with its endogenous agonist PGE2"
+}
+]
+},
+{
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [

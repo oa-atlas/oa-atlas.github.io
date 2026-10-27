@@ -10,7 +10,7 @@
   <key attr.name="Family" attr.type="string" for="node" id="d100"/>
   <key attr.name="Members" attr.type="string" for="node" id="d101"/>
   <key attr.name="Member annotation" attr.type="string" for="node" id="d102"/>
-  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><graph edgedefault="directed" id="G"><node id="gaba"><data key="dev_node">gaba</data><data key="d0">CHEBI:16865</data><data key="ng">
+  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><key attr.name="References" attr.type="string" for="node" id="d103"/><graph edgedefault="directed" id="G"><node id="gaba"><data key="dev_node">gaba</data><data key="d0">CHEBI:16865</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40" width="40" x="252.0" y="40.0"/>
           <y:Fill color="#B7CFDE" transparent="false"/>
@@ -79,7 +79,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="p1"><data key="dev_node">p1</data><data key="ng">
+        </node><node id="p1"><data key="d103">pubmed:35240891 pubmed:34602973 pubmed:30602790 pubmed:22298656</data><data key="dev_node">p1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18" width="18" x="263.0" y="263.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -155,7 +155,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="p2"><data key="dev_node">p2</data><data key="ng">
+        </node><node id="p2"><data key="d103">pubmed:30881475 pubmed:27991902 pubmed:15131310 pubmed:22298656</data><data key="dev_node">p2</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18" width="18" x="539.0" y="263.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -220,7 +220,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node><node id="p3a"><data key="dev_node">p3a</data><data key="ng">
+        </node></graph></node><node id="p3a"><data key="d103">pubmed:35240891 pubmed:30602790 pubmed:17693402 pubmed:9930699</data><data key="dev_node">p3a</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18" width="18" x="387.0" y="411.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -234,7 +234,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="p3b"><data key="dev_node">p3b</data><data key="ng">
+    </node><node id="p3b"><data key="d103">pubmed:30881475 pubmed:40473619 pubmed:17693402 pubmed:22298656</data><data key="dev_node">p3b</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18" width="18" x="411.0" y="411.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -264,7 +264,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="152.0" x="14.0" xml:space="preserve" y="27.25" hasText="true">Action potential<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="p5"><data key="dev_node">p5</data><data key="ng">
+    </node><node id="p5"><data key="d103">pubmed:40616299 pubmed:15131310 pubmed:11740501 pubmed:40473619</data><data key="dev_node">p5</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18" width="18" x="539.0" y="551.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -367,7 +367,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="p6"><data key="dev_node">p6</data><data key="ng">
+        </node><node id="p6"><data key="d103">pubmed:35240891 pubmed:37295640 pubmed:33310850 pubmed:24668262 pubmed:12473684</data><data key="dev_node">p6</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18" width="18" x="891.0" y="295.0"/>
           <y:Fill transparent="false" hasColor="false"/>

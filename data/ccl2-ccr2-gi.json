@@ -4459,6 +4459,471 @@
 ]
 },
 {
+"id": "n0::n13",
+"label": "",
+"class": "Process",
+"box": [
+369.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CCL2:CCR2",
+"Gi heterotrimer"
+],
+"out": [
+"CCR2:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Miller RE et al.",
+"year": "2012",
+"title": "CCR2 chemokine receptor signaling mediates pain in experimental osteoarthritis.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23185004",
+"role": "OA",
+"note": "mouse knee OA (DMM): CCL2/CCR2 up in the knee-innervating DRG and needed for movement-provoked pain (covers the receptor's signalling steps by extension)"
+},
+{
+"authors": "Shao Z et al.",
+"year": "2022",
+"title": "Molecular insights into ligand recognition and activation of chemokine receptors CCR2 and CCR3.",
+"journal": "Cell Discov",
+"db": "pubmed",
+"id": "35570218",
+"role": "step",
+"note": "cryo-EM of the human CCL2-CCR2-G protein complex: receptor-Galpha contacts, ICL2 critical for G protein activation"
+},
+{
+"authors": "Belkouch M et al.",
+"year": "2011",
+"title": "The chemokine CCL2 increases Nav1.8 sodium channel activity in primary sensory neurons through a Gβγ-dependent mechanism.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "22171040",
+"role": "step",
+"note": "rat DRG neurons: the CCL2 effect is pertussis toxin sensitive, i.e. CCR2 acts through Gi/o in sensory neurons"
+}
+]
+},
+{
+"id": "n0::n14",
+"label": "",
+"class": "Process",
+"box": [
+738.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CCR2:Gi",
+"GTP"
+],
+"out": [
+"CCR2:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Miller RE et al.",
+"year": "2012",
+"title": "CCR2 chemokine receptor signaling mediates pain in experimental osteoarthritis.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23185004",
+"role": "OA",
+"note": "mouse knee OA (DMM): CCR2 signalling in the knee-innervating DRG drives OA pain (covers the G protein cycle of this receptor by extension)"
+},
+{
+"authors": "Shao Z et al.",
+"year": "2022",
+"title": "Molecular insights into ligand recognition and activation of chemokine receptors CCR2 and CCR3.",
+"journal": "Cell Discov",
+"db": "pubmed",
+"id": "35570218",
+"role": "step",
+"note": "human CCR2-G protein complex: the receptor's intracellular loop 2 contacts are the ones that matter for G protein activation (functional assays alongside the structure)"
+},
+{
+"authors": "Oldham WM et al.",
+"year": "2007",
+"title": "Mapping allosteric connections from the receptor to the nucleotide-binding pocket of heterotrimeric G proteins.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "17463080",
+"role": "step",
+"note": "EPR on Gi alpha with activated rhodopsin: the receptor-bound heterotrimer empties its nucleotide pocket (receptor-catalysed exchange); recombinant Gi, bovine rhodopsin"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract in PubMed; classic review of the G protein cycle: the activated receptor catalyses GDP release and GTP binding on the alpha subunit"
+}
+]
+},
+{
+"id": "n0::n15",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CCR2",
+"CCL2"
+],
+"out": [
+"CCL2:CCR2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Miller RE et al.",
+"year": "2012",
+"title": "CCR2 chemokine receptor signaling mediates pain in experimental osteoarthritis.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23185004",
+"role": "OA",
+"note": "mouse knee OA (DMM): CCL2 and CCR2 up in the knee-innervating DRG at 8 wk; Ccr2-null mice have equal joint damage but no movement-provoked pain (the whole CCL2/CCR2 pathway in OA pain, so it covers this block's steps by extension)"
+},
+{
+"authors": "Raghu H et al.",
+"year": "2017",
+"title": "CCL2/CCR2, but not CCL5/CCR5, mediates monocyte recruitment, inflammation and cartilage destruction in osteoarthritis.",
+"journal": "Ann Rheum Dis",
+"db": "pubmed",
+"id": "27965260",
+"role": "OA",
+"note": "human OA synovial fluid and synovium plus mouse OA: CCR2 ligands (CCL2, CCL7, CCL8) elevated, CCR2+ cells abundant; joint tissue and macrophages, not neurons"
+},
+{
+"authors": "Shao Z et al.",
+"year": "2022",
+"title": "Molecular insights into ligand recognition and activation of chemokine receptors CCR2 and CCR3.",
+"journal": "Cell Discov",
+"db": "pubmed",
+"id": "35570218",
+"role": "step",
+"note": "cryo-EM of human CCR2 bound to its endogenous ligand CCL2 (in complex with G protein): CCL2 inserts into the receptor's transmembrane domain"
+},
+{
+"authors": "Charo IF et al.",
+"year": "1994",
+"title": "Molecular cloning and functional expression of two monocyte chemoattractant protein 1 receptors reveals alternative splicing of the carboxyl-terminal tails.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "8146186",
+"role": "step",
+"note": "human CCR2 cloned (two spliced isoforms): responds to nanomolar MCP-1 (CCL2) and not to related chemokines"
+},
+{
+"authors": "Belkouch M et al.",
+"year": "2011",
+"title": "The chemokine CCL2 increases Nav1.8 sodium channel activity in primary sensory neurons through a Gβγ-dependent mechanism.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "22171040",
+"role": "step",
+"note": "rat DRG neurons (small and medium, acutely dissociated): CCL2 acts through CCR2, the selective CCR2 antagonist INCB3344 blocks its effect"
+}
+]
+},
+{
+"id": "n0::n16",
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CCR2:Gi"
+],
+"out": [
+"Giα:GTP",
+"CCL2",
+"CCR2",
+"Giβ:Giγ"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Miller RE et al.",
+"year": "2012",
+"title": "CCR2 chemokine receptor signaling mediates pain in experimental osteoarthritis.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23185004",
+"role": "OA",
+"note": "mouse knee OA (DMM): CCR2 signalling in the knee-innervating DRG drives OA pain (covers the G protein cycle by extension)"
+},
+{
+"authors": "Belkouch M et al.",
+"year": "2011",
+"title": "The chemokine CCL2 increases Nav1.8 sodium channel activity in primary sensory neurons through a Gβγ-dependent mechanism.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "22171040",
+"role": "step",
+"note": "rat DRG neurons: gallein (a Gbetagamma inhibitor) blocks the effect, so Gbetagamma is released from the Gi/o heterotrimer in these neurons"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Gi alpha1(GDP) beta1 gamma2 heterotrimer: GTP rearranges switch II of Gi alpha, which separates alpha from beta-gamma (recombinant, non-human proteins)"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "GTPgammaS-Gi alpha1 structure: the disordered N-terminus suggests how beta-gamma is released on activation (rat recombinant)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract in PubMed; classic review: the GTP-bound alpha subunit separates from the beta-gamma dimer"
+}
+]
+},
+{
+"id": "n0::n17",
+"label": "",
+"class": "Process",
+"box": [
+798.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Miller RE et al.",
+"year": "2012",
+"title": "CCR2 chemokine receptor signaling mediates pain in experimental osteoarthritis.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23185004",
+"role": "OA",
+"note": "mouse knee OA (DMM): CCR2 signalling in the knee-innervating DRG drives OA pain (covers the G protein cycle by extension)"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "Gi alpha1 GTPgammaS and GDP.AlF4- structures: Gln204 and Arg178 in the intrinsic GTP hydrolysis (rat recombinant)"
+},
+{
+"authors": "Berman DM et al.",
+"year": "1996",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "purified proteins: GAIP (cloned from human) and RGS4 are GAPs for Gi-family alpha subunits, at least 40-fold faster hydrolysis"
+},
+{
+"authors": "Tesmer JJ et al.",
+"year": "1997",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "RGS4 bound to AlF4--activated Gi alpha1: RGS stabilises the switch regions in the transition state (rat recombinant)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract in PubMed; classic review: the alpha subunit hydrolyses its bound GTP, ending the active state"
+}
+]
+},
+{
+"id": "n0::n18",
+"label": "",
+"class": "Process",
+"box": [
+491.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Miller RE et al.",
+"year": "2012",
+"title": "CCR2 chemokine receptor signaling mediates pain in experimental osteoarthritis.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23185004",
+"role": "OA",
+"note": "mouse knee OA (DMM): CCR2 signalling in the knee-innervating DRG drives OA pain (covers the G protein cycle by extension)"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Gi alpha1(GDP) beta1 gamma2 heterotrimer: GDP-bound alpha sits with beta-gamma, which stabilises the inactive state (recombinant, non-human proteins)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract in PubMed; classic review: the GDP-bound alpha subunit reassociates with beta-gamma"
+}
+]
+},
+{
+"id": "n0::n19",
+"label": "",
+"class": "Process",
+"box": [
+1057.0,
+903.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Na+"
+],
+"out": [
+"Na+"
+],
+"by": [
+"SCN10A",
+"Giβ:Giγ"
+]
+},
+"references": [
+{
+"authors": "Miller RE et al.",
+"year": "2012",
+"title": "CCR2 chemokine receptor signaling mediates pain in experimental osteoarthritis.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23185004",
+"role": "OA",
+"note": "mouse knee OA (DMM): CCR2 in the knee-innervating DRG is needed for movement-provoked pain, i.e. for nociceptor excitation in OA (the channel step itself is not measured here)"
+},
+{
+"authors": "Belkouch M et al.",
+"year": "2011",
+"title": "The chemokine CCL2 increases Nav1.8 sodium channel activity in primary sensory neurons through a Gβγ-dependent mechanism.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "22171040",
+"role": "step",
+"note": "rat DRG neurons, whole-cell patch clamp: CCL2 raises TTX-resistant NaV1.8 current density through CCR2 and Gbetagamma (PTX and gallein sensitive) - the only paper for the Gbetagamma-to-NaV1.8 step"
+},
+{
+"authors": "Huang X et al.",
+"year": "2022",
+"title": "Structural basis for high-voltage activation and subtype-specific inhibition of human Na(v)1.8.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "35858452",
+"role": "step",
+"note": "cryo-EM structures of human NaV1.8: the Na+-conducting pore and its high-voltage activation (channel exists and conducts in human)"
+},
+{
+"authors": "Stewart RG et al.",
+"year": "2025",
+"title": "Modulation of human dorsal root ganglion neuron firing by the Nav1.8 inhibitor suzetrigine.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "40424150",
+"role": "step",
+"note": "dissociated human DRG neurons at 37 C: large NaV1.8 currents carry much of the action potential (nA-level current even after 99% block); it also shows the upstroke depends less on NaV1.8 in human than the rat work suggests"
+}
+]
+},
+{
 "label": "Na+",
 "class": "SimpleChemical",
 "box": [

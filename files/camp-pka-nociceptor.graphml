@@ -10,7 +10,7 @@
   <key attr.name="Family" attr.type="string" for="node" id="d100"/>
   <key attr.name="Members" attr.type="string" for="node" id="d101"/>
   <key attr.name="Member annotation" attr.type="string" for="node" id="d102"/>
-  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><graph edgedefault="directed" id="G"><node id="ca2" yfiles.foldertype="group"><data key="dev_node">ca2</data><data key="ng">
+  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><key attr.name="References" attr.type="string" for="node" id="d103"/><graph edgedefault="directed" id="G"><node id="ca2" yfiles.foldertype="group"><data key="dev_node">ca2</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
@@ -610,7 +610,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="re161"><data key="dev_node">re161</data><data key="ng">
+        </node><node id="re161"><data key="d103">pubmed:32441256 pubmed:32570114 pubmed:23535202</data><data key="dev_node">re161</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="353.0" y="847.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -624,7 +624,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re162"><data key="dev_node">re162</data><data key="ng">
+    </node><node id="re162"><data key="d103">pubmed:32441256 pubmed:32570114 pubmed:9417641 pubmed:28580839</data><data key="dev_node">re162</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="201.0" y="384.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -638,7 +638,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re166"><data key="dev_node">re166</data><data key="ng">
+    </node><node id="re166"><data key="d103">pubmed:32441256 pubmed:23535202</data><data key="dev_node">re166</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="566.0" y="847.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -652,7 +652,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re172"><data key="dev_node">re172</data><data key="ng">
+    </node><node id="re172"><data key="d103">pubmed:26970286 pubmed:12194871 pubmed:23264624 pubmed:12367506</data><data key="dev_node">re172</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="670.0" y="645.4222496473908"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -666,7 +666,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re263"><data key="dev_node">re263</data><data key="ng">
+    </node><node id="re263"><data key="d103">pubmed:27709491 pubmed:17692121 pubmed:22616675 pubmed:27385722</data><data key="dev_node">re263</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="862.1946403385049" y="949.5"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -680,7 +680,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re342"><data key="dev_node">re342</data><data key="ng">
+    </node><node id="re342"><data key="d103">pubmed:32441256 pubmed:22225591 pubmed:10087343 pubmed:20028484</data><data key="dev_node">re342</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="862.1946403385049" y="739.2111248236954"/>
           <y:Fill transparent="false" hasColor="false"/>

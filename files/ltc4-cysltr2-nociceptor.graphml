@@ -10,7 +10,7 @@
   <key attr.name="Family" attr.type="string" for="node" id="d100"/>
   <key attr.name="Members" attr.type="string" for="node" id="d101"/>
   <key attr.name="Member annotation" attr.type="string" for="node" id="d102"/>
-  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><graph edgedefault="directed" id="G"><node id="ca1" yfiles.foldertype="group"><data key="dev_node">ca1</data><data key="ng">
+  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><key attr.name="References" attr.type="string" for="node" id="d103"/><graph edgedefault="directed" id="G"><node id="ca1" yfiles.foldertype="group"><data key="dev_node">ca1</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
@@ -36,7 +36,7 @@
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
       </data>
-      <graph edgedefault="directed" id="ca1:"><node id="pB"><data key="dev_node">pB</data><data key="ng">
+      <graph edgedefault="directed" id="ca1:"><node id="pB"><data key="d103">pubmed:20846451 pubmed:10851239 pubmed:33753496</data><data key="dev_node">pB</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18" width="18" x="223.0" y="287.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -112,7 +112,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node></graph></node><node id="pP"><data key="dev_node">pP</data><data key="ng">
+        </node></graph></node><node id="pP"><data key="d103">pubmed:20846451 pubmed:27709491 pubmed:20627733 pubmed:34086763 pubmed:9221902</data><data key="dev_node">pP</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18" width="18" x="623.0" y="391.0"/>
           <y:Fill transparent="false" hasColor="false"/>

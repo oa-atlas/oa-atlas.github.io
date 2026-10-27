@@ -5595,6 +5595,439 @@
 ]
 },
 {
+"id": "re425",
+"label": "",
+"class": "Process",
+"box": [
+412.5,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Noradrenaline:ADRA2A",
+"Gi heterotrimer"
+],
+"out": [
+"ADRA2A:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Burnham LJ et al.",
+"year": "2013",
+"title": "The antinociceptive effect of milnacipran in the monosodium iodoacetate model of osteoarthritis pain and its relation to changes in descending inhibition.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "23297162",
+"role": "OA",
+"note": "rat MIA OA, dorsal horn neurons (spinal neuron; site of spinal α2 not separated): spinal α2 antagonist reverses SNRI inhibition; endogenous noradrenergic inhibition reduced late"
+},
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "OA review of noradrenaline and adrenoceptor signalling pathways in joint tissues (not neurons; neither cell of this block)"
+},
+{
+"authors": "Fink EA et al.",
+"year": "2022",
+"title": "Structure-based discovery of nonopioid analgesics acting through the α(2A)-adrenergic receptor.",
+"journal": "Science",
+"db": "pubmed",
+"id": "36173843",
+"role": "step",
+"note": "human α2A in HEK293T cells, BRET with Gαi1β1γ2: norepinephrine is the reference full agonist of α2A-mediated Gi activation (full text); α2A a validated pain target in mice (not OA)"
+},
+{
+"authors": "Nikolaev VO et al.",
+"year": "2006",
+"title": "Molecular basis of partial agonism at the neurotransmitter alpha2A-adrenergic receptor and Gi-protein heterotrimer.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "16787921",
+"role": "step",
+"note": "FRET in living cells: α2A agonists activate the receptor and its Gi heterotrimer (receptor species not stated in the abstract)"
+}
+]
+},
+{
+"id": "re426",
+"label": "",
+"class": "Process",
+"box": [
+791.2,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRA2A:Gi",
+"GTP"
+],
+"out": [
+"ADRA2A:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Oldham WM et al.",
+"year": "2007",
+"title": "Mapping allosteric connections from the receptor to the nucleotide-binding pocket of heterotrimeric G proteins.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "17463080",
+"role": "step",
+"note": "EPR on Gi alpha with activated rhodopsin: receptor binding empties the nucleotide pocket (receptor-catalysed exchange); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data; neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "re427",
+"label": "",
+"class": "Process",
+"box": [
+995.1,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRA2A:Gi"
+],
+"out": [
+"Giα:GTP",
+"Giβ:Giγ",
+"ADRA2A",
+"noradrenaline"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "Gi alpha1 beta1 gamma2 heterotrimer structure: GTP rearranges switch II, which causes subunit dissociation (non-human recombinant proteins); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "GTPgammaS-Gi alpha1 structure: disordered N-terminus suggests how beta-gamma is released on activation (rat recombinant); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data; neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "re428",
+"label": "",
+"class": "Process",
+"box": [
+852.5,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "Gi alpha1 GTPgammaS and GDP.AlF4 structures: Gln204 and Arg178 in the intrinsic GTP hydrolysis (rat recombinant); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Berman DM et al.",
+"year": "1996",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "GAIP (human) and RGS4 are GAPs for Gi-family alpha, not Gs alpha (purified proteins); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Tesmer JJ et al.",
+"year": "1997",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "RGS4 bound to AlF4-activated Gi alpha1: RGS stabilises the switch regions in the transition state (rat recombinant); neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "re429",
+"label": "",
+"class": "Process",
+"box": [
+538.2,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Gi alpha1(GDP) beta1 gamma2 heterotrimer (recombinant, non-human proteins); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP-GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data; neither cell of this block (purified proteins or general review), applies to both"
+}
+]
+},
+{
+"id": "re430",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRA2A",
+"noradrenaline"
+],
+"out": [
+"Noradrenaline:ADRA2A"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Chappell AS et al.",
+"year": "2009",
+"title": "Duloxetine, a centrally acting analgesic, in the treatment of patients with osteoarthritis knee pain: a 13-week, randomized, placebo-controlled trial.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "19625125",
+"role": "OA",
+"note": "RCT, human knee OA: the SNRI duloxetine (raises synaptic noradrenaline and serotonin, central action) reduces pain; receptor not identified; cell neither nociceptor nor spinal neuron in particular"
+},
+{
+"authors": "Xu J et al.",
+"year": "2022",
+"title": "Structural insights into ligand recognition, activation, and signaling of the α(2A) adrenergic receptor.",
+"journal": "Sci Adv",
+"db": "pubmed",
+"id": "35245122",
+"role": "step",
+"note": "cryo-EM of human α2A bound to norepinephrine (in complex with GoA, a Gi/o-family G protein, not Gi)"
+},
+{
+"authors": "Stone LS et al.",
+"year": "1998",
+"title": "Differential distribution of alpha2A and alpha2C adrenergic receptor immunoreactivity in the rat spinal cord.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "9671679",
+"role": "step",
+"note": "rat spinal cord: α2A on the central terminals of peptidergic primary afferents (nociceptor); α2C on interneurons (spinal neuron, other subtype)"
+},
+{
+"authors": "Pertovaara A",
+"year": "2006",
+"title": "Noradrenergic pain modulation.",
+"journal": "Prog Neurobiol",
+"db": "pubmed",
+"id": "17030082",
+"role": "step",
+"note": "review: descending noradrenaline acts on α2A at nociceptor central terminals (nociceptor) and on α2 receptors of pain relay neurons (spinal neuron)"
+}
+]
+},
+{
+"id": "re438",
+"label": "",
+"class": "Process",
+"box": [
+995.1,
+843.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lockwood SM et al.",
+"year": "2019",
+"title": "An investigation into the noradrenergic and serotonergic contributions of diffuse noxious inhibitory controls in a monoiodoacetate model of osteoarthritis.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "30461363",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn neuron recordings (spinal neuron; spinal α2 blockade acts on afferent terminals and dorsal horn neurons alike, not separated): spinal α2 receptors carry descending inhibition (DNIC); covers the α2-Gi steps by extension"
+},
+{
+"authors": "Taussig R et al.",
+"year": "1993",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "purified activated Gi alpha inhibits adenylyl cyclases directly (myristoylation needed; recombinant); neither cell of this block (purified proteins or general review), applies to both"
+},
+{
+"authors": "Proudman RGW et al.",
+"year": "2022",
+"title": "The signaling and selectivity of α-adrenoceptor agonists for the human α2A, α2B and α2C-adrenoceptors and comparison with human α1 and β-adrenoceptors.",
+"journal": "Pharmacol Res Perspect",
+"db": "pubmed",
+"id": "36101495",
+"role": "step",
+"note": "human α2A in CHO cells: Gi-coupled, agonist Gi-IC50 (cAMP inhibition) measured; high-efficacy agonists also give a Gs phase"
+}
+]
+},
+{
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [

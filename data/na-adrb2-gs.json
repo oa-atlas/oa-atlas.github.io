@@ -4671,6 +4671,397 @@
 ]
 },
 {
+"id": "re431",
+"label": "",
+"class": "Process",
+"box": [
+791.2,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2:Gs",
+"GTP"
+],
+"out": [
+"ADRB2:Gs",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Chung KY et al.",
+"year": "2011",
+"title": "Conformational changes in the G protein Gs induced by the β2 adrenergic receptor.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "21956331",
+"role": "step",
+"note": "both cells: HDX-MS of bovine Gs bound to agonist-bound human β2AR: the receptor alters the P-loop and drives GDP release"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "both cells: human β2AR-Gs complex is nucleotide-free, the change reaching the nucleotide pocket"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed, cited from the review as in the PGE2-EP4 block): the receptor catalyses GDP for GTP exchange"
+}
+]
+},
+{
+"id": "re432",
+"label": "",
+"class": "Process",
+"box": [
+995.1,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2:Gs"
+],
+"out": [
+"Gsα:GTP",
+"Gsβ:Gsγ",
+"noradrenaline",
+"ADRB2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed): GTP-bound α and βγ separate from the receptor"
+}
+]
+},
+{
+"id": "re433",
+"label": "",
+"class": "Process",
+"box": [
+852.5,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP"
+],
+"out": [
+"Gsα:GDP",
+"Pi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "both cells: human pituitary tumours: mutations that block the GTPase of Gsα show its intrinsic GTP hydrolysis"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed): Gsα hydrolyses its GTP by itself"
+}
+]
+},
+{
+"id": "re434",
+"label": "",
+"class": "Process",
+"box": [
+538.2,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GDP",
+"Gsβ:Gsγ"
+],
+"out": [
+"Gs heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein review (no abstract on PubMed): GDP-bound α reassociates with βγ"
+}
+]
+},
+{
+"id": "re435",
+"label": "",
+"class": "Process",
+"box": [
+412.5,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Noradrenaline:ADRB2",
+"Gs heterotrimer"
+],
+"out": [
+"ADRB2:Gs"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension; joint tissues, not neurons)"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "both cells: crystal structure of agonist-bound human β2AR with the Gs heterotrimer (agonist BI-167107, not noradrenaline)"
+}
+]
+},
+{
+"id": "re436",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ADRB2",
+"noradrenaline"
+],
+"out": [
+"Noradrenaline:ADRB2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA (both cells by extension): sympathetic fibres release noradrenaline in the OA joint, joint cells carry adrenoceptors; joint tissues, not neurons"
+},
+{
+"authors": "Ma Z et al.",
+"year": "2025",
+"title": "Effect of regional crosstalk between sympathetic nerves and sensory nerves on temporomandibular joint osteoarthritic pain.",
+"journal": "Int J Oral Sci",
+"db": "pubmed",
+"id": "39762209",
+"role": "OA",
+"note": "nociceptor: mouse TMJ OA (abnormal loading): sympathetic noradrenaline raises OA pain; in co-culture propranolol (non-selective β blocker) stops its effect on trigeminal sensory neurons (full text); TMJ, not knee, β not β2"
+},
+{
+"authors": "Xu X et al.",
+"year": "2021",
+"title": "Binding pathway determines norepinephrine selectivity for the human β(1)AR over β(2)AR.",
+"journal": "Cell Res",
+"db": "pubmed",
+"id": "33093660",
+"role": "step",
+"note": "both cells: human β1AR structures with noradrenaline; the catecholamine pocket is identical in human β2AR, which binds noradrenaline with about tenfold lower affinity"
+},
+{
+"authors": "Khasar SG et al.",
+"year": "1999",
+"title": "Epinephrine produces a beta-adrenergic receptor-mediated mechanical hyperalgesia and in vitro sensitization of rat nociceptors.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "10085337",
+"role": "step",
+"note": "nociceptor: rat paw and cultured small DRG neurons: adrenaline acts on a β-adrenergic receptor of nociceptors (subtype not resolved)"
+},
+{
+"authors": "Nicholson R et al.",
+"year": "2005",
+"title": "Noradrenergic receptor mRNA expression in adult rat superficial dorsal horn and dorsal root ganglion neurons.",
+"journal": "Neurosci Lett",
+"db": "pubmed",
+"id": "15862909",
+"role": "step",
+"note": "spinal neuron: rat in situ hybridisation: β2 mRNA in superficial dorsal horn neurons (none found in DRG neurons)"
+}
+]
+},
+{
+"id": "re439",
+"label": "",
+"class": "Process",
+"box": [
+995.1,
+834.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP",
+"ADCY"
+],
+"out": [
+"Adenylate cyclase"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sohn R et al.",
+"year": "2021",
+"title": "Adrenergic signalling in osteoarthritis.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "33571663",
+"role": "OA",
+"note": "review of adrenergic signalling in OA, receptors and their signalling pathways (both cells by extension)"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "both cells: structure of Gsα·GTPγS bound to the catalytic domains of adenylyl cyclase"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "both cells: human pituitary tumours: GTP-bound (GTPase-dead) Gsα activates adenylyl cyclase"
+},
+{
+"authors": "Khasar SG et al.",
+"year": "1999",
+"title": "Epinephrine produces a beta-adrenergic receptor-mediated mechanical hyperalgesia and in vitro sensitization of rat nociceptors.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "10085337",
+"role": "step",
+"note": "nociceptor: rat: β-adrenergic hyperalgesia needs adenylyl cyclase and PKA (cAMP pathway in nociceptors)"
+}
+]
+},
+{
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [

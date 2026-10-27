@@ -277,6 +277,222 @@
 ]
 },
 {
+"id": "re179",
+"label": "",
+"class": "Process",
+"box": [
+79.0,
+959.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"glutamate"
+],
+"out": [
+"glutamate"
+],
+"by": [
+"Action potential"
+]
+},
+"references": [
+{
+"authors": "Bonnet CS et al.",
+"year": "2020",
+"title": "AMPA/kainate glutamate receptor antagonists prevent posttraumatic osteoarthritis.",
+"journal": "JCI Insight",
+"db": "pubmed",
+"id": "32544091",
+"role": "OA",
+"note": "injured human knees (synovial fluid glutamate 19-129 uM) and mouse ACL-rupture post-traumatic OA: glutamate released into the joint acts on nerves"
+},
+{
+"authors": "Lever IJ et al.",
+"year": "2001",
+"title": "Brain-derived neurotrophic factor is released in the dorsal horn by distinctive patterns of afferent fiber stimulation.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "11404434",
+"role": "step",
+"note": "rat isolated dorsal horn: afferent burst stimulation releases glutamate with SP and BDNF"
+}
+]
+},
+{
+"id": "re305",
+"label": "",
+"class": "Process",
+"box": [
+209.0,
+959.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TAC1"
+],
+"out": [
+"TAC1"
+],
+"by": [
+"Action potential"
+]
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"year": "2025",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"journal": "J Neuropathol Exp Neurol",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA OA: SP-NK1R signalling in knee, DRG and dorsal horn drives chronic OA pain"
+},
+{
+"authors": "Grässel S et al.",
+"year": "2017",
+"title": "Peripheral Nerve Fibers and Their Neurotransmitters in Osteoarthritis Pathology.",
+"journal": "Int J Mol Sci",
+"db": "pubmed",
+"id": "28452955",
+"role": "OA",
+"note": "review: sensory neuropeptides (SP, CGRP) from joint nerve fibres in OA pathology"
+},
+{
+"authors": "Lever IJ et al.",
+"year": "2001",
+"title": "Brain-derived neurotrophic factor is released in the dorsal horn by distinctive patterns of afferent fiber stimulation.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "11404434",
+"role": "step",
+"note": "rat dorsal horn: SP released by C-fibre stimulation"
+},
+{
+"authors": "Sauerstein K et al.",
+"year": "2000",
+"title": "Electrically evoked neuropeptide release and neurogenic inflammation differ between rat and human skin.",
+"journal": "J Physiol",
+"db": "pubmed",
+"id": "11118507",
+"role": "step",
+"note": "human skin microdialysis: electrical nerve stimulation releases SP and CGRP"
+}
+]
+},
+{
+"id": "re321",
+"label": "",
+"class": "Process",
+"box": [
+603.5,
+959.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"BDNF"
+],
+"out": [
+"BDNF"
+],
+"by": [
+"Action potential"
+]
+},
+"references": [
+{
+"db": "pubmed",
+"id": "31479064",
+"role": "OA",
+"note": "human OA synovium has BDNF and TrkB; rat MIA and MNX OA: endogenous joint BDNF maintains OA pain (TrkB-Fc reverses it)"
+},
+{
+"authors": "Lever IJ et al.",
+"year": "2001",
+"title": "Brain-derived neurotrophic factor is released in the dorsal horn by distinctive patterns of afferent fiber stimulation.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "11404434",
+"role": "step",
+"note": "rat dorsal horn: activity-dependent BDNF release from primary afferents by burst stimulation"
+},
+{
+"authors": "Brigadski T et al.",
+"year": "2020",
+"title": "The physiology of regulated BDNF release.",
+"journal": "Cell Tissue Res",
+"db": "pubmed",
+"id": "32944867",
+"role": "step",
+"note": "review of regulated (activity-dependent) BDNF release"
+}
+]
+},
+{
+"id": "re368",
+"label": "",
+"class": "Process",
+"box": [
+473.5,
+959.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CGRP"
+],
+"out": [
+"CGRP"
+],
+"by": [
+"Action potential"
+]
+},
+"references": [
+{
+"authors": "Bullock CM et al.",
+"year": "2014",
+"title": "Peripheral calcitonin gene-related peptide receptor activation and mechanical sensitization of the joint in rat models of osteoarthritis pain.",
+"journal": "Arthritis Rheumatol",
+"db": "pubmed",
+"id": "24719311",
+"role": "OA",
+"note": "rat MIA and MMT OA: endogenous CGRP in the joint sensitises joint nociceptors (CGRP 8-37 reverses it)"
+},
+{
+"authors": "Walsh DA et al.",
+"year": "2015",
+"title": "Calcitonin gene-related peptide in the joint: contributions to pain and inflammation.",
+"journal": "Br J Clin Pharmacol",
+"db": "pubmed",
+"id": "25923821",
+"role": "OA",
+"note": "review of CGRP in OA and RA joints: peripheral release from joint afferents, sensitisation"
+},
+{
+"authors": "Sauerstein K et al.",
+"year": "2000",
+"title": "Electrically evoked neuropeptide release and neurogenic inflammation differ between rat and human skin.",
+"journal": "J Physiol",
+"db": "pubmed",
+"id": "11118507",
+"role": "step",
+"note": "human skin microdialysis: electrical nerve stimulation releases CGRP and SP"
+}
+]
+},
+{
 "label": "CALCRL",
 "class": "Macromolecule",
 "box": [
@@ -778,6 +994,144 @@
 "UniProt",
 "O60894"
 ]
+]
+},
+{
+"id": "re306",
+"label": "",
+"class": "Process",
+"box": [
+209.0,
+479.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TAC1",
+"MRGPRX2"
+],
+"out": [
+"TAC1:MRGPRX2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Okamura Y et al.",
+"year": "2017",
+"title": "The dual regulation of substance P-mediated inflammation via human synovial mast cells in rheumatoid arthritis.",
+"journal": "Allergol Int",
+"db": "pubmed",
+"id": "28366675",
+"role": "OA",
+"note": "human synovial mast cells cultured from RA and OA joint replacement synovium: SP activates them through MrgX2 (histamine release)"
+},
+{
+"authors": "Wang Q et al.",
+"year": "2019",
+"title": "IgE-mediated mast cell activation promotes inflammation and cartilage destruction in osteoarthritis.",
+"journal": "Elife",
+"db": "pubmed",
+"id": "31084709",
+"role": "OA",
+"note": "human and mouse OA joints: mast cells activated; mast cell deficiency attenuates OA (IgE route, not SP)"
+},
+{
+"authors": "Green DP et al.",
+"year": "2019",
+"title": "A Mast-Cell-Specific Receptor Mediates Neurogenic Inflammation and Pain.",
+"journal": "Neuron",
+"db": "pubmed",
+"id": "30686732",
+"role": "step",
+"note": "mouse Mrgprb2 and human MRGPRX2: SP activates mast cells independently of NK1R, inflammatory pain"
+},
+{
+"authors": "Tatemoto K et al.",
+"year": "2006",
+"title": "Immunoglobulin E-independent activation of mast cell is mediated by Mrg receptors.",
+"journal": "Biochem Biophys Res Commun",
+"db": "pubmed",
+"id": "16979137",
+"role": "step",
+"note": "human MrgX2: basic secretagogues including SP activate mast cell G proteins through Mrg receptors"
+},
+{
+"authors": "Hsin L et al.",
+"year": "2022",
+"title": "The effect of substance P and its common in vivo-formed metabolites on MRGPRX2 and human mast cell activation.",
+"journal": "Pharmacol Res Perspect",
+"db": "pubmed",
+"id": "35904495",
+"role": "step",
+"note": "human mast cells: SP activates MRGPRX2 and degranulation"
+}
+]
+},
+{
+"id": "re369",
+"label": "",
+"class": "Process",
+"box": [
+473.5,
+479.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CGRP",
+"CALCRL:RAMP1"
+],
+"out": [
+"CGRP:CALCRL:RAMP1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Bullock CM et al.",
+"year": "2014",
+"title": "Peripheral calcitonin gene-related peptide receptor activation and mechanical sensitization of the joint in rat models of osteoarthritis pain.",
+"journal": "Arthritis Rheumatol",
+"db": "pubmed",
+"id": "24719311",
+"role": "OA",
+"note": "rat MIA OA: CGRP receptor (CLR) on joint afferents, up-regulated; receptor activation sensitises them (neurons, not mast cells)"
+},
+{
+"authors": "Liang YL et al.",
+"year": "2018",
+"title": "Cryo-EM structure of the active, G(s)-protein complexed, human CGRP receptor.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "30209400",
+"role": "step",
+"note": "cryo-EM of human CGRP receptor (CLR:RAMP1) bound to CGRP with Gs"
+},
+{
+"authors": "McLatchie LM et al.",
+"year": "1998",
+"title": "RAMPs regulate the transport and ligand specificity of the calcitonin-receptor-like receptor.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "9620797",
+"role": "step",
+"note": "CRLR with RAMP1 forms the CGRP receptor (transfected cells)"
+},
+{
+"authors": "Li X et al.",
+"year": "2026",
+"title": "Calcitonin gene-related peptide promotes mast cell-mediated neuroimmune inflammation through the CALCRL/RAMP1-JAK3-STAT1 axis in rosacea.",
+"journal": "Front Immunol",
+"db": "pubmed",
+"id": "42751103",
+"role": "step",
+"note": "human rosacea skin: CALCRL and RAMP1 on dermal mast cells; LUVA human mast cell line degranulates to CGRP, blocked by rimegepant"
+}
 ]
 },
 {

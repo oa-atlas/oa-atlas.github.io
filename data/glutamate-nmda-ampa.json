@@ -1085,6 +1085,379 @@
 ]
 },
 {
+"id": "re180",
+"label": "",
+"class": "Process",
+"box": [
+201.0,
+292.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"NMDA receptor",
+"glutamate"
+],
+"out": [
+"Glutamate:NMDA receptor"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Liu Z et al.",
+"year": "2023",
+"title": "Transcranial Direct Current Stimulation Attenuates the Chronic Pain of Osteoarthritis in Rats via Reducing NMDAR2B Expressions in the Spinal Cord.",
+"journal": "J Musculoskelet Neuronal Interact",
+"db": "pubmed",
+"id": "38037367",
+"role": "OA",
+"note": "rat MIA knee OA, spinal cord: NMDA receptor GluN2B raised in the spinal cord with the pain behaviour, reversed by tDCS"
+},
+{
+"authors": "Lin Y et al.",
+"year": "2017",
+"title": "Inhibition of interleukin-6 function attenuates the central sensitization and pain behavior induced by osteoarthritis.",
+"journal": "Eur J Pharmacol",
+"db": "pubmed",
+"id": "28663035",
+"role": "OA",
+"note": "rat MIA knee OA, dorsal horn: NMDA subunit NR2B (and GluR1) upregulated in the ipsilateral dorsal horn with central sensitisation"
+},
+{
+"authors": "Schaible HG et al.",
+"year": "2024",
+"title": "Spinal pain processing in arthritis: Neuron and glia (inter)actions.",
+"journal": "J Neurochem",
+"db": "pubmed",
+"id": "36520021",
+"role": "OA",
+"note": "review of spinal pain processing in arthritis, osteoarthritis models included: spinal sensitisation depends on spinal glutamate receptors"
+},
+{
+"authors": "Zhang Y et al.",
+"year": "2021",
+"title": "Structural basis of ketamine action on human NMDA receptors.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "34321660",
+"role": "step",
+"note": "cryo-EM of human GluN1-GluN2A and GluN1-GluN2B NMDA receptors with glutamate and glycine bound"
+},
+{
+"authors": "Furukawa H et al.",
+"year": "2005",
+"title": "Subunit arrangement and function in NMDA receptors.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "16281028",
+"role": "step",
+"note": "NMDA receptor structure and function: activation needs glycine on GluN1 and glutamate on GluN2, then cations flow in"
+}
+]
+},
+{
+"id": "re202",
+"label": "",
+"class": "Process",
+"box": [
+654.8,
+292.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GluA1:GluA3",
+"glutamate"
+],
+"out": [
+"Glutamate:GluA1:GluA3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Wu M et al.",
+"year": "2026",
+"title": "Acupotomy Alleviates Pain and Attenuates Spinal Neuronal Hyperexcitability in Knee Osteoarthritis Rats: Implication of the CaMKII/GluA1 Axis.",
+"journal": "J Pain Res",
+"db": "pubmed",
+"id": "42898890",
+"role": "OA",
+"note": "rat MIA knee OA, spinal substantia gelatinosa: Gria1/GluA1 and its phosphorylation raised with neuronal hyperexcitability, both lowered by the treatment"
+},
+{
+"authors": "Schaible HG et al.",
+"year": "2024",
+"title": "Spinal pain processing in arthritis: Neuron and glia (inter)actions.",
+"journal": "J Neurochem",
+"db": "pubmed",
+"id": "36520021",
+"role": "OA",
+"note": "review, arthritis including osteoarthritis models: spinal AMPA receptors carry spinal sensitisation to knee input"
+},
+{
+"authors": "Polgár E et al.",
+"year": "2008",
+"title": "Expression of AMPA receptor subunits at synapses in laminae I-III of the rodent spinal dorsal horn.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "18215271",
+"role": "step",
+"note": "rat dorsal horn laminae I-III: GluA1 and GluA3 sit together at glutamatergic synapses (but with GluA2)"
+},
+{
+"authors": "Herguedas B et al.",
+"year": "2016",
+"title": "Structure and organization of heteromeric AMPA-type glutamate receptors.",
+"journal": "Science",
+"db": "pubmed",
+"id": "26966189",
+"role": "step",
+"note": "structures of AMPA receptor heteromers (GluA2/3, GluA2/4): GluA1-GluA4 assemble as heteromeric tetramers around a central axis"
+},
+{
+"authors": "Pokharna A et al.",
+"year": "2025",
+"title": "Architecture, dynamics and biogenesis of GluA3 AMPA glutamate receptors.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "40592473",
+"role": "step",
+"note": "GluA3 cryo-EM (rat constructs, human disease mutations mapped): GluA3 forms a Ca2+-permeable, fast-transmitting receptor at sensory synapses"
+}
+]
+},
+{
+"id": "re203",
+"label": "",
+"class": "Process",
+"box": [
+1058.9,
+292.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GRIA1",
+"glutamate"
+],
+"out": [
+"Glutamate:GluA1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Wu M et al.",
+"year": "2026",
+"title": "Acupotomy Alleviates Pain and Attenuates Spinal Neuronal Hyperexcitability in Knee Osteoarthritis Rats: Implication of the CaMKII/GluA1 Axis.",
+"journal": "J Pain Res",
+"db": "pubmed",
+"id": "42898890",
+"role": "OA",
+"note": "rat MIA knee OA: GluA1 (Gria1) in the spinal substantia gelatinosa drives the hyperexcitability of these neurons"
+},
+{
+"authors": "Lin Y et al.",
+"year": "2017",
+"title": "Inhibition of interleukin-6 function attenuates the central sensitization and pain behavior induced by osteoarthritis.",
+"journal": "Eur J Pharmacol",
+"db": "pubmed",
+"id": "28663035",
+"role": "OA",
+"note": "rat MIA knee OA: GluR1 (GluA1) upregulated in the ipsilateral dorsal horn, with c-Fos and pain behaviour"
+},
+{
+"authors": "Ismail V et al.",
+"year": "2022",
+"title": "Identification and functional evaluation of GRIA1 missense and truncation variants in individuals with ID: An emerging neurodevelopmental syndrome.",
+"journal": "Am J Hum Genet",
+"db": "pubmed",
+"id": "35675825",
+"role": "step",
+"note": "human GRIA1 variants from patients, GluA1-containing AMPA receptors assayed in vitro: GluA1 forms a glutamate-gated channel whose function the variants perturb"
+},
+{
+"authors": "Wigerblad G et al.",
+"year": "2017",
+"title": "Inflammation-induced GluA1 trafficking and membrane insertion of Ca(2+) permeable AMPA receptors in dorsal horn neurons is dependent on spinal tumor necrosis factor, PI3 kinase and protein kinase A.",
+"journal": "Exp Neurol",
+"db": "pubmed",
+"id": "28412220",
+"role": "step",
+"note": "rat inflammation: GluA2-lacking, Ca2+-permeable GluA1 receptors are inserted into synapses of nociceptive dorsal horn projection neurons"
+},
+{
+"authors": "Kumar Mondal A et al.",
+"year": "2025",
+"title": "Glutamate gating of AMPA-subtype iGluRs at physiological temperatures.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "40140570",
+"role": "step",
+"note": "cryo-EM at physiological temperature: glutamate binding opens the AMPA receptor channel and lets cations in"
+}
+]
+},
+{
+"id": "re204",
+"label": "",
+"class": "Process",
+"box": [
+1776.0,
+530.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+",
+"Na+"
+],
+"out": [
+"Ca2+",
+"Na+"
+],
+"by": [
+"OR"
+]
+},
+"references": [
+{
+"authors": "Wu M et al.",
+"year": "2026",
+"title": "Acupotomy Alleviates Pain and Attenuates Spinal Neuronal Hyperexcitability in Knee Osteoarthritis Rats: Implication of the CaMKII/GluA1 Axis.",
+"journal": "J Pain Res",
+"db": "pubmed",
+"id": "42898890",
+"role": "OA",
+"note": "rat MIA knee OA: spinal neurons of the substantia gelatinosa fire at abnormally high frequency, with calcium signalling genes enriched"
+},
+{
+"authors": "Schaible HG et al.",
+"year": "2024",
+"title": "Spinal pain processing in arthritis: Neuron and glia (inter)actions.",
+"journal": "J Neurochem",
+"db": "pubmed",
+"id": "36520021",
+"role": "OA",
+"note": "review, arthritis and osteoarthritis models: the spinal hyperexcitability these currents produce is the spinal side of arthritis pain"
+},
+{
+"authors": "Burnashev N et al.",
+"year": "1995",
+"title": "Fractional calcium currents through recombinant GluR channels of the NMDA, AMPA and kainate receptor subtypes.",
+"journal": "J Physiol",
+"db": "pubmed",
+"id": "7666365",
+"role": "step",
+"note": "recombinant receptors in HEK293: glutamate-gated current carries Ca2+ through NMDA receptors (8-11% of the current) and through GluA2(Q)-lacking AMPA receptors, almost none through GluA2(R)-containing ones; the rest is Na+"
+},
+{
+"authors": "D'Andrea T et al.",
+"year": "2024",
+"title": "Selective Reduction of Ca(2+) Entry Through the Human NMDA Receptor: a Quantitative Study by Simultaneous Ca(2+) and Na(+) Imaging.",
+"journal": "Mol Neurobiol",
+"db": "pubmed",
+"id": "38240993",
+"role": "step",
+"note": "human NMDA receptors and human iPSC-derived neurons: simultaneous Ca2+ and Na+ imaging measures the Ca2+ share of the NMDA current"
+},
+{
+"authors": "Kumar Mondal A et al.",
+"year": "2025",
+"title": "Glutamate gating of AMPA-subtype iGluRs at physiological temperatures.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "40140570",
+"role": "step",
+"note": "AMPA receptor gating: the channel opens on glutamate binding and cations enter the postsynaptic neuron"
+}
+]
+},
+{
+"id": "re458",
+"label": "",
+"class": "Process",
+"box": [
+1470.9,
+292.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GluA1:GluA4",
+"glutamate"
+],
+"out": [
+"Glutamate:GluA1:GluA4"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Schaible HG et al.",
+"year": "2024",
+"title": "Spinal pain processing in arthritis: Neuron and glia (inter)actions.",
+"journal": "J Neurochem",
+"db": "pubmed",
+"id": "36520021",
+"role": "OA",
+"note": "review, arthritis including osteoarthritis: spinal AMPA receptors are needed for spinal sensitisation to joint input (no OA paper on GluA4 itself)"
+},
+{
+"authors": "Wu M et al.",
+"year": "2026",
+"title": "Acupotomy Alleviates Pain and Attenuates Spinal Neuronal Hyperexcitability in Knee Osteoarthritis Rats: Implication of the CaMKII/GluA1 Axis.",
+"journal": "J Pain Res",
+"db": "pubmed",
+"id": "42898890",
+"role": "OA",
+"note": "rat MIA knee OA: AMPA receptor subunit GluA1 and spinal neuronal hyperexcitability in knee OA (GluA4 not measured)"
+},
+{
+"authors": "Polgár E et al.",
+"year": "2008",
+"title": "Expression of AMPA receptor subunits at synapses in laminae I-III of the rodent spinal dorsal horn.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "18215271",
+"role": "step",
+"note": "rat dorsal horn: the long form of GluA4 is at synapses of lamina I cells, apparently including projection neurons, but largely separate from GluA1"
+},
+{
+"authors": "Hale WD et al.",
+"year": "2026",
+"title": "Structural basis for activation and conformational plasticity of the GluA4 AMPA receptor.",
+"journal": "Nat Commun",
+"db": "pubmed",
+"id": "41656278",
+"role": "step",
+"note": "cryo-EM of the GluA4 receptor (rat GluA4 with human TARP gamma-2; human disease variants mapped): all four binding domains bind glutamate and open the channel, which is Ca2+ permeable"
+},
+{
+"authors": "Herguedas B et al.",
+"year": "2016",
+"title": "Structure and organization of heteromeric AMPA-type glutamate receptors.",
+"journal": "Science",
+"db": "pubmed",
+"id": "26966189",
+"role": "step",
+"note": "AMPA receptor heteromer structures including GluA2/GluA4: GluA1-GluA4 form heteromeric tetramers"
+}
+]
+},
+{
 "label": "glutamate",
 "class": "SimpleChemical",
 "box": [

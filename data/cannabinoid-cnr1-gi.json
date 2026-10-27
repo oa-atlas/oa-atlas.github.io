@@ -5559,6 +5559,489 @@
 ]
 },
 {
+"id": "re282",
+"label": "",
+"class": "Process",
+"box": [
+393.5,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Cannabinoid:CNR1",
+"Gi heterotrimer"
+],
+"out": [
+"CNR1:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"year": "2010",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): spinal CB1 signalling is functionally increased in the dorsal horn (spinal AM251 facilitates WDR neuron responses more in OA rats, full text)"
+},
+{
+"authors": "Schuelert N et al.",
+"year": "2011",
+"title": "Local application of the endocannabinoid hydrolysis inhibitor URB597 reduces nociception in spontaneous and chemically induced models of osteoarthritis.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "21185649",
+"role": "OA",
+"note": "rat and guinea pig OA: the antinociception of raised endocannabinoids is abolished by the CB1 antagonist AM251, not by the CB2 antagonist (CB1 pathway in OA)"
+},
+{
+"authors": "Krishna Kumar K et al.",
+"year": "2019",
+"title": "Structure of a Signaling Cannabinoid Receptor 1-G Protein Complex.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "30639101",
+"role": "step",
+"note": "cryo-EM of human full-length CB1 with the agonist MDMB-Fubinaca bound to the human Gi1 heterotrimer (full text: human Gαi and β1γ2 expressed)"
+},
+{
+"authors": "Hua T et al.",
+"year": "2020",
+"title": "Activation and Signaling Mechanism Revealed by Cannabinoid Receptor-G(i) Complex Structures.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "32004463",
+"role": "step",
+"note": "second, independent cryo-EM structure of human CB1 in complex with human Giα1β1γ2 (full text)"
+},
+{
+"authors": "Felder CC et al.",
+"year": "1995",
+"title": "Comparison of the pharmacology and signal transduction of the human cannabinoid CB1 and CB2 receptors.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "7565624",
+"role": "step",
+"note": "human CB1 in transfected cells: agonist inhibition of cAMP is pertussis toxin sensitive, i.e. through Gi/o"
+}
+]
+},
+{
+"id": "re283",
+"label": "",
+"class": "Process",
+"box": [
+762.8,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CNR1:Gi",
+"GTP"
+],
+"out": [
+"CNR1:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"year": "2010",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): the spinal CB1 pathway is active in the dorsal horn of OA animals (the OA setting of the G protein cycle steps)"
+},
+{
+"authors": "Glass M et al.",
+"year": "1999",
+"title": "Agonist selective regulation of G proteins by cannabinoid CB(1) and CB(2) receptors.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "10570066",
+"role": "step",
+"note": "human CB1 in insect cell membranes reconstituted with purified bovine brain Gi: the agonist-bound receptor catalyses GDP-GTP exchange on Gi"
+},
+{
+"authors": "Krishna Kumar K et al.",
+"year": "2019",
+"title": "Structure of a Signaling Cannabinoid Receptor 1-G Protein Complex.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "30639101",
+"role": "step",
+"note": "human CB1-Gi structure: the agonist-bound receptor empties the nucleotide pocket of Gαi (full text: no GDP density; GTP turnover assays)"
+},
+{
+"authors": "Hua T et al.",
+"year": "2020",
+"title": "Activation and Signaling Mechanism Revealed by Cannabinoid Receptor-G(i) Complex Structures.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "32004463",
+"role": "step",
+"note": "human CB1-Gi and CB2-Gi structures, full text: Gi is nucleotide-free in the receptor complex"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review of the G protein cycle: the activated receptor catalyses GDP for GTP exchange on the alpha subunit. No abstract in PubMed, so no quote can be given"
+}
+]
+},
+{
+"id": "re284",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CNR1",
+"cannabinoid"
+],
+"out": [
+"Cannabinoid:CNR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"year": "2010",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): spinal anandamide and 2-AG raised, their synthetic enzymes up, and spinal CB1 is tonically active on dorsal horn neurons"
+},
+{
+"authors": "Schuelert N et al.",
+"year": "2011",
+"title": "Local application of the endocannabinoid hydrolysis inhibitor URB597 reduces nociception in spontaneous and chemically induced models of osteoarthritis.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "21185649",
+"role": "OA",
+"note": "rat MIA and spontaneous guinea pig OA: raising endocannabinoid levels with the FAAH inhibitor URB597 reduces joint afferent firing and pain, through CB1"
+},
+{
+"authors": "Burston JJ et al.",
+"year": "2016",
+"title": "Robust anti-nociceptive effects of monoacylglycerol lipase inhibition in a model of osteoarthritis pain.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "27501482",
+"role": "OA",
+"note": "rat knee OA (MIA): the MAG lipase inhibitor MJN110 raises 2-AG and reverses OA pain behaviour via CB1 and CB2"
+},
+{
+"authors": "Felder CC et al.",
+"year": "1995",
+"title": "Comparison of the pharmacology and signal transduction of the human cannabinoid CB1 and CB2 receptors.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "7565624",
+"role": "step",
+"note": "human CB1 in transfected AtT-20 and CHO cells: high-affinity binding of cannabinoids and of the endocannabinoid anandamide"
+},
+{
+"authors": "Hua T et al.",
+"year": "2020",
+"title": "Activation and Signaling Mechanism Revealed by Cannabinoid Receptor-G(i) Complex Structures.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "32004463",
+"role": "step",
+"note": "cryo-EM of agonist-bound human CB1 (synthetic cannabinoid) in complex with human Gi: the ligand pocket of the active receptor"
+}
+]
+},
+{
+"id": "re285",
+"label": "",
+"class": "Process",
+"box": [
+961.9,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"CNR1:Gi"
+],
+"out": [
+"Giα:GTP",
+"cannabinoid",
+"Giβ:Giγ",
+"CNR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"year": "2010",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): the spinal CB1 pathway is active in the dorsal horn of OA animals (the OA setting of the G protein cycle steps)"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Giα1β1γ2 heterotrimer (recombinant, non-human): GTP rearranges switch II of Giα, which separates it from βγ"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "GTPγS-Giα1 structure (rat recombinant): the disordered N-terminus suggests how βγ is released on activation"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review of the G protein cycle: the GTP-bound alpha subunit separates from the beta-gamma dimer. No abstract in PubMed, so no quote can be given"
+}
+]
+},
+{
+"id": "re286",
+"label": "",
+"class": "Process",
+"box": [
+822.8,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"year": "2010",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): the spinal CB1 pathway is active in the dorsal horn of OA animals (the OA setting of the G protein cycle steps)"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "Giα1 GTPγS and GDP.AlF4 structures (rat recombinant): Gln204 and Arg178 in the intrinsic GTP hydrolysis"
+},
+{
+"authors": "Berman DM et al.",
+"year": "1996",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "purified proteins: GAIP (cloned from human) and RGS4 are GAPs for Gi-family alpha subunits"
+},
+{
+"authors": "Tesmer JJ et al.",
+"year": "1997",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "RGS4 bound to AlF4-activated Giα1 (rat recombinant): how RGS accelerates hydrolysis"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review of the G protein cycle: the alpha subunit hydrolyses its bound GTP to GDP and Pi, ending the active state. No abstract in PubMed, so no quote can be given"
+}
+]
+},
+{
+"id": "re287",
+"label": "",
+"class": "Process",
+"box": [
+515.6,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"year": "2010",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): the spinal CB1 pathway is active in the dorsal horn of OA animals (the OA setting of the G protein cycle steps)"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure: GDP-bound Giα1 sits with β1γ2 as the inactive heterotrimer (recombinant, non-human)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic review of the G protein cycle: the GDP-bound alpha subunit reassociates with beta-gamma. No abstract in PubMed, so no quote can be given"
+}
+]
+},
+{
+"id": "re293",
+"label": "",
+"class": "Process",
+"box": [
+961.9,
+843.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sagar DR et al.",
+"year": "2010",
+"title": "Tonic modulation of spinal hyperexcitability by the endocannabinoid receptor system in a rat model of osteoarthritis pain.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "20722027",
+"role": "OA",
+"note": "rat knee OA (MIA): the spinal CB1 pathway is active in the dorsal horn of OA animals (its effector step is not measured here)"
+},
+{
+"authors": "Taussig R et al.",
+"year": "1993",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "purified proteins: activated, myristoylated Giα directly inhibits adenylyl cyclases (not Goα)"
+},
+{
+"authors": "Felder CC et al.",
+"year": "1995",
+"title": "Comparison of the pharmacology and signal transduction of the human cannabinoid CB1 and CB2 receptors.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "7565624",
+"role": "step",
+"note": "human CB1 in transfected cells: agonists inhibit cAMP accumulation, pertussis toxin sensitive (receptor level, Giα-cyclase contact not shown)"
+},
+{
+"authors": "Krishna Kumar K et al.",
+"year": "2019",
+"title": "Structure of a Signaling Cannabinoid Receptor 1-G Protein Complex.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "30639101",
+"role": "step",
+"note": "human CB1-Gi structure paper: CB1 signals through the adenylyl cyclase-inhibiting Gi"
+}
+]
+},
+{
 "label": "cannabinoid",
 "class": "SimpleChemical",
 "box": [

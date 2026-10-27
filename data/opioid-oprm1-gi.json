@@ -5623,6 +5623,617 @@
 ]
 },
 {
+"id": "re294",
+"label": "",
+"class": "Process",
+"box": [
+528.0,
+702.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Opioid:OPRM1",
+"Gi heterotrimer"
+],
+"out": [
+"OPRM1:Gi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Inglis JJ et al.",
+"year": "2008",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: MOR in the nerves supplying the OA joint carries the endogenous opioid control of OA pain (covers the receptor's signalling steps by extension)"
+},
+{
+"authors": "Lillywhite A et al.",
+"year": "2021",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"journal": "Pain Rep",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: spinal dorsal horn MOR function (phosphorylation, desensitisation, blunted morphine analgesia) altered in OA-like pain"
+},
+{
+"authors": "Wang Y et al.",
+"year": "2023",
+"title": "Structures of the entire human opioid receptor family.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "36638794",
+"role": "step",
+"note": "cryo-EM of the human mu-opioid receptor in complex with Gi, bound to its endogenous peptides"
+},
+{
+"authors": "Koehl A et al.",
+"year": "2018",
+"title": "Structure of the µ-opioid receptor-G(i) protein complex.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "29899455",
+"role": "step",
+"note": "cryo-EM of the agonist-bound mu-opioid receptor with the Gi heterotrimer; receptor construct is the mouse muOR (full text), Gi coupling specificity shown"
+}
+]
+},
+{
+"id": "re295",
+"label": "",
+"class": "Process",
+"box": [
+914.0,
+702.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"OPRM1:Gi",
+"GTP"
+],
+"out": [
+"OPRM1:Gi",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Inglis JJ et al.",
+"year": "2008",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: MOR induced in joint nerves masks OA pain (covers the receptor's G protein cycle by extension)"
+},
+{
+"authors": "Lillywhite A et al.",
+"year": "2021",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"journal": "Pain Rep",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: spinal MOR signalling altered in OA-like pain"
+},
+{
+"authors": "Koehl A et al.",
+"year": "2018",
+"title": "Structure of the µ-opioid receptor-G(i) protein complex.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "29899455",
+"role": "step",
+"note": "mouse muOR with nucleotide-free Gi: the receptor complex is the state the nucleotide has left, the step the exchange begins from"
+},
+{
+"authors": "Oldham WM et al.",
+"year": "2007",
+"title": "Mapping allosteric connections from the receptor to the nucleotide-binding pocket of heterotrimeric G proteins.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "17463080",
+"role": "step",
+"note": "EPR on Gi alpha with activated rhodopsin: receptor binding empties the nucleotide pocket (receptor-catalysed exchange)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle (receptor-catalysed GDP for GTP exchange, alpha-GTP and beta-gamma separating, hydrolysis, reassociation); no human data"
+}
+]
+},
+{
+"id": "re296",
+"label": "",
+"class": "Process",
+"box": [
+271.0,
+702.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"OPRM1",
+"opioid agonist: opioid peptide"
+],
+"out": [
+"Opioid:OPRM1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Inglis JJ et al.",
+"year": "2008",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA (medial meniscotibial ligament transection), nociceptor side: the endogenous peripheral opioid system masks OA pain and MOR is transiently induced in the nerves supplying the joint"
+},
+{
+"authors": "Lillywhite A et al.",
+"year": "2021",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"journal": "Pain Rep",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: endogenous opioid tone (plasma beta-endorphin) raised and spinal dorsal horn MOR phosphorylated in OA-like pain"
+},
+{
+"authors": "Wang Y et al.",
+"year": "2023",
+"title": "Structures of the entire human opioid receptor family.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "36638794",
+"role": "step",
+"note": "cryo-EM of human mu-opioid receptor bound to the endogenous peptides endomorphin and beta-endorphin, each with Gi"
+},
+{
+"authors": "Corder G et al.",
+"year": "2018",
+"title": "Endogenous and Exogenous Opioids in Pain.",
+"journal": "Annu Rev Neurosci",
+"db": "pubmed",
+"id": "29852083",
+"role": "step",
+"note": "review of endogenous and exogenous opioids in pain: the peptide families and the four receptors they act at (both cells)"
+}
+]
+},
+{
+"id": "re_analgesic",
+"label": "",
+"class": "Process",
+"box": [
+399.5,
+591.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"OPRM1",
+"opioid agonist: opioid analgesic"
+],
+"out": [
+"Opioid:OPRM1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "da Costa BR et al.",
+"year": "2014",
+"title": "Oral or transdermal opioids for osteoarthritis of the knee or hip.",
+"journal": "Cochrane Database Syst Rev",
+"db": "pubmed",
+"id": "25229835",
+"role": "OA",
+"note": "Cochrane review, knee or hip OA (tramadol excluded): oral or transdermal opioids reduce OA pain more than placebo, but by less than the minimal clinically important difference, with more adverse events"
+},
+{
+"authors": "Miranda JA et al.",
+"year": "2014",
+"title": "A preclinical physiological assay to test modulation of knee joint pain in the spinal cord: effects of oxycodone and naproxen.",
+"journal": "PLoS One",
+"db": "pubmed",
+"id": "25157947",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: intravenous oxycodone (a MOR agonist) reduces the firing of spinal neurons to knee joint rotation at clinically relevant doses"
+},
+{
+"authors": "Zhuang Y et al.",
+"year": "2022",
+"title": "Molecular recognition of morphine and fentanyl by the human μ-opioid receptor.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "36368306",
+"role": "step",
+"note": "cryo-EM structures of the human mu-opioid receptor bound to morphine and fentanyl (and to TRV130, PZM21, SR17018), in complex with G protein"
+},
+{
+"authors": "D'Arcy Y et al.",
+"year": "2021",
+"title": "Treating osteoarthritis pain: mechanisms of action of acetaminophen, nonsteroidal anti-inflammatory drugs, opioids, and nerve growth factor antibodies.",
+"journal": "Postgrad Med",
+"db": "pubmed",
+"id": "34252357",
+"role": "OA",
+"note": "OA pain review (source reference of the block): opioids one of the common drug treatments of OA, acting at opioid receptors"
+}
+]
+},
+{
+"id": "re_nlx",
+"label": "",
+"class": "Process",
+"box": [
+181.0,
+802.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"opioid antagonist",
+"OPRM1"
+],
+"out": [
+"Antagonist:OPRM1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Inglis JJ et al.",
+"year": "2008",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: naloxone, and peripherally restricted naloxone methiodide, bring pain on 4 weeks earlier, so the antagonist blocks MOR in the nerves supplying the OA joint"
+},
+{
+"authors": "Lillywhite A et al.",
+"year": "2021",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"journal": "Pain Rep",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: systemic naloxone increases mechanical hypersensitivity, showing it blocks the endogenous opioid tone in OA-like pain"
+},
+{
+"authors": "Wang D et al.",
+"year": "2001",
+"title": "Inverse agonists and neutral antagonists at mu opioid receptor (MOR): possible role of basal receptor signaling in narcotic dependence.",
+"journal": "J Neurochem",
+"db": "pubmed",
+"id": "11413242",
+"role": "step",
+"note": "cell membranes and intact cells expressing MOR (GTPgammaS binding, cAMP): naloxone and naltrexone bind MOR as neutral antagonists at a drug-naive receptor, inverse agonists only after morphine pretreatment; the drawing's product goes no further"
+},
+{
+"authors": "Wang D et al.",
+"year": "2007",
+"title": "Different effects of opioid antagonists on mu-, delta-, and kappa-opioid receptors with and without agonist pretreatment.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "17267582",
+"role": "step",
+"note": "transfected human embryonic kidney 293 cell membranes: binding potency of naloxone, naltrexone and analogues at MOR, DOR and KOR, and their effect on basal and agonist-stimulated signalling"
+}
+]
+},
+{
+"id": "re298",
+"label": "",
+"class": "Process",
+"box": [
+976.1,
+1114.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP"
+],
+"out": [
+"Giα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Lillywhite A et al.",
+"year": "2021",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"journal": "Pain Rep",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: MOR-Gi signalling in the dorsal horn in OA-like pain (covers the cycle's steps by extension)"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "Gi alpha1 GTPgammaS and GDP.AlF4 structures: Gln204 and Arg178 in the intrinsic GTP hydrolysis (rat recombinant)"
+},
+{
+"authors": "Berman DM et al.",
+"year": "1996",
+"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8756726",
+"role": "step",
+"note": "GAIP (human) and RGS4 are GTPase-activating proteins for Gi-family alpha subunits (purified proteins)"
+},
+{
+"authors": "Tesmer JJ et al.",
+"year": "1997",
+"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "9108480",
+"role": "step",
+"note": "RGS4 bound to AlF4-activated Gi alpha1: RGS stabilises the switch regions in the transition state (rat recombinant)"
+}
+]
+},
+{
+"id": "re299",
+"label": "",
+"class": "Process",
+"box": [
+656.4,
+1114.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GDP",
+"Giβ:Giγ"
+],
+"out": [
+"Gi heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Inglis JJ et al.",
+"year": "2008",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: MOR in joint nerves controls OA pain onset (covers the cycle's steps by extension)"
+},
+{
+"authors": "Lillywhite A et al.",
+"year": "2021",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"journal": "Pain Rep",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: spinal MOR signalling in OA-like pain"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "crystal structure of the Gi alpha1(GDP) beta1 gamma2 heterotrimer: beta-gamma stabilises the inactive, GDP-bound alpha (recombinant, non-human proteins)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle, GDP-bound alpha reassociating with beta-gamma; no human data"
+}
+]
+},
+{
+"id": "re300",
+"label": "",
+"class": "Process",
+"box": [
+1121.5,
+905.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"OPRM1:Gi"
+],
+"out": [
+"Giα:GTP",
+"opioid agonist",
+"OPRM1",
+"Giβ:Giγ"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lillywhite A et al.",
+"year": "2021",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"journal": "Pain Rep",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: MOR signalling in the dorsal horn in OA-like pain (covers the cycle's steps by extension)"
+},
+{
+"authors": "Inglis JJ et al.",
+"year": "2008",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: MOR in joint nerves controls OA pain onset"
+},
+{
+"authors": "Wall MA et al.",
+"year": "1995",
+"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8521505",
+"role": "step",
+"note": "Gi alpha1 beta1 gamma2 heterotrimer structure: GTP rearranges switch II, which causes subunit dissociation (recombinant, non-human proteins)"
+},
+{
+"authors": "Coleman DE et al.",
+"year": "1994",
+"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8073283",
+"role": "step",
+"note": "GTPgammaS-Gi alpha1 structure: disordered N-terminus suggests how beta-gamma is released on activation (rat recombinant)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "no abstract; classic review of the G protein cycle; no human data"
+}
+]
+},
+{
+"id": "re301",
+"label": "",
+"class": "Process",
+"box": [
+1121.5,
+1273.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Giα:GTP",
+"ADCY"
+],
+"out": [
+"Giα:ADCY"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lillywhite A et al.",
+"year": "2021",
+"title": "Anxiety enhances pain in a model of osteoarthritis and is associated with altered endogenous opioid function and reduced opioid analgesia.",
+"journal": "Pain Rep",
+"db": "pubmed",
+"id": "35128295",
+"role": "OA",
+"note": "MIA rat knee OA, spinal neuron side: spinal MOR function in OA-like pain (covers its Gi pathway by extension)"
+},
+{
+"authors": "Inglis JJ et al.",
+"year": "2008",
+"title": "Regulation of pain sensitivity in experimental osteoarthritis by the endogenous peripheral opioid system.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18821665",
+"role": "OA",
+"note": "mouse OA, nociceptor side: MOR induced in joint nerves masks OA pain"
+},
+{
+"authors": "Koehl A et al.",
+"year": "2018",
+"title": "Structure of the µ-opioid receptor-G(i) protein complex.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "29899455",
+"role": "step",
+"note": "mouse muOR-Gi structure paper: MOR analgesia runs through the adenylyl cyclase-inhibiting G protein Gi"
+},
+{
+"authors": "Taussig R et al.",
+"year": "1993",
+"title": "Inhibition of adenylyl cyclase by Gi alpha.",
+"journal": "Science",
+"db": "pubmed",
+"id": "8327893",
+"role": "step",
+"note": "purified activated Gi alpha inhibits adenylyl cyclases directly; myristoylation needed (recombinant proteins)"
+},
+{
+"authors": "Nevo I et al.",
+"year": "2000",
+"title": "Acute and chronic activation of the mu-opioid receptor with the endogenous ligand endomorphin differentially regulates adenylyl cyclase isozymes.",
+"journal": "Neuropharmacology",
+"db": "pubmed",
+"id": "10698002",
+"role": "step",
+"note": "COS-7 cells with single adenylyl cyclase isozymes: the endogenous MOR agonist endomorphin inhibits AC I and V acutely (AC II instead stimulated)"
+}
+]
+},
+{
 "label": "tramadol",
 "class": "SimpleChemical",
 "box": [

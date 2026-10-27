@@ -3396,6 +3396,360 @@
 "Q9Y5Y9"
 ]
 ]
+},
+{
+"id": "re161",
+"label": "",
+"class": "Process",
+"box": [
+325.0,
+819.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PKA",
+"cAMP"
+],
+"out": [
+"PKA:cAMP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Zhu J et al.",
+"journal": "Elife",
+"title": "Aberrant subchondral osteoblastic metabolism modifies Na(V)1.8 for osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32441256",
+"role": "OA",
+"note": "mouse OA (subchondral PGE2): PGE2 raises cAMP and activates PKA in DRG neurons; forskolin (cAMP) mimics it, PKA inhibitor abolishes it"
+},
+{
+"authors": "Sun L et al.",
+"year": "2020",
+"title": "Effect and mechanism of the CACNA2D1-CGRP pathway in osteoarthritis-induced ongoing pain.",
+"journal": "Biomed Pharmacother",
+"db": "pubmed",
+"id": "32570114",
+"role": "OA",
+"note": "rat MIA OA DRG: adenylyl cyclase (AC) and p-PKA up-regulated in the AC-PKA pain pathway (cAMP acting on PKA, by extension)"
+},
+{
+"authors": "Taylor SS et al.",
+"year": "2013",
+"title": "PKA: lessons learned after twenty years.",
+"journal": "Biochim Biophys Acta",
+"db": "pubmed",
+"id": "23535202",
+"role": "step",
+"note": "generic human PKA mechanism review (reusable for the spinal block): the catalytic subunit is held inactive by cAMP-binding regulatory subunits until cAMP binds"
+}
+]
+},
+{
+"id": "re162",
+"label": "",
+"class": "Process",
+"box": [
+173.0,
+356.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ATP"
+],
+"out": [
+"cAMP",
+"PPi"
+],
+"by": [
+"Adenylate cyclase",
+"Giα:ADCY"
+]
+},
+"references": [
+{
+"authors": "Zhu J et al.",
+"journal": "Elife",
+"title": "Aberrant subchondral osteoblastic metabolism modifies Na(V)1.8 for osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32441256",
+"role": "OA",
+"note": "mouse OA DRG: the cAMP stimulant forskolin (adenylyl cyclase) reproduces PGE2's effect on NaV1.8 through PKA-Creb1"
+},
+{
+"authors": "Sun L et al.",
+"year": "2020",
+"title": "Effect and mechanism of the CACNA2D1-CGRP pathway in osteoarthritis-induced ongoing pain.",
+"journal": "Biomed Pharmacother",
+"db": "pubmed",
+"id": "32570114",
+"role": "OA",
+"note": "rat MIA OA DRG: adenylyl cyclase (AC) is up-regulated in the OA pain pathway"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "crystal structure of the catalytic domains of adenylyl cyclase with Gsα; mechanism of cAMP synthesis and activation by Gsα (transmembrane AC, generic; reusable for spinal)"
+},
+{
+"authors": "Huang LY et al.",
+"year": "2017",
+"title": "Epac and Nociceptor Sensitization.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "28580839",
+"role": "step",
+"note": "review: in nociceptors cAMP (made by adenylyl cyclase) normally activates PKA"
+}
+]
+},
+{
+"id": "re166",
+"label": "",
+"class": "Process",
+"box": [
+538.0,
+819.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PKA:cAMP"
+],
+"out": [
+"PKA reg:cAMP",
+"PKA cat"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Zhu J et al.",
+"journal": "Elife",
+"title": "Aberrant subchondral osteoblastic metabolism modifies Na(V)1.8 for osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32441256",
+"role": "OA",
+"note": "mouse OA DRG: PKA catalytic subunit (PKA-c) rises after PGE2 and drives NaV1.8 phosphorylation (the freed catalytic subunit is the active kinase)"
+},
+{
+"authors": "Taylor SS et al.",
+"year": "2013",
+"title": "PKA: lessons learned after twenty years.",
+"journal": "Biochim Biophys Acta",
+"db": "pubmed",
+"id": "23535202",
+"role": "step",
+"note": "generic human PKA review (reusable for spinal): cAMP binding to the regulatory subunits frees the active catalytic subunit"
+}
+]
+},
+{
+"id": "re172",
+"label": "",
+"class": "Process",
+"box": [
+642.0,
+617.4,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TRPV1"
+],
+"out": [
+"TRPV1"
+],
+"by": [
+"PKA cat",
+"P38 MAPK"
+]
+},
+"references": [
+{
+"authors": "Koda K et al.",
+"year": "2016",
+"title": "Sensitization of TRPV1 by protein kinase C in rats with mono-iodoacetate-induced joint pain.",
+"journal": "Osteoarthritis Cartilage",
+"db": "pubmed",
+"id": "26970286",
+"role": "OA",
+"note": "rat MIA OA knee: TRPV1 sensitised in knee-innervating DRG neurons by phosphorylation (here via PKCε at Ser800) - OA context for TRPV1 channel sensitisation"
+},
+{
+"authors": "Bhave G et al.",
+"year": "2002",
+"title": "cAMP-dependent protein kinase regulates desensitization of the capsaicin receptor (VR1) by direct phosphorylation.",
+"journal": "Neuron",
+"db": "pubmed",
+"id": "12194871",
+"role": "step",
+"note": "rat VR1/TRPV1: PKA directly phosphorylates TRPV1 (Ser116) and reduces desensitisation"
+},
+{
+"authors": "Efendiev R et al.",
+"year": "2013",
+"title": "Scaffolding by A-kinase anchoring protein enhances functional coupling between adenylyl cyclase and TRPV1 channel.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "23264624",
+"role": "step",
+"note": "DRG neurons: PKA and adenylyl cyclase anchored to TRPV1 by AKAP79/150 phosphorylate it; disrupting the complex abolishes forskolin/PGE2 sensitisation of TRPV1"
+},
+{
+"authors": "Ji RR et al.",
+"year": "2002",
+"title": "p38 MAPK activation by NGF in primary sensory neurons after inflammation increases TRPV1 levels and maintains heat hyperalgesia.",
+"journal": "Neuron",
+"db": "pubmed",
+"id": "12367506",
+"role": "step",
+"note": "the p38 modifier: p38 MAPK raises TRPV1 protein and its transport to terminals after inflammation (it does not gate the channel)"
+}
+]
+},
+{
+"id": "re263",
+"label": "",
+"class": "Process",
+"box": [
+834.2,
+921.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"P2RX3"
+],
+"out": [
+"P2RX3"
+],
+"by": [
+"PKC",
+"PKA cat"
+]
+},
+"references": [
+{
+"authors": "Teixeira JM et al.",
+"year": "2017",
+"title": "P2X3 and P2X2/3 Receptors Play a Crucial Role in Articular Hyperalgesia Development Through Inflammatory Mechanisms in the Knee Joint Experimental Synovitis.",
+"journal": "Mol Neurobiol",
+"db": "pubmed",
+"id": "27709491",
+"role": "OA",
+"note": "rat knee joint synovitis: P2X3/P2X2/3 drive articular hyperalgesia and are up-regulated in the inflamed knee (OA-relevant joint model for P2X3)"
+},
+{
+"authors": "Wang C et al.",
+"year": "2007",
+"title": "Prostaglandin E2 potentiation of P2X3 receptor mediated currents in dorsal root ganglion neurons.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "17692121",
+"role": "step",
+"note": "rat DRG: PGE2 via the cAMP/PKA pathway potentiates P2X3 currents (PKA inhibitors H89/PKA-I block it)"
+},
+{
+"authors": "Wang S et al.",
+"year": "2012",
+"title": "Potentiation of the P2X3 ATP receptor by PAR-2 in rat dorsal root ganglia neurons, through protein kinase-dependent mechanisms, contributes to inflammatory pain.",
+"journal": "Eur J Neurosci",
+"db": "pubmed",
+"id": "22616675",
+"role": "step",
+"note": "rat DRG: both PKC and PKA inhibitors suppress P2X3 potentiation; mechanism is membrane trafficking of P2X3, not direct phosphorylation"
+},
+{
+"authors": "Gu Y et al.",
+"year": "2016",
+"title": "EXPRESS: F-actin links Epac-PKC signaling to purinergic P2X3 receptors sensitization in dorsal root ganglia following inflammation.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "27385722",
+"role": "step",
+"note": "rat DRG after inflammation: PKC-dependent increase of P2X3 membrane expression (the PKC modifier of this process)"
+}
+]
+},
+{
+"id": "re342",
+"label": "",
+"class": "Process",
+"box": [
+834.2,
+711.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"SCN10A"
+],
+"out": [
+"SCN10A"
+],
+"by": [
+"PKA cat"
+]
+},
+"references": [
+{
+"authors": "Zhu J et al.",
+"journal": "Elife",
+"title": "Aberrant subchondral osteoblastic metabolism modifies Na(V)1.8 for osteoarthritis.",
+"year": "2020",
+"db": "pubmed",
+"id": "32441256",
+"role": "OA",
+"note": "mouse OA: PGE2 from subchondral bone modifies NaV1.8 in DRG neurons via PKA; genetic/pharmacological NaV1.8 block attenuates OA pain"
+},
+{
+"db": "pubmed",
+"id": "22225591",
+"role": "OA",
+"note": "rat MIA OA: NaV1.8 contributes to transduction of mechanical OA pain (OA context for the channel)"
+},
+{
+"authors": "Fitzgerald EM et al.",
+"year": "1999",
+"title": "cAMP-dependent phosphorylation of the tetrodotoxin-resistant voltage-dependent sodium channel SNS.",
+"journal": "J Physiol",
+"db": "pubmed",
+"id": "10087343",
+"role": "step",
+"note": "rat SNS/NaV1.8: PKA phosphorylates the channel in the intracellular I-II loop (functional PKA modulation)"
+},
+{
+"db": "pubmed",
+"id": "20028484",
+"role": "step",
+"note": "DRG neurons and human HEK293T cells expressing NaV1.8: PGE2/PKA increases NaV1.8 surface density via an RRR motif and PKA sites"
+}
+]
 }
 ]
 }

@@ -4981,6 +4981,449 @@
 ]
 },
 {
+"id": "re158_h1",
+"label": "",
+"class": "Process",
+"box": [
+384.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Histamine:HRH1",
+"Gq heterotrimer"
+],
+"out": [
+"HRH1:Gq"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kurakazu I et al.",
+"year": "2025",
+"title": "Histamine H1 receptor inverse agonists improve structure and pain in an osteoarthritis mouse model.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "40875519",
+"role": "OA",
+"note": "human OA chondrocytes and mouse DMM OA: HRH1 signalling (ER calcium, PKC/NF-kB) drives OA mechanisms, the receptor's Gq coupling by extension"
+},
+{
+"authors": "Xia R et al.",
+"year": "2021",
+"title": "Cryo-EM structure of the human histamine H(1) receptor/G(q) complex.",
+"journal": "Nat Commun",
+"db": "pubmed",
+"id": "33828102",
+"role": "step",
+"note": "cryo-EM of the human H1 receptor in complex with Gq in an active conformation: the complex drawn"
+},
+{
+"authors": "Berstein G et al.",
+"year": "1992",
+"title": "Reconstitution of agonist-stimulated phosphatidylinositol 4,5-bisphosphate hydrolysis using purified m1 muscarinic receptor, Gq/11, and phospholipase C-beta 1.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "1341877",
+"role": "step",
+"note": "purified receptor and Gq/11 reconstituted (muscarinic m1, not H1): the agonist-bound receptor engages Gq/11 with no other protein"
+},
+{
+"authors": "Kajihara Y et al.",
+"year": "2010",
+"title": "Histamine potentiates acid-induced responses mediating transient receptor potential V1 in mouse primary sensory neurons.",
+"journal": "Neuroscience",
+"db": "pubmed",
+"id": "20006972",
+"role": "step",
+"note": "mouse DRG neurons: H1 acts through PLC and PKC, the Gq route, in nociceptors"
+}
+]
+},
+{
+"id": "re159_h1",
+"label": "",
+"class": "Process",
+"box": [
+753.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"HRH1:Gq",
+"GTP"
+],
+"out": [
+"HRH1:Gq",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kurakazu I et al.",
+"year": "2025",
+"title": "Histamine H1 receptor inverse agonists improve structure and pain in an osteoarthritis mouse model.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "40875519",
+"role": "OA",
+"note": "human OA chondrocytes and mouse DMM OA: HRH1 signalling drives OA mechanisms and pain behaviour, its G protein cycle by extension"
+},
+{
+"authors": "Berstein G et al.",
+"year": "1992",
+"title": "Reconstitution of agonist-stimulated phosphatidylinositol 4,5-bisphosphate hydrolysis using purified m1 muscarinic receptor, Gq/11, and phospholipase C-beta 1.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "1341877",
+"role": "step",
+"note": "purified receptor with Gq/11: agonist raises GTPgammaS binding 20 to 50-fold, the receptor catalysing nucleotide exchange"
+},
+{
+"authors": "Nishimura A et al.",
+"year": "2010",
+"title": "Structural basis for the specific inhibition of heterotrimeric Gq protein by a small molecule.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "20639466",
+"role": "step",
+"note": "crystal structure of human Gqalpha-beta-gamma with YM-254890: the inhibitor blocks exchange by holding GDP, identifying GDP release as the step"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review of the G protein cycle: receptor-catalysed GDP for GTP exchange on the alpha subunit (no abstract)"
+}
+]
+},
+{
+"id": "re160_h1",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"HRH1",
+"histamine"
+],
+"out": [
+"Histamine:HRH1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kurakazu I et al.",
+"year": "2025",
+"title": "Histamine H1 receptor inverse agonists improve structure and pain in an osteoarthritis mouse model.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "40875519",
+"role": "OA",
+"note": "human OA cartilage, human chondrocytes and synoviocytes, mouse DMM OA: HRH1 raised in OA cartilage (full text, IHC), HRH1 knockdown blocks histamine-induced IL6 and MMP13, the inverse agonist cyproheptadine reduces joint damage and pain behaviour"
+},
+{
+"authors": "Zhao X et al.",
+"year": "2022",
+"title": "RNA-seq characterization of histamine-releasing mast cells as potential therapeutic target of osteoarthritis.",
+"journal": "Clin Immunol",
+"db": "pubmed",
+"id": "36109004",
+"role": "OA",
+"note": "human OA synovium and synovial fluid, mouse DMM OA: histamine-releasing mast cells and raised H1R in OA synovium, the H1 antagonist cetirizine reduces OA severity"
+},
+{
+"authors": "Shirinsky I et al.",
+"year": "2018",
+"title": "H(1)-antihistamines are associated with lower prevalence of radiographic knee osteoarthritis: a cross-sectional analysis of the Osteoarthritis Initiative data.",
+"journal": "Arthritis Res Ther",
+"db": "pubmed",
+"id": "29880063",
+"role": "OA",
+"note": "human knee OA (Osteoarthritis Initiative, 8545 knees, cross-sectional): H1 antihistamine users have less radiographic knee OA; indirect, and not reproduced by Turkiewicz 2025 (39277027)"
+},
+{
+"authors": "Xia R et al.",
+"year": "2021",
+"title": "Cryo-EM structure of the human histamine H(1) receptor/G(q) complex.",
+"journal": "Nat Commun",
+"db": "pubmed",
+"id": "33828102",
+"role": "step",
+"note": "cryo-EM of histamine-bound human H1 with Gq: histamine's contacts in TM3 and TM6 resolved"
+},
+{
+"authors": "Kajihara Y et al.",
+"year": "2010",
+"title": "Histamine potentiates acid-induced responses mediating transient receptor potential V1 in mouse primary sensory neurons.",
+"journal": "Neuroscience",
+"db": "pubmed",
+"id": "20006972",
+"role": "step",
+"note": "mouse DRG neurons (inflammatory pain, not OA): H1 expressed in DRG, histamine acts on nociceptors through H1 only"
+}
+]
+},
+{
+"id": "re212_h1",
+"label": "",
+"class": "Process",
+"box": [
+813.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gqα:GTP"
+],
+"out": [
+"Gqα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Kurakazu I et al.",
+"year": "2025",
+"title": "Histamine H1 receptor inverse agonists improve structure and pain in an osteoarthritis mouse model.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "40875519",
+"role": "OA",
+"note": "human OA chondrocytes and mouse DMM OA: HRH1 signalling drives OA mechanisms, its G protein cycle by extension"
+},
+{
+"authors": "Heximer SP et al.",
+"year": "1997",
+"title": "RGS2/G0S8 is a selective inhibitor of Gqalpha function.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "9405622",
+"role": "step",
+"note": "RGS2 is a selective GAP for Gqalpha (RGS4 for Gq and Gi), the modifier drawn"
+},
+{
+"authors": "Berstein G et al.",
+"year": "1992",
+"title": "Phospholipase C-beta 1 is a GTPase-activating protein for Gq/11, its physiologic regulator.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "1322796",
+"role": "step",
+"note": "purified proteins: PLC-beta 1 is itself a GAP for Gq/11"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review: the alpha subunit hydrolyses bound GTP, ending the active state (no abstract)"
+}
+]
+},
+{
+"id": "re213_h1",
+"label": "",
+"class": "Process",
+"box": [
+506.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gqα:GDP",
+"Gqβ:Gqγ"
+],
+"out": [
+"Gq heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kurakazu I et al.",
+"year": "2025",
+"title": "Histamine H1 receptor inverse agonists improve structure and pain in an osteoarthritis mouse model.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "40875519",
+"role": "OA",
+"note": "human OA chondrocytes and mouse DMM OA: HRH1 signalling drives OA mechanisms, its G protein cycle by extension"
+},
+{
+"authors": "Nishimura A et al.",
+"year": "2010",
+"title": "Structural basis for the specific inhibition of heterotrimeric Gq protein by a small molecule.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "20639466",
+"role": "step",
+"note": "crystal structure of the human Gqalpha-beta-gamma heterotrimer in its inactive GDP-bound form"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review: the GDP-bound alpha subunit reassociates with beta-gamma (no abstract)"
+}
+]
+},
+{
+"id": "re214_h1",
+"label": "",
+"class": "Process",
+"box": [
+952.0,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"HRH1:Gq"
+],
+"out": [
+"Gqα:GTP",
+"Gqβ:Gqγ",
+"histamine",
+"HRH1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kurakazu I et al.",
+"year": "2025",
+"title": "Histamine H1 receptor inverse agonists improve structure and pain in an osteoarthritis mouse model.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "40875519",
+"role": "OA",
+"note": "human OA chondrocytes and mouse DMM OA: HRH1 signalling drives OA mechanisms, its G protein cycle by extension"
+},
+{
+"authors": "Berstein G et al.",
+"year": "1992",
+"title": "Reconstitution of agonist-stimulated phosphatidylinositol 4,5-bisphosphate hydrolysis using purified m1 muscarinic receptor, Gq/11, and phospholipase C-beta 1.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "1341877",
+"role": "step",
+"note": "purified receptor and Gq/11: GTP-loaded Gq/11 activates purified PLC-beta 1, so the GTP-bound alpha subunit leaves as the active species"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review: the GTP-bound alpha subunit separates from the beta-gamma dimer (no abstract)"
+}
+]
+},
+{
+"id": "re221_h1",
+"label": "",
+"class": "Process",
+"box": [
+952.0,
+843.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PLCB",
+"Gqα:GTP"
+],
+"out": [
+"PLCB:Gqα"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kurakazu I et al.",
+"year": "2025",
+"title": "Histamine H1 receptor inverse agonists improve structure and pain in an osteoarthritis mouse model.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "40875519",
+"role": "OA",
+"note": "human OA chondrocytes and mouse DMM OA: HRH1 effects run through ER calcium and PKC, the PLC-beta products (PLC itself named in the text, not tested)"
+},
+{
+"authors": "Kajihara Y et al.",
+"year": "2010",
+"title": "Histamine potentiates acid-induced responses mediating transient receptor potential V1 in mouse primary sensory neurons.",
+"journal": "Neuroscience",
+"db": "pubmed",
+"id": "20006972",
+"role": "step",
+"note": "mouse DRG neurons: histamine's effect through H1 is lost with PLC and PKC inhibitors"
+},
+{
+"authors": "Waldo GL et al.",
+"year": "2010",
+"title": "Kinetic scaffolding mediated by a phospholipase C-beta and Gq signaling complex.",
+"journal": "Science",
+"db": "pubmed",
+"id": "20966218",
+"role": "step",
+"note": "2.7 A structure of PLC-beta3 bound to activated Gqalpha: the complex drawn"
+},
+{
+"authors": "Smrcka AV et al.",
+"year": "1991",
+"title": "Regulation of polyphosphoinositide-specific phospholipase C activity by purified Gq.",
+"journal": "Science",
+"db": "pubmed",
+"id": "1846707",
+"role": "step",
+"note": "purified Gq stimulates phosphoinositide-specific phospholipase C"
+}
+]
+},
+{
 "label": "histamine",
 "class": "SimpleChemical",
 "box": [

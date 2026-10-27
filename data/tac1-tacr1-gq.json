@@ -5077,6 +5077,469 @@
 ]
 },
 {
+"id": "re186",
+"label": "",
+"class": "Process",
+"box": [
+369.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TAC1:TACR1",
+"Gq heterotrimer"
+],
+"out": [
+"TACR1:Gq"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"year": "2025",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"journal": "J Neuropathol Exp Neurol",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, its receptor-G protein steps by extension"
+},
+{
+"authors": "Thom C et al.",
+"year": "2021",
+"title": "Structures of neurokinin 1 receptor in complex with G(q) and G(s) proteins reveal substance P binding mode and unique activation features.",
+"journal": "Sci Adv",
+"db": "pubmed",
+"id": "34878828",
+"role": "step",
+"note": "cryo-EM of human SP-NK1R in complex with a Gq heterotrimer (mini-Galphaq with beta-gamma)"
+},
+{
+"authors": "Harris JA et al.",
+"year": "2022",
+"title": "Selective G protein signaling driven by substance P-neurokinin receptor dynamics.",
+"journal": "Nat Chem Biol",
+"db": "pubmed",
+"id": "34711980",
+"role": "step",
+"note": "cryo-EM of active human NK1R bound to SP with an engineered Gs/q alpha, and Gq signalling (IP1, calcium) in HEK293 cells expressing human NK1R"
+},
+{
+"authors": "Kwatra MM et al.",
+"year": "1993",
+"title": "The substance P receptor, which couples to Gq/11, is a substrate of beta-adrenergic receptor kinase 1 and 2.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "7683643",
+"role": "step",
+"note": "rat NK1R reconstituted in vesicles: purified Gq/11 converts the receptor to the high-affinity SP state, the receptor-Gq complex"
+}
+]
+},
+{
+"id": "re187",
+"label": "",
+"class": "Process",
+"box": [
+738.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TACR1:Gq",
+"GTP"
+],
+"out": [
+"TACR1:Gq",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"year": "2025",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"journal": "J Neuropathol Exp Neurol",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, the receptor's G protein cycle by extension"
+},
+{
+"authors": "Harris JA et al.",
+"year": "2022",
+"title": "Selective G protein signaling driven by substance P-neurokinin receptor dynamics.",
+"journal": "Nat Chem Biol",
+"db": "pubmed",
+"id": "34711980",
+"role": "step",
+"note": "human SP-NK1R-G protein complex captured nucleotide-free (GDP released), the state from which GTP binds (full text)"
+},
+{
+"authors": "Berstein G et al.",
+"year": "1992",
+"title": "Reconstitution of agonist-stimulated phosphatidylinositol 4,5-bisphosphate hydrolysis using purified m1 muscarinic receptor, Gq/11, and phospholipase C-beta 1.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "1341877",
+"role": "step",
+"note": "purified receptor (m1, not NK1R) with Gq/11: agonist raises GTPgammaS binding 20 to 50-fold, receptor-catalysed exchange"
+},
+{
+"authors": "Nishimura A et al.",
+"year": "2010",
+"title": "Structural basis for the specific inhibition of heterotrimeric Gq protein by a small molecule.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "20639466",
+"role": "step",
+"note": "structure of human Gqalpha-beta-gamma with YM-254890: blocking GDP release blocks exchange, so GDP release is the step"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review of the G protein cycle: the receptor catalyses GDP for GTP exchange on the alpha subunit; no abstract on PubMed, cited as the classic review"
+}
+]
+},
+{
+"id": "re189",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TACR1",
+"TAC1"
+],
+"out": [
+"TAC1:TACR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"year": "2025",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"journal": "J Neuropathol Exp Neurol",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: an NK1R antagonist reduces chronic OA pain and lowers SP, CGRP, cytokines and microglial activation in the dorsal horn (antagonist given intra-articularly)"
+},
+{
+"authors": "Otis C et al.",
+"year": "2017",
+"title": "Spinal neuropeptide modulation, functional assessment and cartilage lesions in a monosodium iodoacetate rat model of osteoarthritis.",
+"journal": "Neuropeptides",
+"db": "pubmed",
+"id": "28456437",
+"role": "OA",
+"note": "rat MIA knee OA: spinal cord substance P rises from day 14 and stays high with tactile allodynia"
+},
+{
+"authors": "Thom C et al.",
+"year": "2021",
+"title": "Structures of neurokinin 1 receptor in complex with G(q) and G(s) proteins reveal substance P binding mode and unique activation features.",
+"journal": "Sci Adv",
+"db": "pubmed",
+"id": "34878828",
+"role": "step",
+"note": "cryo-EM of wild-type human NK1R bound to substance P (with Gq and Gs), the binding pocket resolved"
+},
+{
+"authors": "Gerard NP et al.",
+"year": "1991",
+"title": "Human substance P receptor (NK-1): organization of the gene, chromosome localization, and functional expression of cDNA clones.",
+"journal": "Biochemistry",
+"db": "pubmed",
+"id": "1657150",
+"role": "step",
+"note": "cloned human NK1R in COS-7: substance P binds with Kd 0.35 nM, selective over NKA and NKB"
+},
+{
+"authors": "Mantyh PW et al.",
+"year": "1995",
+"title": "Receptor endocytosis and dendrite reshaping in spinal neurons after somatosensory stimulation.",
+"journal": "Science",
+"db": "pubmed",
+"id": "7539937",
+"role": "step",
+"note": "rat in vivo: noxious stimulation releases SP from primary afferents that acts on, and internalises, NK1R of spinal neurons (the cell drawn)"
+}
+]
+},
+{
+"id": "re238",
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+843.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PLCB",
+"Gqα:GTP"
+],
+"out": [
+"PLCB:Gqα"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"year": "2025",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"journal": "J Neuropathol Exp Neurol",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, its Gq-PLC step by extension"
+},
+{
+"authors": "Gerard NP et al.",
+"year": "1991",
+"title": "Human substance P receptor (NK-1): organization of the gene, chromosome localization, and functional expression of cDNA clones.",
+"journal": "Biochemistry",
+"db": "pubmed",
+"id": "1657150",
+"role": "step",
+"note": "cloned human NK1R: substance P drives phosphatidylinositol metabolism, the PLC output of this receptor"
+},
+{
+"authors": "Waldo GL et al.",
+"year": "2010",
+"title": "Kinetic scaffolding mediated by a phospholipase C-beta and Gq signaling complex.",
+"journal": "Science",
+"db": "pubmed",
+"id": "20966218",
+"role": "step",
+"note": "2.7 A structure of PLC-beta3 bound to activated Gqalpha: the complex drawn"
+},
+{
+"authors": "Smrcka AV et al.",
+"year": "1991",
+"title": "Regulation of polyphosphoinositide-specific phospholipase C activity by purified Gq.",
+"journal": "Science",
+"db": "pubmed",
+"id": "1846707",
+"role": "step",
+"note": "purified Gqalpha stimulates phosphoinositide-specific PLC"
+}
+]
+},
+{
+"id": "re240",
+"label": "",
+"class": "Process",
+"box": [
+798.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gqα:GTP"
+],
+"out": [
+"Gqα:GDP",
+"Pi"
+],
+"by": [
+"RGS"
+]
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"year": "2025",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"journal": "J Neuropathol Exp Neurol",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, its G protein cycle by extension"
+},
+{
+"authors": "Saitoh O et al.",
+"year": "2002",
+"title": "Alternative splicing of RGS8 gene determines inhibitory function of receptor type-specific Gq signaling.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "12110731",
+"role": "step",
+"note": "Xenopus oocytes: RGS8 reduces Gq signalling from the substance P receptor, the RGS modifier on this receptor's Gq"
+},
+{
+"authors": "Heximer SP et al.",
+"year": "1997",
+"title": "RGS2/G0S8 is a selective inhibitor of Gqalpha function.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "9405622",
+"role": "step",
+"note": "RGS2 is a selective GAP-type inhibitor of Gqalpha"
+},
+{
+"authors": "Berstein G et al.",
+"year": "1992",
+"title": "Phospholipase C-beta 1 is a GTPase-activating protein for Gq/11, its physiologic regulator.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "1322796",
+"role": "step",
+"note": "purified proteins: PLC-beta1 is itself a GAP for Gq/11"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review: the alpha subunit hydrolyses bound GTP, ending the active state; no abstract on PubMed, cited as the classic review"
+}
+]
+},
+{
+"id": "re241",
+"label": "",
+"class": "Process",
+"box": [
+491.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gqα:GDP",
+"Gqβ:Gqγ"
+],
+"out": [
+"Gq heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"year": "2025",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"journal": "J Neuropathol Exp Neurol",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, its G protein cycle by extension"
+},
+{
+"authors": "Nishimura A et al.",
+"year": "2010",
+"title": "Structural basis for the specific inhibition of heterotrimeric Gq protein by a small molecule.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "20639466",
+"role": "step",
+"note": "crystal structure of the human Gqalpha-beta-gamma heterotrimer in its inactive GDP-bound form"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review: GDP-bound alpha reassociates with beta-gamma; no abstract on PubMed, cited as the classic review"
+}
+]
+},
+{
+"id": "re243",
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TACR1:Gq"
+],
+"out": [
+"Gqα:GTP",
+"Gqβ:Gqγ",
+"TACR1",
+"TAC1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Kwon M et al.",
+"year": "2025",
+"title": "Substance P-neurokinin 1 receptor signal involves the development of osteoarthritis-induced chronic pain in rats.",
+"journal": "J Neuropathol Exp Neurol",
+"db": "pubmed",
+"id": "40613647",
+"role": "OA",
+"note": "rat MIA knee OA: SP-NK1R signalling drives chronic OA pain, the active G protein's release by extension"
+},
+{
+"authors": "Berstein G et al.",
+"year": "1992",
+"title": "Reconstitution of agonist-stimulated phosphatidylinositol 4,5-bisphosphate hydrolysis using purified m1 muscarinic receptor, Gq/11, and phospholipase C-beta 1.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "1341877",
+"role": "step",
+"note": "purified receptor (m1) and Gq/11: GTP-loaded Gq/11 activates purified PLC-beta1, the GTP-bound alpha leaving as the active species"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review: the GTP-bound alpha subunit separates from the beta-gamma dimer and the receptor; no abstract on PubMed, cited as the classic review"
+}
+]
+},
+{
 "label": "TAC1",
 "class": "Macromolecule",
 "box": [

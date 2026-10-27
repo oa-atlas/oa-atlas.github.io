@@ -10,7 +10,7 @@
   <key attr.name="Family" attr.type="string" for="node" id="d100"/>
   <key attr.name="Members" attr.type="string" for="node" id="d101"/>
   <key attr.name="Member annotation" attr.type="string" for="node" id="d102"/>
-  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><graph edgedefault="directed" id="G"><node id="ca2_dp1" yfiles.foldertype="group"><data key="dev_node">ca2_dp1</data><data key="ng">
+  <key attr.name="Dev id" attr.type="string" for="node" id="dev_node"/><key attr.name="Dev id" attr.type="string" for="edge" id="dev_edge"/><key attr.name="References" attr.type="string" for="node" id="d103"/><graph edgedefault="directed" id="G"><node id="ca2_dp1" yfiles.foldertype="group"><data key="dev_node">ca2_dp1</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
@@ -843,7 +843,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="re465_dp1"><data key="dev_node">re465_dp1</data><data key="ng">
+        </node><node id="re465_dp1"><data key="d103">pubmed:18975308 pubmed:21772288 pubmed:3113327</data><data key="dev_node">re465_dp1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="766.0" y="300.5"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -857,7 +857,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re466_dp1"><data key="dev_node">re466_dp1</data><data key="ng">
+    </node><node id="re466_dp1"><data key="d103">pubmed:18975308 pubmed:3113327</data><data key="dev_node">re466_dp1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="965.0" y="503.25"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -871,7 +871,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re467_dp1"><data key="dev_node">re467_dp1</data><data key="ng">
+    </node><node id="re467_dp1"><data key="d103">pubmed:18975308 pubmed:2549426 pubmed:3113327</data><data key="dev_node">re467_dp1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="826.0" y="712.75"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -885,7 +885,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re469_dp1"><data key="dev_node">re469_dp1</data><data key="ng">
+    </node><node id="re469_dp1"><data key="d103">pubmed:18975308 pubmed:28544596 pubmed:40440061 pubmed:41062467</data><data key="dev_node">re469_dp1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="397.0" y="300.5"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -899,7 +899,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re470_dp1"><data key="dev_node">re470_dp1</data><data key="ng">
+    </node><node id="re470_dp1"><data key="d103">pubmed:28544596 pubmed:18975308 pubmed:7642548 pubmed:40440061 pubmed:21345590</data><data key="dev_node">re470_dp1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="193.0" y="300.5"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -913,7 +913,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re471_dp1"><data key="dev_node">re471_dp1</data><data key="ng">
+    </node><node id="re471_dp1"><data key="d103">pubmed:18975308 pubmed:3113327</data><data key="dev_node">re471_dp1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="519.0" y="712.75"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -927,7 +927,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re472_dp1"><data key="dev_node">re472_dp1</data><data key="ng">
+    </node><node id="re472_dp1"><data key="d103">pubmed:18975308 pubmed:7642548 pubmed:9417641 pubmed:2549426</data><data key="dev_node">re472_dp1</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="965.0" y="862.0"/>
           <y:Fill transparent="false" hasColor="false"/>

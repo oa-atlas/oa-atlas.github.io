@@ -4651,6 +4651,397 @@
 ]
 },
 {
+"id": "re465_ip",
+"label": "",
+"class": "Process",
+"box": [
+738.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGIR:Gs",
+"GTP"
+],
+"out": [
+"PTGIR:Gs",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Pulichino AM et al.",
+"year": "2006",
+"title": "Prostacyclin antagonism reduces pain and inflammation in rodent models of hyperalgesia and chronic arthritis.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "16973887",
+"role": "OA",
+"note": "rat MIA knee OA: a selective IP antagonist reduces OA pain, close to diclofenac; covers the IP-Gs pathway by extension"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "beta2AR-Gs: the receptor opens the nucleotide pocket of Gsalpha, GDP gone (nucleotide-free complex)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review (classic biochemistry, no abstract on PubMed): the receptor catalyses GDP for GTP exchange on the alpha subunit"
+}
+]
+},
+{
+"id": "re466_ip",
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGIR:Gs"
+],
+"out": [
+"Gsα:GTP",
+"PTGIR",
+"PGI2",
+"Gsβ:Gsγ"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Pulichino AM et al.",
+"year": "2006",
+"title": "Prostacyclin antagonism reduces pain and inflammation in rodent models of hyperalgesia and chronic arthritis.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "16973887",
+"role": "OA",
+"note": "rat MIA knee OA: a selective IP antagonist reduces OA pain, close to diclofenac; covers the IP-Gs pathway by extension"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review (classic biochemistry, no abstract on PubMed): GTP-bound alpha and betagamma separate from the receptor"
+}
+]
+},
+{
+"id": "re467_ip",
+"label": "",
+"class": "Process",
+"box": [
+798.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP"
+],
+"out": [
+"Gsα:GDP",
+"Pi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Pulichino AM et al.",
+"year": "2006",
+"title": "Prostacyclin antagonism reduces pain and inflammation in rodent models of hyperalgesia and chronic arthritis.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "16973887",
+"role": "OA",
+"note": "rat MIA knee OA: a selective IP antagonist reduces OA pain, close to diclofenac; covers the IP-Gs pathway by extension"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: mutations that block Gsalpha GTPase show its intrinsic GTP hydrolysis"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review (classic biochemistry, no abstract on PubMed): Gsalpha hydrolyses its GTP by itself"
+}
+]
+},
+{
+"id": "re469_ip",
+"label": "",
+"class": "Process",
+"box": [
+369.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGI2:PTGIR",
+"Gs heterotrimer"
+],
+"out": [
+"PTGIR:Gs"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Pulichino AM et al.",
+"year": "2006",
+"title": "Prostacyclin antagonism reduces pain and inflammation in rodent models of hyperalgesia and chronic arthritis.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "16973887",
+"role": "OA",
+"note": "rat MIA knee OA: a selective IP antagonist reduces OA pain, close to diclofenac; covers the IP-Gs pathway by extension"
+},
+{
+"authors": "Wang JJ et al.",
+"year": "2024",
+"title": "Molecular recognition and activation of the prostacyclin receptor by anti-pulmonary arterial hypertension drugs.",
+"journal": "Sci Adv",
+"db": "pubmed",
+"id": "38335293",
+"role": "step",
+"note": "cryo-EM of the human IP-Gs complex (agonists treprostinil and MRE-269, not PGI2 itself)"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "beta2AR with nucleotide-free Gs: agonist-bound receptor binds the Gs heterotrimer and GDP leaves"
+}
+]
+},
+{
+"id": "re470_ip",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGIR",
+"PGI2"
+],
+"out": [
+"PGI2:PTGIR"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Pulichino AM et al.",
+"year": "2006",
+"title": "Prostacyclin antagonism reduces pain and inflammation in rodent models of hyperalgesia and chronic arthritis.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "16973887",
+"role": "OA",
+"note": "rat MIA knee OA: a selective IP antagonist reduces OA pain, close to diclofenac; covers the IP-Gs pathway by extension"
+},
+{
+"authors": "Molloy ES et al.",
+"year": "2007",
+"title": "BCP crystals increase prostacyclin production and upregulate the prostacyclin receptor in OA synovial fibroblasts: potential effects on mPGES1 and MMP-13.",
+"journal": "Osteoarthritis Cartilage",
+"db": "pubmed",
+"id": "17123841",
+"role": "OA",
+"note": "human OA synovial fibroblasts: IP receptor expressed, upregulated by BCP crystals, responds to the PGI2 analogue iloprost (synovium, not neurons)"
+},
+{
+"authors": "Katsuyama M et al.",
+"year": "1994",
+"title": "Cloning and expression of a cDNA for the human prostacyclin receptor.",
+"journal": "FEBS Lett",
+"db": "pubmed",
+"id": "7514139",
+"role": "step",
+"note": "cloned human IP in CHO cells: specific binding of the stable PGI2 analogue iloprost (Kd 3.3 nM), cAMP rise"
+},
+{
+"authors": "Moriyama T et al.",
+"year": "2005",
+"title": "Sensitization of TRPV1 by EP1 and IP reveals peripheral nociceptive mechanism of prostaglandins.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "15813989",
+"role": "step",
+"note": "mouse DRG neurons and HEK293: PGI2 acts through IP to sensitise TRPV1, partly PKA-dependent (cAMP downstream of IP in nociceptors)"
+}
+]
+},
+{
+"id": "re471_ip",
+"label": "",
+"class": "Process",
+"box": [
+491.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GDP",
+"Gsβ:Gsγ"
+],
+"out": [
+"Gs heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Pulichino AM et al.",
+"year": "2006",
+"title": "Prostacyclin antagonism reduces pain and inflammation in rodent models of hyperalgesia and chronic arthritis.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "16973887",
+"role": "OA",
+"note": "rat MIA knee OA: a selective IP antagonist reduces OA pain, close to diclofenac; covers the IP-Gs pathway by extension"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "review (classic biochemistry, no abstract on PubMed): GDP-bound alpha reassociates with betagamma"
+}
+]
+},
+{
+"id": "re472_ip",
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+834.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP",
+"ADCY"
+],
+"out": [
+"Adenylate cyclase"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Pulichino AM et al.",
+"year": "2006",
+"title": "Prostacyclin antagonism reduces pain and inflammation in rodent models of hyperalgesia and chronic arthritis.",
+"journal": "J Pharmacol Exp Ther",
+"db": "pubmed",
+"id": "16973887",
+"role": "OA",
+"note": "rat MIA knee OA: a selective IP antagonist reduces OA pain, close to diclofenac; covers the IP-Gs pathway by extension"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "crystal structure of Gsalpha.GTPgammaS bound to the catalytic domains of adenylyl cyclase"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: GTP-bound (GTPase-dead) Gsalpha activates adenylyl cyclase"
+},
+{
+"authors": "Boie Y et al.",
+"year": "1994",
+"title": "Cloning and expression of a cDNA for the human prostanoid IP receptor.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "7512962",
+"role": "step",
+"note": "cloned human IP: agonist (iloprost) stimulates intracellular cAMP production, i.e. adenylyl cyclase"
+},
+{
+"authors": "Moriyama T et al.",
+"year": "2005",
+"title": "Sensitization of TRPV1 by EP1 and IP reveals peripheral nociceptive mechanism of prostaglandins.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "15813989",
+"role": "step",
+"note": "mouse DRG neurons and HEK293: PGI2 acts through IP to sensitise TRPV1, partly PKA-dependent (cAMP downstream of IP in nociceptors)"
+}
+]
+},
+{
 "label": "PGI2",
 "class": "SimpleChemical",
 "box": [

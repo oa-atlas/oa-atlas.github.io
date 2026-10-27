@@ -229,6 +229,120 @@
 ]
 },
 {
+"id": "n2::n2",
+"label": "",
+"class": "Process",
+"box": [
+321.0,
+441.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"SPP1",
+"CD44"
+],
+"out": [
+"SPP1:CD44"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Li M et al.",
+"year": "2025",
+"title": "Osteopontin inhibits autophagy via CD44 and avβ3 integrin and promotes cell proliferation in osteoarthritic fibroblast-like synoviocytes.",
+"journal": "BMC Musculoskelet Disord",
+"db": "pubmed",
+"id": "40102843",
+"role": "OA",
+"note": "human OA fibroblast-like synoviocytes: rhOPN acts through CD44 (and αvβ3), blocking antibodies (synoviocytes, not mast cells)"
+},
+{
+"db": "pubmed",
+"id": "18200503",
+"role": "step",
+"note": "murine cultured mast cells: OPN effects on degranulation and chemotaxis need CD44 and integrin αv"
+},
+{
+"authors": "Weber GF et al.",
+"year": "1996",
+"title": "Receptor-ligand interaction between CD44 and osteopontin (Eta-1).",
+"journal": "Science",
+"db": "pubmed",
+"id": "8560266",
+"role": "step",
+"note": "mouse cells: osteopontin identified as a protein ligand of CD44"
+}
+]
+},
+{
+"id": "n2::n3",
+"label": "",
+"class": "Process",
+"box": [
+677.0,
+441.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"SPP1",
+"ITGAV"
+],
+"out": [
+"SPP1:ITGAV"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Li M et al.",
+"year": "2025",
+"title": "Osteopontin inhibits autophagy via CD44 and avβ3 integrin and promotes cell proliferation in osteoarthritic fibroblast-like synoviocytes.",
+"journal": "BMC Musculoskelet Disord",
+"db": "pubmed",
+"id": "40102843",
+"role": "OA",
+"note": "human OA fibroblast-like synoviocytes: rhOPN acts through αvβ3 (CD51/61) and CD44"
+},
+{
+"authors": "Nagasaka A et al.",
+"year": "2008",
+"title": "Osteopontin is produced by mast cells and affects IgE-mediated degranulation and migration of mast cells.",
+"journal": "Eur J Immunol",
+"db": "pubmed",
+"id": "18200503",
+"role": "step",
+"note": "murine cultured mast cells: integrin αv mediates the OPN effects"
+},
+{
+"authors": "Ng CW et al.",
+"year": "2018",
+"title": "Immobilized Osteopontin Enhances Adhesion but Suppresses Cytokine Release of Anti-IgE Activated Human Mast Cells.",
+"journal": "Front Immunol",
+"db": "pubmed",
+"id": "29872439",
+"role": "step",
+"note": "human cultured mast cells (CD34+ derived): immobilized hOPN binds through its RGD domain and integrin αvβ3, not CD44"
+},
+{
+"authors": "Caltabiano S et al.",
+"year": "1999",
+"title": "The integrin specificity of human recombinant osteopontin.",
+"journal": "Biochem Pharmacol",
+"db": "pubmed",
+"id": "10535747",
+"role": "step",
+"note": "human recombinant OPN and human cell lines: among αv integrins only αvβ3 supports adhesion"
+}
+]
+},
+{
 "label": "SPP1",
 "class": "Macromolecule",
 "box": [
@@ -738,6 +852,146 @@
 "InChIKey",
 "NTYJJOPFIAHURM-UHFFFAOYSA-N"
 ]
+]
+},
+{
+"id": "n2::n9",
+"label": "",
+"class": "Process",
+"box": [
+723.0,
+985.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"histamine"
+],
+"out": [
+"histamine"
+],
+"by": [
+"IgE-MEDIATED DEGRANULATION"
+]
+},
+"references": [
+{
+"authors": "Buckley MG et al.",
+"year": "1997",
+"title": "Mast cell activation in arthritis: detection of alpha- and beta-tryptase, histamine and eosinophil cationic protein in synovial fluid.",
+"journal": "Clin Sci (Lond)",
+"db": "pubmed",
+"id": "9404229",
+"role": "OA",
+"note": "human synovial fluid: histamine and beta-tryptase (anaphylactic degranulation), higher histamine in OA than in RA"
+},
+{
+"authors": "Renoux M et al.",
+"year": "1996",
+"title": "Release of mast cell mediators and nitrites into knee joint fluid in osteoarthritis--comparison with articular chondrocalcinosis and rheumatoid arthritis.",
+"journal": "Osteoarthritis Cartilage",
+"db": "pubmed",
+"id": "8895218",
+"role": "OA",
+"note": "human OA knee synovial fluid: histamine content follows mast cell numbers"
+},
+{
+"authors": "Wang Q et al.",
+"year": "2019",
+"title": "IgE-mediated mast cell activation promotes inflammation and cartilage destruction in osteoarthritis.",
+"journal": "Elife",
+"db": "pubmed",
+"id": "31084709",
+"role": "OA",
+"note": "mouse OA models and human OA tissue: IgE/FcεRI/Syk mast cell activation drives OA (degranulation and tryptase shown, histamine not measured)"
+},
+{
+"authors": "Kikuchi T et al.",
+"year": "2002",
+"title": "IL-6 enhances IgE-dependent histamine release from human peripheral blood-derived cultured mast cells.",
+"journal": "Cytokine",
+"db": "pubmed",
+"id": "12550104",
+"role": "step",
+"note": "human peripheral blood-derived cultured mast cells: FcεRI crosslinking with IgE/anti-IgE releases histamine"
+}
+]
+},
+{
+"id": "re_opn_made",
+"label": "",
+"class": "Process",
+"box": [
+321.0,
+233.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"SPP1"
+],
+"by": [
+"OR"
+]
+},
+"references": [
+{
+"authors": "Sanchez C et al.",
+"year": "2008",
+"title": "Phenotypic characterization of osteoblasts from the sclerotic zones of osteoarthritic subchondral bone.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18240211",
+"role": "OA",
+"note": "human OA subchondral bone: sclerotic osteoblasts up-regulate OPN"
+},
+{
+"authors": "Pullig O et al.",
+"year": "2000",
+"title": "Osteopontin is expressed by adult human osteoarthritic chondrocytes: protein and mRNA analysis of normal and osteoarthritic cartilage.",
+"journal": "Matrix Biol",
+"db": "pubmed",
+"id": "10936449",
+"role": "OA",
+"note": "human OA cartilage: chondrocytes express OPN, rising with lesion severity, none in healthy adult cartilage"
+},
+{
+"authors": "Zhang FJ et al.",
+"year": "2013",
+"title": "The effect of hyaluronic acid on osteopontin and CD44 mRNA of fibroblast-like synoviocytes in patients with osteoarthritis of the knee.",
+"journal": "Rheumatol Int",
+"db": "pubmed",
+"id": "22218639",
+"role": "OA",
+"note": "human OA knee fibroblast-like synoviocytes express OPN mRNA"
+},
+{
+"authors": "Honsawek S et al.",
+"year": "2009",
+"title": "Correlation of plasma and synovial fluid osteopontin with disease severity in knee osteoarthritis.",
+"journal": "Clin Biochem",
+"db": "pubmed",
+"id": "19217889",
+"role": "OA",
+"note": "knee OA patients: plasma and synovial fluid OPN follow radiographic severity"
+},
+{
+"authors": "Nagasaka A et al.",
+"year": "2008",
+"title": "Osteopontin is produced by mast cells and affects IgE-mediated degranulation and migration of mast cells.",
+"journal": "Eur J Immunol",
+"db": "pubmed",
+"id": "18200503",
+"role": "step",
+"note": "murine cultured mast cells produce OPN, induced by FcεRI aggregation"
+}
 ]
 }
 ]

@@ -1,6 +1,60 @@
 {
 "nodes": [
 {
+"id": "pB",
+"label": "",
+"class": "Process",
+"box": [
+203.0,
+215.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTC4",
+"CYSLTR2"
+],
+"out": [
+"LTC4:CYSLTR2"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Okubo M et al.",
+"year": "2010",
+"title": "Expression of leukotriene receptors in the rat dorsal root ganglion and the effects on pain behaviors.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "20846451",
+"role": "OA",
+"note": "rat DRG: CysLT2 mRNA in small neurons, co-localised with TRPV1 and P2X3; the only paper on this receptor in a pain pathway, inflammatory pain, not OA"
+},
+{
+"authors": "Heise CE et al.",
+"year": "2000",
+"title": "Characterization of the human cysteinyl leukotriene 2 receptor.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "10851239",
+"role": "step",
+"note": "human CysLT2 cloned and expressed in oocytes and HEK293T cells: LTC4 activates it and raises intracellular Ca2+, with high affinity and LTC4 = LTD4 > LTE4"
+},
+{
+"authors": "Voisin T et al.",
+"year": "2021",
+"title": "The CysLT(2)R receptor mediates leukotriene C(4)-driven acute and chronic itch.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "33753496",
+"role": "step",
+"note": "mouse sensory neurons and human DRG: LTC4 acts through CysLT2R; CYSLTR2 detected in human DRG neurons (itch, not pain: LTC4 gave itch and no pain behaviour)"
+}
+]
+},
+{
 "label": "CYSLTR2",
 "class": "Macromolecule",
 "box": [
@@ -158,6 +212,82 @@
 "UniProt",
 "Q9NS75"
 ]
+]
+},
+{
+"id": "pP",
+"label": "",
+"class": "Process",
+"box": [
+603.0,
+319.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+"
+],
+"out": [
+"Ca2+"
+],
+"by": [
+"P2RX3",
+"LTC4:CYSLTR2"
+]
+},
+"references": [
+{
+"authors": "Okubo M et al.",
+"year": "2010",
+"title": "Expression of leukotriene receptors in the rat dorsal root ganglion and the effects on pain behaviors.",
+"journal": "Mol Pain",
+"db": "pubmed",
+"id": "20846451",
+"role": "OA",
+"note": "rat: LTC4 alone caused no pain, but pretreatment strongly increased the pain evoked by the P2X3 agonist alpha,beta-methylene-ATP; the drawn statement, inflammatory pain, not OA"
+},
+{
+"authors": "Teixeira JM et al.",
+"year": "2017",
+"title": "P2X3 and P2X2/3 Receptors Play a Crucial Role in Articular Hyperalgesia Development Through Inflammatory Mechanisms in the Knee Joint Experimental Synovitis.",
+"journal": "Mol Neurobiol",
+"db": "pubmed",
+"id": "27709491",
+"role": "step",
+"note": "rat knee joint, carrageenan synovitis (an inflammatory model, not OA): blocking articular P2X3 and P2X2/3 attenuates the hyperalgesia, so endogenous ATP acts on P2X3 at the knee's nociceptive afferents"
+},
+{
+"authors": "Kumahashi N et al.",
+"year": "2011",
+"title": "Correlation of changes in pain intensity with synovial fluid adenosine triphosphate levels after treatment of patients with osteoarthritis of the knee with high-molecular-weight hyaluronic acid.",
+"journal": "Knee",
+"db": "pubmed",
+"id": "20627733",
+"role": "OA",
+"note": "28 human knee OA patients: synovial fluid ATP, the agonist of P2X3, falls with pain after hyaluronic acid and the two changes correlate"
+},
+{
+"authors": "Habuchi H et al.",
+"year": "2021",
+"title": "Bone marrow derived mast cells injected into the osteoarthritic knee joints of mice induced by sodium monoiodoacetate enhanced spontaneous pain through activation of PAR2 and action of extracellular ATP.",
+"journal": "PLoS One",
+"db": "pubmed",
+"id": "34086763",
+"role": "OA",
+"note": "mouse MIA knee OA: mast cells injected into the OA joint raise spontaneous pain, and apyrase (ATP removal) suppresses it: extracellular ATP carries pain in the OA joint"
+},
+{
+"authors": "Garcia-Guzman M et al.",
+"year": "1997",
+"title": "Molecular characterization and pharmacological properties of the human P2X3 purinoceptor.",
+"journal": "Brain Res Mol Brain Res",
+"db": "pubmed",
+"id": "9221902",
+"role": "step",
+"note": "human P2X3 cloned: a fast ATP-gated cation channel, agonist order 2MeSATP > ATP > alphabeta-meATP"
+}
 ]
 },
 {

@@ -117,6 +117,80 @@
 ]
 },
 {
+"id": "n2",
+"label": "",
+"class": "Process",
+"box": [
+215.0,
+117.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IL6",
+"IL6R"
+],
+"out": [
+"IL6:IL6R"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Radojčić MR et al.",
+"year": "2017",
+"title": "Biomarker of extracellular matrix remodelling C1M and proinflammatory cytokine interleukin 6 are related to synovitis and pain in end-stage knee osteoarthritis patients.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "28333699",
+"role": "OA",
+"note": "human end-stage knee OA: synovial fluid IL-6 (not plasma IL-6) associated with pain and synovitis, so IL-6 is present and acts in the OA joint"
+},
+{
+"authors": "He C et al.",
+"year": "2025",
+"title": "sgp130Fc alleviates cartilage degeneration and knee osteoarthritis by inhibiting IL-6 trans-signaling pathway.",
+"journal": "Immunobiology",
+"db": "pubmed",
+"id": "40997647",
+"role": "OA",
+"note": "human OA synovial fluid (ELISA) plus rat Hulth OA: IL-6, soluble IL-6R and soluble gp130 all rise with OA stage, and the IL-6/sIL-6R route (trans-signalling) drives the disease (cartilage, not neurons)"
+},
+{
+"authors": "Boulanger MJ et al.",
+"year": "2003",
+"title": "Hexameric structure and assembly of the interleukin-6/IL-6 alpha-receptor/gp130 complex.",
+"journal": "Science",
+"db": "pubmed",
+"id": "12829785",
+"role": "step",
+"note": "crystal structure of the human IL-6/IL-6Ralpha/gp130 complex: IL-6 binds IL-6Ralpha first, as the block draws it"
+},
+{
+"authors": "Taga T et al.",
+"year": "1989",
+"title": "Interleukin-6 triggers the association of its receptor with a possible signal transducer, gp130.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "2788034",
+"role": "step",
+"note": "human IL-6R: the 80 kDa IL-6R binds IL-6, and a soluble IL-6R without transmembrane and cytoplasmic domains still binds IL-6 and works"
+},
+{
+"authors": "Obreja O et al.",
+"year": "2002",
+"title": "Interleukin-6 in combination with its soluble IL-6 receptor sensitises rat skin nociceptors to heat, in vivo.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "11932061",
+"role": "step",
+"note": "rat skin nociceptors in vivo: IL-6 only together with its soluble receptor sensitises nociceptors to heat, and nociceptors carry gp130 but little membrane IL-6R"
+}
+]
+},
+{
 "label": "IL6",
 "class": "Macromolecule",
 "box": [
@@ -230,6 +304,80 @@
 "UniProt",
 "P08887"
 ]
+]
+},
+{
+"id": "n4::n0",
+"label": "",
+"class": "Process",
+"box": [
+215.0,
+452.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IL6:IL6R",
+"IL6ST"
+],
+"out": [
+"IL6:IL6R:IL6ST"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Liao Y et al.",
+"year": "2022",
+"title": "Interleukin-6 signaling mediates cartilage degradation and pain in posttraumatic osteoarthritis in a sex-specific manner.",
+"journal": "Sci Signal",
+"db": "pubmed",
+"id": "35881692",
+"role": "OA",
+"note": "mouse DMM OA: deleting Il6 reduces OA pain, knee innervation and nociceptive signalling, with less STAT3 and ERK activation in the knee and in the dorsal root ganglia - IL-6 receptor signalling in the OA nociceptor"
+},
+{
+"authors": "He C et al.",
+"year": "2025",
+"title": "sgp130Fc alleviates cartilage degeneration and knee osteoarthritis by inhibiting IL-6 trans-signaling pathway.",
+"journal": "Immunobiology",
+"db": "pubmed",
+"id": "40997647",
+"role": "OA",
+"note": "rat Hulth OA plus human OA synovial fluid: soluble gp130-Fc, which traps the IL-6:sIL-6R pair, blocks the effects of the complex, showing gp130 as its receptor in OA (cartilage, not neurons)"
+},
+{
+"authors": "Boulanger MJ et al.",
+"year": "2003",
+"title": "Hexameric structure and assembly of the interleukin-6/IL-6 alpha-receptor/gp130 complex.",
+"journal": "Science",
+"db": "pubmed",
+"id": "12829785",
+"role": "step",
+"note": "human proteins: structure of the IL-6:IL-6Ralpha pair bound to gp130, the hexamer the block draws as IL6:IL6R:IL6ST"
+},
+{
+"authors": "Taga T et al.",
+"year": "1989",
+"title": "Interleukin-6 triggers the association of its receptor with a possible signal transducer, gp130.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "2788034",
+"role": "step",
+"note": "human IL-6R and gp130: IL-6 triggers the association of IL-6R with gp130, which binds no ligand itself, through their extracellular parts"
+},
+{
+"authors": "Andratsch M et al.",
+"year": "2009",
+"title": "A key role for gp130 expressed on peripheral sensory nerves in pathological pain.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "19864560",
+"role": "step",
+"note": "mouse: gp130 deleted in nociceptors only; the IL-6/gp130 complex causes heat hypersensitivity, and the mice have less inflammatory and tumour pain - gp130 is the receptor on the nociceptor"
+}
 ]
 },
 {
@@ -517,6 +665,81 @@
 ]
 },
 {
+"id": "n4::n4",
+"label": "",
+"class": "Process",
+"box": [
+372.5,
+593.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PRKCD"
+],
+"out": [
+"PRKCD"
+],
+"by": [
+"IL6:IL6R:IL6ST"
+]
+},
+"references": [
+{
+"authors": "Liao Y et al.",
+"year": "2022",
+"title": "Interleukin-6 signaling mediates cartilage degradation and pain in posttraumatic osteoarthritis in a sex-specific manner.",
+"journal": "Sci Signal",
+"db": "pubmed",
+"id": "35881692",
+"role": "OA",
+"note": "mouse DMM OA: IL-6 signals through JAK in the dorsal root ganglion to drive pain signalling (the JAK step the block folds into this process; the kinase named downstream is ERK, not PKCdelta)"
+},
+{
+"authors": "Obreja O et al.",
+"year": "2005",
+"title": "Fast modulation of heat-activated ionic current by proinflammatory interleukin 6 in rat sensory neurons.",
+"journal": "Brain",
+"db": "pubmed",
+"id": "15817518",
+"role": "step",
+"note": "rat sensory neurons: IL-6:sIL-6R or the gp130 agonist Hyper-IL-6 potentiates heat current, blocked by the JAK inhibitor AG490 and by rottlerin, a PKCdelta blocker; gp130 mRNA in the neuronal somata"
+},
+{
+"authors": "Andratsch M et al.",
+"year": "2009",
+"title": "A key role for gp130 expressed on peripheral sensory nerves in pathological pain.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "19864560",
+"role": "step",
+"note": "mouse nociceptors: the IL-6/gp130 complex acts through PKCdelta activated via Gab1/2 and PI3K, the route drawn as one process"
+},
+{
+"authors": "Novotny-Diermayr V et al.",
+"year": "2002",
+"title": "Protein kinase C delta associates with the interleukin-6 receptor subunit glycoprotein (gp) 130 via Stat3 and enhances Stat3-gp130 interaction.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "12361954",
+"role": "step",
+"note": "cell lines: PKCdelta is recruited to gp130 on IL-6 stimulation (via Stat3) and acts on gp130 Thr-890, so gp130 and PKCdelta meet in IL-6 signalling; the cell types are not named in the abstract"
+},
+{
+"authors": "Mitchell ME et al.",
+"year": "2024",
+"title": "Interleukin-6 induces nascent protein synthesis in human dorsal root ganglion nociceptors primarily via MNK-eIF4E signaling.",
+"journal": "Neurobiol Pain",
+"db": "pubmed",
+"id": "39156884",
+"role": "step",
+"note": "human DRG explants from organ donors: the IL-6 plus soluble IL-6R pair acts on human TRPV1-positive nociceptors (signalling shown is MNK-eIF4E, not PKCdelta)"
+}
+]
+},
+{
 "label": "PRKCD",
 "class": "Macromolecule",
 "box": [
@@ -626,6 +849,81 @@
 "UniProt",
 "Q8NER1"
 ]
+]
+},
+{
+"id": "n4::n7",
+"label": "",
+"class": "Process",
+"box": [
+518.0,
+683.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TRPV1"
+],
+"out": [
+"TRPV1"
+],
+"by": [
+"PRKCD"
+]
+},
+"references": [
+{
+"authors": "Koda K et al.",
+"year": "2016",
+"title": "Sensitization of TRPV1 by protein kinase C in rats with mono-iodoacetate-induced joint pain.",
+"journal": "Osteoarthritis Cartilage",
+"db": "pubmed",
+"id": "26970286",
+"role": "OA",
+"note": "rat MIA OA knee: TRPV1 of knee-innervating DRG neurons is sensitised by PKC phosphorylation (there PKCepsilon at Ser800), the OA setting for this step"
+},
+{
+"authors": "Liao Y et al.",
+"year": "2022",
+"title": "Interleukin-6 signaling mediates cartilage degradation and pain in posttraumatic osteoarthritis in a sex-specific manner.",
+"journal": "Sci Signal",
+"db": "pubmed",
+"id": "35881692",
+"role": "OA",
+"note": "mouse DMM OA: IL-6 raises nociceptive signalling in the DRG, so the IL-6 to channel route operates in OA (the effector named is ERK)"
+},
+{
+"authors": "Andratsch M et al.",
+"year": "2009",
+"title": "A key role for gp130 expressed on peripheral sensory nerves in pathological pain.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "19864560",
+"role": "step",
+"note": "mouse nociceptors: IL-6/gp130 acts through PKCdelta and then regulates TRPV1, which is needed for the heat hypersensitivity"
+},
+{
+"authors": "Bhave G et al.",
+"year": "2003",
+"title": "Protein kinase C phosphorylation sensitizes but does not activate the capsaicin receptor transient receptor potential vanilloid 1 (TRPV1).",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "14523239",
+"role": "step",
+"note": "rat TRPV1, direct sequencing of the phosphorylated sites: PKC phosphorylates Ser800 and Ser502 and sensitises the channel without gating it, which is what the P on TRPV1 stands for"
+},
+{
+"authors": "Obreja O et al.",
+"year": "2005",
+"title": "Fast modulation of heat-activated ionic current by proinflammatory interleukin 6 in rat sensory neurons.",
+"journal": "Brain",
+"db": "pubmed",
+"id": "15817518",
+"role": "step",
+"note": "rat sensory neurons: the heat current potentiated by IL-6:sIL-6R is blocked by the PKCdelta blocker rottlerin, linking PKCdelta to the heat channel"
+}
 ]
 },
 {

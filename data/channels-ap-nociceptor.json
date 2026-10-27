@@ -1333,6 +1333,464 @@
 ]
 },
 {
+"id": "re170",
+"label": "",
+"class": "Process",
+"box": [
+96.0,
+235.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+"
+],
+"out": [
+"Ca2+"
+],
+"by": [
+"TRPV1"
+]
+},
+"references": [
+{
+"authors": "Kelly S et al.",
+"year": "2015",
+"title": "Increased function of pronociceptive TRPV1 at the level of the joint in a rat model of osteoarthritis pain.",
+"journal": "Ann Rheum Dis",
+"db": "pubmed",
+"id": "24152419",
+"role": "OA",
+"note": "human OA synovium (TRPV1 raised) plus rat OA model: joint afferents sensitised, an intra-articular TRPV1 antagonist reverses the sensitisation and the pain behaviour"
+},
+{
+"authors": "Obeidat AM et al.",
+"year": "2020",
+"title": "An update on targets for treating osteoarthritis pain: NGF and TRPV1.",
+"journal": "Curr Treatm Opt Rheumatol",
+"db": "pubmed",
+"id": "34178580",
+"role": "OA",
+"note": "review of the TRPV1 pathway as a target in OA pain; cited for the pathway in OA, not for trial efficacy"
+},
+{
+"authors": "Hayes P et al.",
+"year": "2000",
+"title": "Cloning and functional expression of a human orthologue of rat vanilloid receptor-1.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "11050376",
+"role": "step",
+"note": "human TRPV1 cloned, expressed in human dorsal root ganglia; capsaicin raises intracellular calcium in cells expressing it"
+},
+{
+"authors": "Caterina MJ et al.",
+"year": "1997",
+"title": "The capsaicin receptor: a heat-activated ion channel in the pain pathway.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "9349813",
+"role": "step",
+"note": "rat TRPV1 cloned by a calcium-influx screen in sensory neurons: a non-selective cation channel"
+}
+]
+},
+{
+"id": "re171",
+"label": "",
+"class": "Process",
+"box": [
+276.0,
+235.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Na+"
+],
+"out": [
+"Na+"
+],
+"by": [
+"TRPV1",
+"SCN10A",
+"SCN9A"
+]
+},
+"references": [
+{
+"authors": "Rahman W et al.",
+"year": "2015",
+"title": "Osteoarthritis-dependent changes in antinociceptive action of Nav1.7 and Nav1.8 sodium channel blockers: An in vivo electrophysiological study in the rat.",
+"journal": "Neuroscience",
+"db": "pubmed",
+"id": "25818052",
+"role": "OA",
+"note": "rat monoiodoacetate OA: the NaV1.7 blocker ProTxII and the NaV1.8 blocker A-803467 reduce evoked dorsal horn firing, ProTxII only in the OA animals"
+},
+{
+"authors": "Schuelert N et al.",
+"year": "2012",
+"title": "Involvement of Nav 1.8 sodium ion channels in the transduction of mechanical pain in a rodent model of osteoarthritis.",
+"journal": "Arthritis Res Ther",
+"db": "pubmed",
+"id": "22225591",
+"role": "OA",
+"note": "rat monoiodoacetate knee OA: local NaV1.8 blockade lowers joint afferent firing during noxious joint rotation"
+},
+{
+"authors": "Reimann F et al.",
+"year": "2010",
+"title": "Pain perception is altered by a nucleotide polymorphism in SCN9A.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "20212137",
+"role": "OA",
+"note": "578 people with radiographic OA: the SCN9A (NaV1.7) rs6746030 A allele goes with higher pain scores, and the allele changes NaV1.7 slow inactivation in HEK293 cells"
+},
+{
+"authors": "Cummins TR et al.",
+"year": "1998",
+"title": "Slow closed-state inactivation: a novel mechanism underlying ramp currents in cells expressing the hNE/PN1 sodium channel.",
+"journal": "J Neurosci",
+"db": "pubmed",
+"id": "9822722",
+"role": "step",
+"note": "human NaV1.7 (hNE/PN1) in HEK293 cells and DRG neurons: a slow ramp Na+ current near threshold that boosts small depolarisations"
+},
+{
+"authors": "Han C et al.",
+"year": "2015",
+"title": "Human Na(v)1.8: enhanced persistent and ramp currents contribute to distinct firing properties of human DRG neurons.",
+"journal": "J Neurophysiol",
+"db": "pubmed",
+"id": "25787950",
+"role": "step",
+"note": "human NaV1.8 in DRG neurons and native human DRG neurons: larger persistent and ramp Na+ currents, longer action potentials and higher firing"
+}
+]
+},
+{
+"id": "re258",
+"label": "",
+"class": "Process",
+"box": [
+629.5,
+235.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"P2RX3",
+"ATP"
+],
+"out": [
+"P2RX3:ATP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Richards D et al.",
+"year": "2019",
+"title": "Action of MK-7264 (gefapixant) at human P2X3 and P2X2/3 receptors and in vivo efficacy in models of sensitisation.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "30927255",
+"role": "OA",
+"note": "human P2X3 and P2X2/3 in patch clamp plus a rat osteoarthritic sensitisation model: the P2X3 antagonist gefapixant relieves it like naproxen"
+},
+{
+"authors": "Garcia-Guzman M et al.",
+"year": "1997",
+"title": "Molecular characterization and pharmacological properties of the human P2X3 purinoceptor.",
+"journal": "Brain Res Mol Brain Res",
+"db": "pubmed",
+"id": "9221902",
+"role": "step",
+"note": "human P2X3 cloned and expressed: an ATP-gated channel, agonist order 2MeSATP > ATP > alphabeta-meATP"
+},
+{
+"authors": "Mansoor SE et al.",
+"year": "2016",
+"title": "X-ray structures define human P2X(3) receptor gating cycle and antagonist action.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "27626375",
+"role": "step",
+"note": "X-ray structures of the human P2X3 trimer in the resting, ATP-bound open, desensitised and antagonist-bound states"
+},
+{
+"authors": "Teixeira JM et al.",
+"year": "2017",
+"title": "P2X3 and P2X2/3 Receptors Play a Crucial Role in Articular Hyperalgesia Development Through Inflammatory Mechanisms in the Knee Joint Experimental Synovitis.",
+"journal": "Mol Neurobiol",
+"db": "pubmed",
+"id": "27709491",
+"role": "step",
+"note": "rat knee joint (experimental synovitis, not OA): blocking articular P2X3 and P2X2/3 lowers knee hyperalgesia, so the receptors work on knee afferents"
+}
+]
+},
+{
+"id": "re259",
+"label": "",
+"class": "Process",
+"box": [
+845.5,
+235.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Ca2+"
+],
+"out": [
+"Ca2+"
+],
+"by": [
+"P2RX3:ATP",
+"P2RX2/3:ATP"
+]
+},
+"references": [
+{
+"authors": "Richards D et al.",
+"year": "2019",
+"title": "Action of MK-7264 (gefapixant) at human P2X3 and P2X2/3 receptors and in vivo efficacy in models of sensitisation.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "30927255",
+"role": "OA",
+"note": "human P2X3 and P2X2/3 patch clamp, antagonist relieves a rat osteoarthritic sensitisation model"
+},
+{
+"authors": "Bernier LP et al.",
+"year": "2018",
+"title": "P2X receptor channels in chronic pain pathways.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "28728214",
+"role": "step",
+"note": "review of rodent and human P2X channels in chronic pain: they are excitatory and calcium-permeable"
+},
+{
+"authors": "Jindrichova M et al.",
+"year": "2011",
+"title": "Highly conserved tyrosine 37 stabilizes desensitized states and restricts calcium permeability of ATP-gated P2X3 receptor.",
+"journal": "J Neurochem",
+"db": "pubmed",
+"id": "21883226",
+"role": "step",
+"note": "recombinant P2X3: a measurable fractional calcium current through the channel, raised in the Y37A mutant, so Ca2+ passes but only a small share of the current"
+},
+{
+"authors": "Murrell-Lagnado RD et al.",
+"year": "2008",
+"title": "Assembly and trafficking of P2X purinergic receptors (Review).",
+"journal": "Mol Membr Biol",
+"db": "pubmed",
+"id": "18446618",
+"role": "step",
+"note": "review: P2X receptors are cation-selective channels gated by extracellular ATP, as homo- and heterotrimers"
+}
+]
+},
+{
+"id": "re260",
+"label": "",
+"class": "Process",
+"box": [
+1218.5,
+235.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Na+"
+],
+"out": [
+"Na+"
+],
+"by": [
+"P2RX3:ATP",
+"P2RX2/3:ATP"
+]
+},
+"references": [
+{
+"authors": "Richards D et al.",
+"year": "2019",
+"title": "Action of MK-7264 (gefapixant) at human P2X3 and P2X2/3 receptors and in vivo efficacy in models of sensitisation.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "30927255",
+"role": "OA",
+"note": "human P2X3 and P2X2/3 currents in patch clamp, antagonist relieves a rat osteoarthritic sensitisation model"
+},
+{
+"authors": "Garcia-Guzman M et al.",
+"year": "1997",
+"title": "Molecular characterization and pharmacological properties of the human P2X3 purinoceptor.",
+"journal": "Brain Res Mol Brain Res",
+"db": "pubmed",
+"id": "9221902",
+"role": "step",
+"note": "human P2X3 expressed: ATP evokes an inward cation current, blocked by suramin and PPADS"
+},
+{
+"authors": "Lewis C et al.",
+"year": "1995",
+"title": "Coexpression of P2X2 and P2X3 receptor subunits can account for ATP-gated currents in sensory neurons.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "7566120",
+"role": "step",
+"note": "rat: P2X2 with P2X3 reproduces the ATP-gated cation current of sensory neurons, which single subunits do not"
+},
+{
+"authors": "Teixeira JM et al.",
+"year": "2017",
+"title": "P2X3 and P2X2/3 Receptors Play a Crucial Role in Articular Hyperalgesia Development Through Inflammatory Mechanisms in the Knee Joint Experimental Synovitis.",
+"journal": "Mol Neurobiol",
+"db": "pubmed",
+"id": "27709491",
+"role": "step",
+"note": "rat knee (experimental synovitis, not OA): articular P2X3 and P2X2/3 blockade lowers knee hyperalgesia"
+}
+]
+},
+{
+"id": "re261",
+"label": "",
+"class": "Process",
+"box": [
+1591.5,
+235.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"K+"
+],
+"out": [
+"K+"
+],
+"by": [
+"P2RX3:ATP",
+"P2RX2/3:ATP"
+]
+},
+"references": [
+{
+"authors": "Richards D et al.",
+"year": "2019",
+"title": "Action of MK-7264 (gefapixant) at human P2X3 and P2X2/3 receptors and in vivo efficacy in models of sensitisation.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "30927255",
+"role": "OA",
+"note": "human P2X3 and P2X2/3 currents, antagonist relieves a rat osteoarthritic sensitisation model; covers the channel, not the K+ direction"
+},
+{
+"authors": "Murrell-Lagnado RD et al.",
+"year": "2008",
+"title": "Assembly and trafficking of P2X purinergic receptors (Review).",
+"journal": "Mol Membr Biol",
+"db": "pubmed",
+"id": "18446618",
+"role": "step",
+"note": "review: P2X channels are cation-selective, so K+ as well as Na+ and Ca2+ moves through the open pore, down its own gradient (outward)"
+},
+{
+"authors": "Mansoor SE et al.",
+"year": "2016",
+"title": "X-ray structures define human P2X(3) receptor gating cycle and antagonist action.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "27626375",
+"role": "step",
+"note": "human P2X3 open-state structure: a pore with lateral cytoplasmic fenestrations for water and ion egress, i.e. non-selective cation permeation both ways"
+}
+]
+},
+{
+"id": "re262",
+"label": "",
+"class": "Process",
+"box": [
+1807.5,
+235.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"P2RX2/3",
+"ATP"
+],
+"out": [
+"P2RX2/3:ATP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Richards D et al.",
+"year": "2019",
+"title": "Action of MK-7264 (gefapixant) at human P2X3 and P2X2/3 receptors and in vivo efficacy in models of sensitisation.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "30927255",
+"role": "OA",
+"note": "human P2X2/3 heteromer in patch clamp (state-dependent block) plus a rat osteoarthritic sensitisation model relieved by the antagonist"
+},
+{
+"authors": "Lewis C et al.",
+"year": "1995",
+"title": "Coexpression of P2X2 and P2X3 receptor subunits can account for ATP-gated currents in sensory neurons.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "7566120",
+"role": "step",
+"note": "rat: P2X2 and P2X3 heteropolymerise into a new ATP-gated channel matching sensory neuron currents"
+},
+{
+"authors": "Murrell-Lagnado RD et al.",
+"year": "2008",
+"title": "Assembly and trafficking of P2X purinergic receptors (Review).",
+"journal": "Mol Membr Biol",
+"db": "pubmed",
+"id": "18446618",
+"role": "step",
+"note": "review: ATP binding gates homo- and heterotrimeric P2X complexes with different functional properties"
+},
+{
+"authors": "Teixeira JM et al.",
+"year": "2017",
+"title": "P2X3 and P2X2/3 Receptors Play a Crucial Role in Articular Hyperalgesia Development Through Inflammatory Mechanisms in the Knee Joint Experimental Synovitis.",
+"journal": "Mol Neurobiol",
+"db": "pubmed",
+"id": "27709491",
+"role": "step",
+"note": "rat knee (experimental synovitis, not OA): articular P2X2/3 blockade lowers knee hyperalgesia, so the heteromer works on knee afferents"
+}
+]
+},
+{
 "label": "SCN9A",
 "class": "Macromolecule",
 "box": [

@@ -4675,6 +4675,407 @@
 ]
 },
 {
+"id": "re465_dp1",
+"label": "",
+"class": "Process",
+"box": [
+738.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGDR:Gs",
+"GTP"
+],
+"out": [
+"PTGDR:Gs",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Zayed N et al.",
+"year": "2008",
+"title": "Inhibition of interleukin-1beta-induced matrix metalloproteinases 1 and 13 production in human osteoarthritic chondrocytes by prostaglandin D2.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18975308",
+"role": "OA",
+"note": "human OA chondrocytes: PGD2 acts through DP1 and cAMP/PKA (cartilage, not neurons); covers the DP1-Gs-cAMP pathway in OA by extension"
+},
+{
+"authors": "Rasmussen SG et al.",
+"journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
+"db": "pubmed",
+"id": "21772288",
+"role": "step",
+"note": "beta2AR-Gs crystal structure: agonist-bound receptor with nucleotide-free Gs, changes reach the nucleotide pocket (generic Gs step, not DP1)"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein biochemistry review: the receptor catalyses GDP for GTP exchange on alpha"
+}
+]
+},
+{
+"id": "re466_dp1",
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGDR:Gs"
+],
+"out": [
+"Gsα:GTP",
+"PTGDR",
+"PGD2",
+"Gsβ:Gsγ"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Zayed N et al.",
+"year": "2008",
+"title": "Inhibition of interleukin-1beta-induced matrix metalloproteinases 1 and 13 production in human osteoarthritic chondrocytes by prostaglandin D2.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18975308",
+"role": "OA",
+"note": "human OA chondrocytes: PGD2 acts through DP1 and cAMP/PKA (cartilage, not neurons); covers the DP1-Gs-cAMP pathway in OA by extension"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein biochemistry review: GTP-bound alpha and betagamma separate"
+}
+]
+},
+{
+"id": "re467_dp1",
+"label": "",
+"class": "Process",
+"box": [
+798.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP"
+],
+"out": [
+"Gsα:GDP",
+"Pi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Zayed N et al.",
+"year": "2008",
+"title": "Inhibition of interleukin-1beta-induced matrix metalloproteinases 1 and 13 production in human osteoarthritic chondrocytes by prostaglandin D2.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18975308",
+"role": "OA",
+"note": "human OA chondrocytes: PGD2 acts through DP1 and cAMP/PKA (cartilage, not neurons); covers the DP1-Gs-cAMP pathway in OA by extension"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: mutations that block Gsalpha GTPase show its intrinsic GTP hydrolysis"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein biochemistry review: alpha hydrolyses GTP by itself"
+}
+]
+},
+{
+"id": "re469_dp1",
+"label": "",
+"class": "Process",
+"box": [
+369.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGD2:PTGDR",
+"Gs heterotrimer"
+],
+"out": [
+"PTGDR:Gs"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Zayed N et al.",
+"year": "2008",
+"title": "Inhibition of interleukin-1beta-induced matrix metalloproteinases 1 and 13 production in human osteoarthritic chondrocytes by prostaglandin D2.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18975308",
+"role": "OA",
+"note": "human OA chondrocytes: PGD2 acts through DP1 and cAMP/PKA (cartilage, not neurons); covers the DP1-Gs-cAMP pathway in OA by extension"
+},
+{
+"authors": "Ouhaddi Y et al.",
+"year": "2017",
+"title": "Exacerbation of Aging-Associated and Instability-Induced Murine Osteoarthritis With Deletion of D Prostanoid Receptor 1, a Prostaglandin D(2) Receptor.",
+"journal": "Arthritis Rheumatol",
+"db": "pubmed",
+"id": "28544596",
+"role": "OA",
+"note": "mouse OA (ageing and DMM): DP1 knockout worsens OA, DP1 agonist BW245C protects (cartilage, no pain outcome)"
+},
+{
+"authors": "Xu J et al.",
+"year": "2025",
+"title": "Molecular basis for ligand recognition and receptor activation of the prostaglandin D2 receptor DP1.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "40440061",
+"role": "step",
+"note": "cryo-EM of human DP1 with PGD2 bound to Gs"
+},
+{
+"authors": "Davoudinasab B et al.",
+"year": "2025",
+"title": "Structural insights into the mechanism of activation and inhibition of the prostaglandin D2 receptor 1.",
+"journal": "Nat Commun",
+"db": "pubmed",
+"id": "41062467",
+"role": "step",
+"note": "cryo-EM of human DP1-Gs with PGD2"
+}
+]
+},
+{
+"id": "re470_dp1",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGDR",
+"PGD2"
+],
+"out": [
+"PGD2:PTGDR"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ouhaddi Y et al.",
+"year": "2017",
+"title": "Exacerbation of Aging-Associated and Instability-Induced Murine Osteoarthritis With Deletion of D Prostanoid Receptor 1, a Prostaglandin D(2) Receptor.",
+"journal": "Arthritis Rheumatol",
+"db": "pubmed",
+"id": "28544596",
+"role": "OA",
+"note": "mouse OA (ageing and DMM): DP1 knockout worsens OA, DP1 agonist BW245C protects (cartilage, no pain outcome)"
+},
+{
+"authors": "Zayed N et al.",
+"year": "2008",
+"title": "Inhibition of interleukin-1beta-induced matrix metalloproteinases 1 and 13 production in human osteoarthritic chondrocytes by prostaglandin D2.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18975308",
+"role": "OA",
+"note": "human OA chondrocytes: PGD2 acts through DP1 and cAMP/PKA (cartilage, not neurons); covers the DP1-Gs-cAMP pathway in OA by extension"
+},
+{
+"authors": "Boie Y et al.",
+"year": "1995",
+"title": "Molecular cloning and characterization of the human prostanoid DP receptor.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "7642548",
+"role": "step",
+"note": "cloned human DP receptor: binds PGD2 selectively, PGD2 raises cAMP"
+},
+{
+"authors": "Xu J et al.",
+"year": "2025",
+"title": "Molecular basis for ligand recognition and receptor activation of the prostaglandin D2 receptor DP1.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "40440061",
+"role": "step",
+"note": "cryo-EM of human DP1 with PGD2 bound to Gs"
+},
+{
+"authors": "Ebersberger A et al.",
+"year": "2011",
+"title": "Effects of prostaglandin D2 on tetrodotoxin-resistant Na+ currents in DRG neurons of adult rat.",
+"journal": "Pain",
+"db": "pubmed",
+"id": "21345590",
+"role": "step",
+"note": "rat DRG neurons in culture: Gs-coupled DP1 on most nociceptors; DP1 raises TTX-R Na+ currents, lowers AP threshold"
+}
+]
+},
+{
+"id": "re471_dp1",
+"label": "",
+"class": "Process",
+"box": [
+491.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GDP",
+"Gsβ:Gsγ"
+],
+"out": [
+"Gs heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Zayed N et al.",
+"year": "2008",
+"title": "Inhibition of interleukin-1beta-induced matrix metalloproteinases 1 and 13 production in human osteoarthritic chondrocytes by prostaglandin D2.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18975308",
+"role": "OA",
+"note": "human OA chondrocytes: PGD2 acts through DP1 and cAMP/PKA (cartilage, not neurons); covers the DP1-Gs-cAMP pathway in OA by extension"
+},
+{
+"authors": "Gilman AG",
+"journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
+"db": "pubmed",
+"id": "3113327",
+"role": "step",
+"note": "classic G protein biochemistry review: GDP-bound alpha reassociates with betagamma"
+}
+]
+},
+{
+"id": "re472_dp1",
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+834.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP",
+"ADCY"
+],
+"out": [
+"Adenylate cyclase"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Zayed N et al.",
+"year": "2008",
+"title": "Inhibition of interleukin-1beta-induced matrix metalloproteinases 1 and 13 production in human osteoarthritic chondrocytes by prostaglandin D2.",
+"journal": "Arthritis Rheum",
+"db": "pubmed",
+"id": "18975308",
+"role": "OA",
+"note": "human OA chondrocytes: PGD2 acts through DP1 and cAMP/PKA (cartilage, not neurons); covers the DP1-Gs-cAMP pathway in OA by extension"
+},
+{
+"authors": "Boie Y et al.",
+"year": "1995",
+"title": "Molecular cloning and characterization of the human prostanoid DP receptor.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "7642548",
+"role": "step",
+"note": "cloned human DP receptor: binds PGD2 selectively, PGD2 raises cAMP"
+},
+{
+"authors": "Tesmer JJ et al.",
+"journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
+"db": "pubmed",
+"id": "9417641",
+"role": "step",
+"note": "crystal structure of adenylyl cyclase catalytic domains bound to Gsalpha.GTPgammaS"
+},
+{
+"authors": "Landis CA et al.",
+"journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
+"db": "pubmed",
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: Gsalpha kept GTP-bound activates adenylyl cyclase"
+}
+]
+},
+{
 "label": "PGD2",
 "class": "SimpleChemical",
 "box": [
