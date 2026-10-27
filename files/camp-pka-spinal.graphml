@@ -71,7 +71,7 @@
       <graph edgedefault="directed" id="csa105:"><node id="sa946"><data key="d100">Adenylate cyclases</data><data key="d101">ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9</data><data key="d102">[{"symbol": "ADCY1", "props": [["HGNC", "HGNC:232"], ["HGNC symbol", "ADCY1"], ["UniProt", "Q08828"]]}, {"symbol": "ADCY2", "props": [["HGNC", "HGNC:233"], ["HGNC symbol", "ADCY2"], ["UniProt", "Q08462"]]}, {"symbol": "ADCY3", "props": [["HGNC", "HGNC:234"], ["HGNC symbol", "ADCY3"], ["UniProt", "O60266"]]}, {"symbol": "ADCY4", "props": [["HGNC", "HGNC:235"], ["HGNC symbol", "ADCY4"], ["UniProt", "Q8NFM4"]]}, {"symbol": "ADCY5", "props": [["HGNC", "HGNC:236"], ["HGNC symbol", "ADCY5"], ["UniProt", "O95622"]]}, {"symbol": "ADCY6", "props": [["HGNC", "HGNC:237"], ["HGNC symbol", "ADCY6"], ["UniProt", "O43306"]]}, {"symbol": "ADCY7", "props": [["HGNC", "HGNC:238"], ["HGNC symbol", "ADCY7"], ["UniProt", "P51828"]]}, {"symbol": "ADCY8", "props": [["HGNC", "HGNC:239"], ["HGNC symbol", "ADCY8"], ["UniProt", "P40145"]]}, {"symbol": "ADCY9", "props": [["HGNC", "HGNC:240"], ["HGNC symbol", "ADCY9"], ["UniProt", "O60503"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="170.0" y="660.875"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">ADCY<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -114,7 +114,7 @@
       <graph edgedefault="directed" id="sa947_c:"><node id="sa947"><data key="d100">G protein subunits alpha i/o</data><data key="d101">GNAI1; GNAI2; GNAI3; GNAO1</data><data key="d102">[{"symbol": "GNAI1", "props": [["HGNC", "HGNC:4384"], ["HGNC symbol", "GNAI1"], ["UniProt", "P63096"]]}, {"symbol": "GNAI2", "props": [["HGNC", "HGNC:4385"], ["HGNC symbol", "GNAI2"], ["UniProt", "P04899"]]}, {"symbol": "GNAI3", "props": [["HGNC", "HGNC:4387"], ["HGNC symbol", "GNAI3"], ["UniProt", "P08754"]]}, {"symbol": "GNAO1", "props": [["HGNC", "HGNC:4389"], ["HGNC symbol", "GNAO1"], ["UniProt", "P09471"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="170.0" y="574.375"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">Giα<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -165,7 +165,7 @@
       <graph edgedefault="directed" id="csa106:"><node id="sa953"><data key="d0">CHEBI:17489</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="581.0" y="978.6223554301832"/>
-          <y:Fill color="#E8E8DD" transparent="false"/>
+          <y:Fill color="#E6B3AC" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">cAMP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -173,7 +173,7 @@
     </node><node id="sa955"><data key="d100">PKA regulatory subunits</data><data key="d101">PRKAR1A; PRKAR1B; PRKAR2A; PRKAR2B</data><data key="d102">[{"symbol": "PRKAR1A", "props": [["HGNC", "HGNC:9388"], ["HGNC symbol", "PRKAR1A"], ["UniProt", "P10644"]]}, {"symbol": "PRKAR1B", "props": [["HGNC", "HGNC:9390"], ["HGNC symbol", "PRKAR1B"], ["UniProt", "P31321"]]}, {"symbol": "PRKAR2A", "props": [["HGNC", "HGNC:9391"], ["HGNC symbol", "PRKAR2A"], ["UniProt", "P13861"]]}, {"symbol": "PRKAR2B", "props": [["HGNC", "HGNC:9392"], ["HGNC symbol", "PRKAR2B"], ["UniProt", "P31323"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="46.0" width="86.0" x="558.0" y="1034.6223554301832"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="66.5" x="9.75" xml:space="preserve" y="12.75" hasText="true">PKA reg<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="3" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="25.0" x="30.5" y="-8.0">
@@ -224,7 +224,7 @@
       <graph edgedefault="directed" id="csa107:"><node id="sa958"><data key="d100">PKA regulatory subunits</data><data key="d101">PRKAR1A; PRKAR1B; PRKAR2A; PRKAR2B</data><data key="d102">[{"symbol": "PRKAR1A", "props": [["HGNC", "HGNC:9388"], ["HGNC symbol", "PRKAR1A"], ["UniProt", "P10644"]]}, {"symbol": "PRKAR1B", "props": [["HGNC", "HGNC:9390"], ["HGNC symbol", "PRKAR1B"], ["UniProt", "P31321"]]}, {"symbol": "PRKAR2A", "props": [["HGNC", "HGNC:9391"], ["HGNC symbol", "PRKAR2A"], ["UniProt", "P13861"]]}, {"symbol": "PRKAR2B", "props": [["HGNC", "HGNC:9392"], ["HGNC symbol", "PRKAR2B"], ["UniProt", "P31323"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="46.0" width="86.0" x="84.0" y="819.75"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="66.5" x="9.75" xml:space="preserve" y="12.75" hasText="true">PKA reg<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="3" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="25.0" x="30.5" y="-8.0">
@@ -243,7 +243,7 @@
         </node><node id="sa959"><data key="d100">PKA catalytic subunits</data><data key="d101">PRKACA; PRKACB</data><data key="d102">[{"symbol": "PRKACA", "props": [["HGNC", "HGNC:9380"], ["HGNC symbol", "PRKACA"], ["UniProt", "P17612"]]}, {"symbol": "PRKACB", "props": [["HGNC", "HGNC:9381"], ["HGNC symbol", "PRKACB"], ["UniProt", "P22694"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="46.0" width="86.0" x="184.0" y="819.75"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="66.5" x="9.75" xml:space="preserve" y="12.75" hasText="true">PKA cat<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="3" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="25.0" x="30.5" y="-8.0">
@@ -294,7 +294,7 @@
       <graph edgedefault="directed" id="csa108:"><node id="sa960"><data key="d100">PKA regulatory subunits</data><data key="d101">PRKAR1A; PRKAR1B; PRKAR2A; PRKAR2B</data><data key="d102">[{"symbol": "PRKAR1A", "props": [["HGNC", "HGNC:9388"], ["HGNC symbol", "PRKAR1A"], ["UniProt", "P10644"]]}, {"symbol": "PRKAR1B", "props": [["HGNC", "HGNC:9390"], ["HGNC symbol", "PRKAR1B"], ["UniProt", "P31321"]]}, {"symbol": "PRKAR2A", "props": [["HGNC", "HGNC:9391"], ["HGNC symbol", "PRKAR2A"], ["UniProt", "P13861"]]}, {"symbol": "PRKAR2B", "props": [["HGNC", "HGNC:9392"], ["HGNC symbol", "PRKAR2B"], ["UniProt", "P31323"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="46.0" width="86.0" x="424.0" y="813.75"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="66.5" x="9.75" xml:space="preserve" y="12.75" hasText="true">PKA reg<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="3" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="25.0" x="30.5" y="-8.0">
@@ -313,7 +313,7 @@
         </node><node id="sa961"><data key="d100">PKA catalytic subunits</data><data key="d101">PRKACA; PRKACB</data><data key="d102">[{"symbol": "PRKACA", "props": [["HGNC", "HGNC:9380"], ["HGNC symbol", "PRKACA"], ["UniProt", "P17612"]]}, {"symbol": "PRKACB", "props": [["HGNC", "HGNC:9381"], ["HGNC symbol", "PRKACB"], ["UniProt", "P22694"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="46.0" width="86.0" x="424.0" y="881.75"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="66.5" x="9.75" xml:space="preserve" y="12.75" hasText="true">PKA cat<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="3" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="25.0" x="30.5" y="-8.0">
@@ -332,7 +332,7 @@
         </node><node id="sa962"><data key="d0">CHEBI:17489</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="447.0" y="757.75"/>
-          <y:Fill color="#E8E8DD" transparent="false"/>
+          <y:Fill color="#E6B3AC" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">cAMP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -372,7 +372,7 @@
       <graph edgedefault="directed" id="csa134:"><node id="sa1118"><data key="d100">Adenylate cyclases</data><data key="d101">ADCY1; ADCY2; ADCY3; ADCY4; ADCY5; ADCY6; ADCY7; ADCY8; ADCY9</data><data key="d102">[{"symbol": "ADCY1", "props": [["HGNC", "HGNC:232"], ["HGNC symbol", "ADCY1"], ["UniProt", "Q08828"]]}, {"symbol": "ADCY2", "props": [["HGNC", "HGNC:233"], ["HGNC symbol", "ADCY2"], ["UniProt", "Q08462"]]}, {"symbol": "ADCY3", "props": [["HGNC", "HGNC:234"], ["HGNC symbol", "ADCY3"], ["UniProt", "O60266"]]}, {"symbol": "ADCY4", "props": [["HGNC", "HGNC:235"], ["HGNC symbol", "ADCY4"], ["UniProt", "Q8NFM4"]]}, {"symbol": "ADCY5", "props": [["HGNC", "HGNC:236"], ["HGNC symbol", "ADCY5"], ["UniProt", "O95622"]]}, {"symbol": "ADCY6", "props": [["HGNC", "HGNC:237"], ["HGNC symbol", "ADCY6"], ["UniProt", "O43306"]]}, {"symbol": "ADCY7", "props": [["HGNC", "HGNC:238"], ["HGNC symbol", "ADCY7"], ["UniProt", "P51828"]]}, {"symbol": "ADCY8", "props": [["HGNC", "HGNC:239"], ["HGNC symbol", "ADCY8"], ["UniProt", "P40145"]]}, {"symbol": "ADCY9", "props": [["HGNC", "HGNC:240"], ["HGNC symbol", "ADCY9"], ["UniProt", "O60503"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40.0" width="80.0" x="170.0" y="244.125"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="21.0" xml:space="preserve" y="9.75" hasText="true">ADCY<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -450,7 +450,7 @@
     </node><node id="sa949"><data key="d100">PKA catalytic subunits</data><data key="d101">PRKACA; PRKACB</data><data key="d102">[{"symbol": "PRKACA", "props": [["HGNC", "HGNC:9380"], ["HGNC symbol", "PRKACA"], ["UniProt", "P17612"]]}, {"symbol": "PRKACB", "props": [["HGNC", "HGNC:9381"], ["HGNC symbol", "PRKACB"], ["UniProt", "P22694"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="46.0" width="86.0" x="636.0" y="833.0"/>
-              <y:Fill color="#E8E8DD" transparent="false"/>
+              <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="66.5" x="9.75" xml:space="preserve" y="12.75" hasText="true">PKA cat<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="3" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="25.0" x="30.5" y="-8.0">
@@ -469,7 +469,7 @@
         </node><node id="sa950"><data key="d0">CHEBI:17489</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40.0" width="40.0" x="313.0" y="373.0"/>
-          <y:Fill color="#E8E8DD" transparent="false"/>
+          <y:Fill color="#E6B3AC" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="38.0" x="1.0" xml:space="preserve" y="9.75" hasText="true">cAMP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
