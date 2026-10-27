@@ -4675,6 +4675,7 @@
 ]
 },
 {
+"id": "re465",
 "label": "",
 "class": "Process",
 "box": [
@@ -4698,39 +4699,48 @@
 "references": [
 {
 "authors": "Jiang W et al.",
-"year": "2022",
-"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
 "journal": "Bone Res",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"year": "2022",
 "db": "pubmed",
-"id": "35260562"
+"id": "35260562",
+"role": "OA",
+"note": "mouse OA, PGE2 from OA patients' subchondral bone: Gαs downstream of EP4 (osteoclasts); OA pain reduced without EP4"
 },
 {
 "authors": "Anwar AI et al.",
-"year": "2026",
-"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
 "journal": "Pain Ther",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"year": "2026",
 "db": "pubmed",
-"id": "42714824"
+"id": "42714824",
+"role": "OA",
+"note": "review: PGE2-EP4 signalling central in OA pain and peripheral sensitisation"
 },
 {
 "authors": "Rasmussen SG et al.",
-"year": "2011",
-"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
 "journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
 "db": "pubmed",
-"id": "21772288"
+"id": "21772288",
+"role": "step",
+"note": "GDP leaves Gsα in the active receptor complex"
 },
 {
 "authors": "Gilman AG",
-"year": "1987",
-"title": "G proteins: transducers of receptor-generated signals.",
 "journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
 "db": "pubmed",
-"id": "3113327"
+"id": "3113327",
+"role": "step",
+"note": "review: the receptor catalyses GDP for GTP exchange"
 }
 ]
 },
 {
+"id": "re466",
 "label": "",
 "class": "Process",
 "box": [
@@ -4755,31 +4765,38 @@
 "references": [
 {
 "authors": "Jiang W et al.",
-"year": "2022",
-"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
 "journal": "Bone Res",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"year": "2022",
 "db": "pubmed",
-"id": "35260562"
+"id": "35260562",
+"role": "OA",
+"note": "mouse OA, PGE2 from OA patients' subchondral bone: Gαs downstream of EP4 (osteoclasts); OA pain reduced without EP4"
 },
 {
 "authors": "Anwar AI et al.",
-"year": "2026",
-"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
 "journal": "Pain Ther",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"year": "2026",
 "db": "pubmed",
-"id": "42714824"
+"id": "42714824",
+"role": "OA",
+"note": "review: PGE2-EP4 signalling central in OA pain and peripheral sensitisation"
 },
 {
 "authors": "Gilman AG",
-"year": "1987",
-"title": "G proteins: transducers of receptor-generated signals.",
 "journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
 "db": "pubmed",
-"id": "3113327"
+"id": "3113327",
+"role": "step",
+"note": "review: GTP-bound α and βγ separate"
 }
 ]
 },
 {
+"id": "re467",
 "label": "",
 "class": "Process",
 "box": [
@@ -4802,39 +4819,48 @@
 "references": [
 {
 "authors": "Jiang W et al.",
-"year": "2022",
-"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
 "journal": "Bone Res",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"year": "2022",
 "db": "pubmed",
-"id": "35260562"
+"id": "35260562",
+"role": "OA",
+"note": "mouse OA, PGE2 from OA patients' subchondral bone: Gαs downstream of EP4 (osteoclasts); OA pain reduced without EP4"
 },
 {
 "authors": "Anwar AI et al.",
-"year": "2026",
-"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
 "journal": "Pain Ther",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"year": "2026",
 "db": "pubmed",
-"id": "42714824"
+"id": "42714824",
+"role": "OA",
+"note": "review: PGE2-EP4 signalling central in OA pain and peripheral sensitisation"
 },
 {
 "authors": "Landis CA et al.",
-"year": "1989",
-"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
 "journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
 "db": "pubmed",
-"id": "2549426"
+"id": "2549426",
+"role": "step",
+"note": "human pituitary tumours: mutations that block Gsα GTPase show its intrinsic GTP hydrolysis"
 },
 {
 "authors": "Gilman AG",
-"year": "1987",
-"title": "G proteins: transducers of receptor-generated signals.",
 "journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
 "db": "pubmed",
-"id": "3113327"
+"id": "3113327",
+"role": "step",
+"note": "review: Gsα hydrolyses GTP by itself"
 }
 ]
 },
 {
+"id": "re469",
 "label": "",
 "class": "Process",
 "box": [
@@ -4857,39 +4883,48 @@
 "references": [
 {
 "authors": "Jiang W et al.",
-"year": "2022",
-"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
 "journal": "Bone Res",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"year": "2022",
 "db": "pubmed",
-"id": "35260562"
+"id": "35260562",
+"role": "OA",
+"note": "mouse OA, PGE2 from OA patients' subchondral bone: Gαs downstream of EP4 (osteoclasts); OA pain reduced without EP4"
 },
 {
 "authors": "Anwar AI et al.",
-"year": "2026",
-"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
 "journal": "Pain Ther",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"year": "2026",
 "db": "pubmed",
-"id": "42714824"
+"id": "42714824",
+"role": "OA",
+"note": "review: PGE2-EP4 signalling central in OA pain and peripheral sensitisation"
 },
 {
 "authors": "Nojima S et al.",
-"year": "2021",
-"title": "Cryo-EM Structure of the Prostaglandin E Receptor EP4 Coupled to G Protein.",
 "journal": "Structure",
+"title": "Cryo-EM Structure of the Prostaglandin E Receptor EP4 Coupled to G Protein.",
+"year": "2021",
 "db": "pubmed",
-"id": "33264604"
+"id": "33264604",
+"role": "step",
+"note": "human EP4-Gs complex with PGE2 (cryo-EM)"
 },
 {
 "authors": "Rasmussen SG et al.",
-"year": "2011",
-"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
 "journal": "Nature",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"year": "2011",
 "db": "pubmed",
-"id": "21772288"
+"id": "21772288",
+"role": "step",
+"note": "agonist-bound receptor with nucleotide-free Gs"
 }
 ]
 },
 {
+"id": "re470",
 "label": "",
 "class": "Process",
 "box": [
@@ -4912,31 +4947,38 @@
 "references": [
 {
 "authors": "Zhu J et al.",
-"year": "2020",
-"title": "Aberrant subchondral osteoblastic metabolism modifies Na(V)1.8 for osteoarthritis.",
 "journal": "Elife",
+"title": "Aberrant subchondral osteoblastic metabolism modifies Na(V)1.8 for osteoarthritis.",
+"year": "2020",
 "db": "pubmed",
-"id": "32441256"
+"id": "32441256",
+"role": "OA",
+"note": "mouse OA: EP4 deleted in peripheral nerve ameliorates OA pain; PGE2 sensitises DRG neurons via NaV1.8"
 },
 {
 "authors": "Attur M et al.",
-"year": "2008",
-"title": "Prostaglandin E2 exerts catabolic effects in osteoarthritis cartilage: evidence for signaling via the EP4 receptor.",
 "journal": "J Immunol",
+"title": "Prostaglandin E2 exerts catabolic effects in osteoarthritis cartilage: evidence for signaling via the EP4 receptor.",
+"year": "2008",
 "db": "pubmed",
-"id": "18802112"
+"id": "18802112",
+"role": "OA",
+"note": "human OA chondrocytes: PGE2 acts through EP4 (cartilage, not neurons)"
 },
 {
 "authors": "Nojima S et al.",
-"year": "2021",
-"title": "Cryo-EM Structure of the Prostaglandin E Receptor EP4 Coupled to G Protein.",
 "journal": "Structure",
+"title": "Cryo-EM Structure of the Prostaglandin E Receptor EP4 Coupled to G Protein.",
+"year": "2021",
 "db": "pubmed",
-"id": "33264604"
+"id": "33264604",
+"role": "step",
+"note": "cryo-EM of human EP4 bound to PGE2"
 }
 ]
 },
 {
+"id": "re471",
 "label": "",
 "class": "Process",
 "box": [
@@ -4959,31 +5001,38 @@
 "references": [
 {
 "authors": "Jiang W et al.",
-"year": "2022",
-"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
 "journal": "Bone Res",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"year": "2022",
 "db": "pubmed",
-"id": "35260562"
+"id": "35260562",
+"role": "OA",
+"note": "mouse OA, PGE2 from OA patients' subchondral bone: Gαs downstream of EP4 (osteoclasts); OA pain reduced without EP4"
 },
 {
 "authors": "Anwar AI et al.",
-"year": "2026",
-"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
 "journal": "Pain Ther",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"year": "2026",
 "db": "pubmed",
-"id": "42714824"
+"id": "42714824",
+"role": "OA",
+"note": "review: PGE2-EP4 signalling central in OA pain and peripheral sensitisation"
 },
 {
 "authors": "Gilman AG",
-"year": "1987",
-"title": "G proteins: transducers of receptor-generated signals.",
 "journal": "Annu Rev Biochem",
+"title": "G proteins: transducers of receptor-generated signals.",
+"year": "1987",
 "db": "pubmed",
-"id": "3113327"
+"id": "3113327",
+"role": "step",
+"note": "review: GDP-bound α reassociates with βγ"
 }
 ]
 },
 {
+"id": "re472",
 "label": "",
 "class": "Process",
 "box": [
@@ -5006,35 +5055,43 @@
 "references": [
 {
 "authors": "Jiang W et al.",
-"year": "2022",
-"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
 "journal": "Bone Res",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"year": "2022",
 "db": "pubmed",
-"id": "35260562"
+"id": "35260562",
+"role": "OA",
+"note": "mouse OA, PGE2 from OA patients' subchondral bone: Gαs downstream of EP4 (osteoclasts); OA pain reduced without EP4"
 },
 {
 "authors": "Anwar AI et al.",
-"year": "2026",
-"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
 "journal": "Pain Ther",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"year": "2026",
 "db": "pubmed",
-"id": "42714824"
+"id": "42714824",
+"role": "OA",
+"note": "review: PGE2-EP4 signalling central in OA pain and peripheral sensitisation"
 },
 {
 "authors": "Tesmer JJ et al.",
-"year": "1997",
-"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
 "journal": "Science",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"year": "1997",
 "db": "pubmed",
-"id": "9417641"
+"id": "9417641",
+"role": "step",
+"note": "structure of Gsα·GTPγS bound to adenylyl cyclase"
 },
 {
 "authors": "Landis CA et al.",
-"year": "1989",
-"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
 "journal": "Nature",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"year": "1989",
 "db": "pubmed",
-"id": "2549426"
+"id": "2549426",
+"role": "step",
+"note": "GTP-bound Gsα activates adenylyl cyclase in human cells"
 }
 ]
 },
