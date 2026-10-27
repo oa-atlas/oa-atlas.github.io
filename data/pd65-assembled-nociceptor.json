@@ -72222,8 +72222,8 @@
 "label": "tramadol",
 "class": "SimpleChemical",
 "box": [
-11125.3,
-676.0,
+11321.8,
+474.5,
 40.0,
 40.0
 ],
@@ -72262,8 +72262,8 @@
 "label": "codeine",
 "class": "SimpleChemical",
 "box": [
-11271.3,
-676.0,
+11064.8,
+421.5,
 40.0,
 40.0
 ],
@@ -72306,8 +72306,8 @@
 "label": "morphine",
 "class": "SimpleChemical",
 "box": [
-11417.3,
-676.0,
+10978.8,
+447.5,
 40.0,
 40.0
 ],
@@ -72350,8 +72350,8 @@
 "label": "oxycodone",
 "class": "SimpleChemical",
 "box": [
-11563.3,
-676.0,
+11153.8,
+417.5,
 40.0,
 40.0
 ],
@@ -72394,8 +72394,8 @@
 "label": "fentanyl",
 "class": "SimpleChemical",
 "box": [
-11709.3,
-676.0,
+11240.8,
+435.5,
 40.0,
 40.0
 ],
@@ -72434,8 +72434,8 @@
 "label": "enkephalin",
 "class": "SimpleChemical",
 "box": [
-10967.8,
-676.0,
+10906.8,
+635.5,
 40.0,
 40.0
 ],
@@ -72478,8 +72478,8 @@
 "label": "endomorphin-2",
 "class": "SimpleChemical",
 "box": [
-11040.8,
-636.0,
+10967.8,
+595.5,
 40.0,
 40.0
 ],
@@ -72586,8 +72586,8 @@
 "label": "buprenorphine",
 "class": "SimpleChemical",
 "box": [
-11198.3,
-636.0,
+11485.8,
+775.5,
 40.0,
 40.0
 ],
@@ -72634,8 +72634,8 @@
 "label": "hydromorphone",
 "class": "SimpleChemical",
 "box": [
-11344.3,
-636.0,
+11473.8,
+687.5,
 40.0,
 40.0
 ],
@@ -72678,8 +72678,8 @@
 "label": "pethidine",
 "class": "SimpleChemical",
 "box": [
-11490.3,
-636.0,
+11389.8,
+531.5,
 40.0,
 40.0
 ],
@@ -72727,7 +72727,7 @@
 "class": "SimpleChemical",
 "box": [
 10826.8,
-676.0,
+595.5,
 40.0,
 40.0
 ],
@@ -72774,8 +72774,8 @@
 "label": "naltrexone",
 "class": "SimpleChemical",
 "box": [
-10753.8,
-636.0,
+10765.8,
+635.5,
 40.0,
 40.0
 ],
@@ -72822,10 +72822,10 @@
 "label": "tapentadol",
 "class": "SimpleChemical",
 "box": [
-11634.3,
-634.0,
-44.0,
-44.0
+11441.8,
+604.5,
+40.0,
+40.0
 ],
 "props": [
 [
@@ -72854,7 +72854,7 @@
 "label": "opioid agonist",
 "class": "SimpleChemical",
 "box": [
-12015.8,
+11995.8,
 841.0,
 40.0,
 40.0
@@ -72938,167 +72938,7 @@
 "label": "noradrenaline",
 "class": "SimpleChemical",
 "box": [
-13307.8,
-797.5,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"noradrenaline"
-],
-[
-"Synonyms",
-"4-(2-amino-1-hydroxyethyl)benzene-1,2-diol; noradrenalina; norepinephrine"
-],
-[
-"Definition",
-"A catecholamine in which C-1 of the aminoethyl side-chain is hydroxy-substituted."
-],
-[
-"Formula",
-"C8H11NO3"
-],
-[
-"ChEBI",
-"CHEBI:33569"
-],
-[
-"InChI",
-"InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2"
-],
-[
-"InChIKey",
-"SFLSHLFXELFNJZ-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "noradrenaline",
-"class": "SimpleChemical",
-"box": [
-14331.8,
-797.5,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"noradrenaline"
-],
-[
-"Synonyms",
-"4-(2-amino-1-hydroxyethyl)benzene-1,2-diol; noradrenalina; norepinephrine"
-],
-[
-"Definition",
-"A catecholamine in which C-1 of the aminoethyl side-chain is hydroxy-substituted."
-],
-[
-"Formula",
-"C8H11NO3"
-],
-[
-"ChEBI",
-"CHEBI:33569"
-],
-[
-"InChI",
-"InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2"
-],
-[
-"InChIKey",
-"SFLSHLFXELFNJZ-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "noradrenaline",
-"class": "SimpleChemical",
-"box": [
 14483.8,
-797.5,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"noradrenaline"
-],
-[
-"Synonyms",
-"4-(2-amino-1-hydroxyethyl)benzene-1,2-diol; noradrenalina; norepinephrine"
-],
-[
-"Definition",
-"A catecholamine in which C-1 of the aminoethyl side-chain is hydroxy-substituted."
-],
-[
-"Formula",
-"C8H11NO3"
-],
-[
-"ChEBI",
-"CHEBI:33569"
-],
-[
-"InChI",
-"InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2"
-],
-[
-"InChIKey",
-"SFLSHLFXELFNJZ-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "noradrenaline",
-"class": "SimpleChemical",
-"box": [
-15507.8,
-797.5,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"noradrenaline"
-],
-[
-"Synonyms",
-"4-(2-amino-1-hydroxyethyl)benzene-1,2-diol; noradrenalina; norepinephrine"
-],
-[
-"Definition",
-"A catecholamine in which C-1 of the aminoethyl side-chain is hydroxy-substituted."
-],
-[
-"Formula",
-"C8H11NO3"
-],
-[
-"ChEBI",
-"CHEBI:33569"
-],
-[
-"InChI",
-"InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2"
-],
-[
-"InChIKey",
-"SFLSHLFXELFNJZ-UHFFFAOYSA-N"
-]
-]
-},
-{
-"label": "noradrenaline",
-"class": "SimpleChemical",
-"box": [
-16443.8,
 797.5,
 40.0,
 40.0
@@ -74935,6 +74775,90 @@
 [
 "InChIKey",
 "ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "COMT",
+"class": "Macromolecule",
+"box": [
+14570.5,
+625.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Catechol O-methyltransferase"
+],
+[
+"Function",
+"Catalyzes the O-methylation, and thereby the inactivation, of catecholamine neurotransmitters and catechol hormones. Also shortens the biological half-lives of certain neuroactive drugs, like L-DOPA, alpha-methyl DOPA and isoproterenol"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:2228"
+],
+[
+"HGNC symbol",
+"COMT"
+],
+[
+"Entrez",
+"1312"
+],
+[
+"Ensembl",
+"ENSG00000093010"
+],
+[
+"RefSeq",
+"NM_000754"
+],
+[
+"UniProt",
+"P21964"
+]
+]
+},
+{
+"label": "normetanephrine",
+"class": "SimpleChemical",
+"box": [
+14695.3,
+725.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Normetanephrine"
+],
+[
+"Formula",
+"C9H13NO3"
+],
+[
+"ChEBI",
+"CHEBI:89951"
+],
+[
+"HMDB",
+"HMDB0000819"
+],
+[
+"InChI",
+"InChI=1S/C9H13NO3/c1-13-9-4-6(8(12)5-10)2-3-7(9)11/h2-4,8,11-12H,5,10H2,1H3"
+],
+[
+"InChIKey",
+"YNYAYWLBAHXHLL-UHFFFAOYSA-N"
 ]
 ]
 }
