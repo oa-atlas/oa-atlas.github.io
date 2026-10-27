@@ -4675,6 +4675,370 @@
 ]
 },
 {
+"label": "",
+"class": "Process",
+"box": [
+738.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGER4:Gs",
+"GTP"
+],
+"out": [
+"PTGER4:Gs",
+"GDP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Jiang W et al.",
+"year": "2022",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"journal": "Bone Res",
+"db": "pubmed",
+"id": "35260562"
+},
+{
+"authors": "Anwar AI et al.",
+"year": "2026",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"journal": "Pain Ther",
+"db": "pubmed",
+"id": "42714824"
+},
+{
+"authors": "Rasmussen SG et al.",
+"year": "2011",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "21772288"
+},
+{
+"authors": "Gilman AG",
+"year": "1987",
+"title": "G proteins: transducers of receptor-generated signals.",
+"journal": "Annu Rev Biochem",
+"db": "pubmed",
+"id": "3113327"
+}
+]
+},
+{
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+475.2,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGER4:Gs"
+],
+"out": [
+"Gsα:GTP",
+"PTGER4",
+"PGE2",
+"Gsβ:Gsγ"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Jiang W et al.",
+"year": "2022",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"journal": "Bone Res",
+"db": "pubmed",
+"id": "35260562"
+},
+{
+"authors": "Anwar AI et al.",
+"year": "2026",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"journal": "Pain Ther",
+"db": "pubmed",
+"id": "42714824"
+},
+{
+"authors": "Gilman AG",
+"year": "1987",
+"title": "G proteins: transducers of receptor-generated signals.",
+"journal": "Annu Rev Biochem",
+"db": "pubmed",
+"id": "3113327"
+}
+]
+},
+{
+"label": "",
+"class": "Process",
+"box": [
+798.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP"
+],
+"out": [
+"Gsα:GDP",
+"Pi"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Jiang W et al.",
+"year": "2022",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"journal": "Bone Res",
+"db": "pubmed",
+"id": "35260562"
+},
+{
+"authors": "Anwar AI et al.",
+"year": "2026",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"journal": "Pain Ther",
+"db": "pubmed",
+"id": "42714824"
+},
+{
+"authors": "Landis CA et al.",
+"year": "1989",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "2549426"
+},
+{
+"authors": "Gilman AG",
+"year": "1987",
+"title": "G proteins: transducers of receptor-generated signals.",
+"journal": "Annu Rev Biochem",
+"db": "pubmed",
+"id": "3113327"
+}
+]
+},
+{
+"label": "",
+"class": "Process",
+"box": [
+369.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGE2:PTGER4",
+"Gs heterotrimer"
+],
+"out": [
+"PTGER4:Gs"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Jiang W et al.",
+"year": "2022",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"journal": "Bone Res",
+"db": "pubmed",
+"id": "35260562"
+},
+{
+"authors": "Anwar AI et al.",
+"year": "2026",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"journal": "Pain Ther",
+"db": "pubmed",
+"id": "42714824"
+},
+{
+"authors": "Nojima S et al.",
+"year": "2021",
+"title": "Cryo-EM Structure of the Prostaglandin E Receptor EP4 Coupled to G Protein.",
+"journal": "Structure",
+"db": "pubmed",
+"id": "33264604"
+},
+{
+"authors": "Rasmussen SG et al.",
+"year": "2011",
+"title": "Crystal structure of the β2 adrenergic receptor-Gs protein complex.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "21772288"
+}
+]
+},
+{
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGER4",
+"PGE2"
+],
+"out": [
+"PGE2:PTGER4"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Zhu J et al.",
+"year": "2020",
+"title": "Aberrant subchondral osteoblastic metabolism modifies Na(V)1.8 for osteoarthritis.",
+"journal": "Elife",
+"db": "pubmed",
+"id": "32441256"
+},
+{
+"authors": "Attur M et al.",
+"year": "2008",
+"title": "Prostaglandin E2 exerts catabolic effects in osteoarthritis cartilage: evidence for signaling via the EP4 receptor.",
+"journal": "J Immunol",
+"db": "pubmed",
+"id": "18802112"
+},
+{
+"authors": "Nojima S et al.",
+"year": "2021",
+"title": "Cryo-EM Structure of the Prostaglandin E Receptor EP4 Coupled to G Protein.",
+"journal": "Structure",
+"db": "pubmed",
+"id": "33264604"
+}
+]
+},
+{
+"label": "",
+"class": "Process",
+"box": [
+491.0,
+684.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GDP",
+"Gsβ:Gsγ"
+],
+"out": [
+"Gs heterotrimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Jiang W et al.",
+"year": "2022",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"journal": "Bone Res",
+"db": "pubmed",
+"id": "35260562"
+},
+{
+"authors": "Anwar AI et al.",
+"year": "2026",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"journal": "Pain Ther",
+"db": "pubmed",
+"id": "42714824"
+},
+{
+"authors": "Gilman AG",
+"year": "1987",
+"title": "G proteins: transducers of receptor-generated signals.",
+"journal": "Annu Rev Biochem",
+"db": "pubmed",
+"id": "3113327"
+}
+]
+},
+{
+"label": "",
+"class": "Process",
+"box": [
+937.0,
+834.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Gsα:GTP",
+"ADCY"
+],
+"out": [
+"Adenylate cyclase"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Jiang W et al.",
+"year": "2022",
+"title": "PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis.",
+"journal": "Bone Res",
+"db": "pubmed",
+"id": "35260562"
+},
+{
+"authors": "Anwar AI et al.",
+"year": "2026",
+"title": "Selective EP4 Receptor Antagonism for Osteoarthritis Pain: Emerging Evidence and Future Directions for KF-0210.",
+"journal": "Pain Ther",
+"db": "pubmed",
+"id": "42714824"
+},
+{
+"authors": "Tesmer JJ et al.",
+"year": "1997",
+"title": "Crystal structure of the catalytic domains of adenylyl cyclase in a complex with Gsalpha.GTPgammaS.",
+"journal": "Science",
+"db": "pubmed",
+"id": "9417641"
+},
+{
+"authors": "Landis CA et al.",
+"year": "1989",
+"title": "GTPase inhibiting mutations activate the alpha chain of Gs and stimulate adenylyl cyclase in human pituitary tumours.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "2549426"
+}
+]
+},
+{
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [
