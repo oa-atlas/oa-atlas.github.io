@@ -15359,7 +15359,7 @@
     <edge id="re221_lt_csa70_lt_ltb4" source="re221_lt_ltb4" target="csa70_plc">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="2655.7574047954868" y="2428.0"/><y:Point x="19543.77574047955" y="2428.0"/><y:Point x="19543.77574047955" y="554.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="2655.7574047954868" y="2044.0"/><y:Point x="19543.77574047955" y="2044.0"/><y:Point x="19543.77574047955" y="554.5"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -15607,7 +15607,7 @@
     <edge id="re472_csa30_ip_pgi2" source="re472_ip_pgi2" target="csa30_camp">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="3797.7574047954868" y="2396.0"/><y:Point x="21047.77574047955" y="2396.0"/><y:Point x="21047.77574047955" y="456.0"/><y:Point x="21297.77574047955" y="456.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="3797.7574047954868" y="2108.0"/><y:Point x="21047.77574047955" y="2108.0"/><y:Point x="21047.77574047955" y="456.0"/><y:Point x="21297.77574047955" y="456.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -15801,7 +15801,7 @@
       <data key="k16"/>
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="4902.126939351199" y="2364.0"/><y:Point x="21047.77574047955" y="2364.0"/><y:Point x="21047.77574047955" y="456.0"/><y:Point x="21297.77574047955" y="456.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="4902.126939351199" y="2108.0"/><y:Point x="21047.77574047955" y="2108.0"/><y:Point x="21047.77574047955" y="456.0"/><y:Point x="21297.77574047955" y="456.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -16184,7 +16184,7 @@
     <edge id="re472_csa30_ep4" source="re472_ep4" target="csa30_camp">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="6009.775740479548" y="2332.0"/><y:Point x="21047.77574047955" y="2332.0"/><y:Point x="21047.77574047955" y="456.0"/><y:Point x="21297.77574047955" y="456.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="6009.775740479548" y="2108.0"/><y:Point x="21047.77574047955" y="2108.0"/><y:Point x="21047.77574047955" y="456.0"/><y:Point x="21297.77574047955" y="456.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -16458,7 +16458,7 @@
     <edge id="re232_csa74_ep3" source="re232_ep3" target="csa74_camp">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="7125.775740479548" y="2300.0"/><y:Point x="21087.77574047955" y="2300.0"/><y:Point x="21087.77574047955" y="975.875"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="7125.775740479548" y="2076.0"/><y:Point x="21007.77574047955" y="2076.0"/><y:Point x="21007.77574047955" y="975.875"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -16724,7 +16724,7 @@
     <edge id="re221_csa70_ep1_ep1" source="re221_ep1_ep1" target="csa70_plc">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="8256.775740479548" y="2268.0"/><y:Point x="19543.77574047955" y="2268.0"/><y:Point x="19543.77574047955" y="554.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="8256.775740479548" y="2044.0"/><y:Point x="19543.77574047955" y="2044.0"/><y:Point x="19543.77574047955" y="554.5"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -16990,7 +16990,7 @@
     <edge id="re221_csa70_bk" source="re221_bk" target="csa70_plc">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="9388.775740479548" y="2236.0"/><y:Point x="19543.77574047955" y="2236.0"/><y:Point x="19543.77574047955" y="554.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="9388.775740479548" y="2044.0"/><y:Point x="19543.77574047955" y="2044.0"/><y:Point x="19543.77574047955" y="554.5"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -17256,7 +17256,7 @@
     <edge id="re221_csa70_h1_h1" source="re221_h1_h1" target="csa70_plc">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="10520.775740479548" y="2204.0"/><y:Point x="19543.77574047955" y="2204.0"/><y:Point x="19543.77574047955" y="554.5"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="10520.775740479548" y="2044.0"/><y:Point x="19543.77574047955" y="2044.0"/><y:Point x="19543.77574047955" y="554.5"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -17753,7 +17753,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re301_csa105_opioid" source="re301_opioid" target="csa74_camp">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="11852.275740479548" y="2172.0"/><y:Point x="21087.77574047955" y="2172.0"/><y:Point x="21087.77574047955" y="975.875"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="11852.275740479548" y="2076.0"/><y:Point x="21007.77574047955" y="2076.0"/><y:Point x="21007.77574047955" y="975.875"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -18211,7 +18211,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re257_csa74_cb2" source="re257_cb2" target="csa74_camp">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="12994.650740479548" y="2140.0"/><y:Point x="21087.77574047955" y="2140.0"/><y:Point x="21087.77574047955" y="975.875"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="12994.650740479548" y="2076.0"/><y:Point x="21007.77574047955" y="2076.0"/><y:Point x="21007.77574047955" y="975.875"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -18477,7 +18477,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re438_csa105_a2a" source="re438_a2a" target="csa74_camp">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="14171.900740479548" y="2108.0"/><y:Point x="21087.77574047955" y="2108.0"/><y:Point x="21087.77574047955" y="975.875"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="14171.900740479548" y="2076.0"/><y:Point x="21007.77574047955" y="2076.0"/><y:Point x="21007.77574047955" y="975.875"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -18733,7 +18733,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re439_csa134_b2gs" source="re439_b2gs" target="csa30_camp">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="15347.900740479548" y="2076.0"/><y:Point x="21047.77574047955" y="2076.0"/><y:Point x="21047.77574047955" y="456.0"/><y:Point x="21297.77574047955" y="456.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="15347.900740479548" y="2108.0"/><y:Point x="21047.77574047955" y="2108.0"/><y:Point x="21047.77574047955" y="456.0"/><y:Point x="21297.77574047955" y="456.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -18961,7 +18961,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re456_csa105_b2gi" source="re456_b2gi" target="csa74_camp">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="16283.900740479548" y="2044.0"/><y:Point x="21087.77574047955" y="2044.0"/><y:Point x="21087.77574047955" y="975.875"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="16283.900740479548" y="2076.0"/><y:Point x="21007.77574047955" y="2076.0"/><y:Point x="21007.77574047955" y="975.875"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="true"/>
@@ -19996,7 +19996,7 @@ opioid analgesic<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <edge id="re172_sa1016_physical_stimulation_camp" source="sa1016_tnf" target="re172_camp">
       <data key="eg">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="902.0" y="2460.0"/><y:Point x="21127.77574047955" y="2460.0"/><y:Point x="21127.77574047955" y="424.0"/><y:Point x="21766.77574047955" y="424.0"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="902.0" y="2140.0"/><y:Point x="21127.77574047955" y="2140.0"/><y:Point x="21127.77574047955" y="424.0"/><y:Point x="21766.77574047955" y="424.0"/></y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
           <y:BendStyle smoothed="true"/>
