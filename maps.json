@@ -999,6 +999,33 @@
 "hasText": true
 },
 {
+"id": "pd65-assembled-mast-cell",
+"title": "Mast cell: eicosanoids and osteopontin, assembled from the blocks",
+"topic": "Mast cell",
+"group": "Assembled",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/pd65-assembled-mast-cell.svg",
+"width": 5176.0,
+"height": 2672.0,
+"scale": 1,
+"annotation": "data/pd65-assembled-mast-cell.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-assembled-mast-cell.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-assembled-mast-cell.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
 "id": "pd65-assembled-nociceptor",
 "title": "Nociceptor, assembled from the blocks",
 "topic": "Nociceptor",
@@ -1047,33 +1074,6 @@
 {
 "label": "SVG",
 "url": "files/pd65-assembled-spinal.svg"
-}
-],
-"data": null,
-"hasText": false
-},
-{
-"id": "pd65-assembled-mast-cell",
-"title": "Mast cell: eicosanoids and osteopontin, assembled from the blocks",
-"topic": "Mast cell",
-"group": "Assembled",
-"kind": null,
-"tag": "new",
-"tab": null,
-"image": "files/pd65-assembled-mast-cell.svg",
-"width": 5176.0,
-"height": 2672.0,
-"scale": 1,
-"annotation": "data/pd65-assembled-mast-cell.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/pd65-assembled-mast-cell.graphml"
-},
-{
-"label": "SVG",
-"url": "files/pd65-assembled-mast-cell.svg"
 }
 ],
 "data": null,
