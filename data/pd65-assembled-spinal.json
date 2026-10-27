@@ -40127,6 +40127,34 @@
 ]
 },
 {
+"label": "opioid agonist: opioid peptide",
+"class": "SimpleChemical",
+"box": [
+9672.0,
+272.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"opioid receptor agonist"
+],
+[
+"Synonyms",
+"opiate agonist; opiate agonists; opioid agonist; opioid agonists; opioid receptor agonists"
+],
+[
+"Definition",
+"An agent that selectively binds to and activates an opioid receptor."
+],
+[
+"ChEBI",
+"CHEBI:60606"
+]
+]
+},
+{
 "label": "opioid agonist: opioid analgesic",
 "class": "SimpleChemical",
 "box": [
