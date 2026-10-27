@@ -864,13 +864,40 @@
 "hasText": true
 },
 {
+"id": "pd65-assembled-nociceptor-one",
+"title": "Nociceptor, assembled from the blocks",
+"topic": "Nociceptor",
+"group": "Assembled",
+"kind": null,
+"tag": null,
+"tab": "one effector, v11",
+"image": "files/pd65-assembled-nociceptor-one.svg",
+"width": 21199.0,
+"height": 2519.0,
+"scale": 1,
+"annotation": "data/pd65-assembled-nociceptor-one.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-assembled-nociceptor-one.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-assembled-nociceptor-one.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
 "id": "pd65-assembled-nociceptor",
 "title": "Nociceptor, assembled from the blocks",
 "topic": "Nociceptor",
 "group": "Assembled",
 "kind": null,
 "tag": null,
-"tab": null,
+"tab": "effector copies, v10",
 "image": "files/pd65-assembled-nociceptor.svg",
 "width": 21199.0,
 "height": 2519.0,
