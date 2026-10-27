@@ -67,24 +67,24 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="2236.5" width="3937.3046001507732" x="-153.30460015077324" y="40.0"/>
+              <y:Geometry height="2236.5" width="4048.0" x="-264" y="40.0"/>
               <y:Fill color="#99999908" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="br" textColor="#000000" verticalTextPosition="bottom" visible="true" width="78.744140625" x="3693.3104595257732" xml:space="preserve" y="2216.01171875">MAST CELL</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="37" bottomF="37.01171875" left="34" leftF="34.49063530702324" right="16" rightF="15.9599609375" top="37" topF="37.0"/>
+              <y:BorderInsets bottom="37" bottomF="37.01171875" left="145" leftF="145.18603515625" right="16" rightF="15.9599609375" top="37" topF="37.0"/>
             </y:GroupNode>
             <y:GroupNode>
-              <y:Geometry height="1980.0" width="3744.0" x="40.0" y="40.0"/>
+              <y:Geometry height="1980.0" width="4048.0" x="-264" y="40.0"/>
               <y:Fill color="#99999908" transparent="false"/>
               <y:BorderStyle color="#999999" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="15.77734375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="br" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.7275390625" x="3485.6055609375" xml:space="preserve" y="1964.22265625">CYTOSOL</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="1980.0" closedWidth="3535.3331" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="42" bottomF="41.72265625" left="34" leftF="34.49063530702324" right="16" rightF="15.9599609375" top="37" topF="37.0"/>
+              <y:BorderInsets bottom="42" bottomF="41.72265625" left="145" leftF="145.18603515625" right="16" rightF="15.9599609375" top="37" topF="37.0"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
@@ -4306,7 +4306,7 @@
           <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
-              <y:Geometry height="18.0" width="18.0" x="335.0" y="115.0"/>
+              <y:Geometry height="18.0" width="18.0" x="151.0" y="2183.5"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
@@ -4323,7 +4323,7 @@
         <edge id="n3::rel0_in" source="n3::n69" target="n3::rel0">
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="344" y="80"/><y:Point x="-216" y="80"/><y:Point x="-216" y="2152"/><y:Point x="160" y="2152"/></y:Path>
           <y:LineStyle color="#CC0000" type="line" width="2.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4337,7 +4337,7 @@
           <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
-              <y:Geometry height="18.0" width="18.0" x="-78.30460015077324" y="743.0"/>
+              <y:Geometry height="18.0" width="18.0" x="311.0" y="2183.5"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
@@ -4354,7 +4354,7 @@
         <edge id="n3::rel1_in" source="n3::n32" target="n3::rel1">
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="616.0" y="752"/></y:Path>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="616.0" y="752.0"/><y:Point x="-176" y="752.0"/><y:Point x="-176" y="2112"/><y:Point x="320" y="2112"/></y:Path>
           <y:LineStyle color="#CC0000" type="line" width="2.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -4368,7 +4368,7 @@
           <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.Process">
-              <y:Geometry height="18.0" width="18.0" x="-78.30460015077324" y="976.0049681084031"/>
+              <y:Geometry height="18.0" width="18.0" x="471.0" y="2183.5"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="0.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="9.0">
@@ -4385,7 +4385,7 @@
         <edge id="n3::rel2_in" source="n3::n84" target="n3::rel2">
       <data key="d13">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="-136" y="985.0049681084031"/><y:Point x="-136" y="2072"/><y:Point x="480" y="2072"/></y:Path>
           <y:LineStyle color="#CC0000" type="line" width="2.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="true"/>
@@ -6947,7 +6947,7 @@
           <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="324.0" y="-96.0"/>
+              <y:Geometry height="40.0" width="40.0" x="140.0" y="2372.5"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="142.9541015625" x="-51.47705078125" xml:space="preserve" y="9.755859375">Hepoxilin A3 (HXA3)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -6971,7 +6971,7 @@
           <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="-289.30460015077324" y="732.0"/>
+              <y:Geometry height="40.0" width="40.0" x="300.0" y="2372.5"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="71.9150390625" x="-15.95751953125" xml:space="preserve" y="9.755859375">5(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -6995,7 +6995,7 @@
           <data key="d6" xml:space="preserve"/>
           <data key="d9">
             <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-              <y:Geometry height="40.0" width="40.0" x="-289.30460015077324" y="965.0049681084031"/>
+              <y:Geometry height="40.0" width="40.0" x="460.0" y="2372.5"/>
               <y:Fill color="#E6B3AC" transparent="false"/>
               <y:BorderStyle color="#CC0000" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.48828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="80.767578125" x="-20.3837890625" xml:space="preserve" y="9.755859375">15(S)-HETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
