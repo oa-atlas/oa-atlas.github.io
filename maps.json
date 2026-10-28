@@ -1494,7 +1494,7 @@
 "group": "Assembled",
 "kind": null,
 "tag": "changed",
-"tab": null,
+"tab": "one row",
 "image": "files/pd65-assembled-nociceptor.svg",
 "width": 24042.0,
 "height": 2720.0,
@@ -1513,6 +1513,37 @@
 {
 "label": "References",
 "url": "files/pd65-assembled-nociceptor-references.csv"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "pd65-assembled-nociceptor-two-rows",
+"title": "Nociceptor, assembled from the blocks, in two rows",
+"topic": "Nociceptor",
+"group": "Assembled",
+"kind": null,
+"tag": "new",
+"tab": "two rows",
+"image": "files/pd65-assembled-nociceptor-two-rows.svg",
+"width": 14447.0,
+"height": 4340.0,
+"scale": 1,
+"annotation": "data/pd65-assembled-nociceptor-two-rows.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-assembled-nociceptor-two-rows.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-assembled-nociceptor-two-rows.svg"
+},
+{
+"label": "References",
+"url": "files/pd65-assembled-nociceptor-two-rows-references.csv"
 }
 ],
 "data": null,
