@@ -124,6 +124,37 @@
 "hasText": true
 },
 {
+"id": "ltb4-ltb4r-gq-mirror",
+"title": "LTB4 - LTB4R & LTB4R2 - Gqα (mirror)",
+"topic": "LTB4 - LTB4R - Gqα",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": "mirror",
+"image": "files/ltb4-ltb4r-gq-mirror.svg",
+"width": 1320.0,
+"height": 1208.0,
+"scale": 1,
+"annotation": "data/ltb4-ltb4r-gq-mirror.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/ltb4-ltb4r-gq-mirror.graphml"
+},
+{
+"label": "SVG",
+"url": "files/ltb4-ltb4r-gq-mirror.svg"
+},
+{
+"label": "References",
+"url": "files/ltb4-ltb4r-gq-mirror-references.csv"
+}
+],
+"data": "data/ltb4-ltb4r-gq-mirror-text.json",
+"hasText": true
+},
+{
 "id": "pge2-ptger2-gs",
 "title": "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase",
 "topic": "PGE2 - PTGER2 - Gsα",
