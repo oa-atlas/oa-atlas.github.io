@@ -1581,6 +1581,37 @@
 "hasText": false
 },
 {
+"id": "pd65-assembled-nociceptor-spinal",
+"title": "Nociceptor over the spinal cord, matching receptor blocks under each other",
+"topic": "Nociceptor and spinal cord",
+"group": "Assembled",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/pd65-assembled-nociceptor-spinal.svg",
+"width": 17019.0,
+"height": 5803.0,
+"scale": 1,
+"annotation": "data/pd65-assembled-nociceptor-spinal.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-assembled-nociceptor-spinal.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-assembled-nociceptor-spinal.svg"
+},
+{
+"label": "References",
+"url": "files/pd65-assembled-nociceptor-spinal-references.csv"
+}
+],
+"data": null,
+"hasText": false
+},
+{
 "id": "pd65-assembled-whole",
 "title": "pd65, the whole map assembled from the blocks: mast cell, nociceptor, spinal cord",
 "topic": "Whole map",
