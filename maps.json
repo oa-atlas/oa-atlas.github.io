@@ -1587,7 +1587,7 @@
 "group": "Assembled",
 "kind": null,
 "tag": "new",
-"tab": null,
+"tab": "spinal in one row",
 "image": "files/pd65-assembled-nociceptor-spinal.svg",
 "width": 17019.0,
 "height": 5803.0,
@@ -1606,6 +1606,37 @@
 {
 "label": "References",
 "url": "files/pd65-assembled-nociceptor-spinal-references.csv"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "pd65-assembled-nociceptor-spinal-two-rows",
+"title": "Nociceptor over the spinal cord, the spinal neuron in two rows",
+"topic": "Nociceptor and spinal cord",
+"group": "Assembled",
+"kind": null,
+"tag": "new",
+"tab": "spinal in two rows",
+"image": "files/pd65-assembled-nociceptor-spinal-two-rows.svg",
+"width": 13294.0,
+"height": 7107.0,
+"scale": 1,
+"annotation": "data/pd65-assembled-nociceptor-spinal-two-rows.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pd65-assembled-nociceptor-spinal-two-rows.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pd65-assembled-nociceptor-spinal-two-rows.svg"
+},
+{
+"label": "References",
+"url": "files/pd65-assembled-nociceptor-spinal-two-rows-references.csv"
 }
 ],
 "data": null,
