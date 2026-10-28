@@ -14,6 +14,16 @@
   main { padding: 107px 16px 40px; overflow-x: hidden; }
   h1, h2, h3, h4 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; font-weight: normal; line-height: 1.7; }
   a { color: #4183c4; }
+
+  details.ce { margin: 0.5em 0 1em; }
+  details.ce summary { cursor: pointer; color: #4183c4; }
+  details.ce table { border-collapse: collapse; margin-top: 0.5em; font-size: 14px; width: 100%; }
+  details.ce th, details.ce td { border-bottom: 1px solid #e4e4e4; padding: 4px 8px; text-align: left; vertical-align: top; }
+  details.ce th { font-weight: normal; color: #666; }
+  details.ce td:nth-child(2), details.ce td:nth-child(5) { white-space: nowrap; }
+  .ce-sw { display: inline-block; width: 12px; height: 12px; border: 1px solid #999; margin-right: 6px; vertical-align: -1px; }
+  .ce-note { color: #666; font-size: 13px; margin-top: 2px; }
+  .ce-weak { color: #a33; font-size: 12px; border: 1px solid #d9a; border-radius: 3px; padding: 0 3px; }
 </style>
 </head>
 <body>
@@ -253,7 +263,7 @@
   var ERROR_ICON = '<span class="m2-draft m2-error"><span>image error</span></span>';
   var DL_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5"/><path d="M4 15v5h16v-5"/></svg>';
   var EXT_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>';
-  var BUILD = '?v=1793152748';
+  var BUILD = '?v=1793183824';
   var STANDARD = 0.675, MIN = 0.08, MAX = 4, KEEP = 80; // KEEP: pixels of map kept in view
   // how a map opens: 'fit' (the default) or 'read' at the standard zoom. Set by the mode
   // button and remembered by the browser where it can
