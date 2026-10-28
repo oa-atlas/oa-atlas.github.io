@@ -341,6 +341,37 @@
 "hasText": true
 },
 {
+"id": "bk-bdkrb2-gq-mirror",
+"title": "Bradykinin - BDKRB2 - Gqα (mirror)",
+"topic": "Bradykinin - BDKRB2 - Gqα",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": "mirror",
+"image": "files/bk-bdkrb2-gq-mirror.svg",
+"width": 1187.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/bk-bdkrb2-gq-mirror.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/bk-bdkrb2-gq-mirror.graphml"
+},
+{
+"label": "SVG",
+"url": "files/bk-bdkrb2-gq-mirror.svg"
+},
+{
+"label": "References",
+"url": "files/bk-bdkrb2-gq-mirror-references.csv"
+}
+],
+"data": "data/bk-bdkrb2-gq-mirror-text.json",
+"hasText": true
+},
+{
 "id": "pge2-ptger1-gq",
 "title": "PGE2 - PTGER1 - Gqα",
 "topic": "PGE2 - PTGER1 - Gqα",
@@ -462,6 +493,37 @@
 }
 ],
 "data": "data/cannabinoid-cnr2-gi-text.json",
+"hasText": true
+},
+{
+"id": "cannabinoid-cnr2-gi-mirror",
+"title": "Cannabinoids - CNR2 - Giα (mirror)",
+"topic": "Cannabinoids - CNR2 - Giα",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": "mirror",
+"image": "files/cannabinoid-cnr2-gi-mirror.svg",
+"width": 1202.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/cannabinoid-cnr2-gi-mirror.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/cannabinoid-cnr2-gi-mirror.graphml"
+},
+{
+"label": "SVG",
+"url": "files/cannabinoid-cnr2-gi-mirror.svg"
+},
+{
+"label": "References",
+"url": "files/cannabinoid-cnr2-gi-mirror-references.csv"
+}
+],
+"data": "data/cannabinoid-cnr2-gi-mirror-text.json",
 "hasText": true
 },
 {
@@ -651,6 +713,37 @@
 "hasText": true
 },
 {
+"id": "tnf-ccl2-p38-mirror",
+"title": "TNF and IL-1β - p38 MAPK - NaV1.8 (mirror)",
+"topic": "TNF and IL-1β - p38 MAPK",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": "mirror",
+"image": "files/tnf-ccl2-p38-mirror.svg",
+"width": 1134.0,
+"height": 1062.0,
+"scale": 1,
+"annotation": "data/tnf-ccl2-p38-mirror.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/tnf-ccl2-p38-mirror.graphml"
+},
+{
+"label": "SVG",
+"url": "files/tnf-ccl2-p38-mirror.svg"
+},
+{
+"label": "References",
+"url": "files/tnf-ccl2-p38-mirror-references.csv"
+}
+],
+"data": "data/tnf-ccl2-p38-mirror-text.json",
+"hasText": true
+},
+{
 "id": "ccl2-ccr2-gi",
 "title": "CCL2 - CCR2 - Giα - NaV1.8",
 "topic": "CCL2 - CCR2 - Giα - NaV1.8",
@@ -679,6 +772,37 @@
 }
 ],
 "data": "data/ccl2-ccr2-gi-text.json",
+"hasText": true
+},
+{
+"id": "ccl2-ccr2-gi-mirror",
+"title": "CCL2 - CCR2 - Giα - NaV1.8 (mirror)",
+"topic": "CCL2 - CCR2 - Giα - NaV1.8",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": "mirror",
+"image": "files/ccl2-ccr2-gi-mirror.svg",
+"width": 1259.0,
+"height": 1077.0,
+"scale": 1,
+"annotation": "data/ccl2-ccr2-gi-mirror.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/ccl2-ccr2-gi-mirror.graphml"
+},
+{
+"label": "SVG",
+"url": "files/ccl2-ccr2-gi-mirror.svg"
+},
+{
+"label": "References",
+"url": "files/ccl2-ccr2-gi-mirror-references.csv"
+}
+],
+"data": "data/ccl2-ccr2-gi-mirror-text.json",
 "hasText": true
 },
 {
@@ -713,6 +837,37 @@
 "hasText": true
 },
 {
+"id": "il6-gp130-nociceptor-mirror",
+"title": "IL-6 - gp130 - PKCδ - TRPV1 (mirror)",
+"topic": "IL-6 - gp130 - PKCδ - TRPV1",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": "mirror",
+"image": "files/il6-gp130-nociceptor-mirror.svg",
+"width": 630.0,
+"height": 870.0,
+"scale": 1,
+"annotation": "data/il6-gp130-nociceptor-mirror.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/il6-gp130-nociceptor-mirror.graphml"
+},
+{
+"label": "SVG",
+"url": "files/il6-gp130-nociceptor-mirror.svg"
+},
+{
+"label": "References",
+"url": "files/il6-gp130-nociceptor-mirror-references.csv"
+}
+],
+"data": "data/il6-gp130-nociceptor-mirror-text.json",
+"hasText": true
+},
+{
 "id": "opioid-oprm1-gi",
 "title": "Opioids - OPRM1 - Giα",
 "topic": "Opioids - OPRM1 - Giα",
@@ -741,6 +896,37 @@
 }
 ],
 "data": "data/opioid-oprm1-gi-text.json",
+"hasText": true
+},
+{
+"id": "opioid-oprm1-gi-mirror",
+"title": "Opioids - OPRM1 - Giα (mirror)",
+"topic": "Opioids - OPRM1 - Giα",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": "mirror",
+"image": "files/opioid-oprm1-gi-mirror.svg",
+"width": 1364.0,
+"height": 1626.0,
+"scale": 1,
+"annotation": "data/opioid-oprm1-gi-mirror.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/opioid-oprm1-gi-mirror.graphml"
+},
+{
+"label": "SVG",
+"url": "files/opioid-oprm1-gi-mirror.svg"
+},
+{
+"label": "References",
+"url": "files/opioid-oprm1-gi-mirror-references.csv"
+}
+],
+"data": "data/opioid-oprm1-gi-mirror-text.json",
 "hasText": true
 },
 {
@@ -775,6 +961,37 @@
 "hasText": true
 },
 {
+"id": "na-adra2a-gi-mirror",
+"title": "Noradrenaline - ADRA2A - Giα (mirror)",
+"topic": "Noradrenaline - ADRA2A - Giα",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": "mirror",
+"image": "files/na-adra2a-gi-mirror.svg",
+"width": 1249.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/na-adra2a-gi-mirror.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adra2a-gi-mirror.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adra2a-gi-mirror.svg"
+},
+{
+"label": "References",
+"url": "files/na-adra2a-gi-mirror-references.csv"
+}
+],
+"data": "data/na-adra2a-gi-mirror-text.json",
+"hasText": true
+},
+{
 "id": "na-adrb2-gs",
 "title": "Noradrenaline - ADRB2 - Gsα",
 "topic": "Noradrenaline - ADRB2 - Gsα",
@@ -806,6 +1023,37 @@
 "hasText": true
 },
 {
+"id": "na-adrb2-gs-mirror",
+"title": "Noradrenaline - ADRB2 - Gsα (mirror)",
+"topic": "Noradrenaline - ADRB2 - Gsα",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": "mirror",
+"image": "files/na-adrb2-gs-mirror.svg",
+"width": 1249.0,
+"height": 1188.0,
+"scale": 1,
+"annotation": "data/na-adrb2-gs-mirror.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adrb2-gs-mirror.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adrb2-gs-mirror.svg"
+},
+{
+"label": "References",
+"url": "files/na-adrb2-gs-mirror-references.csv"
+}
+],
+"data": "data/na-adrb2-gs-mirror-text.json",
+"hasText": true
+},
+{
 "id": "na-adrb2-gi",
 "title": "Noradrenaline - ADRB2 - Giα",
 "topic": "Noradrenaline - ADRB2 - Giα",
@@ -834,6 +1082,37 @@
 }
 ],
 "data": "data/na-adrb2-gi-text.json",
+"hasText": true
+},
+{
+"id": "na-adrb2-gi-mirror",
+"title": "Noradrenaline - ADRB2 - Giα (mirror)",
+"topic": "Noradrenaline - ADRB2 - Giα",
+"group": "Nociceptor",
+"kind": null,
+"tag": "new",
+"tab": "mirror",
+"image": "files/na-adrb2-gi-mirror.svg",
+"width": 1249.0,
+"height": 1196.0,
+"scale": 1,
+"annotation": "data/na-adrb2-gi-mirror.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/na-adrb2-gi-mirror.graphml"
+},
+{
+"label": "SVG",
+"url": "files/na-adrb2-gi-mirror.svg"
+},
+{
+"label": "References",
+"url": "files/na-adrb2-gi-mirror-references.csv"
+}
+],
+"data": "data/na-adrb2-gi-mirror-text.json",
 "hasText": true
 },
 {

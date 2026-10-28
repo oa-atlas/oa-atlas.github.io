@@ -1,0 +1,2205 @@
+{
+"nodes": [
+{
+"label": "TNF",
+"class": "Macromolecule",
+"box": [
+464.0,
+673.8,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor"
+],
+[
+"Alternative names",
+"Cachectin; TNF-alpha; Tumor necrosis factor ligand superfamily member 2"
+],
+[
+"Function",
+"Cytokine that binds to TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. It is mainly secreted by macrophages and can induce cell death of certain tumor cell lines."
+],
+[
+"Location",
+"Cell membrane, Membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:11892"
+],
+[
+"HGNC symbol",
+"TNF"
+],
+[
+"Previous symbols",
+"TNFA"
+],
+[
+"Alias symbols",
+"TNFSF2, DIF, TNF-alpha"
+],
+[
+"Entrez",
+"7124"
+],
+[
+"Ensembl",
+"ENSG00000232810"
+],
+[
+"RefSeq",
+"NM_000594"
+],
+[
+"UniProt",
+"P01375"
+]
+]
+},
+{
+"label": "TNFRSF1A",
+"class": "Macromolecule",
+"box": [
+464.0,
+741.8,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor superfamily member 1A"
+],
+[
+"Alternative names",
+"Tumor necrosis factor receptor 1; Tumor necrosis factor receptor type I; p55; p60"
+],
+[
+"Function",
+"Receptor for TNFSF2/TNF and homotrimeric TNFSF1/lymphotoxin-alpha. The adapter molecule FADD recruits caspase-8 to the activated receptor."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:11916"
+],
+[
+"HGNC symbol",
+"TNFRSF1A"
+],
+[
+"Previous symbols",
+"TNFR1"
+],
+[
+"Alias symbols",
+"TNF-R, TNFAR, TNFR60, TNF-R-I, CD120a, TNF-R55"
+],
+[
+"Entrez",
+"7132"
+],
+[
+"Ensembl",
+"ENSG00000067182"
+],
+[
+"RefSeq",
+"NM_001065"
+],
+[
+"UniProt",
+"P19438"
+]
+]
+},
+{
+"label": "RIPK1",
+"class": "Macromolecule",
+"box": [
+607.0,
+617.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Receptor-interacting serine/threonine-protein kinase 1"
+],
+[
+"Alternative names",
+"Cell death protein RIP; Receptor-interacting protein 1"
+],
+[
+"Function",
+"Serine-threonine kinase which is a key regulator of TNF-mediated apoptosis, necroptosis and inflammatory pathways. Exhibits kinase activity-dependent functions that regulate cell death and kinase-independent scaffold functions regulating inflammatory signaling and cell survival."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10019"
+],
+[
+"HGNC symbol",
+"RIPK1"
+],
+[
+"Alias symbols",
+"RIP, RIP1, RIP-1"
+],
+[
+"Entrez",
+"8737"
+],
+[
+"Ensembl",
+"ENSG00000137275"
+],
+[
+"RefSeq",
+"NM_003804"
+],
+[
+"UniProt",
+"Q13546"
+]
+]
+},
+{
+"label": "TRAF2",
+"class": "Macromolecule",
+"box": [
+607.0,
+569.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"TNF receptor-associated factor 2"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein ligase TRAF2; RING-type E3 ubiquitin transferase TRAF2; Tumor necrosis factor type 2 receptor-associated protein 3"
+],
+[
+"Function",
+"E3 ubiquitin-protein ligase that regulates activation of NF-kappa-B and JNK and plays a central role in the regulation of cell survival and apoptosis. Catalyzes 'Lys-63'-linked ubiquitination of target proteins, such as BIRC3, IKBKE, MLST8, RIPK1 and TICAM1."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:12032"
+],
+[
+"HGNC symbol",
+"TRAF2"
+],
+[
+"Alias symbols",
+"TRAP3, RNF117"
+],
+[
+"Entrez",
+"7186"
+],
+[
+"Ensembl",
+"ENSG00000127191"
+],
+[
+"RefSeq",
+"NM_021138"
+],
+[
+"UniProt",
+"Q12933"
+]
+]
+},
+{
+"label": "TRADD",
+"class": "Macromolecule",
+"box": [
+607.0,
+521.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor type 1-associated DEATH domain protein"
+],
+[
+"Alternative names",
+"TNFRSF1A-associated via death domain"
+],
+[
+"Function",
+"Adapter molecule for TNFRSF1A/TNFR1 that specifically associates with the cytoplasmic domain of activated TNFRSF1A/TNFR1 mediating its interaction with FADD. Overexpression of TRADD leads to two major TNF-induced responses, apoptosis and activation of NF-kappa-B."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:12030"
+],
+[
+"HGNC symbol",
+"TRADD"
+],
+[
+"Alias symbols",
+"Hs.89862"
+],
+[
+"Entrez",
+"8717"
+],
+[
+"Ensembl",
+"ENSG00000102871"
+],
+[
+"RefSeq",
+"NM_001323552"
+],
+[
+"UniProt",
+"Q15628"
+]
+]
+},
+{
+"label": "TNFRSF1A",
+"class": "Macromolecule",
+"box": [
+263.0,
+721.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor superfamily member 1A"
+],
+[
+"Alternative names",
+"Tumor necrosis factor receptor 1; Tumor necrosis factor receptor type I; p55; p60"
+],
+[
+"Function",
+"Receptor for TNFSF2/TNF and homotrimeric TNFSF1/lymphotoxin-alpha. The adapter molecule FADD recruits caspase-8 to the activated receptor."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:11916"
+],
+[
+"HGNC symbol",
+"TNFRSF1A"
+],
+[
+"Previous symbols",
+"TNFR1"
+],
+[
+"Alias symbols",
+"TNF-R, TNFAR, TNFR60, TNF-R-I, CD120a, TNF-R55"
+],
+[
+"Entrez",
+"7132"
+],
+[
+"Ensembl",
+"ENSG00000067182"
+],
+[
+"RefSeq",
+"NM_001065"
+],
+[
+"UniProt",
+"P19438"
+]
+]
+},
+{
+"label": "RIPK1",
+"class": "Macromolecule",
+"box": [
+707.0,
+834.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Receptor-interacting serine/threonine-protein kinase 1"
+],
+[
+"Alternative names",
+"Cell death protein RIP; Receptor-interacting protein 1"
+],
+[
+"Function",
+"Serine-threonine kinase which is a key regulator of TNF-mediated apoptosis, necroptosis and inflammatory pathways. Exhibits kinase activity-dependent functions that regulate cell death and kinase-independent scaffold functions regulating inflammatory signaling and cell survival."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10019"
+],
+[
+"HGNC symbol",
+"RIPK1"
+],
+[
+"Alias symbols",
+"RIP, RIP1, RIP-1"
+],
+[
+"Entrez",
+"8737"
+],
+[
+"Ensembl",
+"ENSG00000137275"
+],
+[
+"RefSeq",
+"NM_003804"
+],
+[
+"UniProt",
+"Q13546"
+]
+]
+},
+{
+"label": "TRAF2",
+"class": "Macromolecule",
+"box": [
+607.0,
+834.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"TNF receptor-associated factor 2"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein ligase TRAF2; RING-type E3 ubiquitin transferase TRAF2; Tumor necrosis factor type 2 receptor-associated protein 3"
+],
+[
+"Function",
+"E3 ubiquitin-protein ligase that regulates activation of NF-kappa-B and JNK and plays a central role in the regulation of cell survival and apoptosis. Catalyzes 'Lys-63'-linked ubiquitination of target proteins, such as BIRC3, IKBKE, MLST8, RIPK1 and TICAM1."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:12032"
+],
+[
+"HGNC symbol",
+"TRAF2"
+],
+[
+"Alias symbols",
+"TRAP3, RNF117"
+],
+[
+"Entrez",
+"7186"
+],
+[
+"Ensembl",
+"ENSG00000127191"
+],
+[
+"RefSeq",
+"NM_021138"
+],
+[
+"UniProt",
+"Q12933"
+]
+]
+},
+{
+"label": "TRADD",
+"class": "Macromolecule",
+"box": [
+807.0,
+834.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor receptor type 1-associated DEATH domain protein"
+],
+[
+"Alternative names",
+"TNFRSF1A-associated via death domain"
+],
+[
+"Function",
+"Adapter molecule for TNFRSF1A/TNFR1 that specifically associates with the cytoplasmic domain of activated TNFRSF1A/TNFR1 mediating its interaction with FADD. Overexpression of TRADD leads to two major TNF-induced responses, apoptosis and activation of NF-kappa-B."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:12030"
+],
+[
+"HGNC symbol",
+"TRADD"
+],
+[
+"Alias symbols",
+"Hs.89862"
+],
+[
+"Entrez",
+"8717"
+],
+[
+"Ensembl",
+"ENSG00000102871"
+],
+[
+"RefSeq",
+"NM_001323552"
+],
+[
+"UniProt",
+"Q15628"
+]
+]
+},
+{
+"label": "MAP3K5",
+"class": "Macromolecule",
+"box": [
+517.0,
+406.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 5"
+],
+[
+"Alternative names",
+"Apoptosis signal-regulating kinase 1; MAPK/ERK kinase kinase 5"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:6857"
+],
+[
+"HGNC symbol",
+"MAP3K5"
+],
+[
+"Previous symbols",
+"MEKK5"
+],
+[
+"Alias symbols",
+"MAPKKK5, ASK1"
+],
+[
+"Entrez",
+"4217"
+],
+[
+"Ensembl",
+"ENSG00000197442"
+],
+[
+"RefSeq",
+"NM_005923"
+],
+[
+"UniProt",
+"Q99683"
+]
+]
+},
+{
+"label": "MAP3K5",
+"class": "Macromolecule",
+"box": [
+697.0,
+406.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 5"
+],
+[
+"Alternative names",
+"Apoptosis signal-regulating kinase 1; MAPK/ERK kinase kinase 5"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:6857"
+],
+[
+"HGNC symbol",
+"MAP3K5"
+],
+[
+"Previous symbols",
+"MEKK5"
+],
+[
+"Alias symbols",
+"MAPKKK5, ASK1"
+],
+[
+"Entrez",
+"4217"
+],
+[
+"Ensembl",
+"ENSG00000197442"
+],
+[
+"RefSeq",
+"NM_005923"
+],
+[
+"UniProt",
+"Q99683"
+]
+]
+},
+{
+"label": "MAP2K3",
+"class": "Macromolecule",
+"box": [
+607.0,
+307.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 3"
+],
+[
+"Alternative names",
+"MAPK/ERK kinase 3; Stress-activated protein kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity kinase. Is activated by cytokines and environmental stress in vivo."
+],
+[
+"HGNC",
+"HGNC:6843"
+],
+[
+"HGNC symbol",
+"MAP2K3"
+],
+[
+"Previous symbols",
+"PRKMK3"
+],
+[
+"Alias symbols",
+"MEK3, MKK3, MAPKK3, SAPKK2"
+],
+[
+"Entrez",
+"5606"
+],
+[
+"Ensembl",
+"ENSG00000034152"
+],
+[
+"RefSeq",
+"NM_145109"
+],
+[
+"UniProt",
+"P46734"
+]
+]
+},
+{
+"label": "MAP2K3",
+"class": "Macromolecule",
+"box": [
+787.0,
+307.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 3"
+],
+[
+"Alternative names",
+"MAPK/ERK kinase 3; Stress-activated protein kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity kinase. Is activated by cytokines and environmental stress in vivo."
+],
+[
+"HGNC",
+"HGNC:6843"
+],
+[
+"HGNC symbol",
+"MAP2K3"
+],
+[
+"Previous symbols",
+"PRKMK3"
+],
+[
+"Alias symbols",
+"MEK3, MKK3, MAPKK3, SAPKK2"
+],
+[
+"Entrez",
+"5606"
+],
+[
+"Ensembl",
+"ENSG00000034152"
+],
+[
+"RefSeq",
+"NM_145109"
+],
+[
+"UniProt",
+"P46734"
+]
+]
+},
+{
+"label": "P38 MAPK",
+"class": "Macromolecule",
+"box": [
+697.0,
+208.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"p38 MAP kinases"
+],
+[
+"Members",
+"MAPK14; MAPK11; MAPK12; MAPK13"
+]
+],
+"members": [
+{
+"symbol": "MAPK14",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"symbol": "MAPK11",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 11"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 beta; Stress-activated protein kinase 2b; p38-2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK11 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6873"
+],
+[
+"HGNC symbol",
+"MAPK11"
+],
+[
+"Previous symbols",
+"PRKM11"
+],
+[
+"Alias symbols",
+"p38-2, p38Beta, SAPK2"
+],
+[
+"Entrez",
+"5600"
+],
+[
+"Ensembl",
+"ENSG00000185386"
+],
+[
+"RefSeq",
+"NM_002751"
+],
+[
+"UniProt",
+"Q15759"
+]
+]
+},
+{
+"symbol": "MAPK12",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 12"
+],
+[
+"Alternative names",
+"Extracellular signal-regulated kinase 6; Mitogen-activated protein kinase p38 gamma; Stress-activated protein kinase 3"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK12 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:6874"
+],
+[
+"HGNC symbol",
+"MAPK12"
+],
+[
+"Previous symbols",
+"SAPK3"
+],
+[
+"Alias symbols",
+"ERK6, PRKM12, p38gamma, SAPK-3"
+],
+[
+"Entrez",
+"6300"
+],
+[
+"Ensembl",
+"ENSG00000188130"
+],
+[
+"RefSeq",
+"NM_002969"
+],
+[
+"UniProt",
+"P53778"
+]
+]
+},
+{
+"symbol": "MAPK13",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 13"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 delta; Stress-activated protein kinase 4"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK13 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"HGNC",
+"HGNC:6875"
+],
+[
+"HGNC symbol",
+"MAPK13"
+],
+[
+"Previous symbols",
+"PRKM13"
+],
+[
+"Alias symbols",
+"SAPK4, p38delta"
+],
+[
+"Entrez",
+"5603"
+],
+[
+"Ensembl",
+"ENSG00000156711"
+],
+[
+"RefSeq",
+"NM_002754"
+],
+[
+"UniProt",
+"O15264"
+]
+]
+}
+]
+},
+{
+"label": "P38 MAPK",
+"class": "Macromolecule",
+"box": [
+877.0,
+208.5,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"p38 MAP kinases"
+],
+[
+"Members",
+"MAPK14; MAPK11; MAPK12; MAPK13"
+]
+],
+"members": [
+{
+"symbol": "MAPK14",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"symbol": "MAPK11",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 11"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 beta; Stress-activated protein kinase 2b; p38-2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK11 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6873"
+],
+[
+"HGNC symbol",
+"MAPK11"
+],
+[
+"Previous symbols",
+"PRKM11"
+],
+[
+"Alias symbols",
+"p38-2, p38Beta, SAPK2"
+],
+[
+"Entrez",
+"5600"
+],
+[
+"Ensembl",
+"ENSG00000185386"
+],
+[
+"RefSeq",
+"NM_002751"
+],
+[
+"UniProt",
+"Q15759"
+]
+]
+},
+{
+"symbol": "MAPK12",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 12"
+],
+[
+"Alternative names",
+"Extracellular signal-regulated kinase 6; Mitogen-activated protein kinase p38 gamma; Stress-activated protein kinase 3"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK12 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:6874"
+],
+[
+"HGNC symbol",
+"MAPK12"
+],
+[
+"Previous symbols",
+"SAPK3"
+],
+[
+"Alias symbols",
+"ERK6, PRKM12, p38gamma, SAPK-3"
+],
+[
+"Entrez",
+"6300"
+],
+[
+"Ensembl",
+"ENSG00000188130"
+],
+[
+"RefSeq",
+"NM_002969"
+],
+[
+"UniProt",
+"P53778"
+]
+]
+},
+{
+"symbol": "MAPK13",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 13"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase p38 delta; Stress-activated protein kinase 4"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK13 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors such as ELK1 and ATF2."
+],
+[
+"HGNC",
+"HGNC:6875"
+],
+[
+"HGNC symbol",
+"MAPK13"
+],
+[
+"Previous symbols",
+"PRKM13"
+],
+[
+"Alias symbols",
+"SAPK4, p38delta"
+],
+[
+"Entrez",
+"5603"
+],
+[
+"Ensembl",
+"ENSG00000156711"
+],
+[
+"RefSeq",
+"NM_002754"
+],
+[
+"UniProt",
+"O15264"
+]
+]
+}
+]
+},
+{
+"id": "re307",
+"label": "",
+"class": "Process",
+"box": [
+390.0,
+732.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TNFRSF1A",
+"TNF"
+],
+"out": [
+"TNF:TNFR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ohtori S et al.",
+"journal": "Yonsei Med J",
+"title": "Efficacy of Direct Injection of Etanercept into Knee Joints for Pain in Moderate and Severe Knee Osteoarthritis.",
+"year": "2015",
+"db": "pubmed",
+"id": "26256983",
+"role": "OA",
+"note": "human knee OA (n=39, single intra-articular injection, etanercept vs hyaluronic acid, not placebo-controlled): TNF blockade relieves OA knee pain"
+},
+{
+"authors": "Schaible HG",
+"journal": "Arthritis Res Ther",
+"title": "Nociceptive neurons detect cytokines in arthritis.",
+"year": "2014",
+"db": "pubmed",
+"id": "25606597",
+"role": "OA",
+"note": "review of cytokines in arthritis (RA and OA): nociceptive neurons express TNF and IL-1 receptors; cytokines act directly on them"
+},
+{
+"authors": "Loetscher H et al.",
+"journal": "Cell",
+"title": "Molecular cloning and expression of the human 55 kd tumor necrosis factor receptor.",
+"year": "1990",
+"db": "pubmed",
+"id": "2158862",
+"role": "step",
+"note": "human TNFR1 (55 kd receptor) cloned; expressed cDNA binds TNF"
+},
+{
+"authors": "Jin X et al.",
+"journal": "J Neurosci",
+"title": "Acute p38-mediated modulation of tetrodotoxin-resistant sodium channels in mouse sensory neurons by tumor necrosis factor-alpha.",
+"year": "2006",
+"db": "pubmed",
+"id": "16399694",
+"role": "step",
+"note": "mouse DRG neurons: TNF potentiation of TTX-resistant Na+ current needs TNFR1 and p38"
+},
+{
+"authors": "Richter F et al.",
+"journal": "Arthritis Rheum",
+"title": "Tumor necrosis factor causes persistent sensitization of joint nociceptors to mechanical stimuli in rats.",
+"year": "2010",
+"db": "pubmed",
+"id": "20722011",
+"role": "step",
+"note": "rat normal knee (not an OA model): intra-articular TNF sensitises joint nociceptors, prevented by etanercept or a p38 inhibitor"
+}
+]
+},
+{
+"id": "re308",
+"label": "",
+"class": "Process",
+"box": [
+635.0,
+732.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TRAF2",
+"RIPK1",
+"TRADD"
+],
+"out": [
+"TRADD:TRAF2:RIPK1"
+],
+"by": [
+"TNF:TNFR1"
+]
+},
+"references": [
+{
+"authors": "Wang Y et al.",
+"journal": "Drug Des Devel Ther",
+"title": "Anti-Inflammatory Modified Fuzi Decoction Antagonizes Synovial TNF-α/TRAF2/NF-κB Signaling to Remedy Osteoarthritis.",
+"year": "2025",
+"db": "pubmed",
+"id": "40918953",
+"role": "OA",
+"note": "rat MIA OA, primary synovial fibroblasts (not neurons; herbal-drug study): TNF induces TRAF2 (with p-MKK3/6 and p-p38)"
+},
+{
+"authors": "Micheau O et al.",
+"journal": "Cell",
+"title": "Induction of TNF receptor I-mediated apoptosis via two sequential signaling complexes.",
+"year": "2003",
+"db": "pubmed",
+"id": "12887920",
+"role": "step",
+"note": "human cell lines: TNFR1 complex I holds TRADD, RIP1 and TRAF2"
+},
+{
+"authors": "Park YC et al.",
+"journal": "Cell",
+"title": "A novel mechanism of TRAF signaling revealed by structural and functional analyses of the TRADD-TRAF2 interaction.",
+"year": "2000",
+"db": "pubmed",
+"id": "10892748",
+"role": "step",
+"note": "crystal structure of the human TRADD-TRAF2 complex"
+},
+{
+"authors": "Hsu H et al.",
+"journal": "Immunity",
+"title": "TNF-dependent recruitment of the protein kinase RIP to the TNF receptor-1 signaling complex.",
+"year": "1996",
+"db": "pubmed",
+"id": "8612133",
+"role": "step",
+"note": "transfected cells: TRADD recruits RIP to TNFR1 only with TNF"
+}
+]
+},
+{
+"id": "re310",
+"label": "",
+"class": "Process",
+"box": [
+635.0,
+414.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAP3K5"
+],
+"out": [
+"MAP3K5"
+],
+"by": [
+"TRADD:TRAF2:RIPK1"
+]
+},
+"references": [
+{
+"authors": "Zhang QS et al.",
+"journal": "J Cell Physiol",
+"title": "Stress-Induced Activation of Apoptosis Signal-Regulating Kinase 1 Promotes Osteoarthritis.",
+"year": "2016",
+"db": "pubmed",
+"id": "26405834",
+"role": "OA",
+"note": "human OA cartilage (ASK1 rises with severity) and mouse surgical OA (ASK1 KO protected); TNF and IL-1β activate ASK1 signalling in fibroblasts; chondrocytes, not neurons"
+},
+{
+"authors": "Liu H et al.",
+"journal": "Mol Cell Biol",
+"title": "Activation of apoptosis signal-regulating kinase 1 (ASK1) by tumor necrosis factor receptor-associated factor 2 requires prior dissociation of the ASK1 inhibitor thioredoxin.",
+"year": "2000",
+"db": "pubmed",
+"id": "10688666",
+"role": "step",
+"note": "transfected mammalian cell lines (species not named in the abstract): TRAF2 binds and activates ASK1"
+},
+{
+"authors": "Nishitoh H et al.",
+"journal": "Mol Cell",
+"title": "ASK1 is essential for JNK/SAPK activation by TRAF2.",
+"year": "1998",
+"db": "pubmed",
+"id": "9774977",
+"role": "step",
+"note": "mammalian cells: ASK1 associates with TRAF2 on TNF and is activated by TRAF2 (readout JNK)"
+},
+{
+"authors": "Tobiume K et al.",
+"journal": "EMBO Rep",
+"title": "ASK1 is required for sustained activations of JNK/p38 MAP kinases and apoptosis.",
+"year": "2001",
+"db": "pubmed",
+"id": "11266364",
+"role": "step",
+"note": "mouse ASK1-/- embryonic fibroblasts: TNF-induced sustained p38 activation needs ASK1"
+}
+]
+},
+{
+"id": "re311",
+"label": "",
+"class": "Process",
+"box": [
+725.0,
+315.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAP2K3"
+],
+"out": [
+"MAP2K3"
+],
+"by": [
+"MAP3K5"
+]
+},
+"references": [
+{
+"authors": "Jiang X et al.",
+"journal": "J Inflamm Res",
+"title": "Suppression of CGRP and TRPV1 Expression in Dorsal Root Ganglia of Knee Osteoarthritis Rats by Huojing Decoction via TrkA/MKK3/6/p38 Pathway.",
+"year": "2024",
+"db": "pubmed",
+"id": "39157588",
+"role": "OA",
+"note": "rat MIA knee OA DRG (herbal-drug study, Western blot): MKK3/6 and p38 in OA DRG fall with analgesia"
+},
+{
+"authors": "Wang Y et al.",
+"journal": "Drug Des Devel Ther",
+"title": "Anti-Inflammatory Modified Fuzi Decoction Antagonizes Synovial TNF-α/TRAF2/NF-κB Signaling to Remedy Osteoarthritis.",
+"year": "2025",
+"db": "pubmed",
+"id": "40918953",
+"role": "OA",
+"note": "rat MIA OA, primary synovial fibroblasts (not neurons; herbal-drug study): TNF induces phosphorylation of MKK3/MKK6"
+},
+{
+"authors": "Ichijo H et al.",
+"journal": "Science",
+"title": "Induction of apoptosis by ASK1, a mammalian MAPKKK that activates SAPK/JNK and p38 signaling pathways.",
+"year": "1997",
+"db": "pubmed",
+"id": "8974401",
+"role": "step",
+"note": "ASK1 (MAP3K) cloned; activates MKK3/MKK6 and p38; activated by TNF in cells"
+}
+]
+},
+{
+"id": "re312",
+"label": "",
+"class": "Process",
+"box": [
+815.0,
+216.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"P38 MAPK"
+],
+"out": [
+"P38 MAPK"
+],
+"by": [
+"MAP2K3",
+"IL1B:IL1R1:IL1RAP"
+]
+},
+"references": [
+{
+"authors": "Brederson JD et al.",
+"journal": "J Orthop Res",
+"title": "Characterization and comparison of rat monosodium iodoacetate and medial meniscal tear models of osteoarthritic pain.",
+"year": "2018",
+"db": "pubmed",
+"id": "29430715",
+"role": "OA",
+"note": "rat MIA and medial meniscal tear OA: p38 activated in the knee-innervating L3 DRG"
+},
+{
+"authors": "Dérijard B et al.",
+"journal": "Science",
+"title": "Independent human MAP-kinase signal transduction pathways defined by MEK and MKK isoforms.",
+"year": "1995",
+"db": "pubmed",
+"id": "7839144",
+"role": "step",
+"note": "human MKK3 cloned; phosphorylates and activates p38"
+},
+{
+"authors": "Raingeaud J et al.",
+"journal": "J Biol Chem",
+"title": "Pro-inflammatory cytokines and environmental stress cause p38 mitogen-activated protein kinase activation by dual phosphorylation on tyrosine and threonine.",
+"year": "1995",
+"db": "pubmed",
+"id": "7535770",
+"role": "step",
+"note": "cultured cells: pro-inflammatory cytokines activate p38 by dual phosphorylation Thr180/Tyr182"
+},
+{
+"authors": "Binshtok AM et al.",
+"journal": "J Neurosci",
+"title": "Nociceptors are interleukin-1beta sensors.",
+"year": "2008",
+"db": "pubmed",
+"id": "19109489",
+"role": "step",
+"note": "rodent nociceptors: IL-1β excites them through p38, acting on TTX-resistant Na+ channels"
+},
+{
+"authors": "Richter F et al.",
+"journal": "Arthritis Rheum",
+"title": "Tumor necrosis factor causes persistent sensitization of joint nociceptors to mechanical stimuli in rats.",
+"year": "2010",
+"db": "pubmed",
+"id": "20722011",
+"role": "step",
+"note": "rat normal knee (not an OA model): intra-articular TNF sensitises joint nociceptors, prevented by etanercept or a p38 inhibitor"
+}
+]
+},
+{
+"label": "IL1R1",
+"class": "Macromolecule",
+"box": [
+47.0,
+507.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor type 1"
+],
+[
+"Alternative names",
+"CD121 antigen-like family member A; Interleukin-1 receptor alpha; Interleukin-1 receptor type I; p80"
+],
+[
+"Function",
+"Receptor for IL1A, IL1B and IL1RN. After binding to interleukin-1 associates with the coreceptor IL1RAP to form the high affinity interleukin-1 receptor complex which mediates interleukin-1-dependent activation of NF-kappa-B, MAPK and other pathways."
+],
+[
+"Location",
+"Membrane, Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:5993"
+],
+[
+"HGNC symbol",
+"IL1R1"
+],
+[
+"Previous symbols",
+"IL1R, IL1RA"
+],
+[
+"Alias symbols",
+"D2S1473, CD121A"
+],
+[
+"Entrez",
+"3554"
+],
+[
+"Ensembl",
+"ENSG00000115594"
+],
+[
+"RefSeq",
+"NM_000877"
+],
+[
+"UniProt",
+"P14778"
+]
+]
+},
+{
+"id": "p_il1",
+"label": "",
+"class": "Process",
+"box": [
+195.0,
+515.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"IL1B",
+"IL1R1",
+"IL1RAP"
+],
+"out": [
+"IL1B:IL1R1:IL1RAP"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mailhot B et al.",
+"journal": "J Exp Med",
+"title": "Neuronal interleukin-1 receptors mediate pain in chronic inflammatory diseases.",
+"year": "2020",
+"db": "pubmed",
+"id": "32573694",
+"role": "OA",
+"note": "mouse MIA OA: IL-1R1 in TRPV1+ nociceptors is enough for pain behaviour; IL-1R1 also in human TRPV1+ DRG neurons"
+},
+{
+"authors": "Stover JD et al.",
+"journal": "Ann Biomed Eng",
+"title": "CRISPR Epigenome Editing of IL1R1 Expression of Neurons that Innervate the Temporomandibular Joint or Knee Causes Reduced Sensitization to Osteoarthritic Environment.",
+"year": "2026",
+"db": "pubmed",
+"id": "41949727",
+"role": "OA",
+"note": "human OA knee cartilage on rat DRG neurons: sensitisation abolished by silencing IL1R1 (in vitro, calcium imaging)"
+},
+{
+"authors": "Thomas C et al.",
+"journal": "Nat Struct Mol Biol",
+"title": "Structure of the activating IL-1 receptor signaling complex.",
+"year": "2012",
+"db": "pubmed",
+"id": "22426547",
+"role": "step",
+"note": "crystal structure of human IL-1β bound to IL-1RI and IL-1RAcP"
+},
+{
+"authors": "Cullinan EB et al.",
+"journal": "J Immunol",
+"title": "IL-1 receptor accessory protein is an essential component of the IL-1 receptor.",
+"year": "1998",
+"db": "pubmed",
+"id": "9820540",
+"role": "step",
+"note": "mouse IL-1RAcP knockout: IL1R1 with IL1RAP forms the signalling receptor"
+}
+]
+},
+{
+"label": "IL1RAP",
+"class": "Macromolecule",
+"box": [
+287.0,
+507.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor accessory protein"
+],
+[
+"Alternative names",
+"Interleukin-1 receptor 3"
+],
+[
+"Function",
+"Coreceptor for IL1RL2 in the IL-36 signaling system. Coreceptor with IL1R1 in the IL-1 signaling system."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:5995"
+],
+[
+"HGNC symbol",
+"IL1RAP"
+],
+[
+"Alias symbols",
+"IL-1RAcP, IL1R3, C3orf13"
+],
+[
+"Entrez",
+"3556"
+],
+[
+"Ensembl",
+"ENSG00000196083"
+],
+[
+"RefSeq",
+"NM_001167929"
+],
+[
+"UniProt",
+"Q9NPH3"
+]
+]
+},
+{
+"label": "IL1B",
+"class": "Macromolecule",
+"box": [
+167.0,
+288.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 beta"
+],
+[
+"Alternative names",
+"Catabolin"
+],
+[
+"Function",
+"Potent pro-inflammatory cytokine. Initially discovered as the major endogenous pyrogen, induces prostaglandin synthesis, neutrophil influx and activation, T-cell activation and cytokine production, B-cell activation and antibody production, and fibroblast proliferation and collagen production."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Secreted, Lysosome, Secreted, extracellular exosome"
+],
+[
+"HGNC",
+"HGNC:5992"
+],
+[
+"HGNC symbol",
+"IL1B"
+],
+[
+"Alias symbols",
+"IL1F2, IL-1B, IL1-BETA"
+],
+[
+"Entrez",
+"3553"
+],
+[
+"Ensembl",
+"ENSG00000125538"
+],
+[
+"RefSeq",
+"NM_000576"
+],
+[
+"UniProt",
+"P01584"
+]
+]
+},
+{
+"label": "IL1R1",
+"class": "Macromolecule",
+"box": [
+167.0,
+336.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor type 1"
+],
+[
+"Alternative names",
+"CD121 antigen-like family member A; Interleukin-1 receptor alpha; Interleukin-1 receptor type I; p80"
+],
+[
+"Function",
+"Receptor for IL1A, IL1B and IL1RN. After binding to interleukin-1 associates with the coreceptor IL1RAP to form the high affinity interleukin-1 receptor complex which mediates interleukin-1-dependent activation of NF-kappa-B, MAPK and other pathways."
+],
+[
+"Location",
+"Membrane, Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:5993"
+],
+[
+"HGNC symbol",
+"IL1R1"
+],
+[
+"Previous symbols",
+"IL1R, IL1RA"
+],
+[
+"Alias symbols",
+"D2S1473, CD121A"
+],
+[
+"Entrez",
+"3554"
+],
+[
+"Ensembl",
+"ENSG00000115594"
+],
+[
+"RefSeq",
+"NM_000877"
+],
+[
+"UniProt",
+"P14778"
+]
+]
+},
+{
+"label": "IL1RAP",
+"class": "Macromolecule",
+"box": [
+167.0,
+384.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 receptor accessory protein"
+],
+[
+"Alternative names",
+"Interleukin-1 receptor 3"
+],
+[
+"Function",
+"Coreceptor for IL1RL2 in the IL-36 signaling system. Coreceptor with IL1R1 in the IL-1 signaling system."
+],
+[
+"Location",
+"Cell membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:5995"
+],
+[
+"HGNC symbol",
+"IL1RAP"
+],
+[
+"Alias symbols",
+"IL-1RAcP, IL1R3, C3orf13"
+],
+[
+"Entrez",
+"3556"
+],
+[
+"Ensembl",
+"ENSG00000196083"
+],
+[
+"RefSeq",
+"NM_001167929"
+],
+[
+"UniProt",
+"Q9NPH3"
+]
+]
+},
+{
+"label": "SCN10A",
+"class": "Macromolecule",
+"box": [
+757.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sodium channel protein type 10 subunit alpha"
+],
+[
+"Alternative names",
+"Peripheral nerve sodium channel 3; Sodium channel protein type X subunit alpha; Voltage-gated sodium channel subunit alpha Nav1.8"
+],
+[
+"Function",
+"Tetrodotoxin-resistant channel that mediates the voltage-dependent sodium ion permeability of excitable membranes. Assuming opened or closed conformations in response to the voltage difference across the membrane, the protein forms a sodium-selective channel through which sodium ions may pass in accordance with their electrochemical gradient."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10582"
+],
+[
+"HGNC symbol",
+"SCN10A"
+],
+[
+"Alias symbols",
+"Nav1.8, hPN3, SNS, PN3"
+],
+[
+"Entrez",
+"6336"
+],
+[
+"Ensembl",
+"ENSG00000185313"
+],
+[
+"RefSeq",
+"NM_006514"
+],
+[
+"UniProt",
+"Q9Y5Y9"
+]
+]
+},
+{
+"id": "p_scn",
+"label": "",
+"class": "Process",
+"box": [
+905.0,
+75.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"SCN10A"
+],
+"out": [
+"SCN10A"
+],
+"by": [
+"P38 MAPK"
+]
+},
+"references": [
+{
+"authors": "Schuelert N et al.",
+"journal": "Arthritis Res Ther",
+"title": "Involvement of Nav 1.8 sodium ion channels in the transduction of mechanical pain in a rodent model of osteoarthritis.",
+"year": "2012",
+"db": "pubmed",
+"id": "22225591",
+"role": "OA",
+"note": "rat MIA OA: NaV1.8 blocker reduces knee afferent firing to noxious rotation and pain behaviour (NaV1.8 in OA joint nociceptors; p38 not tested)"
+},
+{
+"authors": "Brederson JD et al.",
+"journal": "J Orthop Res",
+"title": "Characterization and comparison of rat monosodium iodoacetate and medial meniscal tear models of osteoarthritic pain.",
+"year": "2018",
+"db": "pubmed",
+"id": "29430715",
+"role": "OA",
+"note": "rat MIA and medial meniscal tear OA: p38 activated in the knee-innervating L3 DRG"
+},
+{
+"authors": "Hudmon A et al.",
+"journal": "J Neurosci",
+"title": "Phosphorylation of sodium channel Na(v)1.8 by p38 mitogen-activated protein kinase increases current density in dorsal root ganglion neurons.",
+"year": "2008",
+"db": "pubmed",
+"id": "18354022",
+"role": "step",
+"note": "rodent DRG neurons: p38 phosphorylates NaV1.8 at S551 and S556, raising current density"
+},
+{
+"authors": "Jin X et al.",
+"journal": "J Neurosci",
+"title": "Acute p38-mediated modulation of tetrodotoxin-resistant sodium channels in mouse sensory neurons by tumor necrosis factor-alpha.",
+"year": "2006",
+"db": "pubmed",
+"id": "16399694",
+"role": "step",
+"note": "mouse DRG neurons: TNF potentiation of TTX-resistant Na+ current needs TNFR1 and p38"
+},
+{
+"authors": "Binshtok AM et al.",
+"journal": "J Neurosci",
+"title": "Nociceptors are interleukin-1beta sensors.",
+"year": "2008",
+"db": "pubmed",
+"id": "19109489",
+"role": "step",
+"note": "rodent nociceptors: IL-1β excites them through p38, acting on TTX-resistant Na+ channels"
+}
+]
+},
+{
+"label": "SCN10A",
+"class": "Macromolecule",
+"box": [
+997.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sodium channel protein type 10 subunit alpha"
+],
+[
+"Alternative names",
+"Peripheral nerve sodium channel 3; Sodium channel protein type X subunit alpha; Voltage-gated sodium channel subunit alpha Nav1.8"
+],
+[
+"Function",
+"Tetrodotoxin-resistant channel that mediates the voltage-dependent sodium ion permeability of excitable membranes. Assuming opened or closed conformations in response to the voltage difference across the membrane, the protein forms a sodium-selective channel through which sodium ions may pass in accordance with their electrochemical gradient."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:10582"
+],
+[
+"HGNC symbol",
+"SCN10A"
+],
+[
+"Alias symbols",
+"Nav1.8, hPN3, SNS, PN3"
+],
+[
+"Entrez",
+"6336"
+],
+[
+"Ensembl",
+"ENSG00000185313"
+],
+[
+"RefSeq",
+"NM_006514"
+],
+[
+"UniProt",
+"Q9Y5Y9"
+]
+]
+},
+{
+"label": "TNF",
+"class": "Macromolecule",
+"box": [
+330.0,
+993.0,
+86.0,
+46.0
+],
+"props": [
+[
+"Full name",
+"Tumor necrosis factor"
+],
+[
+"Alternative names",
+"Cachectin; TNF-alpha; Tumor necrosis factor ligand superfamily member 2"
+],
+[
+"Function",
+"Cytokine that binds to TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. It is mainly secreted by macrophages and can induce cell death of certain tumor cell lines."
+],
+[
+"Location",
+"Cell membrane, Membrane, Secreted"
+],
+[
+"HGNC",
+"HGNC:11892"
+],
+[
+"HGNC symbol",
+"TNF"
+],
+[
+"Previous symbols",
+"TNFA"
+],
+[
+"Alias symbols",
+"TNFSF2, DIF, TNF-alpha"
+],
+[
+"Entrez",
+"7124"
+],
+[
+"Ensembl",
+"ENSG00000232810"
+],
+[
+"RefSeq",
+"NM_000594"
+],
+[
+"UniProt",
+"P01375"
+]
+]
+},
+{
+"label": "IL1B",
+"class": "Macromolecule",
+"box": [
+167.0,
+997.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Interleukin-1 beta"
+],
+[
+"Alternative names",
+"Catabolin"
+],
+[
+"Function",
+"Potent pro-inflammatory cytokine. Initially discovered as the major endogenous pyrogen, induces prostaglandin synthesis, neutrophil influx and activation, T-cell activation and cytokine production, B-cell activation and antibody production, and fibroblast proliferation and collagen production."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Secreted, Lysosome, Secreted, extracellular exosome"
+],
+[
+"HGNC",
+"HGNC:5992"
+],
+[
+"HGNC symbol",
+"IL1B"
+],
+[
+"Alias symbols",
+"IL1F2, IL-1B, IL1-BETA"
+],
+[
+"Entrez",
+"3553"
+],
+[
+"Ensembl",
+"ENSG00000125538"
+],
+[
+"RefSeq",
+"NM_000576"
+],
+[
+"UniProt",
+"P01584"
+]
+]
+}
+]
+}
