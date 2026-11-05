@@ -88,9 +88,9 @@
   :root { --zoom: 1; }
   @media screen and (min-width: 641px) { :root { --zoom: 0.9; } html { zoom: 0.9; } }
   body { margin: 0; background: #fff; font: 16px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif; color: #222; }
-  /* no site header: the same space above the map as on the Metabolism Regulation Atlas, so the
-     map window starts and ends at the same height there and here */
-  main { padding: 107px 16px 40px; overflow-x: hidden; }
+  /* no site header, and the map window takes the whole window (user, 2026-11-05: the whole page for development):
+     16 px above it, the list and the panel as tall as the map; downloads and the text below, by scrolling */
+  main { padding: 16px 16px 40px; overflow-x: hidden; }
   h1, h2, h3, h4 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; font-weight: normal; line-height: 1.7; }
   a { color: #4183c4; }
 
@@ -119,7 +119,7 @@
         width: min(100vw / var(--zoom, 1) - 32px, 2000px); position: relative; left: 50%; transform: translateX(-50%); }
   .m2-nav { grid-column: 1; }
   .m2-main { grid-column: 2; min-width: 0; }
-  #m2-list { max-height: calc(100vh / var(--zoom, 1) - 180px); overflow-y: auto; }
+  #m2-list { max-height: calc(100vh / var(--zoom, 1) - 80px); overflow-y: auto; }
   @media (max-width: 940px) {
     .m2 { display: block; width: auto; left: 0; transform: none; }
     .m2-nav { margin-bottom: 12px; }
@@ -196,7 +196,7 @@
   /* the view spans the middle column. Its height is 77% of the window (set in the script, so on a
      15-inch MacBook the download row shows and the text starts below the window), and its lower edge
      can be dragged down to the whole window without the header (user, 2026-10-16) */
-  #m2-view { position: relative; width: 100%; height: 504px; min-height: 300px; max-height: calc(100vh / var(--zoom, 1) - 70px); resize: vertical; overflow: hidden; box-sizing: border-box; border: 1px solid #ddd; border-radius: 4px; background: #fff; cursor: grab; touch-action: none; user-select: none; }
+  #m2-view { position: relative; width: 100%; height: 504px; min-height: 300px; max-height: calc(100vh / var(--zoom, 1) - 32px); resize: vertical; overflow: hidden; box-sizing: border-box; border: 1px solid #ddd; border-radius: 4px; background: #fff; cursor: grab; touch-action: none; user-select: none; }
   #m2-view.m2-drag { cursor: grabbing; }
   /* full screen: the map alone, the annotation over its right side */
   #m2-view:fullscreen { width: 100vw; height: 100vh !important; max-height: none; border: 0; border-radius: 0; resize: none; }
@@ -255,7 +255,7 @@
      on narrower windows over the right side of the map */
   /* a map pin, as in MINERVA, with its tip on the clicked node; it keeps its size at every zoom */
   #m2-pin { position: absolute; left: 0; top: 0; width: 24px; height: 32px; margin: -32px 0 0 -12px; pointer-events: none; display: none; filter: drop-shadow(0 1px 1px #0005); }
-  .m2-info { grid-column: 3; font-size: 14px; line-height: 1.45; color: #222; max-height: calc(100vh / var(--zoom, 1) - 140px); overflow-y: auto; overflow-wrap: anywhere; }
+  .m2-info { grid-column: 3; font-size: 14px; line-height: 1.45; color: #222; max-height: calc(100vh / var(--zoom, 1) - 32px); overflow-y: auto; overflow-wrap: anywhere; }
   .m2-info.m2-over { position: absolute; z-index: 2; top: 36px; right: 8px; bottom: 8px; width: min(260px, 70%); max-height: none; padding: 10px 12px; background: #fff; border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 2px 8px #0002; cursor: auto; user-select: text; }
   .m2-info:empty { display: none; }
   .m2-info-head { display: flex; align-items: baseline; gap: 6px; margin-bottom: 8px; }
@@ -349,7 +349,7 @@
   var ERROR_ICON = '<span class="m2-draft m2-error"><span>image error</span></span>';
   var DL_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5"/><path d="M4 15v5h16v-5"/></svg>';
   var EXT_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>';
-  var BUILD = '?v=1793874348';
+  var BUILD = '?v=1793875068';
   var STANDARD = 0.675, MIN = 0.08, MAX = 4, KEEP = 80; // KEEP: pixels of map kept in view
   // how a map opens: 'fit' (the default) or 'read' at the standard zoom. Set by the mode
   // button and remembered by the browser where it can
@@ -556,7 +556,7 @@
   var autoH = null;
   function viewHeight() {
     if (autoH !== null && view.style.height !== autoH) return; // resized by the reader
-    autoH = Math.round(Math.max(300, window.innerHeight / pz() * 0.77)) + 'px';
+    autoH = Math.round(Math.max(300, window.innerHeight / pz() - 32)) + 'px';
     view.style.height = autoH;
   }
   viewHeight();
