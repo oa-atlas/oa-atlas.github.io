@@ -6,9 +6,9 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Atlas</title>
 <script>// Loader of the working site (2026-11-05): the public site holds the page only; the maps, panel data and files
-// are read from a private repository through the GitHub API with a read-only token. The first visit asks for an
-// access string, "<token> <owner>/<repository>", kept in this browser only, so the public page names no
-// repository. Every relative fetch, image and download of the page goes through here; the page's code is unchanged.
+// are read from a private repository through the GitHub API with a read-only token. The first visit asks for the
+// repository ("<owner>/<repository>", as the username) and the token (as the password), so a password manager fills
+// both; kept in this browser only, so the public page names no repository. Every relative fetch, image and download of the page goes through here; the page's code is unchanged.
 (function () {
   var KEY = 'atlas-access', access = null;
   try { access = localStorage.getItem(KEY); } catch (e) {}
@@ -19,13 +19,15 @@
     var show = function () {
       var box = document.createElement('div');
       box.style.cssText = 'position:fixed;inset:0;background:#fff;z-index:9999;display:flex;align-items:center;justify-content:center;padding:16px';
-      box.innerHTML = '<form style="max-width:420px;width:100%;font:16px/1.4 Helvetica,Arial,sans-serif">' +
+      box.innerHTML = '<form method="post" action="#" style="max-width:420px;width:100%;font:16px/1.4 Helvetica,Arial,sans-serif">' +
         '<p style="margin:0 0 8px">Access</p>' + (why ? '<p style="margin:0 0 8px;color:#c62828">' + why + '</p>' : '') +
-        '<input type="password" autocomplete="off" style="width:100%;box-sizing:border-box;padding:6px;font-size:14px">' +
+        '<input name="username" autocomplete="username" placeholder="Repository" style="width:100%;box-sizing:border-box;padding:6px;font-size:14px;margin-bottom:6px">' +
+        '<input name="password" type="password" autocomplete="current-password" placeholder="Token" style="width:100%;box-sizing:border-box;padding:6px;font-size:14px">' +
         '<button style="margin-top:8px;padding:4px 12px">Open</button></form>';
       box.querySelector('form').onsubmit = function (e) {
         e.preventDefault();
-        try { localStorage.setItem(KEY, box.querySelector('input').value.trim()); } catch (err) {}
+        var f = e.target;
+        try { localStorage.setItem(KEY, f.password.value.trim() + ' ' + f.username.value.trim()); } catch (err) {}
         location.reload();
       };
       document.body.appendChild(box);
@@ -347,7 +349,7 @@
   var ERROR_ICON = '<span class="m2-draft m2-error"><span>image error</span></span>';
   var DL_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5"/><path d="M4 15v5h16v-5"/></svg>';
   var EXT_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>';
-  var BUILD = '?v=1793873576';
+  var BUILD = '?v=1793874348';
   var STANDARD = 0.675, MIN = 0.08, MAX = 4, KEEP = 80; // KEEP: pixels of map kept in view
   // how a map opens: 'fit' (the default) or 'read' at the standard zoom. Set by the mode
   // button and remembered by the browser where it can
